@@ -17,11 +17,14 @@ FEEDS = [
     ('NRK', 'norge', 'https://www.nrk.no/toppsaker.rss'),
     ('BBC World', 'verden', 'https://feeds.bbci.co.uk/news/world/rss.xml'),
     ('The Guardian', 'verden', 'https://www.theguardian.com/world/rss'),
-    ('Deutsche Welle', 'verden', 'https://rss.dw.com/rdf/rss-en-top'),
+    ('Deutsche Welle', 'verden', 'https://rss.dw.com/xml/rss-en-all'),
     ('Al Jazeera English', 'verden', 'https://www.aljazeera.com/xml/rss/all.xml'),
     # CNN's own RSS feeds are stale; Google News supplies CNN-only headlines.
     ('CNN', 'verden', 'https://news.google.com/rss/search?q=site%3Acnn.com%20when%3A1d&hl=en-US&gl=US&ceid=US%3Aen'),
 ]
+FALLBACK_FEEDS = {
+    'Deutsche Welle': 'https://news.google.com/rss/search?q=site%3Adw.com%2Fen%2F%20when%3A2d&hl=en-US&gl=US&ceid=US%3Aen',
+}
 TAG = re.compile(r'<[^>]+>')
 
 def clean(value):
@@ -62,12 +65,19 @@ def fetch(source, category, url):
 def main():
     items = []
     for source, category, url in FEEDS:
+        fetched = []
         try:
             fetched = fetch(source, category, url)
-            print(f'{source}: {len(fetched)} saker')
-            items.extend(fetched)
+            print(f'{source}: {len(fetched)} saker fra hovedkilden')
         except Exception as exc:
-            print(f'{source}: utilgjengelig ({exc})')
+            print(f'{source}: hovedkilden utilgjengelig ({exc})')
+        if not fetched and source in FALLBACK_FEEDS:
+            try:
+                fetched = fetch(source, category, FALLBACK_FEEDS[source])
+                print(f'{source}: {len(fetched)} saker fra reservekilden')
+            except Exception as exc:
+                print(f'{source}: reservekilden utilgjengelig ({exc})')
+        items.extend(fetched)
     if not items:
         print('Ingen tilgjengelige kilder. Beholder eksisterende news.json.')
         return
