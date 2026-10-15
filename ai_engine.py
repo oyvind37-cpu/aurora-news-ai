@@ -84,17 +84,17 @@ POLICY_HEADLINE = re.compile(
 # Specific editorial signals help distinguish a story's subject from a
 # passing mention of a politician, company or platform.
 EDITORIAL_RULES = [
-    ("sport", re.compile(r"\\b(LSK|FIFA|UEFA|formula 1|champions league|premier league|fotballkamp|football match|tennis tournament|olympic games|idrettsresultat)\\b", re.I)),
-    ("politikk", re.compile(r"\\b(prime minister|president|government|parliament|storting|regjering|elections?|deportations?|statsbudsjett|kommunestyret)\\b", re.I)),
-    ("teknologi", re.compile(r"\\b(OpenAI|ChatGPT|cybersecurity|spyware|malware|artificial intelligence|kunstig intelligens|databrudd)\\b", re.I)),
-    ("underholdning", re.compile(r"\\b(band.s .*gig|concert tour|music awards|TV series|reality show|pop concert|film premiere)\\b", re.I)),
+    ("sport", re.compile(r"\b(LSK|FIFA|UEFA|formula 1|champions league|premier league|fotballkamp|football match|tennis tournament|olympic games|idrettsresultat)\b", re.I)),
+    ("politikk", re.compile(r"\b(prime minister|president|government|parliament|storting|regjering|elections?|deportations?|statsbudsjett|kommunestyret)\b", re.I)),
+    ("teknologi", re.compile(r"\b(OpenAI|ChatGPT|cybersecurity|spyware|malware|artificial intelligence|kunstig intelligens|databrudd)\b", re.I)),
+    ("underholdning", re.compile(r"\b(band.s .*gig|concert tour|music awards|TV series|reality show|pop concert|film premiere)\b", re.I)),
 ]
 # Do not treat every headline as political merely because a politician is
 # mentioned. Event-first headlines take priority over broad political cues.
 INCIDENT_RULE = re.compile(
-    r"\\b(brann|brannutrykning|brannalarm|trafikkulykke|råkjørte|innbrudd|"
+    r"\b(brann|brannutrykning|brannalarm|trafikkulykke|råkjørte|innbrudd|"
     r"evakuert|police raid|drap|murder|killed|missing sailors|drone strike|"
-    r"missile attack|bus stopped|bussen stoppet|firefighters|rescue operation)\\b", re.I
+    r"missile attack|bus stopped|bussen stoppet|firefighters|rescue operation)\b", re.I
 )
 
 def editorial_override(headline):
@@ -178,7 +178,7 @@ def main():
     data["ai_topic_counts"] = counts
     data["ai_guardrail_count"] = guardrail_count
     data["ai_editorial_count"] = editorial_count
-    data["ai_method"] = "multilingual-example-similarity-v5"
+    data["ai_method"] = "multilingual-example-similarity-v6"
     DATA.write_text(json.dumps(data, ensure_ascii=False, indent=2), encoding="utf-8")
     print(f"KI klassifiserte {assigned} av {len(items)} saker; {uncertain} usikre.")
     print("Emnefordeling:", counts)
