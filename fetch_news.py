@@ -15,6 +15,13 @@ FEEDS = [
     ('Sagene Avis', 'lokalt', 'https://www.sageneavis.no/service/rss'),
     ('Nordre Aker Budstikke', 'lokalt', 'https://www.nab.no/service/rss'),
     ('NRK', 'norge', 'https://www.nrk.no/toppsaker.rss'),
+    ('NRK Sport', 'norge', 'https://www.nrk.no/sport/toppsaker.rss'),
+    ('BBC Technology', 'verden', 'https://feeds.bbci.co.uk/news/technology/rss.xml'),
+    ('BBC Entertainment', 'verden', 'https://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml'),
+    ('BBC Politics', 'verden', 'https://feeds.bbci.co.uk/news/politics/rss.xml'),
+    ('BBC Sport', 'verden', 'https://feeds.bbci.co.uk/sport/rss.xml'),
+    ('The Guardian Culture', 'verden', 'https://www.theguardian.com/culture/rss'),
+    ('The Guardian Technology', 'verden', 'https://www.theguardian.com/uk/technology/rss'),
     ('BBC World', 'verden', 'https://feeds.bbci.co.uk/news/world/rss.xml'),
     ('The Guardian', 'verden', 'https://www.theguardian.com/world/rss'),
     ('Deutsche Welle', 'verden', 'https://rss.dw.com/xml/rss-en-all'),
@@ -26,6 +33,28 @@ FALLBACK_FEEDS = {
     'Deutsche Welle': 'https://news.google.com/rss/search?q=site%3Adw.com%2Fen%2F%20when%3A2d&hl=en-US&gl=US&ceid=US%3Aen',
 }
 TAG = re.compile(r'<[^>]+>')
+TOPIC_SOURCES = {
+    'NRK Sport': 'sport', 'BBC Sport': 'sport',
+    'BBC Technology': 'teknologi', 'The Guardian Technology': 'teknologi',
+    'BBC Entertainment': 'underholdning', 'BBC Politics': 'politikk',
+    'The Guardian Culture': 'kultur',
+}
+TOPIC_RULES = [
+    ('sosiale-medier', r'\\b(tiktok|instagram|facebook|snapchat|youtube|influencer|influensere|social media|sosiale medier|reddit|meta platforms)\\b'),
+    ('teknologi', r'\\b(artificial intelligence|kunstig intelligens|chatgpt|openai|teknologi|technology|cyber|software|apple|microsoft|google|ai model|databrudd)\\b'),
+    ('sport', r'\\b(fotball|football|soccer|premier league|champions league|olympic|olympiske|tennis|ski|håndball|handball|fifa|uefa|sport)\\b'),
+    ('politikk', r'\\b(storting|regjering|statsminister|president|parlament|election|elections|valgkamp|politikk|political|congress|senate|minister)\\b'),
+    ('kultur', r'\\b(kultur|culture|museum|kunst|art exhibition|utstilling|teater|theatre|litteratur|literature|arkeologi|archaeology|festival)\\b'),
+    ('underholdning', r'\\b(underholdning|entertainment|celebrity|kjendis|tv-serie|netflix|hollywood|film premiere|music video|musikkvideo)\\b'),
+]
+def classify_topic(source, title, summary):
+    text = (title + ' ' + summary).casefold()
+    # Prefer a clear headline match to avoid labelling unrelated articles.
+    for topic, pattern in TOPIC_RULES:
+        if re.search(pattern, title.casefold(), re.I):
+            return topic
+    return TOPIC_SOURCES.get(source, 'annet')
+
 
 def clean(value):
     return re.sub(r'\s+', ' ', html.unescape(TAG.sub(' ', value or ''))).strip()[:350]
@@ -59,7 +88,7 @@ def fetch(source, category, url):
             stamp = 0
             date_label = 'Dato ukjent'
         summary = clean(field('description','{http://www.w3.org/2005/Atom}summary'))
-        result.append(dict(source=source, category=category, title=title, url=link, summary=summary, date_label=date_label, timestamp=stamp))
+        result.append(dict(source=source, category=category, topic=classify_topic(source,title,summary), title=title, url=link, summary=summary, date_label=date_label, timestamp=stamp))
     return result
 
 def main():
@@ -88,7 +117,7 @@ def main():
         if key in seen: continue
         seen.add(key)
         unique.append(item)
-    output = {'updated':dt.datetime.now(dt.timezone.utc).isoformat(), 'items':unique[:180]}
+    output = {'updated':dt.datetime.now(dt.timezone.utc).isoformat(), 'items':unique[:240]}
     (ROOT/'news.json').write_text(json.dumps(output, ensure_ascii=False, indent=2), encoding='utf-8')
     print(f'Publisert {len(output["items"])} saker')
 
