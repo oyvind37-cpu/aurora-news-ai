@@ -13,6 +13,13 @@ MODEL = "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2"
 # Separate prototype sentences help a short-text embedding model recognize
 # different kinds of stories within each editorial section.
 TOPICS = {
+    "nyheter": [
+        "Brannutrykning til skole, brannvesenet rykket ut etter brannalarm.",
+        "Nyhet om brann, ulykke, politiutrykning, redningsaksjon eller trafikkhendelse.",
+        "Politiet etterforsker vold, tyveri, kriminalsak eller en alvorlig hendelse.",
+        "Breaking news about fires, accidents, emergency services and police incidents.",
+        "Local news about a road collision, rescue operation, crime or public safety incident.",
+    ],
     "politikk": [
         "Nyhet om politiske vedtak, regjering, Stortinget, kommunestyret og offentlig politikk.",
         "Reportasje om valg, partier, politiske konflikter, lovforslag og statsbudsjett.",
@@ -56,6 +63,18 @@ TOPICS = {
 MIN_SCORE = 0.32
 MIN_MARGIN = 0.025
 
+# High-precision guardrails for short, unambiguous emergency headlines.
+# They are deliberately narrow; other stories still use semantic matching.
+import re
+EMERGENCY_HEADLINE = re.compile(
+    r"\\b(brannutrykning|brannalarm|brannvesenet rykket ut|politiutrykning|"
+    r"trafikkulykke|redningsaksjon|firefighters respond|fire brigade called)\\b", re.I
+)
+POLICY_HEADLINE = re.compile(
+    r"\\b(vedtak|forskrift|lovforslag|regjering|storting|kommunestyre|"
+    r"policy|legislation|parliament|government)\\b", re.I
+)
+
 def main():
     from sentence_transformers import SentenceTransformer, util
     data = json.loads(DATA.read_text(encoding="utf-8"))
@@ -84,6 +103,12 @@ def main():
     uncertain = 0
     counts = {label: 0 for label in labels}
     for item, scores in zip(items, similarities):
+        headline = str(item.get("title", ""))
+        if EMERGENCY_HEADLINE.search(headline) and not POLICY_HEADLINE.search(headline):
+            item["topic"] = "nyheter"
+            item["topic_method"] = "headline-guardrail"
+            counts["nyheter"] += 1
+            continue
         # Best example per topic, rather than comparing against a long mixed
         # list of keywords. A clear margin is required to override fallback.
         ranked = sorted(
@@ -107,7 +132,7 @@ def main():
     data["ai_classified_count"] = assigned
     data["ai_uncertain_count"] = uncertain
     data["ai_topic_counts"] = counts
-    data["ai_method"] = "multilingual-example-similarity-v2"
+    data["ai_method"] = "multilingual-example-similarity-v3"
     DATA.write_text(json.dumps(data, ensure_ascii=False, indent=2), encoding="utf-8")
     print(f"KI klassifiserte {assigned} av {len(items)} saker; {uncertain} usikre.")
     print("Emnefordeling:", counts)
