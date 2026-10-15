@@ -66,8 +66,8 @@ TOPICS = {
 
 # Similarity scores are not probabilities. These are provisional thresholds
 # and must be evaluated against manually labelled examples.
-MIN_SCORE = 0.32
-MIN_MARGIN = 0.035
+MIN_SCORE = 0.30
+MIN_MARGIN = 0.015
 
 # High-precision guardrails for short, unambiguous emergency headlines.
 # They are deliberately narrow; other stories still use semantic matching.
@@ -80,6 +80,30 @@ POLICY_HEADLINE = re.compile(
     r"\b(vedtak|forskrift|lovforslag|regjering|storting|kommunestyre|"
     r"policy|legislation|parliament|government)\b", re.I
 )
+
+# Specific editorial signals help distinguish a story's subject from a
+# passing mention of a politician, company or platform.
+EDITORIAL_RULES = [
+    ("sport", re.compile(r"\\b(LSK|FIFA|UEFA|formula 1|champions league|premier league|fotballkamp|football match|tennis tournament|olympic games|idrettsresultat)\\b", re.I)),
+    ("politikk", re.compile(r"\\b(prime minister|president|government|parliament|storting|regjering|elections?|deportations?|statsbudsjett|kommunestyret)\\b", re.I)),
+    ("teknologi", re.compile(r"\\b(OpenAI|ChatGPT|cybersecurity|spyware|malware|artificial intelligence|kunstig intelligens|databrudd)\\b", re.I)),
+    ("underholdning", re.compile(r"\\b(band.s .*gig|concert tour|music awards|TV series|reality show|pop concert|film premiere)\\b", re.I)),
+]
+# Do not treat every headline as political merely because a politician is
+# mentioned. Event-first headlines take priority over broad political cues.
+INCIDENT_RULE = re.compile(
+    r"\\b(brann|brannutrykning|brannalarm|trafikkulykke|råkjørte|innbrudd|"
+    r"evakuert|police raid|drap|murder|killed|missing sailors|drone strike|"
+    r"missile attack|bus stopped|bussen stoppet|firefighters|rescue operation)\\b", re.I
+)
+
+def editorial_override(headline):
+    if INCIDENT_RULE.search(headline) and not POLICY_HEADLINE.search(headline):
+        return "nyheter"
+    for topic, pattern in EDITORIAL_RULES:
+        if pattern.search(headline):
+            return topic
+    return None
 
 def main():
     from sentence_transformers import SentenceTransformer, util
@@ -108,6 +132,7 @@ def main():
     assigned = 0
     uncertain = 0
     guardrail_count = 0
+    editorial_count = 0
     counts = {label: 0 for label in labels}
     for item, scores in zip(items, similarities):
         headline = str(item.get("title", ""))
@@ -116,6 +141,13 @@ def main():
             item["topic_method"] = "headline-guardrail"
             counts["nyheter"] += 1
             guardrail_count += 1
+            continue
+        editorial = editorial_override(headline)
+        if editorial:
+            item["topic"] = editorial
+            item["topic_method"] = "editorial-guardrail"
+            counts[editorial] += 1
+            editorial_count += 1
             continue
         # Best example per topic, rather than comparing against a long mixed
         # list of keywords. A clear margin is required to override fallback.
@@ -126,6 +158,8 @@ def main():
         )
         winner, score = ranked[0]
         margin = score - ranked[1][1]
+        # A generic story without convincing semantic evidence belongs in
+        # general news rather than remaining invisible in topic filters.
         if score >= MIN_SCORE and margin >= MIN_MARGIN:
             item["topic"] = winner
             item["topic_method"] = "semantic-ai"
@@ -134,9 +168,8 @@ def main():
         else:
             # Preserve an existing rule-based topic, if any.
             # Do not carry stale semantic classifications from earlier runs.
-            if item.get("topic_method") in ("semantic-ai", "headline-guardrail"):
-                item.pop("topic", None)
-            item["topic_method"] = "rules" if item.get("topic") else "unclassified"
+            item["topic"] = "nyheter"
+            item["topic_method"] = "general-fallback"
             uncertain += 1
 
     data["ai_model"] = MODEL
@@ -144,7 +177,8 @@ def main():
     data["ai_uncertain_count"] = uncertain
     data["ai_topic_counts"] = counts
     data["ai_guardrail_count"] = guardrail_count
-    data["ai_method"] = "multilingual-example-similarity-v4"
+    data["ai_editorial_count"] = editorial_count
+    data["ai_method"] = "multilingual-example-similarity-v5"
     DATA.write_text(json.dumps(data, ensure_ascii=False, indent=2), encoding="utf-8")
     print(f"KI klassifiserte {assigned} av {len(items)} saker; {uncertain} usikre.")
     print("Emnefordeling:", counts)
