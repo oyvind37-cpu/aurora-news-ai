@@ -16,6 +16,11 @@ FEEDS = [
     ('Nordre Aker Budstikke', 'lokalt', 'https://www.nab.no/service/rss'),
     ('NRK', 'norge', 'https://www.nrk.no/toppsaker.rss'),
     ('BBC World', 'verden', 'https://feeds.bbci.co.uk/news/world/rss.xml'),
+    ('The Guardian', 'verden', 'https://www.theguardian.com/world/rss'),
+    ('Deutsche Welle', 'verden', 'https://rss.dw.com/rdf/rss-en-top'),
+    ('Al Jazeera English', 'verden', 'https://www.aljazeera.com/xml/rss/all.xml'),
+    # CNN's own RSS feeds are stale; Google News supplies CNN-only headlines.
+    ('CNN', 'verden', 'https://news.google.com/rss/search?q=site%3Acnn.com%20when%3A1d&hl=en-US&gl=US&ceid=US%3Aen'),
 ]
 TAG = re.compile(r'<[^>]+>')
 
@@ -31,7 +36,7 @@ def fetch(source, category, url):
     if not entries:
         entries = root.findall('.//{http://www.w3.org/2005/Atom}entry')
     result = []
-    for entry in entries[:35]:
+    for entry in entries[:25]:
         def field(*names):
             for name in names:
                 node = entry.find(name)
@@ -73,7 +78,7 @@ def main():
         if key in seen: continue
         seen.add(key)
         unique.append(item)
-    output = {'updated':dt.datetime.now(dt.timezone.utc).isoformat(), 'items':unique[:150]}
+    output = {'updated':dt.datetime.now(dt.timezone.utc).isoformat(), 'items':unique[:180]}
     (ROOT/'news.json').write_text(json.dumps(output, ensure_ascii=False, indent=2), encoding='utf-8')
     print(f'Publisert {len(output["items"])} saker')
 
