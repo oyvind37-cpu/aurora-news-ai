@@ -32,6 +32,20 @@ TOPICS = {
         "News about elections, government decisions, parliament, laws and public policy.",
         "Political negotiations, diplomacy, international relations and legislation.",
     ],
+    "naeringsliv": [
+        "En klesbutikk legger ned og en ny butikkjede overtar lokalene.",
+        "Bedrift åpner ny avdeling, ansetter ansatte og investerer i lokaler.",
+        "Nyheter om bedrifter, konkurser, gründere, arbeidsplasser og handel.",
+        "Business news about companies, retail stores, entrepreneurs and bankruptcies.",
+        "A shop closes and another company takes over its premises.",
+    ],
+    "okonomi": [
+        "Norges Bank endrer styringsrenten og boliglånsrentene påvirkes.",
+        "Inflasjonen øker, kronekursen faller og husholdningene får høyere utgifter.",
+        "Nyheter om renter, aksjemarkedet, valuta, skatter og privatøkonomi.",
+        "Economic news about interest rates, inflation, exchange rates and stock markets.",
+        "Markets react to central bank policy and rising consumer prices.",
+    ],
     "kultur": [
         "Nyhet om kunstutstilling, museum, teater, litteratur, bibliotek og kulturarv.",
         "Reportasje om arkeologiske funn, historiske kulturminner og kulturinstitusjoner.",
@@ -84,6 +98,8 @@ POLICY_HEADLINE = re.compile(
 # Specific editorial signals help distinguish a story's subject from a
 # passing mention of a politician, company or platform.
 EDITORIAL_RULES = [
+    ("naeringsliv", re.compile(r"\\b(klesbutikken|butikkjede|butikkåpning|butikknedleggelse|konkurs|retail chain|store closure)\\b", re.I)),
+    ("okonomi", re.compile(r"\\b(styringsrente|inflasjon|rentebeslutning|interest rates|inflation rate|stock market)\\b", re.I)),
     ("sport", re.compile(r"\b(LSK|FIFA|UEFA|formula 1|champions league|premier league|fotballkamp|football match|tennis tournament|olympic games|idrettsresultat)\b", re.I)),
     ("politikk", re.compile(r"\b(prime minister|president|government|parliament|storting|regjering|elections?|deportations?|statsbudsjett|kommunestyret)\b", re.I)),
     ("teknologi", re.compile(r"\b(OpenAI|ChatGPT|cybersecurity|spyware|malware|artificial intelligence|kunstig intelligens|databrudd)\b", re.I)),
@@ -178,7 +194,7 @@ def main():
     data["ai_topic_counts"] = counts
     data["ai_guardrail_count"] = guardrail_count
     data["ai_editorial_count"] = editorial_count
-    data["ai_method"] = "multilingual-example-similarity-v6"
+    data["ai_method"] = "multilingual-example-similarity-v7-business-economy"
     DATA.write_text(json.dumps(data, ensure_ascii=False, indent=2), encoding="utf-8")
     print(f"KI klassifiserte {assigned} av {len(items)} saker; {uncertain} usikre.")
     print("Emnefordeling:", counts)
