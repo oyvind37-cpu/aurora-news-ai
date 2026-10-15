@@ -21,7 +21,7 @@
       "date_label": "15.10.2026",
       "timestamp": 1792090320.0,
       "topic": "teknologi",
-      "topic_method": "semantic-ai"
+      "topic_method": "editorial-guardrail"
     },
     {
       "source": "NRK",
@@ -31,8 +31,8 @@
       "summary": "Tross en tøff start kjempet Lillestrøm til seg et sterkt poeng borte mot Sparta Praha.",
       "date_label": "15.10.2026",
       "timestamp": 1792089781.0,
-      "topic_method": "general-fallback",
-      "topic": "nyheter"
+      "topic_method": "editorial-guardrail",
+      "topic": "sport"
     },
     {
       "source": "Avisa Oslo",
@@ -75,8 +75,8 @@
       "summary": "The dream rock band called Fathom travelled roughly 700km across Australia by car, helicopter and plane to play nine shows in 12 hours.",
       "date_label": "15.10.2026",
       "timestamp": 1792087798.0,
-      "topic_method": "general-fallback",
-      "topic": "nyheter"
+      "topic_method": "editorial-guardrail",
+      "topic": "underholdning"
     },
     {
       "source": "The Guardian",
@@ -97,8 +97,8 @@
       "summary": "Official data shows tens of thousands of migrants and asylum seekers have been sent to countries they have no ties to.",
       "date_label": "15.10.2026",
       "timestamp": 1792086866.0,
-      "topic_method": "general-fallback",
-      "topic": "nyheter"
+      "topic_method": "editorial-guardrail",
+      "topic": "politikk"
     },
     {
       "source": "The Guardian",
@@ -108,8 +108,8 @@
       "summary": "Demonstrators demand resignation of Edi Rama after three days of clashes in capital Tirana Albania’s prime minister has said he will not resign as a protest movement, initially prompted by a proposal to build a Trump family-backed resort in the Balkan state, turned violent with clashes convulsing the capital for a third consecutive day. Speaking on",
       "date_label": "15.10.2026",
       "timestamp": 1792086769.0,
-      "topic_method": "general-fallback",
-      "topic": "nyheter"
+      "topic_method": "editorial-guardrail",
+      "topic": "politikk"
     },
     {
       "source": "BBC World",
@@ -130,8 +130,8 @@
       "summary": "Houthi rebels say they targeted Saudi military assets in a rare attack on the interim seat of Yemen's internationally recognized government. Meanwhile, vessels are again under fire near the Strait of Hormuz. More on DW.",
       "date_label": "15.10.2026",
       "timestamp": 1792086240.0,
-      "topic_method": "general-fallback",
-      "topic": "nyheter"
+      "topic_method": "editorial-guardrail",
+      "topic": "politikk"
     },
     {
       "source": "Al Jazeera English",
@@ -207,7 +207,7 @@
       "summary": "Yemen's information minister says the prime minister and other ministers were unhurt when ballistic missiles hit al-Maashiq Palace.",
       "date_label": "15.10.2026",
       "timestamp": 1792084729.0,
-      "topic_method": "general-fallback",
+      "topic_method": "editorial-guardrail",
       "topic": "nyheter"
     },
     {
@@ -218,8 +218,8 @@
       "summary": "Formula One returns to Africa for the first time since 1993, but DRC slams decision to stage race in Rwanda.",
       "date_label": "15.10.2026",
       "timestamp": 1792084397.0,
-      "topic_method": "general-fallback",
-      "topic": "nyheter"
+      "topic_method": "editorial-guardrail",
+      "topic": "sport"
     },
     {
       "source": "Nordre Aker Budstikke",
@@ -262,7 +262,7 @@
       "summary": "Passasjerer må regne med noen forsinkelser på linjen.",
       "date_label": "15.10.2026",
       "timestamp": 1792083304.0,
-      "topic_method": "semantic-ai",
+      "topic_method": "editorial-guardrail",
       "topic": "nyheter"
     },
     {
@@ -273,7 +273,7 @@
       "summary": "Nå må han i retten.",
       "date_label": "15.10.2026",
       "timestamp": 1792083087.0,
-      "topic_method": "general-fallback",
+      "topic_method": "editorial-guardrail",
       "topic": "nyheter"
     },
     {
@@ -306,7 +306,7 @@
       "summary": "Turkish police raided the Istanbul headquarters of an important pro-opposition television station on Wednesdazy, the day that jailed Istanbul Mayor Ekrem Imamoglu was set to start his defense against corruption charges.",
       "date_label": "15.10.2026",
       "timestamp": 1792082880.0,
-      "topic_method": "semantic-ai",
+      "topic_method": "editorial-guardrail",
       "topic": "nyheter"
     },
     {
@@ -351,7 +351,7 @@
       "date_label": "15.10.2026",
       "timestamp": 1792081923.0,
       "topic": "teknologi",
-      "topic_method": "semantic-ai"
+      "topic_method": "editorial-guardrail"
     },
     {
       "source": "Al Jazeera English",
@@ -361,8 +361,8 @@
       "summary": "They allege ChatGPT has caused harm to their residents, coaching its users to harm themselves or others.",
       "date_label": "15.10.2026",
       "timestamp": 1792081724.0,
-      "topic_method": "general-fallback",
-      "topic": "nyheter"
+      "topic_method": "editorial-guardrail",
+      "topic": "teknologi"
     },
     {
       "source": "NRK",
@@ -383,8 +383,8 @@
       "summary": "FIFA council meeting lasts over three hours as President Gianni Infantino apologises to members, but critics want more.",
       "date_label": "15.10.2026",
       "timestamp": 1792081199.0,
-      "topic_method": "general-fallback",
-      "topic": "nyheter"
+      "topic_method": "editorial-guardrail",
+      "topic": "sport"
     },
     {
       "source": "Al Jazeera English",
@@ -460,7 +460,7 @@
       "summary": "Iran-aligned Houthis target Yemeni presidential palace, prime minister remains unharmed CNN",
       "date_label": "15.10.2026",
       "timestamp": 1792079528.0,
-      "topic_method": "semantic-ai",
+      "topic_method": "editorial-guardrail",
       "topic": "politikk"
     },
     {
@@ -504,7 +504,7 @@
       "summary": "Neanderthal murder mystery reveals a tale of violence and compassion CNN",
       "date_label": "15.10.2026",
       "timestamp": 1792078390.0,
-      "topic_method": "semantic-ai",
+      "topic_method": "editorial-guardrail",
       "topic": "nyheter"
     },
     {
@@ -548,7 +548,7 @@
       "summary": "Children were buried under the debris after the roof crashed through three classrooms, police say.",
       "date_label": "15.10.2026",
       "timestamp": 1792077976.0,
-      "topic_method": "semantic-ai",
+      "topic_method": "editorial-guardrail",
       "topic": "nyheter"
     },
     {
@@ -603,7 +603,7 @@
       "summary": "Officials from more than 10 countries walked out during an address by Israeli President Isaac Herzog at a summit in Baku",
       "date_label": "15.10.2026",
       "timestamp": 1792077240.0,
-      "topic_method": "semantic-ai",
+      "topic_method": "editorial-guardrail",
       "topic": "politikk"
     },
     {
@@ -790,8 +790,8 @@
       "summary": "Gianni Infantino ble pepret med spørsmål av egne styremedlemmer i Fifa torsdag. Det må ryddes over hele fjøla, var budskapet fra den tyske fotballpresidenten.",
       "date_label": "15.10.2026",
       "timestamp": 1792074221.0,
-      "topic_method": "general-fallback",
-      "topic": "nyheter"
+      "topic_method": "editorial-guardrail",
+      "topic": "sport"
     },
     {
       "source": "Al Jazeera English",
@@ -846,7 +846,7 @@
       "date_label": "15.10.2026",
       "timestamp": 1792072815.0,
       "topic": "politikk",
-      "topic_method": "semantic-ai"
+      "topic_method": "editorial-guardrail"
     },
     {
       "source": "Sagene Avis",
@@ -1275,7 +1275,7 @@
       "date_label": "15.10.2026",
       "timestamp": 1792057920.0,
       "topic": "politikk",
-      "topic_method": "semantic-ai"
+      "topic_method": "editorial-guardrail"
     },
     {
       "source": "CNN",
@@ -1296,8 +1296,8 @@
       "summary": "A petition filed by opposition leader Rahul Gandhi and others seeks an independent audit of India's sweeping voter deletions. Meanwhile, actor Imran Khan has reportedly been ordered to leave India.",
       "date_label": "15.10.2026",
       "timestamp": 1792057680.0,
-      "topic_method": "general-fallback",
-      "topic": "nyheter"
+      "topic_method": "editorial-guardrail",
+      "topic": "politikk"
     },
     {
       "source": "Avisa Oslo",
@@ -1549,7 +1549,7 @@
       "summary": "The body was recovered from a large blue plastic storage container - locally called a drum.",
       "date_label": "15.10.2026",
       "timestamp": 1792049154.0,
-      "topic_method": "general-fallback",
+      "topic_method": "editorial-guardrail",
       "topic": "nyheter"
     },
     {
@@ -1659,8 +1659,8 @@
       "summary": "Government records reveal mechanical failures, faulty restraint bars and broken bones at Six Flags theme parks CNN",
       "date_label": "15.10.2026",
       "timestamp": 1792040677.0,
-      "topic_method": "general-fallback",
-      "topic": "nyheter"
+      "topic_method": "editorial-guardrail",
+      "topic": "politikk"
     },
     {
       "source": "BBC World",
@@ -1781,7 +1781,7 @@
       "date_label": "15.10.2026",
       "timestamp": 1792034460.0,
       "topic": "politikk",
-      "topic_method": "semantic-ai"
+      "topic_method": "editorial-guardrail"
     },
     {
       "source": "The Guardian",
@@ -1825,7 +1825,7 @@
       "date_label": "14.10.2026",
       "timestamp": 1792018977.0,
       "topic": "politikk",
-      "topic_method": "semantic-ai"
+      "topic_method": "editorial-guardrail"
     },
     {
       "source": "BBC World",
@@ -1868,8 +1868,8 @@
       "summary": "Buildings were set alight on the second day of demonstrations from thousands of students who want better university conditions and job prospects.",
       "date_label": "14.10.2026",
       "timestamp": 1792009745.0,
-      "topic_method": "general-fallback",
-      "topic": "nyheter"
+      "topic_method": "editorial-guardrail",
+      "topic": "politikk"
     },
     {
       "source": "The Guardian",
@@ -1983,18 +1983,18 @@
     }
   ],
   "ai_model": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
-  "ai_classified_count": 67,
-  "ai_uncertain_count": 112,
+  "ai_classified_count": 55,
+  "ai_uncertain_count": 97,
   "ai_topic_counts": {
-    "nyheter": 20,
-    "politikk": 28,
+    "nyheter": 23,
+    "politikk": 34,
     "kultur": 2,
-    "sport": 4,
-    "teknologi": 10,
-    "underholdning": 3,
+    "sport": 8,
+    "teknologi": 11,
+    "underholdning": 4,
     "sosiale-medier": 1
   },
-  "ai_method": "multilingual-example-similarity-v5",
+  "ai_method": "multilingual-example-similarity-v6",
   "ai_guardrail_count": 1,
-  "ai_editorial_count": 0
+  "ai_editorial_count": 27
 }
