@@ -8,7 +8,8 @@
       "url": "https://www.dw.com/en/venezuela-s-nicolas-maduro-pleads-not-guilty-to-torture-indictment/a-79673496?maca=en-rss-en-all-1573-xml-mrss",
       "summary": "Maduro and his wife were charged with leading a state-sponsored repression campaign that tortured scores of victims during his presidency from 2013 to 2026.",
       "date_label": "15.10.2026",
-      "timestamp": 1792090500.0
+      "timestamp": 1792090500.0,
+      "topic_method": "rules"
     },
     {
       "source": "Deutsche Welle",
@@ -17,7 +18,9 @@
       "url": "https://www.dw.com/en/self-replicating-ai-is-your-fridge-a-cybersecurity-risk/a-79662958?maca=en-rss-en-all-1573-xml-mrss",
       "summary": "Anthropic researchers warn that AI worms could soon target connected household devices and spread from one device to another. Cyberattacks on French supermarkets illustrate just how vulnerable such systems can be.",
       "date_label": "15.10.2026",
-      "timestamp": 1792090320.0
+      "timestamp": 1792090320.0,
+      "topic": "teknologi",
+      "topic_method": "semantic-ai"
     },
     {
       "source": "NRK",
@@ -26,7 +29,8 @@
       "url": "https://www.nrk.no/sport/lsk-med-europa-bragd-_-reddet-poeng-mot-storlag-1.18056169",
       "summary": "Tross en tøff start kjempet Lillestrøm til seg et sterkt poeng borte mot Sparta Praha.",
       "date_label": "15.10.2026",
-      "timestamp": 1792089781.0
+      "timestamp": 1792089781.0,
+      "topic_method": "rules"
     },
     {
       "source": "Avisa Oslo",
@@ -35,7 +39,8 @@
       "url": "https://www.ao.no/klesbutikken-ga-seg-etter-to-ar-verdenskjent-aktor-tar-over-gr-nerlokka-lokalet/s/80-128-43730",
       "summary": "Lokalene midt i Markveien har skiftet eier og konsept flere ganger de siste årene. Nå er neste leietaker rett rundt hjørnet.",
       "date_label": "15.10.2026",
-      "timestamp": 1792089386.0
+      "timestamp": 1792089386.0,
+      "topic_method": "rules"
     },
     {
       "source": "NRK",
@@ -44,7 +49,8 @@
       "url": "https://www.nrk.no/trondelag/mann-i-70-ara-tiltalt-for-a-ha-mishandla-kona-i-over-50-ar_-_-svaert-alvorleg-og-omfattande-1.18055043",
       "summary": "Mannen skal jamleg ha slått, sparka, lugga og klipe kona i underlivet sidan 70-talet.",
       "date_label": "15.10.2026",
-      "timestamp": 1792089201.0
+      "timestamp": 1792089201.0,
+      "topic_method": "rules"
     },
     {
       "source": "Al Jazeera English",
@@ -53,7 +59,9 @@
       "url": "https://www.aljazeera.com/news/2026/10/15/ahead-of-us-midterms-voters-are-frustrated-with-trump-want-change-poll?traffic_source=rss",
       "summary": "Widespread voter disillusionment and pocketbook anxieties set a volatile stage for the GOP weeks before election night.",
       "date_label": "15.10.2026",
-      "timestamp": 1792088277.0
+      "timestamp": 1792088277.0,
+      "topic": "politikk",
+      "topic_method": "semantic-ai"
     },
     {
       "source": "BBC World",
@@ -62,7 +70,8 @@
       "url": "https://www.bbc.co.uk/news/videos/c62keqn7wpwdo?at_medium=RSS&at_campaign=rss",
       "summary": "The dream rock band called Fathom travelled roughly 700km across Australia by car, helicopter and plane to play nine shows in 12 hours.",
       "date_label": "15.10.2026",
-      "timestamp": 1792087798.0
+      "timestamp": 1792087798.0,
+      "topic_method": "rules"
     },
     {
       "source": "The Guardian",
@@ -71,7 +80,8 @@
       "url": "https://www.theguardian.com/politics/2026/oct/15/wes-streeting-us-support-ukraine--washington-visit",
       "summary": "UK defence secretary trying to cool tensions and is arguing it is in America’s economic interests to support Kyiv Wes Streeting urged the US to stand by Ukraine on his visit to the American capital and sought to cool tensions between the two countries in the wake of the Starlink row that is threatening to set back Kyiv’s war effort. The British def",
       "date_label": "15.10.2026",
-      "timestamp": 1792087754.0
+      "timestamp": 1792087754.0,
+      "topic_method": "rules"
     },
     {
       "source": "Al Jazeera English",
@@ -80,7 +90,8 @@
       "url": "https://www.aljazeera.com/news/2026/10/15/trump-ramps-up-third-country-us-deportations-despite-global-rights-outcry?traffic_source=rss",
       "summary": "Official data shows tens of thousands of migrants and asylum seekers have been sent to countries they have no ties to.",
       "date_label": "15.10.2026",
-      "timestamp": 1792086866.0
+      "timestamp": 1792086866.0,
+      "topic_method": "rules"
     },
     {
       "source": "The Guardian",
@@ -89,7 +100,8 @@
       "url": "https://www.theguardian.com/world/2026/oct/15/albania-prime-minister-edi-rama-vows-not-to-resign-student-led-protests",
       "summary": "Demonstrators demand resignation of Edi Rama after three days of clashes in capital Tirana Albania’s prime minister has said he will not resign as a protest movement, initially prompted by a proposal to build a Trump family-backed resort in the Balkan state, turned violent with clashes convulsing the capital for a third consecutive day. Speaking on",
       "date_label": "15.10.2026",
-      "timestamp": 1792086769.0
+      "timestamp": 1792086769.0,
+      "topic_method": "rules"
     },
     {
       "source": "BBC World",
@@ -98,7 +110,8 @@
       "url": "https://www.bbc.co.uk/news/articles/crx23qlnj27qo?at_medium=RSS&at_campaign=rss",
       "summary": "Trump said some would \"rather not watch\" the killing of Nidal Hasan, the first military execution in over 60 years.",
       "date_label": "15.10.2026",
-      "timestamp": 1792086442.0
+      "timestamp": 1792086442.0,
+      "topic_method": "rules"
     },
     {
       "source": "Deutsche Welle",
@@ -107,7 +120,8 @@
       "url": "https://www.dw.com/en/middle-east-updates-houthis-target-yemen-government-palace-in-aden/live-79672880?maca=en-rss-en-all-1573-xml-mrss",
       "summary": "Houthi rebels say they targeted Saudi military assets in a rare attack on the interim seat of Yemen's internationally recognized government. Meanwhile, vessels are again under fire near the Strait of Hormuz. More on DW.",
       "date_label": "15.10.2026",
-      "timestamp": 1792086240.0
+      "timestamp": 1792086240.0,
+      "topic_method": "rules"
     },
     {
       "source": "Al Jazeera English",
@@ -116,7 +130,8 @@
       "url": "https://www.aljazeera.com/features/2026/10/15/a-mothers-touch-helps-premature-babies-grow-strong-in-gaza?traffic_source=rss",
       "summary": "At Nasser Hospital, a kangaroo mother care pilot programme helps vulnerable newborns.",
       "date_label": "15.10.2026",
-      "timestamp": 1792086181.0
+      "timestamp": 1792086181.0,
+      "topic_method": "rules"
     },
     {
       "source": "NRK",
@@ -125,7 +140,8 @@
       "url": "https://www.nrk.no/ostfold/dobbeltdrapet-i-halden_-har-fatt-svar-pa-obduksjonsrapporten-1.18055853",
       "summary": "Politiet har fått den foreløpige medisinske rapporten etter at far og sønn ble drept i Østfold-byen.",
       "date_label": "15.10.2026",
-      "timestamp": 1792085714.0
+      "timestamp": 1792085714.0,
+      "topic_method": "rules"
     },
     {
       "source": "BBC World",
@@ -134,7 +150,8 @@
       "url": "https://www.bbc.co.uk/news/videos/cqr7yzpxm083o?at_medium=RSS&at_campaign=rss",
       "summary": "Ukraine's president has told Elon Musk that any restriction on the Starlink's system cost lives.",
       "date_label": "15.10.2026",
-      "timestamp": 1792085497.0
+      "timestamp": 1792085497.0,
+      "topic_method": "rules"
     },
     {
       "source": "The Guardian",
@@ -143,7 +160,8 @@
       "url": "https://www.theguardian.com/world/2026/oct/15/sailors-missing-drone-strike-tankers-romania-black-sea-coast",
       "summary": "Nato source says drones came from Russia, while Romania’s president says attacking commercial ships ‘is unacceptable and has to stop’ Seven sailors are missing after drones struck two tankers near Romania’s Black Sea ⁠coast, setting them ablaze and raising ⁠fresh security concerns on a ​vital shipping route used by Ukraine. A Nato military source t",
       "date_label": "15.10.2026",
-      "timestamp": 1792085490.0
+      "timestamp": 1792085490.0,
+      "topic_method": "rules"
     },
     {
       "source": "Nordre Aker Budstikke",
@@ -152,7 +170,8 @@
       "url": "https://www.nab.no/havnet-i-trobbel-etter-anonymt-varsel-na-har-treningssenteret-fatt-gront-lys/s/80-143-23793",
       "summary": "Tillatelsen de nå har fått gjelder i to år.",
       "date_label": "15.10.2026",
-      "timestamp": 1792085400.0
+      "timestamp": 1792085400.0,
+      "topic_method": "rules"
     },
     {
       "source": "Al Jazeera English",
@@ -161,7 +180,8 @@
       "url": "https://www.aljazeera.com/news/2026/10/15/pope-leo-resumes-work-in-hospital-while-recovering-from-surgery?traffic_source=rss",
       "summary": "Catholic leader met top Vatican aide, as doctors say recovery proceeding after lung surgery to remove cancerous growth.",
       "date_label": "15.10.2026",
-      "timestamp": 1792085109.0
+      "timestamp": 1792085109.0,
+      "topic_method": "rules"
     },
     {
       "source": "BBC World",
@@ -170,7 +190,8 @@
       "url": "https://www.bbc.co.uk/news/articles/cm62y6lp73zdo?at_medium=RSS&at_campaign=rss",
       "summary": "Yemen's information minister says the prime minister and other ministers were unhurt when ballistic missiles hit al-Maashiq Palace.",
       "date_label": "15.10.2026",
-      "timestamp": 1792084729.0
+      "timestamp": 1792084729.0,
+      "topic_method": "rules"
     },
     {
       "source": "Al Jazeera English",
@@ -179,7 +200,8 @@
       "url": "https://www.aljazeera.com/sports/2026/10/15/congo-protests-formula-1s-indefensible-decision-to-race-in-rwanda?traffic_source=rss",
       "summary": "Formula One returns to Africa for the first time since 1993, but DRC slams decision to stage race in Rwanda.",
       "date_label": "15.10.2026",
-      "timestamp": 1792084397.0
+      "timestamp": 1792084397.0,
+      "topic_method": "rules"
     },
     {
       "source": "Nordre Aker Budstikke",
@@ -188,7 +210,8 @@
       "url": "https://www.nab.no/brannutrykning-til-skole/s/30-143-24156",
       "summary": "",
       "date_label": "15.10.2026",
-      "timestamp": 1792083740.0
+      "timestamp": 1792083740.0,
+      "topic_method": "rules"
     },
     {
       "source": "Nordre Aker Budstikke",
@@ -197,7 +220,8 @@
       "url": "https://www.nab.no/har-satt-av-millioner-til-popular-trapp-pa-kjelsas-men-ansvaret-er-i-det-bla-na-kan-den-bli-stengt-lenge-for-oslo-kommune-overtar/s/80-143-22866",
       "summary": "Trappa mellom Myrerskogveien og Lachmanns har den vært stengt siden steinraset i forrige uke.",
       "date_label": "15.10.2026",
-      "timestamp": 1792083600.0
+      "timestamp": 1792083600.0,
+      "topic_method": "rules"
     },
     {
       "source": "Al Jazeera English",
@@ -206,7 +230,8 @@
       "url": "https://www.aljazeera.com/video/fault-lines/2026/10/15/dying-in-detention?traffic_source=rss",
       "summary": "Fault Lines investigates the soaring death rates in immigration detention centres following President Trump’s crackdown.",
       "date_label": "15.10.2026",
-      "timestamp": 1792083600.0
+      "timestamp": 1792083600.0,
+      "topic_method": "rules"
     },
     {
       "source": "Avisa Oslo",
@@ -215,7 +240,8 @@
       "url": "https://www.ao.no/var-pa-vei-mot-skullerud-da-bussen-stoppet-helt-opp/s/80-128-50396",
       "summary": "Passasjerer må regne med noen forsinkelser på linjen.",
       "date_label": "15.10.2026",
-      "timestamp": 1792083304.0
+      "timestamp": 1792083304.0,
+      "topic_method": "rules"
     },
     {
       "source": "Avisa Oslo",
@@ -224,7 +250,8 @@
       "url": "https://www.ao.no/tatt-18-ganger-pa-22-dager-rakjorte-i-111-km-t-i-70-sone-gjennom-operatunnelen/s/80-128-48617",
       "summary": "Nå må han i retten.",
       "date_label": "15.10.2026",
-      "timestamp": 1792083087.0
+      "timestamp": 1792083087.0,
+      "topic_method": "rules"
     },
     {
       "source": "Al Jazeera English",
@@ -233,7 +260,8 @@
       "url": "https://www.aljazeera.com/news/2026/10/15/houthis-target-yemens-presidential-palace-in-aden-with-missiles?traffic_source=rss",
       "summary": "Saudi-led coalition accuses Houthis of obtaining missile parts from regional states.",
       "date_label": "15.10.2026",
-      "timestamp": 1792083042.0
+      "timestamp": 1792083042.0,
+      "topic_method": "rules"
     },
     {
       "source": "BBC World",
@@ -242,7 +270,8 @@
       "url": "https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss",
       "summary": "Ukraine's president says a pause on striking energy sites is over following fresh Russian attacks.",
       "date_label": "15.10.2026",
-      "timestamp": 1792083018.0
+      "timestamp": 1792083018.0,
+      "topic_method": "rules"
     },
     {
       "source": "Deutsche Welle",
@@ -251,7 +280,8 @@
       "url": "https://www.dw.com/en/police-raid-the-major-pro-opposition-halk-tv-channel-in-turkey/a-79671673?maca=en-rss-en-all-1573-xml-mrss",
       "summary": "Turkish police raided the Istanbul headquarters of an important pro-opposition television station on Wednesdazy, the day that jailed Istanbul Mayor Ekrem Imamoglu was set to start his defense against corruption charges.",
       "date_label": "15.10.2026",
-      "timestamp": 1792082880.0
+      "timestamp": 1792082880.0,
+      "topic_method": "rules"
     },
     {
       "source": "Al Jazeera English",
@@ -260,7 +290,8 @@
       "url": "https://www.aljazeera.com/news/2026/10/15/albanias-pm-dismisses-calls-to-resign-as-student-protests-spread?traffic_source=rss",
       "summary": "Prime Minister Edi Rama condemns 'chaos' as protests continue for third day in the capital and spread to other cities.",
       "date_label": "15.10.2026",
-      "timestamp": 1792082490.0
+      "timestamp": 1792082490.0,
+      "topic_method": "rules"
     },
     {
       "source": "The Guardian",
@@ -269,7 +300,8 @@
       "url": "https://www.theguardian.com/world/2026/oct/15/nicolas-maduro-torture-allegations-cilia-flores",
       "summary": "Rewritten indictment accuses ex-Venezuela president and wife Cilia Flores of leading campaign of torture Nicolás Maduro insisted on Thursday during an appearance in a New York court that torture allegations in a rewritten drug trafficking indictment against the deposed Venezuelan president and his wife were “false accusations”. Maduro, shackled at ",
       "date_label": "15.10.2026",
-      "timestamp": 1792082312.0
+      "timestamp": 1792082312.0,
+      "topic_method": "rules"
     },
     {
       "source": "Al Jazeera English",
@@ -278,7 +310,8 @@
       "url": "https://www.aljazeera.com/news/2026/10/15/uk-green-member-behind-anti-zionism-motion-receives-death-threats?traffic_source=rss",
       "summary": "Lubna Speitan, who has Palestinian roots, believes messages and emails are part of an effort to intimidate her.",
       "date_label": "15.10.2026",
-      "timestamp": 1792082194.0
+      "timestamp": 1792082194.0,
+      "topic_method": "rules"
     },
     {
       "source": "Al Jazeera English",
@@ -287,7 +320,9 @@
       "url": "https://www.aljazeera.com/news/2026/10/15/israeli-ad-tech-firm-helped-spy-on-al-jazeera-devices?traffic_source=rss",
       "summary": "Citizen Lab investigation says dozens of Al Jazeera devices were infected by malware planted through advertisements.",
       "date_label": "15.10.2026",
-      "timestamp": 1792081923.0
+      "timestamp": 1792081923.0,
+      "topic": "teknologi",
+      "topic_method": "semantic-ai"
     },
     {
       "source": "Al Jazeera English",
@@ -296,7 +331,8 @@
       "url": "https://www.aljazeera.com/news/2026/10/15/why-are-eight-us-states-suing-openai?traffic_source=rss",
       "summary": "They allege ChatGPT has caused harm to their residents, coaching its users to harm themselves or others.",
       "date_label": "15.10.2026",
-      "timestamp": 1792081724.0
+      "timestamp": 1792081724.0,
+      "topic_method": "rules"
     },
     {
       "source": "NRK",
@@ -305,7 +341,8 @@
       "url": "https://www.nrk.no/mr/fleire-personar-skal-ha-vore-vitne-til-den-grove-valdshendinga-pa-brakkeriggen-i-ulstein-1.18054379",
       "summary": "I retten forklarte mannen korleis han følgde med på den grove valden gjennom ei glipe i døra si. Fleire personar var på ulike måtar vitne til valdshendinga på brakkeriggen i Ulstein.",
       "date_label": "15.10.2026",
-      "timestamp": 1792081543.0
+      "timestamp": 1792081543.0,
+      "topic_method": "rules"
     },
     {
       "source": "Al Jazeera English",
@@ -314,7 +351,8 @@
       "url": "https://www.aljazeera.com/sports/2026/10/15/fifa-president-infantino-apologises-but-critics-at-congress-remain-unhappy?traffic_source=rss",
       "summary": "FIFA council meeting lasts over three hours as President Gianni Infantino apologises to members, but critics want more.",
       "date_label": "15.10.2026",
-      "timestamp": 1792081199.0
+      "timestamp": 1792081199.0,
+      "topic_method": "rules"
     },
     {
       "source": "Al Jazeera English",
@@ -323,7 +361,8 @@
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/15/jerusalem-daily-ultra-orthodox-jews-storm-israeli-army-base?traffic_source=rss",
       "summary": "Jerusalem Daily: Ultra-Orthodox Jews storm Israeli army base",
       "date_label": "15.10.2026",
-      "timestamp": 1792081148.0
+      "timestamp": 1792081148.0,
+      "topic_method": "rules"
     },
     {
       "source": "NRK",
@@ -332,7 +371,9 @@
       "url": "https://www.nrk.no/trondelag/kulturminister-lubna-jaffery-om-curacao-avsloringer_-_-alvorlig-1.18038941",
       "summary": "­",
       "date_label": "15.10.2026",
-      "timestamp": 1792081061.0
+      "timestamp": 1792081061.0,
+      "topic": "underholdning",
+      "topic_method": "semantic-ai"
     },
     {
       "source": "BBC World",
@@ -341,7 +382,8 @@
       "url": "https://www.bbc.co.uk/news/articles/cwly0g2r4k3po?at_medium=RSS&at_campaign=rss",
       "summary": "Protests have taken place over the rules which have seen pupils wearing hijabs turned away from schools.",
       "date_label": "15.10.2026",
-      "timestamp": 1792080906.0
+      "timestamp": 1792080906.0,
+      "topic_method": "rules"
     },
     {
       "source": "CNN",
@@ -350,7 +392,8 @@
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOek9VME52YmtjMDNjaGU1MmltT3NHWUhCNFZ3Q3UydGZER2EyX1IzTTdNU1JNcHlTVlhTNm9FS2d1NWZaREdiME93djFpZmVNLWktZmNxOU9ZbWhrNFVHNGxPYUFGRnhEUi1jZDNwMWo1MFpVSzlmNm5kZ2ZyZDZkRTBtSQ?oc=5",
       "summary": "High mortgage rates are deepening a ‘K-shaped’ housing market CNN",
       "date_label": "15.10.2026",
-      "timestamp": 1792080472.0
+      "timestamp": 1792080472.0,
+      "topic_method": "rules"
     },
     {
       "source": "Al Jazeera English",
@@ -359,7 +402,8 @@
       "url": "https://www.aljazeera.com/news/2026/10/15/venezuelas-maduro-pleads-not-guilty-to-us-conspiracy-to-torture-charges?traffic_source=rss",
       "summary": "Maduro and wife appear in New York City court after new 'conspiracy to commit torture' charges.",
       "date_label": "15.10.2026",
-      "timestamp": 1792080298.0
+      "timestamp": 1792080298.0,
+      "topic_method": "rules"
     },
     {
       "source": "CNN",
@@ -368,7 +412,8 @@
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWFJPaFEtMXN4ZWhQY0w5bUNGZWREUTVXcEJxWUdDOEJveWFtcjRHS1dlMVRXOGRrRGpsYm5xbUFUNTVQcnVLZEo3d0NReVcyek5hMWlwYklDVUtyQ0pqX2h1Nnp2UmYtUzZKXzVSanM0ZnNRTUlXZFdQTHNsSkZOb0xsZ1R3VUxBSzJNaUV5ZkRkSk5rY1JJWlNaTTRKUVdsRnpWMGNkSk4zajBLczJaUA?oc=5",
       "summary": "Iran-aligned Houthis strike Yemeni presidential palace in escalating campaign against Saudi Arabia CNN",
       "date_label": "15.10.2026",
-      "timestamp": 1792079528.0
+      "timestamp": 1792079528.0,
+      "topic_method": "rules"
     },
     {
       "source": "CNN",
@@ -377,7 +422,8 @@
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdU5CSldwSWFYVVo4aF9kSlMtUnFyR09hMnMyTENtQXZWOVVFYnlndzNzMlI1YkpVMGlMSE9Iby14NmtqS05xemdDRFNtaXUzeU00UXctQjNuUkw4M0RJMXRJcktGcWFqSHkyeDVTWXZFemVBTDNVbTltR2pRZGtUVTMtRXJ0ZFJPeEQ5NV9oMFI2S3BfQnduZVZZWVVJUGdpM09VWFRjdG1aZlE4MjRz?oc=5",
       "summary": "Iran-aligned Houthis target Yemeni presidential palace, prime minister remains unharmed CNN",
       "date_label": "15.10.2026",
-      "timestamp": 1792079528.0
+      "timestamp": 1792079528.0,
+      "topic_method": "rules"
     },
     {
       "source": "Al Jazeera English",
@@ -386,7 +432,8 @@
       "url": "https://www.aljazeera.com/news/2026/10/15/what-is-the-mother-of-all-bombs-us-could-use-in-iran?traffic_source=rss",
       "summary": "US media reports military considering plans to use GBU-43/B Massive Ordnance Air Blast Bomb (MOAB)",
       "date_label": "15.10.2026",
-      "timestamp": 1792079201.0
+      "timestamp": 1792079201.0,
+      "topic_method": "rules"
     },
     {
       "source": "NRK",
@@ -395,7 +442,8 @@
       "url": "https://www.nrk.no/nyheter/tv2_-fhi-ma-kutte-100-millioner-i-2027--1.18056154",
       "summary": "FHI må kutte 100 millioner i budsjettet for 2027, bekrefter konstituert direktør ved FHI Elisabet E. Storvoll overfor TV2. – Vi har ikke fått detaljert informasjon om hvor det er aktuelt å gjennomføre kutt ved instituttet, sier Fredrik Skår, som er hovedtillitsvalgt for Legeforeningen i FHI. Skår opplyser at instituttet har fått beskjed om at det b",
       "date_label": "15.10.2026",
-      "timestamp": 1792078627.0
+      "timestamp": 1792078627.0,
+      "topic_method": "rules"
     },
     {
       "source": "Deutsche Welle",
@@ -404,7 +452,8 @@
       "url": "https://www.dw.com/en/trump-says-execution-of-fort-hood-shooter-will-not-be-livestreamed/a-79672036?maca=en-rss-en-all-1573-xml-mrss",
       "summary": "Trump said the execution of Nidal Malik Hasan can be viewed in person by families of the victims if they wish. The decision comes after bipartisan backlash regarding the Pentagon's plans to livestream the execution.",
       "date_label": "15.10.2026",
-      "timestamp": 1792078560.0
+      "timestamp": 1792078560.0,
+      "topic_method": "rules"
     },
     {
       "source": "CNN",
@@ -413,7 +462,8 @@
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQNzZIVEtGV3RBUmZ3Y2pJLW1XLUtVRzlNQndCUlFwM1RCa0NieUNGYmNhT1ViczBPWi16TmN2Um4tZEJlRHFLT2xZR2lxRDd2UHN4ZEtLbDdqVkRQVmowYU9XSWg5ZTQwanYtWldyeUlNVjJrTTZuWkRRbk9UVWpVX2hyWi1sQQ?oc=5",
       "summary": "Neanderthal murder mystery reveals a tale of violence and compassion CNN",
       "date_label": "15.10.2026",
-      "timestamp": 1792078390.0
+      "timestamp": 1792078390.0,
+      "topic_method": "rules"
     },
     {
       "source": "Avisa Oslo",
@@ -422,7 +472,9 @@
       "url": "https://www.ao.no/behovet-er-storst-blant-de-yngste-na-skal-byradet-styrke-teamet-som-handterer-de-mest-alvorlige-sakene-i-osloskolen/s/80-128-47405",
       "summary": "Gruppen skal forebygge vold og trusler i Osloskolen. Nå styrkes satsingen.",
       "date_label": "15.10.2026",
-      "timestamp": 1792078248.0
+      "timestamp": 1792078248.0,
+      "topic": "politikk",
+      "topic_method": "semantic-ai"
     },
     {
       "source": "NRK",
@@ -431,7 +483,8 @@
       "url": "https://www.nrk.no/vestfoldogtelemark/krf-askjer-angrer-etter-tv-2-dokumentar_-_-har-gjort-ganske-vondt-a-laere-den-leksa-1.18055904",
       "summary": "Stortingsrepresentant Hans Edvard Askjer (KrF) får krass kritikk for sin opptreden i serien «Kollaps – profeten fra Bærum».",
       "date_label": "15.10.2026",
-      "timestamp": 1792078104.0
+      "timestamp": 1792078104.0,
+      "topic_method": "rules"
     },
     {
       "source": "Deutsche Welle",
@@ -440,7 +493,8 @@
       "url": "https://www.dw.com/en/russia-arrests-swedish-national-claims-he-s-ukraine-fighter/a-79671942?maca=en-rss-en-all-1573-xml-mrss",
       "summary": "Russian intelligence agents have arrested a Swedish man they say led a Ukrainian drone unit. He was detained at Russia's western border and is accused of planning acts of terrorism and sabotage.",
       "date_label": "15.10.2026",
-      "timestamp": 1792078020.0
+      "timestamp": 1792078020.0,
+      "topic_method": "rules"
     },
     {
       "source": "BBC World",
@@ -449,7 +503,8 @@
       "url": "https://www.bbc.co.uk/news/articles/cked326llddgo?at_medium=RSS&at_campaign=rss",
       "summary": "Children were buried under the debris after the roof crashed through three classrooms, police say.",
       "date_label": "15.10.2026",
-      "timestamp": 1792077976.0
+      "timestamp": 1792077976.0,
+      "topic_method": "rules"
     },
     {
       "source": "The Guardian",
@@ -458,7 +513,8 @@
       "url": "https://www.theguardian.com/world/live/2026/oct/15/ukraine-russia-war-starlink-zelenskyy-putin-elon-musk-trump-europe-latest-news",
       "summary": "This live blog is now closed, you can read more of our European news coverage here Just as the leaders sit down at the big table in Brussels, Romania has said that seven people are still missing after a fire on a vessel in Romanian territorial waters of the Black Sea. Suspected Russian drones have hit several ships off Romania and neighbouring Bulg",
       "date_label": "15.10.2026",
-      "timestamp": 1792077951.0
+      "timestamp": 1792077951.0,
+      "topic_method": "rules"
     },
     {
       "source": "Al Jazeera English",
@@ -467,7 +523,8 @@
       "url": "https://www.aljazeera.com/news/2026/10/15/syrian-court-sentences-two-to-death-over-2025-coastal-violence?traffic_source=rss",
       "summary": "Court rulings concern violence and killings during March 2025 uprising by pro-Assad forces and retaliatory attacks.",
       "date_label": "15.10.2026",
-      "timestamp": 1792077558.0
+      "timestamp": 1792077558.0,
+      "topic_method": "rules"
     },
     {
       "source": "Al Jazeera English",
@@ -476,7 +533,8 @@
       "url": "https://www.aljazeera.com/sports/2026/10/15/french-football-body-urges-fans-and-students-to-keep-politics-out-of-stadia?traffic_source=rss",
       "summary": "French Football Federation's ethics body calls for neutrality amid student protests.",
       "date_label": "15.10.2026",
-      "timestamp": 1792077365.0
+      "timestamp": 1792077365.0,
+      "topic_method": "rules"
     },
     {
       "source": "NRK",
@@ -485,7 +543,8 @@
       "url": "https://www.nrk.no/sport/bjorn-martin-kristensen-er-noregs-ukjende-landslagsstjerne_-_-ein-merkar-trykket-1.18053159",
       "summary": "Bjørn Martin Kristensen frå Hauketo i Oslo hamrar inn mål på den andre sida av jorda.",
       "date_label": "15.10.2026",
-      "timestamp": 1792077281.0
+      "timestamp": 1792077281.0,
+      "topic_method": "rules"
     },
     {
       "source": "Al Jazeera English",
@@ -494,7 +553,8 @@
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/15/delegates-walk-out-as-israeli-president-addresses-summit?traffic_source=rss",
       "summary": "Officials from more than 10 countries walked out during an address by Israeli President Isaac Herzog at a summit in Baku",
       "date_label": "15.10.2026",
-      "timestamp": 1792077240.0
+      "timestamp": 1792077240.0,
+      "topic_method": "rules"
     },
     {
       "source": "Al Jazeera English",
@@ -503,7 +563,8 @@
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/15/russian-jet-powered-drone-hits-supermarket-in-ukraines-odesa?traffic_source=rss",
       "summary": "Ukrainian authorities say a Russian jet-powered drone struck a supermarket in its Odesa region on Thursday.",
       "date_label": "15.10.2026",
-      "timestamp": 1792077198.0
+      "timestamp": 1792077198.0,
+      "topic_method": "rules"
     },
     {
       "source": "The Guardian",
@@ -512,7 +573,8 @@
       "url": "https://www.theguardian.com/world/2026/oct/15/us-effort-to-get-russia-ukraine-energy-ceasefire-collapses",
       "summary": "Moscow sends swarms of drones to attack infrastructure in central Ukraine as Zelenskyy says Kyiv will restart strikes on Russian oil refineries The White House’s unilateral effort to negotiate an energy ceasefire between Russia and Ukraine has collapsed as Moscow sent a record swarm of drones overnight to attack infrastructure in central Ukraine an",
       "date_label": "15.10.2026",
-      "timestamp": 1792076470.0
+      "timestamp": 1792076470.0,
+      "topic_method": "rules"
     },
     {
       "source": "The Guardian",
@@ -521,7 +583,8 @@
       "url": "https://www.theguardian.com/uk-news/2026/oct/15/falklands-javier-milei-adviser-santiago-caputo-uk-islam-argentina",
       "summary": "Santiago Caputo cites election of Sagal Abdi-Wali as MP and calls UK a threat to the west in post shared by Argentina’s president The chief adviser to Argentina’s president, Javier Milei, has cited the election of Sagal Abdi-Wali to the UK parliament as evidence of the Islamisation of Britain and further reason for Argentina to take sovereignty ove",
       "date_label": "15.10.2026",
-      "timestamp": 1792076423.0
+      "timestamp": 1792076423.0,
+      "topic_method": "rules"
     },
     {
       "source": "BBC World",
@@ -530,7 +593,8 @@
       "url": "https://www.bbc.co.uk/news/articles/c6jrwn3y3xe9o?at_medium=RSS&at_campaign=rss",
       "summary": "A 75,000-year-old Neanderthal spear wound may be evidence violence shaped human life far earlier than thought.",
       "date_label": "15.10.2026",
-      "timestamp": 1792076405.0
+      "timestamp": 1792076405.0,
+      "topic_method": "rules"
     },
     {
       "source": "BBC World",
@@ -539,7 +603,8 @@
       "url": "https://www.bbc.co.uk/news/articles/c60qkgpp592yo?at_medium=RSS&at_campaign=rss",
       "summary": "A search and rescue operation is under way in the Black Sea after the latest attack in the area.",
       "date_label": "15.10.2026",
-      "timestamp": 1792075890.0
+      "timestamp": 1792075890.0,
+      "topic_method": "rules"
     },
     {
       "source": "Deutsche Welle",
@@ -548,7 +613,8 @@
       "url": "https://www.dw.com/en/ukraine-resumes-attacks-on-russian-refineries-as-zelenskyy-says-we-re-done/a-79667757?maca=en-rss-en-all-1573-xml-mrss",
       "summary": "Volodymyr Zelenskyy has said Ukraine will again attack Russian energy sites, as Moscow has ignored a claim by US President Trump that an \"energy ceasefire\" had been agreed. Russia reported two attacks on refineries.",
       "date_label": "15.10.2026",
-      "timestamp": 1792075860.0
+      "timestamp": 1792075860.0,
+      "topic_method": "rules"
     },
     {
       "source": "Deutsche Welle",
@@ -557,7 +623,8 @@
       "url": "https://www.dw.com/en/can-kenya-preserve-the-democratic-space-raila-odinga-fought-for/a-79668443?maca=en-rss-en-all-1573-xml-mrss",
       "summary": "One year after the former prime minister's death, Kenyans are reflecting on his contribution to democracy and national reconciliation. Odinga's \"handshakes\" with his political rivals remain the subject of much debate.",
       "date_label": "15.10.2026",
-      "timestamp": 1792075560.0
+      "timestamp": 1792075560.0,
+      "topic_method": "rules"
     },
     {
       "source": "NRK",
@@ -566,7 +633,8 @@
       "url": "https://www.nrk.no/nyheter/skuddsekundet-skrotes_-problemet-utsettes-i-tusen-ar--1.18056098",
       "summary": "Forskere har bestemt at forskjellen mellom verdens klokker og astronomisk tid først skal korrigeres når den når én time, altså 3600 sekunder. Beslutningen betyr at et mulig behov for å fjerne ett sekund fra klokkene skyves rundt tusen år fram i tid. Siden 1972 har 27 sekunder blitt plusset på verdens klokker, sist i 2016. Jordens rotasjon er nemlig",
       "date_label": "15.10.2026",
-      "timestamp": 1792075218.0
+      "timestamp": 1792075218.0,
+      "topic_method": "rules"
     },
     {
       "source": "Al Jazeera English",
@@ -575,7 +643,8 @@
       "url": "https://www.aljazeera.com/news/2026/10/15/us-teen-held-over-hindu-temple-attack-plot-is-anti-indian-racism-rising?traffic_source=rss",
       "summary": "Illinois teen who allegedly said he 'couldn’t wait' to kill Indians is arrested over a Hindu temple attack plot.",
       "date_label": "15.10.2026",
-      "timestamp": 1792075126.0
+      "timestamp": 1792075126.0,
+      "topic_method": "rules"
     },
     {
       "source": "Deutsche Welle",
@@ -584,7 +653,8 @@
       "url": "https://www.dw.com/en/eu-summit-to-focus-on-china-ukraine-and-bloc-budget/a-79665338?maca=en-rss-en-all-1573-xml-mrss",
       "summary": "EU leaders meeting in Brussels will examine measures to curb the bloc's huge trade deficit with China. But they will also be looking to further agreement on the next EU budget ahead of some major elections next year.",
       "date_label": "15.10.2026",
-      "timestamp": 1792075020.0
+      "timestamp": 1792075020.0,
+      "topic_method": "rules"
     },
     {
       "source": "Deutsche Welle",
@@ -593,7 +663,8 @@
       "url": "https://www.dw.com/en/romania-2-ships-on-fire-in-black-sea-7-crew-missing/a-79667003?maca=en-rss-en-all-1573-xml-mrss",
       "summary": "Two chemical tankers have caught fire in Romanian territorial waters in the Black Sea. The blazes occurred after Russian drones were sighted in Romanian airspace.",
       "date_label": "15.10.2026",
-      "timestamp": 1792074840.0
+      "timestamp": 1792074840.0,
+      "topic_method": "rules"
     },
     {
       "source": "The Guardian",
@@ -602,7 +673,9 @@
       "url": "https://www.theguardian.com/business/2026/oct/15/tech-market-sell-off-deepens-amid-fears-over-us-inflation-and-ai-debt",
       "summary": "Chip makers and tech investors such as Samsung and SoftBank plunge as potential interest rate hikes spook markets Business news – live updates Larry Elliott: the global economy is muddling through. But a storm is coming An accelerating sell-off of AI-linked shares has hit global markets, as fears over rising inflation and future interest rate hikes",
       "date_label": "15.10.2026",
-      "timestamp": 1792074792.0
+      "timestamp": 1792074792.0,
+      "topic": "teknologi",
+      "topic_method": "semantic-ai"
     },
     {
       "source": "Nordre Aker Budstikke",
@@ -611,7 +684,8 @@
       "url": "https://www.nab.no/forny-garderoben-pa-kjelsas-i-helgen/s/80-143-22842",
       "summary": "Lørdag 17. oktober er den store bruktmarkedsdagen på Grefsen Stadion.",
       "date_label": "15.10.2026",
-      "timestamp": 1792074600.0
+      "timestamp": 1792074600.0,
+      "topic_method": "rules"
     },
     {
       "source": "Avisa Oslo",
@@ -620,7 +694,8 @@
       "url": "https://www.ao.no/forskeren-gjorde-oppsiktsvekkende-funn-om-bydelene-utrolig/v/80-128-50300",
       "summary": "",
       "date_label": "15.10.2026",
-      "timestamp": 1792074505.0
+      "timestamp": 1792074505.0,
+      "topic_method": "rules"
     },
     {
       "source": "CNN",
@@ -629,7 +704,8 @@
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPY0tSamM1bk1qbXZ1X0pOSGZuSjN3V0pJWkZzUlFvb0hBb2RrWWxIRGM3a1I1Z0FXemdTOENtaExjUnI1aUdwT290R25JYmlKQTZWRXVpZ2xucHlVaEZtbzNxSl9NeUZ1eE9Kd21uU3dHOFU1dmV0am5IN1o2Y0t4STBNVzFaT2J2cldEMjNGTEphdjA?oc=5",
       "summary": "Trump calls off livestream of Fort Hood shooter’s firing squad execution CNN",
       "date_label": "15.10.2026",
-      "timestamp": 1792074464.0
+      "timestamp": 1792074464.0,
+      "topic_method": "rules"
     },
     {
       "source": "Al Jazeera English",
@@ -638,7 +714,8 @@
       "url": "https://www.aljazeera.com/news/2026/10/15/trump-says-fort-hood-shooter-execution-will-not-be-livestreamed?traffic_source=rss",
       "summary": "US president reverses Pentagon's plan to publicly stream execution of Nidal Malik Hasan after outcry.",
       "date_label": "15.10.2026",
-      "timestamp": 1792074455.0
+      "timestamp": 1792074455.0,
+      "topic_method": "rules"
     },
     {
       "source": "NRK",
@@ -647,7 +724,8 @@
       "url": "https://www.nrk.no/sport/flere-fifa-styremedlemmer-ut-mot-gianni-infantino_-_-vi-ma-restarte-alt-pa-nytt-1.18056044",
       "summary": "Gianni Infantino ble pepret med spørsmål av egne styremedlemmer i Fifa torsdag. Det må ryddes over hele fjøla, var budskapet fra den tyske fotballpresidenten.",
       "date_label": "15.10.2026",
-      "timestamp": 1792074221.0
+      "timestamp": 1792074221.0,
+      "topic_method": "rules"
     },
     {
       "source": "Al Jazeera English",
@@ -656,7 +734,8 @@
       "url": "https://www.aljazeera.com/news/2026/10/15/boiling-point-why-students-are-protesting-against-albanias-edi-rama?traffic_source=rss",
       "summary": "Experts say Albania’s protests reflect ignored student grievances and growing frustration.",
       "date_label": "15.10.2026",
-      "timestamp": 1792074133.0
+      "timestamp": 1792074133.0,
+      "topic_method": "rules"
     },
     {
       "source": "CNN",
@@ -665,7 +744,8 @@
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQnpiZkpKZEEzREozeWVGcEpCVjgySWVCVkhSakZrdTRrLTRJMUFjX3pUWE5aWFMwVUplNEdEdXdzVzY5eFUwTkVEZV85U3VkZTY5SzdiRjZGNW8zcUROclN4SDNOZFNjeE9QZjVRZ21nZ3BFcjhtZWxWdXBXYk9hODZUYXQzdWRuRFlYTGhqNWUxSGNhajlsRnNB?oc=5",
       "summary": "Exclusive: Ukraine runs out of Patriot interceptor missiles as Zelensky and Trump clash over war CNN",
       "date_label": "15.10.2026",
-      "timestamp": 1792073937.0
+      "timestamp": 1792073937.0,
+      "topic_method": "rules"
     },
     {
       "source": "Sagene Avis",
@@ -674,7 +754,8 @@
       "url": "https://www.sageneavis.no/koke-ris/riskoker/ris/slik-koker-du-perfekt-ris-hver-gang-og-tabben-som-kan-gi-alvorlig-matforgiftning/s/80-95-154013",
       "summary": "Lær hvordan man koker perfekt ris, hvor mye ris per person som trengs, og ikke minst: hvor lenge kokt ris kan stå i kjøleskapet før den blir helsefarlig",
       "date_label": "15.10.2026",
-      "timestamp": 1792072835.0
+      "timestamp": 1792072835.0,
+      "topic_method": "rules"
     },
     {
       "source": "The Guardian",
@@ -683,7 +764,8 @@
       "url": "https://www.theguardian.com/australia-news/2026/oct/16/madeleine-king-calls-to-correct-claim-beetaloo-basin-emissions-offset",
       "summary": "Madeleine King told press club emissions from NT fossil fuel basin ‘are accounted for and offset’ but research found 95% of emissions this decade would not have to be offset Sign up for climate and environment editor Adam Morton’s free Clear Air newsletter here The resources minister, Madeleine King, is facing calls to correct her claim in a major ",
       "date_label": "15.10.2026",
-      "timestamp": 1792072816.0
+      "timestamp": 1792072816.0,
+      "topic_method": "rules"
     },
     {
       "source": "The Guardian",
@@ -692,7 +774,9 @@
       "url": "https://www.theguardian.com/australia-news/2026/oct/16/queensland-lnp-workplace-laws-power-to-break-strikes",
       "summary": "The controversial legislation may end up placing large sections of its suburban support – critical to the party’s lead in the polls – on the bonfire Get our breaking news email , free app or daily news podcast For almost two years, the Liberal National party’s strategy for government in Queensland has been to stay well clear of issues that risk bur",
       "date_label": "15.10.2026",
-      "timestamp": 1792072815.0
+      "timestamp": 1792072815.0,
+      "topic": "politikk",
+      "topic_method": "semantic-ai"
     },
     {
       "source": "Sagene Avis",
@@ -701,7 +785,8 @@
       "url": "https://www.sageneavis.no/dette-er-foreldrene-i-bydelen-mest-og-minst-fornoyde-med-pa-aks/s/80-144-7128",
       "summary": "Trivselen er høy i aktivitetsskolene i bydel Sagene. Men særlig én side ved tilbudet er foreldrene mindre fornøyde med.",
       "date_label": "15.10.2026",
-      "timestamp": 1792072800.0
+      "timestamp": 1792072800.0,
+      "topic_method": "rules"
     },
     {
       "source": "Deutsche Welle",
@@ -710,7 +795,8 @@
       "url": "https://www.dw.com/en/resignation-of-bärbel-bas-shines-light-on-harsh-era-of-german-politics/a-79671395?maca=en-rss-en-all-1573-xml-mrss",
       "summary": "German Labor Minister Bärbel Bas has stepped down, citing her need to grieve a loved one and leave behind the harsh realities of government. So how did German politics get so heated?",
       "date_label": "15.10.2026",
-      "timestamp": 1792072620.0
+      "timestamp": 1792072620.0,
+      "topic_method": "rules"
     },
     {
       "source": "Deutsche Welle",
@@ -719,7 +805,8 @@
       "url": "https://www.dw.com/en/hamburg-court-jails-2-men-over-plot-to-attack-jewish-leaders-on-behalf-of-iran/a-79667895?maca=en-rss-en-all-1573-xml-mrss",
       "summary": "The men were found guilty of espionage and attempted murder. According to the court, they planned to attack the president of the Central Council of Jews in Germany and president of the German-Israeli society.",
       "date_label": "15.10.2026",
-      "timestamp": 1792072140.0
+      "timestamp": 1792072140.0,
+      "topic_method": "rules"
     },
     {
       "source": "Al Jazeera English",
@@ -728,7 +815,8 @@
       "url": "https://www.aljazeera.com/video/game-theory/2026/10/15/aje-onl-gm_rebel_v8-151026?traffic_source=rss",
       "summary": "Some West Indies cricketers toured apartheid South Africa in the 1980's, breaking one of the biggest sporting boycotts.",
       "date_label": "15.10.2026",
-      "timestamp": 1792072097.0
+      "timestamp": 1792072097.0,
+      "topic_method": "rules"
     },
     {
       "source": "Al Jazeera English",
@@ -737,7 +825,8 @@
       "url": "https://www.aljazeera.com/news/2026/10/15/al-jazeera-probe-exposes-fake-viewing-numbers-for-israeli-counter-film?traffic_source=rss",
       "summary": "Data investigation casts doubt on claims that Israeli counter-documentary to 'NAZA' received 40 million views.",
       "date_label": "15.10.2026",
-      "timestamp": 1792071346.0
+      "timestamp": 1792071346.0,
+      "topic_method": "rules"
     },
     {
       "source": "Al Jazeera English",
@@ -746,7 +835,8 @@
       "url": "https://www.aljazeera.com/news/2026/10/15/what-is-starshield-and-who-limited-ukraines-access-to-it?traffic_source=rss",
       "summary": "Ukraine relies on Starshield, the military-grade version of Elon Musk's Starlink satellite service, to fight Russia.",
       "date_label": "15.10.2026",
-      "timestamp": 1792071136.0
+      "timestamp": 1792071136.0,
+      "topic_method": "rules"
     },
     {
       "source": "Deutsche Welle",
@@ -755,7 +845,8 @@
       "url": "https://www.dw.com/en/ai-assisted-dying-doris-dörrie-s-new-film-addresses-prospect-of-care-robots/a-79659715?maca=en-rss-en-all-1573-xml-mrss",
       "summary": "While the world debates the dangers of artificial intelligence, filmmaker Doris Dörrie explores how humanoid robots could change the way we deal with aging, caregiving and how people choose to die.",
       "date_label": "15.10.2026",
-      "timestamp": 1792070640.0
+      "timestamp": 1792070640.0,
+      "topic_method": "rules"
     },
     {
       "source": "NRK",
@@ -764,7 +855,8 @@
       "url": "https://www.nrk.no/tromsogfinnmark/kvaefjord-mister-120-millioner-kroner-_-ordforeren-er-forbannet-1.18054429",
       "summary": "Regjeringen foreslår å fjerne vertskommuneordningen. For Kvæfjord kommune betyr det at de mister 120 millioner kroner, og blir sittende igjen med regningen etter HVPU-reformen.",
       "date_label": "15.10.2026",
-      "timestamp": 1792070518.0
+      "timestamp": 1792070518.0,
+      "topic_method": "rules"
     },
     {
       "source": "NRK",
@@ -773,7 +865,8 @@
       "url": "https://www.nrk.no/sport/aleksander-aamodt-kilde-rok-akillessenen-under-trening-1.18055989",
       "summary": "Alpinstjernen Aleksander Aamodt Kilde røk akillessenen etter et fall på utfortrening i Chile onsdag.",
       "date_label": "15.10.2026",
-      "timestamp": 1792069319.0
+      "timestamp": 1792069319.0,
+      "topic_method": "rules"
     },
     {
       "source": "Nordre Aker Budstikke",
@@ -782,7 +875,9 @@
       "url": "https://www.nab.no/vraket-etter-tydelig-beskjed-mener-jeg-ikke-har-gjort-en-god-jobb/s/80-143-23532",
       "summary": "Venstres Haakon Riekeles har brukt de tre siste årene på å være fulltidspolitiker på Rådhuset. Nå er han foreslått vraket.",
       "date_label": "15.10.2026",
-      "timestamp": 1792069200.0
+      "timestamp": 1792069200.0,
+      "topic": "politikk",
+      "topic_method": "semantic-ai"
     },
     {
       "source": "Deutsche Welle",
@@ -791,7 +886,8 @@
       "url": "https://www.dw.com/en/starlink-how-elon-musk-s-company-influences-geopolitics/a-75963477?maca=en-rss-en-all-1573-xml-mrss",
       "summary": "Designed to bring internet access to remote regions, Elon Musk's Starlink has become vital in crisis regions and war zones. But Ukraine also shows the risks of depending on the service.",
       "date_label": "15.10.2026",
-      "timestamp": 1792069140.0
+      "timestamp": 1792069140.0,
+      "topic_method": "rules"
     },
     {
       "source": "CNN",
@@ -800,7 +896,8 @@
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOaTBCSUE4UnRBTlIzZ2tKLURvQ2RSZTUwTFlCVmU5ZFBoQ2RmOU0tS0UtcjVtMURoYjZjeEpiSHd2OGh0QlVocGZNQnNZeW5sRHY4cG81VWtIdG5VQkhWb0IzMDlQVFQzZ2VQekhyeER3dE9jM1FqQXdkWTlMZ0R2SENJWHhjdWl3aWJ1ZUdZeFJvZw?oc=5",
       "summary": "Wholesale inflation surged in September, keeping affordability in focus ahead of the midterms CNN",
       "date_label": "15.10.2026",
-      "timestamp": 1792067935.0
+      "timestamp": 1792067935.0,
+      "topic_method": "rules"
     },
     {
       "source": "Nordre Aker Budstikke",
@@ -809,7 +906,8 @@
       "url": "https://www.nab.no/her-kan-de-boltre-seg/v/80-143-23622",
       "summary": "Snart åpner den nye «småbarnsavdelingen» på Teknisk Museum.",
       "date_label": "15.10.2026",
-      "timestamp": 1792066834.0
+      "timestamp": 1792066834.0,
+      "topic_method": "rules"
     },
     {
       "source": "NRK",
@@ -818,7 +916,8 @@
       "url": "https://www.nrk.no/ostfold/kommunalministeren-omgjor-viken-park-avslag-1.18054769",
       "summary": "Kommunalministeren gjør om Statsforvalterens Viken Park-vedtak. Det får en av Norges fremste forvaltningseksperter til å reagere kraftig.",
       "date_label": "15.10.2026",
-      "timestamp": 1792066357.0
+      "timestamp": 1792066357.0,
+      "topic_method": "rules"
     },
     {
       "source": "Deutsche Welle",
@@ -827,7 +926,8 @@
       "url": "https://www.dw.com/en/hypersonic-missiles-highlight-arms-race-on-korean-peninsula/a-79667084?maca=en-rss-en-all-1573-xml-mrss",
       "summary": "Both South and North Korea have tested weapons feared by military planners for their speed and ability to maneuver in flight.",
       "date_label": "15.10.2026",
-      "timestamp": 1792065720.0
+      "timestamp": 1792065720.0,
+      "topic_method": "rules"
     },
     {
       "source": "Avisa Oslo",
@@ -836,7 +936,8 @@
       "url": "https://www.ao.no/rundt-300-liter-diesel-har-lekket-ut-i-bjorvika/s/30-128-24126",
       "summary": "I forbindelse med en trafikkhendelse torsdag ettermiddag gikk det hull på dieseltanken til en lastebil i Rostockgata i Bjørvika.",
       "date_label": "15.10.2026",
-      "timestamp": 1792065274.0
+      "timestamp": 1792065274.0,
+      "topic_method": "rules"
     },
     {
       "source": "CNN",
@@ -845,7 +946,8 @@
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE83Wjl2MmpWMHI2eUlWakFMNHhkNjROQ2t0VENTOVN2U2ppSjZqeFhhLVRFQTR0SnZ2M2YtQUxxd1oyQU9QODBzSkFCTDBjZXVfNU1LRlc5OVpZYlBKVnhfN1c0Tk1CVWxoUV9VdTVIQzhPWHVLNW5ENDlyczU?oc=5",
       "summary": "Meet the aviation superfan who installed an A380 suite in his apartment CNN",
       "date_label": "15.10.2026",
-      "timestamp": 1792065222.0
+      "timestamp": 1792065222.0,
+      "topic_method": "rules"
     },
     {
       "source": "NRK",
@@ -854,7 +956,8 @@
       "url": "https://www.nrk.no/nyheter/hertugpar-sammen-pa-oppdrag---1.18055599",
       "summary": "Britiske prins Harry og ektefellen Meghan var å se i deres første felles oppdrag etter returen til Storbritannia i august. Kong Charles sin yngste sønn sa fra sine kongelige arbeidsoppgaver og plikter etter en bitter familiekonflikt i 2020 og flyttet til ektefellens hjemland, USA. I høst meldte paret overraskende at de ville vende tilbake til Storb",
       "date_label": "15.10.2026",
-      "timestamp": 1792064617.0
+      "timestamp": 1792064617.0,
+      "topic_method": "rules"
     },
     {
       "source": "NRK",
@@ -863,7 +966,8 @@
       "url": "https://www.nrk.no/nordland/fem-sidaandeler-politianmeldt-for-bedrageri.-risikerer-flere-100.000-kroner-i-bot-1.18055814",
       "summary": "Totalt fem reindriftsenheter er mistenkt for bedrageri. De risikerer å måtte betale store summer i erstatning",
       "date_label": "15.10.2026",
-      "timestamp": 1792064370.0
+      "timestamp": 1792064370.0,
+      "topic_method": "rules"
     },
     {
       "source": "BBC World",
@@ -872,7 +976,8 @@
       "url": "https://www.bbc.co.uk/news/articles/cqkgk4zg54reo?at_medium=RSS&at_campaign=rss",
       "summary": "It is the \"backbone of military communications in Ukraine\" that provides vital high-speed internet to forces across the country.",
       "date_label": "15.10.2026",
-      "timestamp": 1792063519.0
+      "timestamp": 1792063519.0,
+      "topic_method": "rules"
     },
     {
       "source": "Sagene Avis",
@@ -881,7 +986,8 @@
       "url": "https://www.sageneavis.no/squishy-dumplings/leker/barn/barnas-nye-favoritt-kan-eksplodere/s/80-95-162954",
       "summary": "«Squishy»-leker er årets store leketrend på TikTok, men eksperter og sykehus advarer nå mot virale triks som gir barn alvorlige brannskader.",
       "date_label": "15.10.2026",
-      "timestamp": 1792062529.0
+      "timestamp": 1792062529.0,
+      "topic_method": "rules"
     },
     {
       "source": "Nordre Aker Budstikke",
@@ -890,7 +996,8 @@
       "url": "https://www.nab.no/oslo-ap-sier-ja-til-nye-bydelsnavn/s/80-143-23565",
       "summary": "Oslo Arbeiderparti vil stemme for byrådets navneforslag uten endringer.",
       "date_label": "15.10.2026",
-      "timestamp": 1792062202.0
+      "timestamp": 1792062202.0,
+      "topic_method": "rules"
     },
     {
       "source": "CNN",
@@ -899,7 +1006,8 @@
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbElGUDdMd1JvWE1mSzRMT1RBdE1nbmhkcmtOUWtqQmJXSmdjN19sSUJ0ZnJkTmUyVHc0RnNZUWRXbnZpbjg2SzVMaVEyNUlITEZ5ajhvQ1pRbGU4YzBaU2wzWmxqcjBZcXJteXBuNmp5YW1XN2hQVFkzQVdBc2xOYmdGRExhZ0tQclBDWm1tNA?oc=5",
       "summary": "Will flying taxis ever replace your car? CNN",
       "date_label": "15.10.2026",
-      "timestamp": 1792061586.0
+      "timestamp": 1792061586.0,
+      "topic_method": "rules"
     },
     {
       "source": "BBC World",
@@ -908,7 +1016,8 @@
       "url": "https://www.bbc.co.uk/news/articles/crwyd7vq3xw1o?at_medium=RSS&at_campaign=rss",
       "summary": "More than 12,000 people filled a major venue in the city to hear the former US president's take on the challenges the world is facing. .",
       "date_label": "15.10.2026",
-      "timestamp": 1792061513.0
+      "timestamp": 1792061513.0,
+      "topic_method": "rules"
     },
     {
       "source": "NRK",
@@ -917,7 +1026,8 @@
       "url": "https://www.nrk.no/nyheter/magdalena-andersson-stemt-ned-i-riksdagen-1.18055807",
       "summary": "Socialdemokraternas leder Magdalena Andersson tapte som ventet den første statsministeravstemningen i nasjonalforsamlingen. Resultatet ble 99 stemmer for og 248 imot. Foruten de borgerlige partiene, stemte også Centern, Miljöpartiet og Vänsterpartiet imot. De hadde varslet at de ikke ville stemme for en regjering de selv ikke er en del av, selv om ",
       "date_label": "15.10.2026",
-      "timestamp": 1792061449.0
+      "timestamp": 1792061449.0,
+      "topic_method": "rules"
     },
     {
       "source": "Deutsche Welle",
@@ -926,7 +1036,8 @@
       "url": "https://www.dw.com/en/thousands-of-german-gamblers-could-sue-for-their-money-back/a-79667844?maca=en-rss-en-all-1573-xml-mrss",
       "summary": "German gamblers may finally be able to beat the house, thanks to new court rulings in the EU and in Germany. The decisions could help gambling addicts — but the legal road might be difficult.",
       "date_label": "15.10.2026",
-      "timestamp": 1792061400.0
+      "timestamp": 1792061400.0,
+      "topic_method": "rules"
     },
     {
       "source": "CNN",
@@ -935,7 +1046,8 @@
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE44QURFNXNKc2JOay1PenlxMHdlOGxDMzd5a2xiV1ZXWmtmT2FEWTJ0NVJPSVBOTGs2YnFXUFJQWWtPQ3phYnhIMXZheTRfc051QUczOU9Md1NFRFdhZlVnZ0R3Y1pvSGU0SlBHV1l5TFBydjdwS3c?oc=5",
       "summary": "Global chipmaker sell-off deepens as enthusiasm for AI stocks wobbles CNN",
       "date_label": "15.10.2026",
-      "timestamp": 1792061182.0
+      "timestamp": 1792061182.0,
+      "topic_method": "rules"
     },
     {
       "source": "Avisa Oslo",
@@ -944,7 +1056,8 @@
       "url": "https://www.ao.no/stines-26-oppgjor-med-den-fremmede-mannen-tar-av-viser-hvor-utrolig-vanlig-det-er/s/80-128-49343",
       "summary": "– «Ja, men serr, det er bare et kompliment. Du har en fin rumpe».",
       "date_label": "15.10.2026",
-      "timestamp": 1792060737.0
+      "timestamp": 1792060737.0,
+      "topic_method": "rules"
     },
     {
       "source": "Sagene Avis",
@@ -953,7 +1066,8 @@
       "url": "https://www.sageneavis.no/eli-fra-portveien-2-er-dod/s/80-144-7275",
       "summary": "Portveien 2-programleder, sanger og forfatter Eli Rygg er gått bort, bekrefter familien overfor TV 2.",
       "date_label": "15.10.2026",
-      "timestamp": 1792060170.0
+      "timestamp": 1792060170.0,
+      "topic_method": "rules"
     },
     {
       "source": "NRK",
@@ -962,7 +1076,8 @@
       "url": "https://www.nrk.no/nyheter/forfatter-og-programleder-eli-rygg-er-dod_-71-ar-gammel-1.18055767",
       "summary": "Portveien 2-programleder, sanger og forfatter Eli Rygg er gått bort. Dødsfallet bekreftes av familien på Facebook. – Vår elskede mamma, alles kjære Eli Rygg sovnet stille inn med sine nærmeste rundt seg i natt etter lang tid med sykdom, skriver datteren på Facebook. Hun skriver videre at «har betydd utrolig mye for veldig mange og det er derfor vik",
       "date_label": "15.10.2026",
-      "timestamp": 1792059654.0
+      "timestamp": 1792059654.0,
+      "topic_method": "rules"
     },
     {
       "source": "Deutsche Welle",
@@ -971,7 +1086,8 @@
       "url": "https://www.dw.com/en/school-roof-collapse-in-pakistan-s-peshawar-kills-dozens-of-students-and-one-teacher/a-79666091?maca=en-rss-en-all-1573-xml-mrss",
       "summary": "Local authorities said more than 50 other people were injured in the disaster. Roof collapses have become increasingly common in Pakistan.",
       "date_label": "15.10.2026",
-      "timestamp": 1792059600.0
+      "timestamp": 1792059600.0,
+      "topic_method": "rules"
     },
     {
       "source": "Deutsche Welle",
@@ -980,7 +1096,8 @@
       "url": "https://www.dw.com/en/germany-news-train-station-alcohol-ban-comes-into-force/live-79666807?maca=en-rss-en-all-1573-xml-mrss",
       "summary": "Consuming alcohol is no longer permitted at train stations in Germany, to improve the lot of travelers and staff alike. Coalition talks are restarting in Berlin, and an inmate is loose in Essen. Follow DW for more.",
       "date_label": "15.10.2026",
-      "timestamp": 1792059240.0
+      "timestamp": 1792059240.0,
+      "topic_method": "rules"
     },
     {
       "source": "BBC World",
@@ -989,7 +1106,8 @@
       "url": "https://www.bbc.co.uk/news/articles/cq398x7j1lrwo?at_medium=RSS&at_campaign=rss",
       "summary": "Residents have been told to avoid leaving their homes unless absolutely necessary.",
       "date_label": "15.10.2026",
-      "timestamp": 1792058729.0
+      "timestamp": 1792058729.0,
+      "topic_method": "rules"
     },
     {
       "source": "BBC World",
@@ -998,7 +1116,8 @@
       "url": "https://www.bbc.co.uk/news/articles/cmwy43pp08elo?at_medium=RSS&at_campaign=rss",
       "summary": "Lula's supporters hope the measure will boost his popularity ahead of a presidential run-off in 10 days.",
       "date_label": "15.10.2026",
-      "timestamp": 1792058717.0
+      "timestamp": 1792058717.0,
+      "topic_method": "rules"
     },
     {
       "source": "Sagene Avis",
@@ -1007,7 +1126,8 @@
       "url": "https://www.sageneavis.no/fisk/middag/undersokelse/sliter-du-med-a-spise-nok-fisk-slik-lykkes-du-pa-15-minutter/s/80-95-162624",
       "summary": "Nesten åtte av ti nordmenn klarer ikke å følge myndighetenes kostholdsråd for sjømat. Løsningen for både tidsnød og skeptiske barn kan være enklere enn du tror.",
       "date_label": "15.10.2026",
-      "timestamp": 1792058711.0
+      "timestamp": 1792058711.0,
+      "topic_method": "rules"
     },
     {
       "source": "CNN",
@@ -1016,7 +1136,8 @@
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMkk3cmVjb3pfX3Fib0JmQ1dkODVWMzZoNjlycXFGekl3SDVNUDFYZ25QaW1SZTVKV0FwWDVGOEotYzZzdzhUOUNpR1NLNFNQMFpyNFNCUEZfbjB3a2VZdFZuZmM4bU1LNWhlbG8zUzJHVzF0ZEFIRGNXVzlDakd5bURTZkNnWERPUkJtNnU3RUM2Zw?oc=5",
       "summary": "High school seniors, parents and college counselors grapple with applying to Cornell CNN",
       "date_label": "15.10.2026",
-      "timestamp": 1792058446.0
+      "timestamp": 1792058446.0,
+      "topic_method": "rules"
     },
     {
       "source": "Nordre Aker Budstikke",
@@ -1025,7 +1146,8 @@
       "url": "https://www.nab.no/endrer-ladesystemet-i-oslo/s/80-143-23388",
       "summary": "Under overgangen til nytt system vil ladestolpene lyse grønt, selv om ladepunktet ikke er tilgjengelig.",
       "date_label": "15.10.2026",
-      "timestamp": 1792058400.0
+      "timestamp": 1792058400.0,
+      "topic_method": "rules"
     },
     {
       "source": "Sagene Avis",
@@ -1034,7 +1156,8 @@
       "url": "https://www.sageneavis.no/stenger-110-butikker-sender-alle-ansatte-pa-fest/s/80-144-7269",
       "summary": "Svir av flere titalls millioner: – Et fantastisk år.",
       "date_label": "15.10.2026",
-      "timestamp": 1792058056.0
+      "timestamp": 1792058056.0,
+      "topic_method": "rules"
     },
     {
       "source": "Deutsche Welle",
@@ -1043,7 +1166,9 @@
       "url": "https://www.dw.com/en/brazil-s-elections-matter-for-the-planet-this-is-why/a-79659928?maca=en-rss-en-all-1573-xml-mrss",
       "summary": "Brazil is heading back to the polls, but the impact could be felt worldwide. With the Amazon vital to the health of the planet, the election could help shape its future.",
       "date_label": "15.10.2026",
-      "timestamp": 1792057920.0
+      "timestamp": 1792057920.0,
+      "topic": "politikk",
+      "topic_method": "semantic-ai"
     },
     {
       "source": "CNN",
@@ -1052,7 +1177,8 @@
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1SNTlvNGdXdmFmdU1rTWxZWXYzVV9VNkNJRWUyajRPNlJSazhkWWpKLVRaZDBaZG9DRmVIeGxDSXhFTm5fcU5JRDNaZFZkdlBmTGJwNWRWcmtybDhNeHpOcU1JVF9WbVhmeS1YTnUxaTR5bUVNQkFhaThDWFp1QQ?oc=5",
       "summary": "Harry and Meghan make first joint appearance since returning to the UK CNN",
       "date_label": "15.10.2026",
-      "timestamp": 1792057870.0
+      "timestamp": 1792057870.0,
+      "topic_method": "rules"
     },
     {
       "source": "Deutsche Welle",
@@ -1061,7 +1187,8 @@
       "url": "https://www.dw.com/en/india-news-supreme-court-hears-rahul-gandhi-s-election-commission-plea/live-79665180?maca=en-rss-en-all-1573-xml-mrss",
       "summary": "A petition filed by opposition leader Rahul Gandhi and others seeks an independent audit of India's sweeping voter deletions. Meanwhile, actor Imran Khan has reportedly been ordered to leave India.",
       "date_label": "15.10.2026",
-      "timestamp": 1792057680.0
+      "timestamp": 1792057680.0,
+      "topic_method": "rules"
     },
     {
       "source": "Avisa Oslo",
@@ -1070,7 +1197,8 @@
       "url": "https://www.ao.no/millionene-forsvant-over-natta-nesten-frekt/s/80-128-45977",
       "summary": "Festivalen trodde kommunen skulle gi dem millionsummen årlig. – Ikke byrådets oppgave, er svaret.",
       "date_label": "15.10.2026",
-      "timestamp": 1792057536.0
+      "timestamp": 1792057536.0,
+      "topic_method": "rules"
     },
     {
       "source": "CNN",
@@ -1079,7 +1207,8 @@
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMU0ySTNqNjFnbE9XdGJXUW9VUGpBeU41dUhkXzhSV0w5X3pJV25xM0sxREZTMzJ4S2pJUkFvM3VOMWpId01oMGxfUDd4RTlKZjR2TXQxWXVJWGRST0lVWldfclllU1l3a21MemNhQ1VkX2Fod1RHaW1aTjRiRVJtaQ?oc=5",
       "summary": "Scientists knew the Doomsday Glacier was melting. They didn’t realize how ‘aggressively’ CNN",
       "date_label": "15.10.2026",
-      "timestamp": 1792056978.0
+      "timestamp": 1792056978.0,
+      "topic_method": "rules"
     },
     {
       "source": "NRK",
@@ -1088,7 +1217,8 @@
       "url": "https://www.nrk.no/rogaland/norsk-19-aring-venter-pa-straffen-for-drapsplanlegging-_-forsvareren-frykter-livstid-1.18053572",
       "summary": "Fredag faller straffeutmålingen mot den norske tenåringen som er dømt for drapsplanlegging i London: – Vi har hatt ett mål, og det er å få han tilbake til Norge, sier hans norske forsvarer.",
       "date_label": "15.10.2026",
-      "timestamp": 1792055805.0
+      "timestamp": 1792055805.0,
+      "topic_method": "rules"
     },
     {
       "source": "CNN",
@@ -1097,7 +1227,8 @@
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNM1NXSG95c2F0Qk9VRkk2TTFkdTVQdG51Q2tMWnRIMmIwWXhQX2pmd1F3TlVGMG5rZlJjblZuNUY4NEJDLURib21UdjROX0g4clJzU3NCZDVHQlBrMHlBOEFFUFllOUVObUI1alZreWhSWWpYRTJtWllIUXVRQjhpdg?oc=5",
       "summary": "House Republicans face a potential clash over who will be GOP leader if they lose the midterms CNN",
       "date_label": "15.10.2026",
-      "timestamp": 1792054845.0
+      "timestamp": 1792054845.0,
+      "topic_method": "rules"
     },
     {
       "source": "CNN",
@@ -1106,7 +1237,8 @@
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQYWcyMHJ4SV9hcGhKUThpUlRvNXJnQk9wekl5S01taWxtYnVfM0cxU3IxQS1YSnI1MF9zX1BlemZYUGRsck1ZZU1OSUJNektZdWIxcTZvSmhfaHdTNGFmS05vWXZWMVR1U0x3VmhlOHdsaThjTGo2SXpmYXh0RlFvMnNn?oc=5",
       "summary": "He was trapped in a whale. Now, he’s seeing the movie. CNN",
       "date_label": "15.10.2026",
-      "timestamp": 1792054845.0
+      "timestamp": 1792054845.0,
+      "topic_method": "rules"
     },
     {
       "source": "CNN",
@@ -1115,7 +1247,8 @@
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZ3E3WjBjdkxlRWcwWnpjZEdodFppTDdnZDNxSG41SUxHZjNOU0o1WW95QjduVE1pRS1VZlZaQzRidU5VZTRKcmJwOV9ZZ0dhckxhdEwwVWJ0Z3ZXdEljQUk1eWlSdFp4czB3T3VJSkFyMkc3eVhUdnZpN0hid2pGSmpn?oc=5",
       "summary": "More than 3 million Medicare Advantage enrollees need to find new plans for 2027 in third year of turmoil CNN",
       "date_label": "15.10.2026",
-      "timestamp": 1792054844.0
+      "timestamp": 1792054844.0,
+      "topic_method": "rules"
     },
     {
       "source": "CNN",
@@ -1124,7 +1257,8 @@
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbGZ4ZW5YMlpIV21UZjhiV1BvUWpLLTJEMGVYdzV1LXF0QmRfLW9EVTg1c0JjOEdZbmN4QV81djlJdGVsanNrcHNvN0JfTGlaRWl4WHFwUE52T29DNTdwMzVISDRBTW5mRHRiS01JWlpjYVhWVlpUel92R0Q1UGFveklLVjNtZmd1RXc?oc=5",
       "summary": "Teen accused of plotting mass shooting at Chicago-area Hindu temple CNN",
       "date_label": "15.10.2026",
-      "timestamp": 1792054168.0
+      "timestamp": 1792054168.0,
+      "topic_method": "rules"
     },
     {
       "source": "Deutsche Welle",
@@ -1133,7 +1267,8 @@
       "url": "https://www.dw.com/en/why-chinese-tech-brands-are-outpacing-western-rivals-from-evs-to-robot-vacuums/a-79646187?maca=en-rss-en-all-1573-xml-mrss",
       "summary": "From action cameras and smartphones to EVs and robot vacuums, Chinese brands are gaining ground worldwide, despite privacy and security concerns. What's driving their rise, and can European rivals keep up?",
       "date_label": "15.10.2026",
-      "timestamp": 1792053900.0
+      "timestamp": 1792053900.0,
+      "topic_method": "rules"
     },
     {
       "source": "BBC World",
@@ -1142,7 +1277,8 @@
       "url": "https://www.bbc.co.uk/news/articles/ckqxne2evqreo?at_medium=RSS&at_campaign=rss",
       "summary": "Katie Zacharia does not appear to be registered to the legal bar in any state where she has lived.",
       "date_label": "15.10.2026",
-      "timestamp": 1792053664.0
+      "timestamp": 1792053664.0,
+      "topic_method": "rules"
     },
     {
       "source": "Sagene Avis",
@@ -1151,7 +1287,8 @@
       "url": "https://www.sageneavis.no/iskrem/iskremtest/coop-goblin-mode/coop-utfordrer-iskremgigantene-denne-isen-fikk-terningkast-seks-av-samtlige/s/80-95-161874",
       "summary": "Brat, Delulu, Drama og Goblin. Coop har gitt sine nye iskremvarianter navn som høres ut som de er hentet rett fra TikTok.",
       "date_label": "15.10.2026",
-      "timestamp": 1792053304.0
+      "timestamp": 1792053304.0,
+      "topic_method": "rules"
     },
     {
       "source": "Sagene Avis",
@@ -1160,7 +1297,9 @@
       "url": "https://www.sageneavis.no/kunstig-intelligens/hudpleie/ai/lot-ki-undersoke-huden-resultatet-vekker-oppsikt/s/80-95-162216",
       "summary": "Stadig flere lar kunstig intelligens analysere huden og anbefale skjønnhetsprodukter. Da britiske forbrukere satte teknologien på prøve, fikk de seg noen overraskelser.",
       "date_label": "15.10.2026",
-      "timestamp": 1792053169.0
+      "timestamp": 1792053169.0,
+      "topic": "teknologi",
+      "topic_method": "semantic-ai"
     },
     {
       "source": "CNN",
@@ -1169,7 +1308,8 @@
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQjFUV1NjZGlmOHFvYkw5ZU8tN2EzeE1EaE5uamo2VG5ONld3QllfQ2drQWJUVjFIVW1Ga3Q2eTJPZ19OOEpFcmxNbGpsd05LS09yczkzRTl1Z1BfTGw1NTFRMmxacklHa2s4akVnaG11cTNXdnRjN0JHcXc2d1ZBQmpaSThBZjB2YXZjbXQ1VzdzTlZzMlN6Nw?oc=5",
       "summary": "Talarico refutes skeptics at CNN Town Hall CNN",
       "date_label": "15.10.2026",
-      "timestamp": 1792052820.0
+      "timestamp": 1792052820.0,
+      "topic_method": "rules"
     },
     {
       "source": "BBC World",
@@ -1178,7 +1318,8 @@
       "url": "https://www.bbc.co.uk/news/articles/ck3r5pv5j1g1o?at_medium=RSS&at_campaign=rss",
       "summary": "The Bollywood actor had been detained and released while participating in a protest in Mumbai on 10 October.",
       "date_label": "15.10.2026",
-      "timestamp": 1792052227.0
+      "timestamp": 1792052227.0,
+      "topic_method": "rules"
     },
     {
       "source": "Sagene Avis",
@@ -1187,7 +1328,8 @@
       "url": "https://www.sageneavis.no/zo-skin-health/hudpleie/retinol/zo-skin-health-lanserer-ny-retinolserie-0-3-retinol-med-mindre-irritasjon/s/80-95-161988",
       "summary": "Hudpleiemerket ZO Skin Health lanserer en ny generasjon retinolprodukter tilpasset ulike hudbehov. Serien består av tre produkter med 0,3 prosent retinol, utviklet for å gi god effekt med mindre rødhet og flassing.",
       "date_label": "15.10.2026",
-      "timestamp": 1792052002.0
+      "timestamp": 1792052002.0,
+      "topic_method": "rules"
     },
     {
       "source": "Deutsche Welle",
@@ -1196,7 +1338,8 @@
       "url": "https://www.dw.com/en/manchester-city-the-uae-and-the-uk-s-om-in-a-political-tangle/a-79664729?maca=en-rss-en-all-1573-xml-mrss",
       "summary": "Nearly 20 years after arriving in England, Manchester City's UAE owners could exit amid cheating charges. That would pose a challenge for a city — and prime minister — closely tied to Abu Dhabi.",
       "date_label": "15.10.2026",
-      "timestamp": 1792051980.0
+      "timestamp": 1792051980.0,
+      "topic_method": "rules"
     },
     {
       "source": "The Guardian",
@@ -1205,7 +1348,8 @@
       "url": "https://www.theguardian.com/global-development/2026/oct/15/senegal-homosexuality-criminalised-anti-lgbtq-arrests-hiv-testing-human-rights-watch",
       "summary": "At least 320 people detained for ‘acts against nature’ after law criminalising homosexuality toughened, HRW reports Mass arrests, forced HIV testing and barriers to legal representation are part of an escalating crackdown against LGBTQ+ people in Senegal, according to a new report . More than 320 individuals have been arrested and detained on alleg",
       "date_label": "15.10.2026",
-      "timestamp": 1792051225.0
+      "timestamp": 1792051225.0,
+      "topic_method": "rules"
     },
     {
       "source": "The Guardian",
@@ -1214,7 +1358,8 @@
       "url": "https://www.theguardian.com/australia-news/2026/oct/15/woman-charged-after-allegedly-poisoning-colleagues-curry-lunch-with-snail-pellets-ntwnfb",
       "summary": "Western Australian police say woman ‘experienced numbness to her tongue’ after tasting the curry at her workplace in Perth Get our breaking news email , free app or daily news podcast A woman has been charged after allegedly poisoning a co-worker’s lunch curry with snail pellets. Western Australian police say a 58-year-old woman brought a container",
       "date_label": "15.10.2026",
-      "timestamp": 1792050460.0
+      "timestamp": 1792050460.0,
+      "topic_method": "rules"
     },
     {
       "source": "NRK",
@@ -1223,7 +1368,8 @@
       "url": "https://www.nrk.no/sport/viking-og-bodo_glimt-skapte-sjokkbolger_-_kva-er-det-som-skjer__-1.18054165",
       "summary": "Dei norske skalpane mot Bayern München og Borussia Dortmund fører til overskrifter i Tyskland og resten av fotballverda.",
       "date_label": "15.10.2026",
-      "timestamp": 1792050447.0
+      "timestamp": 1792050447.0,
+      "topic_method": "rules"
     },
     {
       "source": "CNN",
@@ -1232,7 +1378,8 @@
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSkVlVmNnNGxBTW1kYldjUGVxM3ZJWDUtUHUwa2EzT3Vnckg3QmpnUlFOYWk3bjItSU1rd1d0ak5mYURqNXd1Rlk1Q09qWF9lWGFrZzZZX0x1TkJjVExpV2UtbXU3Tzg0b2o5WmI1aFppNGliVmFMRlhrTFVFRDAyR2ZSektQQUtJ?oc=5",
       "summary": "Pakistan school roof collapse kills at least 32 children and one teacher CNN",
       "date_label": "15.10.2026",
-      "timestamp": 1792050004.0
+      "timestamp": 1792050004.0,
+      "topic_method": "rules"
     },
     {
       "source": "Avisa Oslo",
@@ -1241,7 +1388,8 @@
       "url": "https://www.ao.no/derfor-sirkler-politihelikopteret-over-oslo/s/80-128-49520",
       "summary": "",
       "date_label": "15.10.2026",
-      "timestamp": 1792049738.0
+      "timestamp": 1792049738.0,
+      "topic_method": "rules"
     },
     {
       "source": "Avisa Oslo",
@@ -1250,7 +1398,8 @@
       "url": "https://www.ao.no/varsler-oppsiktsvekkende-syn-i-sentrum-synlig-bevapnet/s/80-128-49367",
       "summary": "Flere situasjoner kan se dramatiske i sentrum på torsdag. Politiet skal prøve å informere så godt de kan om hva som egentlig skjer.",
       "date_label": "15.10.2026",
-      "timestamp": 1792049473.0
+      "timestamp": 1792049473.0,
+      "topic_method": "rules"
     },
     {
       "source": "Avisa Oslo",
@@ -1259,7 +1408,8 @@
       "url": "https://www.ao.no/gule-og-gronne-casinetto/g/80-128-49511",
       "summary": "",
       "date_label": "15.10.2026",
-      "timestamp": 1792049406.0
+      "timestamp": 1792049406.0,
+      "topic_method": "rules"
     },
     {
       "source": "BBC World",
@@ -1268,7 +1418,8 @@
       "url": "https://www.bbc.co.uk/news/articles/c6wy435gd311o?at_medium=RSS&at_campaign=rss",
       "summary": "The body was recovered from a large blue plastic storage container - locally called a drum.",
       "date_label": "15.10.2026",
-      "timestamp": 1792049154.0
+      "timestamp": 1792049154.0,
+      "topic_method": "rules"
     },
     {
       "source": "Avisa Oslo",
@@ -1277,7 +1428,8 @@
       "url": "https://www.ao.no/statt-i-ko-siden-06-15-verdt-det/s/80-128-49445",
       "summary": "Alle som har møtt opp, kommer for det samme.",
       "date_label": "15.10.2026",
-      "timestamp": 1792048542.0
+      "timestamp": 1792048542.0,
+      "topic_method": "rules"
     },
     {
       "source": "NRK",
@@ -1286,7 +1438,8 @@
       "url": "https://www.nrk.no/sapmi/sametinget-tapte-mot-staten-_-igjen-1.18055489",
       "summary": "Borgarting lagmannsrett slår i likhet med tingretten fast at regjeringens vedtak om å elektrifisere Melkøya er gyldig. Sametinget tapte ankesaken på alle punkter og må betale statens saksomkostninger.",
       "date_label": "15.10.2026",
-      "timestamp": 1792048027.0
+      "timestamp": 1792048027.0,
+      "topic_method": "rules"
     },
     {
       "source": "NRK",
@@ -1295,7 +1448,8 @@
       "url": "https://www.nrk.no/nyheter/russland-har-pagrepet-svensk-borger-1.18055518",
       "summary": "Den svenske statsborgeren skal ha krysset grensen til Russland ulovlig, ifølge det russiske nyhetsbyrået Tass. Nyhetsbyrået oppgir den russiske sikkerhetstjenesten FSB som kilde for opplysningene. Den svenske avisen Aftonbladet skriver at den svenske statsborgeren har tjenestegjort i Ukraina som leder for en droneenhet. Aftonbladet siterer også Tas",
       "date_label": "15.10.2026",
-      "timestamp": 1792047700.0
+      "timestamp": 1792047700.0,
+      "topic_method": "rules"
     },
     {
       "source": "The Guardian",
@@ -1304,7 +1458,8 @@
       "url": "https://www.theguardian.com/australia-news/2026/oct/15/adf-person-of-interest-recording-device-hmas-leeuwin-womens-showers-ntwnfb",
       "summary": "Vice Adm Buckley calls incident an ‘act of sexual violence’ and a ‘despicable betrayal of trust’ Get our breaking news email , free app or daily news podcast The defence department says a member of the Australian Defence Force is a “person of interest” in investigations after a video recording device was found in a bathroom on HMAS Leeuwin, in what",
       "date_label": "15.10.2026",
-      "timestamp": 1792047634.0
+      "timestamp": 1792047634.0,
+      "topic_method": "rules"
     },
     {
       "source": "The Guardian",
@@ -1313,7 +1468,8 @@
       "url": "https://www.theguardian.com/australia-news/live/2026/oct/15/anthony-albanese-labor-pauline-hanson-monoculture-victorian-election-coalition-angus-taylor-ntwnfb",
       "summary": "This blog is now closed Get our breaking news email , free app or daily news podcast Private health insurance changes ‘recalibrating precious taxpayer dollars’, says Wells The health minister, Mark Butler, yesterday promised to reintroduce a bill to reduce private health insurance rebates for over-65s, after it was thrown out of the Senate by the c",
       "date_label": "15.10.2026",
-      "timestamp": 1792047296.0
+      "timestamp": 1792047296.0,
+      "topic_method": "rules"
     },
     {
       "source": "Avisa Oslo",
@@ -1322,7 +1478,8 @@
       "url": "https://www.ao.no/storaksjon-mot-byens-restauranter-gjorde-alvorlige-funn/s/80-128-49370",
       "summary": "I nesten åtte av ti tilsyn fant inspektørene brudd på regelverket.",
       "date_label": "15.10.2026",
-      "timestamp": 1792045671.0
+      "timestamp": 1792045671.0,
+      "topic_method": "rules"
     },
     {
       "source": "BBC World",
@@ -1331,7 +1488,8 @@
       "url": "https://www.bbc.co.uk/news/articles/ck1exgw3j115o?at_medium=RSS&at_campaign=rss",
       "summary": "China is the North's largest trading partner and a lifeline against the sanctions Pyongyang faces.",
       "date_label": "15.10.2026",
-      "timestamp": 1792045485.0
+      "timestamp": 1792045485.0,
+      "topic_method": "rules"
     },
     {
       "source": "Avisa Oslo",
@@ -1340,7 +1498,8 @@
       "url": "https://www.ao.no/na-fredes-den-historiske-skolen/s/80-128-49364",
       "summary": "Den tradisjonsrike skolen sikres for evigheten.",
       "date_label": "15.10.2026",
-      "timestamp": 1792044816.0
+      "timestamp": 1792044816.0,
+      "topic_method": "rules"
     },
     {
       "source": "CNN",
@@ -1349,7 +1508,8 @@
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5qOGtXTWhIVVFwRWJuaUxnSno1clBQZ2h2ZkJVYnFVMDdtU0dfa1RnOWNLM0lXbUlFamZwSzRNWnNUZnI5Q0tsTkx2WUZJQ0t4NGkxanR5V3Znd3h4Ynd6TW9kQVZsbG01OVlXaXBleFBzeTNPOXc3OA?oc=5",
       "summary": "New North Korea-China bridge finally opens. But will it help Pyongyang evade sanctions? CNN",
       "date_label": "15.10.2026",
-      "timestamp": 1792044328.0
+      "timestamp": 1792044328.0,
+      "topic_method": "rules"
     },
     {
       "source": "CNN",
@@ -1358,7 +1518,8 @@
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ZbkhPNWd5ZGdxaXJLeTBRaFg1N2U2cnZZeEs2WWk5cG10NDFjX1ZpVVpEbDg1MVB4YlhBR2lSMFpjdWlNbjR2TUxKdUZBMlUtakh6T1dHbkZPOVZiRW9xWjAyTWJnMmRX?oc=5",
       "summary": "Government records reveal mechanical failures, faulty restraint bars and broken bones at Six Flags theme parks CNN",
       "date_label": "15.10.2026",
-      "timestamp": 1792040677.0
+      "timestamp": 1792040677.0,
+      "topic_method": "rules"
     },
     {
       "source": "BBC World",
@@ -1367,7 +1528,8 @@
       "url": "https://www.bbc.co.uk/news/articles/c574e228vlygo?at_medium=RSS&at_campaign=rss",
       "summary": "BBC Verify has identified 254 incidents from the past three years the Israeli military said it is reviewing after being accused of harm.",
       "date_label": "15.10.2026",
-      "timestamp": 1792040423.0
+      "timestamp": 1792040423.0,
+      "topic_method": "rules"
     },
     {
       "source": "NRK",
@@ -1376,7 +1538,8 @@
       "url": "https://www.nrk.no/stor-oslo/lorenskog_-synes-det-tar-for-lang-tid-a-fa-svar-om-stjalne-dokumenter-1.18045407",
       "summary": "Hun er et av mange tusen ofre for det store datainnbruddet i mai. Nå venter hun fortvilet på svar.",
       "date_label": "15.10.2026",
-      "timestamp": 1792040311.0
+      "timestamp": 1792040311.0,
+      "topic_method": "rules"
     },
     {
       "source": "NRK",
@@ -1385,7 +1548,8 @@
       "url": "https://www.nrk.no/mr/sjukepleiarforbundet-ber-arbeidstilsynet-undersoke-arbeidspress-ved-snr-1.18054431",
       "summary": "Sjukepleiarforbundet er bekymra og ber Arbeidstilsynet undersøke forholda etter at fleire leiarar har slutta.",
       "date_label": "15.10.2026",
-      "timestamp": 1792040196.0
+      "timestamp": 1792040196.0,
+      "topic_method": "rules"
     },
     {
       "source": "CNN",
@@ -1394,7 +1558,8 @@
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMWtzWUtHNWlyUkN6bWdXaGR3UVF2OG54enhsN0ZVeUJocVM4Qy1hd05NbkptSG1pemhHTDJqUTdWNGtwTmhGQ2pEYWxCUmhaSFNJemJkSk04ZmNMWl85ZV9hd0ZHTGNMdFM1eklTUWpjMjdPSm1QMWYwUFZydnphREg2cmd2VVNFRnNLenlVdm9obkVYZUh4MmFWblRQRjdvcGswOTYtTmk5WmVFa29HalZaUXQ4Mzl0cTNlNHBrd3RqaVc2REdZ?oc=5",
       "summary": "Records reveal mechanical failures, faulty restraints and broken bones at Six Flags parks CNN",
       "date_label": "15.10.2026",
-      "timestamp": 1792040023.0
+      "timestamp": 1792040023.0,
+      "topic_method": "rules"
     },
     {
       "source": "The Guardian",
@@ -1403,7 +1568,8 @@
       "url": "https://www.theguardian.com/world/2026/oct/15/indonesia-fires-dry-ice-dropped-toxic-haze-spreads",
       "summary": "Having tried cloud seeding and water bombing, one pilot project will see dry ice dispersed by plane across the province of South Sumatra As fires ravage Indonesia, emitting a toxic smoke that has drawn the ire of regional neighbours, the government is testing an unusual new approach to tackle the haze: dry ice. Having tried cloud seeding, water bom",
       "date_label": "15.10.2026",
-      "timestamp": 1792038303.0
+      "timestamp": 1792038303.0,
+      "topic_method": "rules"
     },
     {
       "source": "BBC World",
@@ -1412,7 +1578,8 @@
       "url": "https://www.bbc.co.uk/news/articles/cmp3gnep35gko?at_medium=RSS&at_campaign=rss",
       "summary": "The alleged victim, who was in a relationship with the woman, had spotted bright green pellets in the meal.",
       "date_label": "15.10.2026",
-      "timestamp": 1792037865.0
+      "timestamp": 1792037865.0,
+      "topic_method": "rules"
     },
     {
       "source": "NRK",
@@ -1421,7 +1588,8 @@
       "url": "https://www.nrk.no/nordland/haikin-reagerer-pa-viking-oppforsel_-_-for-meg-er-det-uakseptabelt-1.18055344",
       "summary": "På ett døgn har Norges to beste klubber rystet Tysklands største giganter. Men Vikings kyniske grep skaper debatt.",
       "date_label": "15.10.2026",
-      "timestamp": 1792037490.0
+      "timestamp": 1792037490.0,
+      "topic_method": "rules"
     },
     {
       "source": "CNN",
@@ -1430,7 +1598,8 @@
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTWt5dWE5MFQwOFNCVHdMb3Z2ZHRnMHczOG1QMEIyeW1ycXlFWTJnNUxOT0FTYzhwdTFMMmZhYjN4ZFVJbkNmS0NsdTJieWFLZ1RwQzU4WDg1MmxpdXlNLTNwV3BBZS1Gbk5wUDZ4Qy1mUG9uYU1FNEFyM0V5WlFISVE2a0IzX3U2N29z?oc=5",
       "summary": "Two cargo ships sunk in Strait of Hormuz as Iran ramps up attacks in run-up to midterms CNN",
       "date_label": "15.10.2026",
-      "timestamp": 1792037161.0
+      "timestamp": 1792037161.0,
+      "topic_method": "rules"
     },
     {
       "source": "CNN",
@@ -1439,7 +1608,8 @@
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSktNLUM1VEdiandOcDJVNzE4b2NuajZkcXAtem40MlJ4TWc3VEptSjJqQ1g0QjF5VTVXemNQUDBSdy1wYWM4eG44b05FT3ZLVi1sTUhGM3U1MEk0X3JvTzBFUlVNczJZZlZfUlcxN1NwVnQzc0ZuTEVxSkhLOE5wenBMZ2xqZw?oc=5",
       "summary": "Exclusive: US considering using ‘mother of all bombs’ against Iran, sources say CNN",
       "date_label": "15.10.2026",
-      "timestamp": 1792036904.0
+      "timestamp": 1792036904.0,
+      "topic_method": "rules"
     },
     {
       "source": "NRK",
@@ -1448,7 +1618,8 @@
       "url": "https://www.nrk.no/tromsogfinnmark/finnmarkssykehuset-ruster-opp-krigsberedskap-uten-ekstra-penger-1.18052719",
       "summary": "Finnmarkssykehuset er i gang med å ruste seg for krig og krise uten ekstra penger fra staten. – Dette regnestykket går ikke opp, sier leder i Finnmark legeforening.",
       "date_label": "15.10.2026",
-      "timestamp": 1792034832.0
+      "timestamp": 1792034832.0,
+      "topic_method": "rules"
     },
     {
       "source": "CNN",
@@ -1457,7 +1628,9 @@
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPa25rT28wenZvM2ZkbjB2N1dqLXctOHAzc0pYR2diLWR4UDNmY3VBZmd2dVJ1SXhtVFJHWW5jR2swcHVtU29ER05BdGlZdWRhd056STVxczlCTWxiYVFTaUJaMVlIX3BJcEktSWpUa2s1ZVpjZk5jOG0xWVBqNVlOUWtydUlncnU0aTI3dlloQnVvNjAy?oc=5",
       "summary": "Suspicious letters with white powder sent to election offices in multiple states CNN",
       "date_label": "15.10.2026",
-      "timestamp": 1792034460.0
+      "timestamp": 1792034460.0,
+      "topic": "politikk",
+      "topic_method": "semantic-ai"
     },
     {
       "source": "The Guardian",
@@ -1466,7 +1639,8 @@
       "url": "https://www.theguardian.com/world/2026/oct/15/brazil-cuts-work-week-to-40-hours-lula-bolsonaro-election-runoff",
       "summary": "Congress approves constitutional amendment that bans six-day workweeks, which could affect up to 30 million Brazil’s congress has approved a constitutional amendment to shorten the working week to a maximum of 40 hours, a move that could affect 30 million workers and that will hand a political victory to the leftist president Luiz Inácio Lula da Si",
       "date_label": "15.10.2026",
-      "timestamp": 1792032342.0
+      "timestamp": 1792032342.0,
+      "topic_method": "rules"
     },
     {
       "source": "BBC World",
@@ -1475,7 +1649,8 @@
       "url": "https://www.bbc.co.uk/news/articles/cmp3gnngv3e9o?at_medium=RSS&at_campaign=rss",
       "summary": "Livestreaming the execution of Nidal Hasan \"will taint the honor of the military that employs it, and a nation that allows it,\" 72 former officers said in a letter.",
       "date_label": "15.10.2026",
-      "timestamp": 1792031167.0
+      "timestamp": 1792031167.0,
+      "topic_method": "rules"
     },
     {
       "source": "BBC World",
@@ -1484,7 +1659,8 @@
       "url": "https://www.bbc.co.uk/news/articles/cvy0rd1j2kzlo?at_medium=RSS&at_campaign=rss",
       "summary": "Can Nepal bring the two regional giants together to confront a shared climate threat in the Himalayas?",
       "date_label": "14.10.2026",
-      "timestamp": 1792020731.0
+      "timestamp": 1792020731.0,
+      "topic_method": "rules"
     },
     {
       "source": "BBC World",
@@ -1493,7 +1669,9 @@
       "url": "https://www.bbc.co.uk/news/articles/c0rezqpnekro?at_medium=RSS&at_campaign=rss",
       "summary": "Democrats and Republicans alike are coming out against data centre development, amid growing backlash across the US.",
       "date_label": "14.10.2026",
-      "timestamp": 1792018977.0
+      "timestamp": 1792018977.0,
+      "topic": "politikk",
+      "topic_method": "semantic-ai"
     },
     {
       "source": "BBC World",
@@ -1502,7 +1680,8 @@
       "url": "https://www.bbc.co.uk/news/articles/c5djvyde0y1jo?at_medium=RSS&at_campaign=rss",
       "summary": "With the festive season on the horizon, we trace toys from factories in China to US shelves.",
       "date_label": "14.10.2026",
-      "timestamp": 1792018888.0
+      "timestamp": 1792018888.0,
+      "topic_method": "rules"
     },
     {
       "source": "BBC World",
@@ -1511,7 +1690,8 @@
       "url": "https://www.bbc.co.uk/news/articles/cxvgdneplgzeo?at_medium=RSS&at_campaign=rss",
       "summary": "Art of Play says its staff have been threatened after the singer complained online about how she was treated.",
       "date_label": "14.10.2026",
-      "timestamp": 1792016353.0
+      "timestamp": 1792016353.0,
+      "topic_method": "rules"
     },
     {
       "source": "Sagene Avis",
@@ -1520,7 +1700,8 @@
       "url": "https://www.sageneavis.no/disse-er-oslos-mest-populare-fastleger-sjekk-hvem-som-topper-i-bydel-sagene/s/80-144-7257",
       "summary": "I Oslo jobber det over 600 fastleger. Avisa Oslo har laget en stor oversikt over de mest populære av dem.",
       "date_label": "14.10.2026",
-      "timestamp": 1792015260.0
+      "timestamp": 1792015260.0,
+      "topic_method": "rules"
     },
     {
       "source": "BBC World",
@@ -1529,7 +1710,8 @@
       "url": "https://www.bbc.co.uk/news/articles/cq80zk5k2ep4o?at_medium=RSS&at_campaign=rss",
       "summary": "Buildings were set alight on the second day of demonstrations from thousands of students who want better university conditions and job prospects.",
       "date_label": "14.10.2026",
-      "timestamp": 1792009745.0
+      "timestamp": 1792009745.0,
+      "topic_method": "rules"
     },
     {
       "source": "The Guardian",
@@ -1538,7 +1720,8 @@
       "url": "https://www.theguardian.com/technology/2026/oct/14/zimbabwean-author-simbarashe-kundizeza-denies-ai-story",
       "summary": "Article in Atlantic claims The Blue Fighter was artificially generated, days after it won Caine prize for African writers The Zimbabwean writer Simbarashe Kundizeza has denied using AI to write a prize-winning short story after an article in the Atlantic said software had flagged it as almost completely AI-generated. Kundizeza’s story The Blue Figh",
       "date_label": "14.10.2026",
-      "timestamp": 1792004489.0
+      "timestamp": 1792004489.0,
+      "topic_method": "rules"
     },
     {
       "source": "Sagene Avis",
@@ -1547,7 +1730,8 @@
       "url": "https://www.sageneavis.no/ulykker-har-preget-strekningen-i-flere-ar-na-blir-det-endringer-her/s/80-144-7191",
       "summary": "Det har vært flere ulykker og nestenulykker i Vitaminveien på Storo. Nå gjennomføres nok et tiltak for å bedre sikkerheten.",
       "date_label": "14.10.2026",
-      "timestamp": 1792004400.0
+      "timestamp": 1792004400.0,
+      "topic_method": "rules"
     },
     {
       "source": "Deutsche Welle",
@@ -1556,7 +1740,8 @@
       "url": "https://www.dw.com/en/nord-stream-trial-opens-in-germany-defense-seeks-dismissal/a-79662942?maca=en-rss-en-all-1573-xml-mrss",
       "summary": "Serhii Kuznietsov is accused of attacking civilian infrastructure in the 2022 sabotage of the Russian gas pipeline to Germany. His lawyers called Nord Stream a military target, and said their client is sworn to secrecy.",
       "date_label": "14.10.2026",
-      "timestamp": 1792000800.0
+      "timestamp": 1792000800.0,
+      "topic_method": "rules"
     },
     {
       "source": "The Guardian",
@@ -1565,7 +1750,8 @@
       "url": "https://www.theguardian.com/politics/2026/oct/14/uks-incoherent-approach-to-china-plagued-by-a-lack-of-expertise-report-says",
       "summary": "International alliance of China-sceptic legislators warns of risks inherent in misjudging bilateral relationship The UK’s approach to China is “beset by incoherence” and plagued by a lack of senior expertise, according to a report warning of the risks inherent in misjudging the bilateral relationship. An audit by the Inter-Parliamentary Alliance on",
       "date_label": "14.10.2026",
-      "timestamp": 1791997214.0
+      "timestamp": 1791997214.0,
+      "topic_method": "rules"
     },
     {
       "source": "Sagene Avis",
@@ -1574,7 +1760,8 @@
       "url": "https://www.sageneavis.no/restauranten-klikka-helt-etter-apningen-kjendisfavoritt-stenger-dorene-veldig-trist/s/80-144-7230",
       "summary": "Stedet har blitt en samlingspunkt for hele nabolaget.",
       "date_label": "14.10.2026",
-      "timestamp": 1791995888.0
+      "timestamp": 1791995888.0,
+      "topic_method": "rules"
     },
     {
       "source": "Deutsche Welle",
@@ -1583,7 +1770,8 @@
       "url": "https://www.dw.com/en/germany-s-far-right-afd-forges-a-pro-russia-alliance-with-the-bsw/a-79662413?maca=en-rss-en-all-1573-xml-mrss",
       "summary": "In Saxony-Anhalt, the AfD and BSW are joining forces to push for negotiations with Moscow. What is driving this rapprochement?",
       "date_label": "14.10.2026",
-      "timestamp": 1791990780.0
+      "timestamp": 1791990780.0,
+      "topic_method": "rules"
     },
     {
       "source": "Deutsche Welle",
@@ -1592,7 +1780,8 @@
       "url": "https://www.dw.com/en/albania-fire-at-education-ministry-as-students-protest/a-79661193?maca=en-rss-en-all-1573-xml-mrss",
       "summary": "Riot police deployed in the Albanian capital Tirana on the second day of student protests. The sudden outbreak seemed at least somewhat reminiscent of the widespread demos in France courting international attention.",
       "date_label": "14.10.2026",
-      "timestamp": 1791989760.0
+      "timestamp": 1791989760.0,
+      "topic_method": "rules"
     },
     {
       "source": "The Guardian",
@@ -1601,7 +1790,8 @@
       "url": "https://www.theguardian.com/world/2026/oct/14/guinea-bissau-vaccine-hepatitis-b-trial-denial",
       "summary": "Health minister says government ‘did not authorize’ Danish-led hepatitis B trial in babies backed by RFK Jr Guinea-Bissau has not approved the controversial hepatitis B study in newborns that would be funded by the US government and private partners, the African country’s minister of health said on Tuesday. The study, which would not investigate th",
       "date_label": "14.10.2026",
-      "timestamp": 1791983790.0
+      "timestamp": 1791983790.0,
+      "topic_method": "rules"
     },
     {
       "source": "Sagene Avis",
@@ -1610,7 +1800,8 @@
       "url": "https://www.sageneavis.no/endrer-skoletilhorigheten-tre-barneskoler-i-bydelen-pavirkes/s/80-144-7137",
       "summary": "Nå skal det endelig bestemmes hvilke elever som skal gå på hvilke ungdomsskoler i bydel Sagene. Du kan si din mening frem til 25. oktober.",
       "date_label": "14.10.2026",
-      "timestamp": 1791982762.0
+      "timestamp": 1791982762.0,
+      "topic_method": "rules"
     },
     {
       "source": "Sagene Avis",
@@ -1619,7 +1810,10 @@
       "url": "https://www.sageneavis.no/iphone/android/samsung/beste-mobiltelefon-2026-samsung-slar-iphone-i-stor-test-av-154-mobiler/s/80-95-158073",
       "summary": "Er du sikker på at iPhone er det beste valget når du skal kjøpe ny mobil? Svenske eksperter har utsatt 154 smarttelefoner for knallharde tester.",
       "date_label": "14.10.2026",
-      "timestamp": 1791973800.0
+      "timestamp": 1791973800.0,
+      "topic_method": "rules"
     }
-  ]
+  ],
+  "ai_model": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+  "ai_classified_count": 12
 }
