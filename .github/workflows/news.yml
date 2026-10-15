@@ -4,7 +4,7 @@ name: Aurora News AI - Oppdater nyheter
 on:
   workflow_dispatch:
   schedule:
-    - cron: '17 */3 * * *'
+    - cron: '*/15 * * * *'
 
 permissions:
   contents: write
