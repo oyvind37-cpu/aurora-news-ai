@@ -14,6 +14,10 @@ MODEL = "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2"
 # different kinds of stories within each editorial section.
 TOPICS = {
     "nyheter": [
+        "Skole evakuert etter brannalarm, ingen personer skadet.",
+        "Ambulanse og politi rykket ut etter trafikkulykke.",
+        "Politiet undersøker innbrudd, vold og lokale hendelser.",
+        "A fire broke out in a school building and firefighters responded.",
         "Brannutrykning til skole, brannvesenet rykket ut etter brannalarm.",
         "Nyhet om brann, ulykke, politiutrykning, redningsaksjon eller trafikkhendelse.",
         "Politiet etterforsker vold, tyveri, kriminalsak eller en alvorlig hendelse.",
@@ -21,6 +25,8 @@ TOPICS = {
         "Local news about a road collision, rescue operation, crime or public safety incident.",
     ],
     "politikk": [
+        "Kommunestyret vedtar nytt skolebudsjett og endrer kommunale tjenester.",
+        "The government proposes a new law on public education funding.",
         "Nyhet om politiske vedtak, regjering, Stortinget, kommunestyret og offentlig politikk.",
         "Reportasje om valg, partier, politiske konflikter, lovforslag og statsbudsjett.",
         "News about elections, government decisions, parliament, laws and public policy.",
@@ -61,18 +67,18 @@ TOPICS = {
 # Similarity scores are not probabilities. These are provisional thresholds
 # and must be evaluated against manually labelled examples.
 MIN_SCORE = 0.32
-MIN_MARGIN = 0.025
+MIN_MARGIN = 0.035
 
 # High-precision guardrails for short, unambiguous emergency headlines.
 # They are deliberately narrow; other stories still use semantic matching.
 import re
 EMERGENCY_HEADLINE = re.compile(
-    r"\\b(brannutrykning|brannalarm|brannvesenet rykket ut|politiutrykning|"
-    r"trafikkulykke|redningsaksjon|firefighters respond|fire brigade called)\\b", re.I
+    r"\b(brannutrykning|brannalarm|brannvesenet rykket ut|politiutrykning|"
+    r"trafikkulykke|redningsaksjon|firefighters respond|fire brigade called)\b", re.I
 )
 POLICY_HEADLINE = re.compile(
-    r"\\b(vedtak|forskrift|lovforslag|regjering|storting|kommunestyre|"
-    r"policy|legislation|parliament|government)\\b", re.I
+    r"\b(vedtak|forskrift|lovforslag|regjering|storting|kommunestyre|"
+    r"policy|legislation|parliament|government)\b", re.I
 )
 
 def main():
@@ -101,6 +107,7 @@ def main():
 
     assigned = 0
     uncertain = 0
+    guardrail_count = 0
     counts = {label: 0 for label in labels}
     for item, scores in zip(items, similarities):
         headline = str(item.get("title", ""))
@@ -108,6 +115,7 @@ def main():
             item["topic"] = "nyheter"
             item["topic_method"] = "headline-guardrail"
             counts["nyheter"] += 1
+            guardrail_count += 1
             continue
         # Best example per topic, rather than comparing against a long mixed
         # list of keywords. A clear margin is required to override fallback.
@@ -125,6 +133,9 @@ def main():
             counts[winner] += 1
         else:
             # Preserve an existing rule-based topic, if any.
+            # Do not carry stale semantic classifications from earlier runs.
+            if item.get("topic_method") in ("semantic-ai", "headline-guardrail"):
+                item.pop("topic", None)
             item["topic_method"] = "rules" if item.get("topic") else "unclassified"
             uncertain += 1
 
@@ -132,7 +143,8 @@ def main():
     data["ai_classified_count"] = assigned
     data["ai_uncertain_count"] = uncertain
     data["ai_topic_counts"] = counts
-    data["ai_method"] = "multilingual-example-similarity-v3"
+    data["ai_guardrail_count"] = guardrail_count
+    data["ai_method"] = "multilingual-example-similarity-v4"
     DATA.write_text(json.dumps(data, ensure_ascii=False, indent=2), encoding="utf-8")
     print(f"KI klassifiserte {assigned} av {len(items)} saker; {uncertain} usikre.")
     print("Emnefordeling:", counts)
