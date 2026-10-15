@@ -1,0 +1,36 @@
+name: Aurora AI Engine - Manuell KI-test
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: aurora-ai-engine
+  cancel-in-progress: false
+
+jobs:
+  classify:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+          cache: pip
+          cache-dependency-path: requirements-ai.txt
+      - name: Installer åpen KI-modell
+        run: pip install -r requirements-ai.txt
+      - name: Klassifiser nyhetene med KI
+        run: python ai_engine.py
+      - name: Lagre KI-klassifisering
+        run: |
+          git config user.name "aurora-news-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add news.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Klassifiser nyheter med Aurora AI Engine"
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
