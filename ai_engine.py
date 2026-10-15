@@ -98,8 +98,8 @@ POLICY_HEADLINE = re.compile(
 # Specific editorial signals help distinguish a story's subject from a
 # passing mention of a politician, company or platform.
 EDITORIAL_RULES = [
-    ("naeringsliv", re.compile(r"\\b(klesbutikken|butikkjede|butikkåpning|butikknedleggelse|konkurs|retail chain|store closure)\\b", re.I)),
-    ("okonomi", re.compile(r"\\b(styringsrente|inflasjon|rentebeslutning|interest rates|inflation rate|stock market)\\b", re.I)),
+    ("naeringsliv", re.compile(r"\b(klesbutikken|butikkjede|butikkåpning|butikknedleggelse|konkurs|retail chain|store closure)\b", re.I)),
+    ("okonomi", re.compile(r"\b(styringsrente|inflasjon|rentebeslutning|interest rates|inflation rate|stock market)\b", re.I)),
     ("sport", re.compile(r"\b(LSK|FIFA|UEFA|formula 1|champions league|premier league|fotballkamp|football match|tennis tournament|olympic games|idrettsresultat)\b", re.I)),
     ("politikk", re.compile(r"\b(prime minister|president|government|parliament|storting|regjering|elections?|deportations?|statsbudsjett|kommunestyret)\b", re.I)),
     ("teknologi", re.compile(r"\b(OpenAI|ChatGPT|cybersecurity|spyware|malware|artificial intelligence|kunstig intelligens|databrudd)\b", re.I)),
