@@ -141,7 +141,8 @@
       "summary": "Politiet har fått den foreløpige medisinske rapporten etter at far og sønn ble drept i Østfold-byen.",
       "date_label": "15.10.2026",
       "timestamp": 1792085714.0,
-      "topic_method": "unclassified"
+      "topic_method": "semantic-ai",
+      "topic": "nyheter"
     },
     {
       "source": "BBC World",
@@ -212,7 +213,7 @@
       "date_label": "15.10.2026",
       "timestamp": 1792083740.0,
       "topic_method": "semantic-ai",
-      "topic": "politikk"
+      "topic": "nyheter"
     },
     {
       "source": "Nordre Aker Budstikke",
@@ -384,7 +385,8 @@
       "summary": "Protests have taken place over the rules which have seen pupils wearing hijabs turned away from schools.",
       "date_label": "15.10.2026",
       "timestamp": 1792080906.0,
-      "topic_method": "unclassified"
+      "topic_method": "semantic-ai",
+      "topic": "nyheter"
     },
     {
       "source": "CNN",
@@ -468,7 +470,7 @@
       "date_label": "15.10.2026",
       "timestamp": 1792078390.0,
       "topic_method": "semantic-ai",
-      "topic": "kultur"
+      "topic": "nyheter"
     },
     {
       "source": "Avisa Oslo",
@@ -673,7 +675,8 @@
       "summary": "Two chemical tankers have caught fire in Romanian territorial waters in the Black Sea. The blazes occurred after Russian drones were sighted in Romanian airspace.",
       "date_label": "15.10.2026",
       "timestamp": 1792074840.0,
-      "topic_method": "unclassified"
+      "topic_method": "semantic-ai",
+      "topic": "nyheter"
     },
     {
       "source": "The Guardian",
@@ -1001,7 +1004,7 @@
       "date_label": "15.10.2026",
       "timestamp": 1792062529.0,
       "topic_method": "semantic-ai",
-      "topic": "sosiale-medier"
+      "topic": "nyheter"
     },
     {
       "source": "Nordre Aker Budstikke",
@@ -1410,7 +1413,8 @@
       "summary": "",
       "date_label": "15.10.2026",
       "timestamp": 1792049738.0,
-      "topic_method": "unclassified"
+      "topic_method": "semantic-ai",
+      "topic": "nyheter"
     },
     {
       "source": "Avisa Oslo",
@@ -1420,7 +1424,8 @@
       "summary": "Flere situasjoner kan se dramatiske i sentrum på torsdag. Politiet skal prøve å informere så godt de kan om hva som egentlig skjer.",
       "date_label": "15.10.2026",
       "timestamp": 1792049473.0,
-      "topic_method": "unclassified"
+      "topic_method": "semantic-ai",
+      "topic": "nyheter"
     },
     {
       "source": "Avisa Oslo",
@@ -1501,7 +1506,8 @@
       "summary": "I nesten åtte av ti tilsyn fant inspektørene brudd på regelverket.",
       "date_label": "15.10.2026",
       "timestamp": 1792045671.0,
-      "topic_method": "unclassified"
+      "topic_method": "semantic-ai",
+      "topic": "nyheter"
     },
     {
       "source": "BBC World",
@@ -1542,7 +1548,7 @@
       "summary": "Government records reveal mechanical failures, faulty restraint bars and broken bones at Six Flags theme parks CNN",
       "date_label": "15.10.2026",
       "timestamp": 1792040677.0,
-      "topic_method": "semantic-ai",
+      "topic_method": "rules",
       "topic": "politikk"
     },
     {
@@ -1553,7 +1559,8 @@
       "summary": "BBC Verify has identified 254 incidents from the past three years the Israeli military said it is reviewing after being accused of harm.",
       "date_label": "15.10.2026",
       "timestamp": 1792040423.0,
-      "topic_method": "unclassified"
+      "topic_method": "semantic-ai",
+      "topic": "nyheter"
     },
     {
       "source": "NRK",
@@ -1645,7 +1652,7 @@
       "summary": "Finnmarkssykehuset er i gang med å ruste seg for krig og krise uten ekstra penger fra staten. – Dette regnestykket går ikke opp, sier leder i Finnmark legeforening.",
       "date_label": "15.10.2026",
       "timestamp": 1792034832.0,
-      "topic_method": "semantic-ai",
+      "topic_method": "rules",
       "topic": "politikk"
     },
     {
@@ -1759,7 +1766,8 @@
       "summary": "Det har vært flere ulykker og nestenulykker i Vitaminveien på Storo. Nå gjennomføres nok et tiltak for å bedre sikkerheten.",
       "date_label": "14.10.2026",
       "timestamp": 1792004400.0,
-      "topic_method": "unclassified"
+      "topic_method": "semantic-ai",
+      "topic": "nyheter"
     },
     {
       "source": "Deutsche Welle",
@@ -1811,7 +1819,8 @@
       "summary": "Riot police deployed in the Albanian capital Tirana on the second day of student protests. The sudden outbreak seemed at least somewhat reminiscent of the widespread demos in France courting international attention.",
       "date_label": "14.10.2026",
       "timestamp": 1791989760.0,
-      "topic_method": "unclassified"
+      "topic_method": "semantic-ai",
+      "topic": "nyheter"
     },
     {
       "source": "The Guardian",
@@ -1831,7 +1840,7 @@
       "summary": "Nå skal det endelig bestemmes hvilke elever som skal gå på hvilke ungdomsskoler i bydel Sagene. Du kan si din mening frem til 25. oktober.",
       "date_label": "14.10.2026",
       "timestamp": 1791982762.0,
-      "topic_method": "semantic-ai",
+      "topic_method": "rules",
       "topic": "politikk"
     },
     {
@@ -1847,15 +1856,16 @@
     }
   ],
   "ai_model": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
-  "ai_classified_count": 44,
-  "ai_uncertain_count": 136,
+  "ai_classified_count": 50,
+  "ai_uncertain_count": 130,
   "ai_topic_counts": {
-    "politikk": 26,
-    "kultur": 3,
+    "nyheter": 12,
+    "politikk": 22,
+    "kultur": 2,
     "sport": 3,
     "teknologi": 8,
     "underholdning": 2,
-    "sosiale-medier": 2
+    "sosiale-medier": 1
   },
-  "ai_method": "multilingual-example-similarity-v2"
+  "ai_method": "multilingual-example-similarity-v3"
 }
