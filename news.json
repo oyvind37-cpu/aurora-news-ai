@@ -42,8 +42,8 @@
       "summary": "Lokalene midt i Markveien har skiftet eier og konsept flere ganger de siste årene. Nå er neste leietaker rett rundt hjørnet.",
       "date_label": "15.10.2026",
       "timestamp": 1792089386.0,
-      "topic_method": "semantic-ai",
-      "topic": "kultur"
+      "topic_method": "editorial-guardrail",
+      "topic": "naeringsliv"
     },
     {
       "source": "NRK",
@@ -86,8 +86,8 @@
       "summary": "UK defence secretary trying to cool tensions and is arguing it is in America’s economic interests to support Kyiv Wes Streeting urged the US to stand by Ukraine on his visit to the American capital and sought to cool tensions between the two countries in the wake of the Starlink row that is threatening to set back Kyiv’s war effort. The British def",
       "date_label": "15.10.2026",
       "timestamp": 1792087754.0,
-      "topic_method": "general-fallback",
-      "topic": "nyheter"
+      "topic_method": "editorial-guardrail",
+      "topic": "politikk"
     },
     {
       "source": "Al Jazeera English",
@@ -240,8 +240,8 @@
       "summary": "Trappa mellom Myrerskogveien og Lachmanns har den vært stengt siden steinraset i forrige uke.",
       "date_label": "15.10.2026",
       "timestamp": 1792083600.0,
-      "topic_method": "general-fallback",
-      "topic": "nyheter"
+      "topic_method": "semantic-ai",
+      "topic": "naeringsliv"
     },
     {
       "source": "Al Jazeera English",
@@ -427,8 +427,8 @@
       "summary": "High mortgage rates are deepening a ‘K-shaped’ housing market CNN",
       "date_label": "15.10.2026",
       "timestamp": 1792080472.0,
-      "topic_method": "general-fallback",
-      "topic": "nyheter"
+      "topic_method": "semantic-ai",
+      "topic": "okonomi"
     },
     {
       "source": "Al Jazeera English",
@@ -746,8 +746,8 @@
       "summary": "Lørdag 17. oktober er den store bruktmarkedsdagen på Grefsen Stadion.",
       "date_label": "15.10.2026",
       "timestamp": 1792074600.0,
-      "topic_method": "general-fallback",
-      "topic": "nyheter"
+      "topic_method": "semantic-ai",
+      "topic": "naeringsliv"
     },
     {
       "source": "Avisa Oslo",
@@ -934,7 +934,7 @@
       "date_label": "15.10.2026",
       "timestamp": 1792070518.0,
       "topic_method": "semantic-ai",
-      "topic": "politikk"
+      "topic": "okonomi"
     },
     {
       "source": "NRK",
@@ -978,7 +978,7 @@
       "date_label": "15.10.2026",
       "timestamp": 1792067935.0,
       "topic_method": "semantic-ai",
-      "topic": "politikk"
+      "topic": "okonomi"
     },
     {
       "source": "Nordre Aker Budstikke",
@@ -989,7 +989,7 @@
       "date_label": "15.10.2026",
       "timestamp": 1792066834.0,
       "topic_method": "semantic-ai",
-      "topic": "kultur"
+      "topic": "naeringsliv"
     },
     {
       "source": "NRK",
@@ -1054,8 +1054,8 @@
       "summary": "Totalt fem reindriftsenheter er mistenkt for bedrageri. De risikerer å måtte betale store summer i erstatning",
       "date_label": "15.10.2026",
       "timestamp": 1792064370.0,
-      "topic_method": "general-fallback",
-      "topic": "nyheter"
+      "topic_method": "semantic-ai",
+      "topic": "okonomi"
     },
     {
       "source": "BBC World",
@@ -1131,8 +1131,8 @@
       "summary": "German gamblers may finally be able to beat the house, thanks to new court rulings in the EU and in Germany. The decisions could help gambling addicts — but the legal road might be difficult.",
       "date_label": "15.10.2026",
       "timestamp": 1792061400.0,
-      "topic_method": "general-fallback",
-      "topic": "nyheter"
+      "topic_method": "semantic-ai",
+      "topic": "okonomi"
     },
     {
       "source": "CNN",
@@ -1264,7 +1264,7 @@
       "date_label": "15.10.2026",
       "timestamp": 1792058056.0,
       "topic_method": "semantic-ai",
-      "topic": "underholdning"
+      "topic": "naeringsliv"
     },
     {
       "source": "Deutsche Welle",
@@ -1329,8 +1329,8 @@
       "summary": "Fredag faller straffeutmålingen mot den norske tenåringen som er dømt for drapsplanlegging i London: – Vi har hatt ett mål, og det er å få han tilbake til Norge, sier hans norske forsvarer.",
       "date_label": "15.10.2026",
       "timestamp": 1792055805.0,
-      "topic_method": "general-fallback",
-      "topic": "nyheter"
+      "topic_method": "semantic-ai",
+      "topic": "okonomi"
     },
     {
       "source": "CNN",
@@ -1461,8 +1461,8 @@
       "summary": "Nearly 20 years after arriving in England, Manchester City's UAE owners could exit amid cheating charges. That would pose a challenge for a city — and prime minister — closely tied to Abu Dhabi.",
       "date_label": "15.10.2026",
       "timestamp": 1792051980.0,
-      "topic_method": "general-fallback",
-      "topic": "nyheter"
+      "topic_method": "semantic-ai",
+      "topic": "naeringsliv"
     },
     {
       "source": "The Guardian",
@@ -1923,8 +1923,8 @@
       "summary": "Stedet har blitt en samlingspunkt for hele nabolaget.",
       "date_label": "14.10.2026",
       "timestamp": 1791995888.0,
-      "topic_method": "general-fallback",
-      "topic": "nyheter"
+      "topic_method": "semantic-ai",
+      "topic": "naeringsliv"
     },
     {
       "source": "Deutsche Welle",
@@ -1983,18 +1983,20 @@
     }
   ],
   "ai_model": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
-  "ai_classified_count": 55,
-  "ai_uncertain_count": 97,
+  "ai_classified_count": 62,
+  "ai_uncertain_count": 88,
   "ai_topic_counts": {
     "nyheter": 23,
-    "politikk": 34,
-    "kultur": 2,
+    "politikk": 33,
+    "naeringsliv": 7,
+    "okonomi": 6,
+    "kultur": 0,
     "sport": 8,
     "teknologi": 11,
-    "underholdning": 4,
+    "underholdning": 3,
     "sosiale-medier": 1
   },
-  "ai_method": "multilingual-example-similarity-v6",
+  "ai_method": "multilingual-example-similarity-v7-business-economy",
   "ai_guardrail_count": 1,
-  "ai_editorial_count": 27
+  "ai_editorial_count": 29
 }

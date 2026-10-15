@@ -35,6 +35,6 @@ jobs:
           git add news.json
           if ! git diff --cached --quiet; then
             git commit -m "Klassifiser nyheter med Aurora AI Engine"
-            git pull --rebase origin main
-            git push origin HEAD:main
+            git pull --rebase origin "${GITHUB_REF_NAME}"
+            git push origin "HEAD:${GITHUB_REF_NAME}"
           fi
