@@ -1,23 +1,284 @@
 {
-  "updated": "2026-10-15T14:51:11.376672+00:00",
+  "updated": "2026-10-15T16:49:48.911300+00:00",
   "items": [
+    {
+      "source": "Al Jazeera English",
+      "category": "verden",
+      "title": "Israeli ad-tech firm helped place spyware on Al Jazeera devices",
+      "url": "https://www.aljazeera.com/news/2026/10/15/israeli-ad-tech-firm-helped-spy-on-al-jazeera-devices?traffic_source=rss",
+      "summary": "Citizen Lab investigation says dozens of Al Jazeera devices were infected by malware planted through advertisements.",
+      "date_label": "15.10.2026",
+      "timestamp": 1792081923.0
+    },
+    {
+      "source": "Al Jazeera English",
+      "category": "verden",
+      "title": "Why are eight US states suing OpenAI?",
+      "url": "https://www.aljazeera.com/news/2026/10/15/why-are-eight-us-states-suing-openai?traffic_source=rss",
+      "summary": "They allege ChatGPT has caused harm to their residents, coaching its users to harm themselves or others.",
+      "date_label": "15.10.2026",
+      "timestamp": 1792081724.0
+    },
     {
       "source": "BBC World",
       "category": "verden",
-      "title": "Trump calls off livestream for Fort Hood shooter's execution by firing squad",
+      "title": "Trump calls off livestream of Fort Hood attacker's execution by firing squad",
       "url": "https://www.bbc.co.uk/news/articles/crx23qlnj27qo?at_medium=RSS&at_campaign=rss",
-      "summary": "Trump said some would \"rather not watch\" the execution of Nidal Hasan, the first military execution in over 60 years.",
+      "summary": "Trump said some would \"rather not watch\" the killing of Nidal Hasan, the first military execution in over 60 years.",
       "date_label": "15.10.2026",
-      "timestamp": 1792075676.0
+      "timestamp": 1792081690.0
+    },
+    {
+      "source": "Al Jazeera English",
+      "category": "verden",
+      "title": "FIFA President Infantino apologises to council but critics remain unhappy",
+      "url": "https://www.aljazeera.com/sports/2026/10/15/fifa-president-infantino-apologises-but-critics-at-congress-remain-unhappy?traffic_source=rss",
+      "summary": "FIFA council meeting lasts over three hours as President Gianni Infantino apologises to members, but critics want more.",
+      "date_label": "15.10.2026",
+      "timestamp": 1792081199.0
+    },
+    {
+      "source": "Al Jazeera English",
+      "category": "verden",
+      "title": "Jerusalem Daily: Ultra-Orthodox Jews storm Israeli army base",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/15/jerusalem-daily-ultra-orthodox-jews-storm-israeli-army-base?traffic_source=rss",
+      "summary": "Jerusalem Daily: Ultra-Orthodox Jews storm Israeli army base",
+      "date_label": "15.10.2026",
+      "timestamp": 1792081148.0
+    },
+    {
+      "source": "NRK",
+      "category": "norge",
+      "title": "Kulturministeren om Curaçao-avsløringer: – Alvorlig",
+      "url": "https://www.nrk.no/trondelag/kulturminister-lubna-jaffery-om-curacao-avsloringer_-_-alvorlig-1.18038941",
+      "summary": "­",
+      "date_label": "15.10.2026",
+      "timestamp": 1792081061.0
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "title": "School headscarf ban sparks rare protests in Azerbaijan and row with Turkey",
+      "url": "https://www.bbc.co.uk/news/articles/cwly0g2r4k3po?at_medium=RSS&at_campaign=rss",
+      "summary": "Protests have taken place over the rules which have seen pupils wearing hijabs turned away from schools.",
+      "date_label": "15.10.2026",
+      "timestamp": 1792080906.0
+    },
+    {
+      "source": "Al Jazeera English",
+      "category": "verden",
+      "title": "Venezuela’s Maduro pleads not guilty to US conspiracy to torture charges",
+      "url": "https://www.aljazeera.com/news/2026/10/15/venezuelas-maduro-pleads-not-guilty-to-us-conspiracy-to-torture-charges?traffic_source=rss",
+      "summary": "Maduro and wife appear in New York City court after new 'conspiracy to commit torture' charges.",
+      "date_label": "15.10.2026",
+      "timestamp": 1792080298.0
+    },
+    {
+      "source": "CNN",
+      "category": "verden",
+      "title": "Iran-aligned Houthis target Yemeni presidential palace, prime minister remains unharmed - CNN",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdU5CSldwSWFYVVo4aF9kSlMtUnFyR09hMnMyTENtQXZWOVVFYnlndzNzMlI1YkpVMGlMSE9Iby14NmtqS05xemdDRFNtaXUzeU00UXctQjNuUkw4M0RJMXRJcktGcWFqSHkyeDVTWXZFemVBTDNVbTltR2pRZGtUVTMtRXJ0ZFJPeEQ5NV9oMFI2S3BfQnduZVZZWVVJUGdpM09VWFRjdG1aZlE4MjRz?oc=5",
+      "summary": "Iran-aligned Houthis target Yemeni presidential palace, prime minister remains unharmed CNN",
+      "date_label": "15.10.2026",
+      "timestamp": 1792079528.0
+    },
+    {
+      "source": "Al Jazeera English",
+      "category": "verden",
+      "title": "What is the ‘Mother of All Bombs’ US could use in Iran?",
+      "url": "https://www.aljazeera.com/news/2026/10/15/what-is-the-mother-of-all-bombs-us-could-use-in-iran?traffic_source=rss",
+      "summary": "US media reports military considering plans to use GBU-43/B Massive Ordnance Air Blast Bomb (MOAB)",
+      "date_label": "15.10.2026",
+      "timestamp": 1792079201.0
+    },
+    {
+      "source": "NRK",
+      "category": "norge",
+      "title": "TV2: FHI må kutte 100 millioner i 2027",
+      "url": "https://www.nrk.no/nyheter/tv2_-fhi-ma-kutte-100-millioner-i-2027--1.18056154",
+      "summary": "FHI må kutte 100 millioner i budsjettet for 2027, bekrefter konstituert direktør ved FHI Elisabet E. Storvoll overfor TV2. – Vi har ikke fått detaljert informasjon om hvor det er aktuelt å gjennomføre kutt ved instituttet, sier Fredrik Skår, som er hovedtillitsvalgt for Legeforeningen i FHI. Skår opplyser at instituttet har fått beskjed om at det b",
+      "date_label": "15.10.2026",
+      "timestamp": 1792078627.0
     },
     {
       "source": "Deutsche Welle",
       "category": "verden",
-      "title": "Raila Odinga's legacy: Can Kenya preserve the democratic space he helped create?",
-      "url": "https://www.dw.com/en/raila-odinga-s-legacy-can-kenya-preserve-the-democratic-space-he-helped-create/a-79668443?maca=en-rss-en-all-1573-xml-mrss",
-      "summary": "One year after Raila Odinga's death, Kenyans are reflecting on his contribution to democratic reforms and national reconciliation. However, the so-called 'handshakes', with his political rivals remain debatable.",
+      "title": "Trump says execution of Fort Hood shooter will not be livestreamed",
+      "url": "https://www.dw.com/en/trump-says-execution-of-fort-hood-shooter-will-not-be-livestreamed/a-79672036?maca=en-rss-en-all-1573-xml-mrss",
+      "summary": "Trump said the execution of Nidal Malik Hasan can be viewed in person by families of the victims if they wish. The decision comes after bipartisan backlash regarding the Pentagon's plans to livestream the execution.",
+      "date_label": "15.10.2026",
+      "timestamp": 1792078560.0
+    },
+    {
+      "source": "Avisa Oslo",
+      "category": "lokalt",
+      "title": "Skolene ringer til Håvar når de mest alvorlige hendelsene skjer. Disse sakene bekymrer",
+      "url": "https://www.ao.no/behovet-er-storst-blant-de-yngste-na-skal-byradet-styrke-teamet-som-handterer-de-mest-alvorlige-sakene-i-osloskolen/s/80-128-47405",
+      "summary": "Gruppen skal forebygge vold og trusler i Osloskolen. Nå styrkes satsingen.",
+      "date_label": "15.10.2026",
+      "timestamp": 1792078248.0
+    },
+    {
+      "source": "NRK",
+      "category": "norge",
+      "title": "KrF-Askjer angrer etter TV 2-dokumentar: – Har gjort ganske vondt å lære den leksa",
+      "url": "https://www.nrk.no/vestfoldogtelemark/krf-askjer-angrer-etter-tv-2-dokumentar_-_-har-gjort-ganske-vondt-a-laere-den-leksa-1.18055904",
+      "summary": "Stortingsrepresentant Hans Edvard Askjer (KrF) får krass kritikk for sin opptreden i serien «Kollaps – profeten fra Bærum».",
+      "date_label": "15.10.2026",
+      "timestamp": 1792078104.0
+    },
+    {
+      "source": "Deutsche Welle",
+      "category": "verden",
+      "title": "Russia arrests Swedish national, claims he's Ukraine fighter",
+      "url": "https://www.dw.com/en/russia-arrests-swedish-national-claims-he-s-ukraine-fighter/a-79671942?maca=en-rss-en-all-1573-xml-mrss",
+      "summary": "Russian intelligence agents have arrested a Swedish man they say led a Ukrainian drone unit. He was detained at Russia's western border and is accused of planning acts of terrorism and sabotage.",
+      "date_label": "15.10.2026",
+      "timestamp": 1792078020.0
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "title": "At least 33 pupils and teacher killed after school roof collapses in Pakistan",
+      "url": "https://www.bbc.co.uk/news/articles/cked326llddgo?at_medium=RSS&at_campaign=rss",
+      "summary": "Children were buried under the debris after the roof crashed through three classrooms, police say.",
+      "date_label": "15.10.2026",
+      "timestamp": 1792077976.0
+    },
+    {
+      "source": "The Guardian",
+      "category": "verden",
+      "title": "EU must curb energy prices to prevent people turning to populists, commissioner warns – as it happened",
+      "url": "https://www.theguardian.com/world/live/2026/oct/15/ukraine-russia-war-starlink-zelenskyy-putin-elon-musk-trump-europe-latest-news",
+      "summary": "This live blog is now closed, you can read more of our European news coverage here Just as the leaders sit down at the big table in Brussels, Romania has said that seven people are still missing after a fire on a vessel in Romanian territorial waters of the Black Sea. Suspected Russian drones have hit several ships off Romania and neighbouring Bulg",
+      "date_label": "15.10.2026",
+      "timestamp": 1792077951.0
+    },
+    {
+      "source": "Al Jazeera English",
+      "category": "verden",
+      "title": "Syrian court sentences two to death over 2025 coastal violence",
+      "url": "https://www.aljazeera.com/news/2026/10/15/syrian-court-sentences-two-to-death-over-2025-coastal-violence?traffic_source=rss",
+      "summary": "Court rulings concern violence and killings during March 2025 uprising by pro-Assad forces and retaliatory attacks.",
+      "date_label": "15.10.2026",
+      "timestamp": 1792077558.0
+    },
+    {
+      "source": "Al Jazeera English",
+      "category": "verden",
+      "title": "French football body urges fans and students to keep politics out of stadiums",
+      "url": "https://www.aljazeera.com/sports/2026/10/15/french-football-body-urges-fans-and-students-to-keep-politics-out-of-stadia?traffic_source=rss",
+      "summary": "French Football Federation's ethics body calls for neutrality amid student protests.",
+      "date_label": "15.10.2026",
+      "timestamp": 1792077365.0
+    },
+    {
+      "source": "NRK",
+      "category": "norge",
+      "title": "Han er Noregs ukjende landslagsstjerne: Jaktar vill målrekord",
+      "url": "https://www.nrk.no/sport/bjorn-martin-kristensen-er-noregs-ukjende-landslagsstjerne_-_-ein-merkar-trykket-1.18053159",
+      "summary": "Bjørn Martin Kristensen frå Hauketo i Oslo hamrar inn mål på den andre sida av jorda.",
+      "date_label": "15.10.2026",
+      "timestamp": 1792077281.0
+    },
+    {
+      "source": "Al Jazeera English",
+      "category": "verden",
+      "title": "Delegates walk out as Israeli president addresses summit",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/15/delegates-walk-out-as-israeli-president-addresses-summit?traffic_source=rss",
+      "summary": "Officials from more than 10 countries walked out during an address by Israeli President Isaac Herzog at a summit in Baku",
+      "date_label": "15.10.2026",
+      "timestamp": 1792077240.0
+    },
+    {
+      "source": "Al Jazeera English",
+      "category": "verden",
+      "title": "Russian jet-powered drone hits supermarket in Ukraine’s Odesa",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/15/russian-jet-powered-drone-hits-supermarket-in-ukraines-odesa?traffic_source=rss",
+      "summary": "Ukrainian authorities say a Russian jet-powered drone struck a supermarket in its Odesa region on Thursday.",
+      "date_label": "15.10.2026",
+      "timestamp": 1792077198.0
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "title": "Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume",
+      "url": "https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss",
+      "summary": "Ukraine's president says a pause on striking energy sites is over following fresh Russian attacks.",
+      "date_label": "15.10.2026",
+      "timestamp": 1792076955.0
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "title": "Watch: Pupils heard 'cracking' sound heard moments before Pakistan school roof collapse",
+      "url": "https://www.bbc.co.uk/news/videos/cmq8n5gv1pnpo?at_medium=RSS&at_campaign=rss",
+      "summary": "Our Urdu correspondent reports from the scene in Peshawar, north-west Pakistan, where emergency services have been responding to the incident.",
+      "date_label": "15.10.2026",
+      "timestamp": 1792076729.0
+    },
+    {
+      "source": "The Guardian",
+      "category": "verden",
+      "title": "Russia and Ukraine trade strikes as Trump ‘energy ceasefire’ collapses",
+      "url": "https://www.theguardian.com/world/2026/oct/15/us-effort-to-get-russia-ukraine-energy-ceasefire-collapses",
+      "summary": "Moscow sends swarms of drones to attack infrastructure in central Ukraine as Zelenskyy says Kyiv will restart strikes on Russian oil refineries Europe live – latest updates The White House’s unilateral effort to negotiate an energy ceasefire between Russia and Ukraine has collapsed as Moscow sent a record swarm of drones overnight to attack infrast",
+      "date_label": "15.10.2026",
+      "timestamp": 1792076470.0
+    },
+    {
+      "source": "The Guardian",
+      "category": "verden",
+      "title": "Milei adviser claims UK being ‘colonised by Islam’ as Falklands row grows",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/15/falklands-javier-milei-adviser-santiago-caputo-uk-islam-argentina",
+      "summary": "Santiago Caputo cites election of Sagal Abdi-Wali as MP and calls UK a threat to the west in post shared by Argentina’s president The chief adviser to Argentina’s president, Javier Milei, has cited the election of Sagal Abdi-Wali to the UK parliament as evidence of the Islamisation of Britain and further reason for Argentina to take sovereignty ove",
+      "date_label": "15.10.2026",
+      "timestamp": 1792076423.0
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "title": "Seven crew missing after drone attack leaves tanker ablaze off Romania's coast",
+      "url": "https://www.bbc.co.uk/news/articles/c60qkgpp592yo?at_medium=RSS&at_campaign=rss",
+      "summary": "A search and rescue operation is under way in the Black Sea after the latest attack in the area.",
+      "date_label": "15.10.2026",
+      "timestamp": 1792075890.0
+    },
+    {
+      "source": "Deutsche Welle",
+      "category": "verden",
+      "title": "Ukraine resumes attacks on Russian refineries as Zelenskyy says 'we're done'",
+      "url": "https://www.dw.com/en/ukraine-resumes-attacks-on-russian-refineries-as-zelenskyy-says-we-re-done/a-79667757?maca=en-rss-en-all-1573-xml-mrss",
+      "summary": "Volodymyr Zelenskyy has announced that Ukraine is resuming attacks on Russian energy sites. It came after Moscow summarily ignored a claim by US President Donald Trump that an \"energy ceasefire\" had been agreed.",
+      "date_label": "15.10.2026",
+      "timestamp": 1792075860.0
+    },
+    {
+      "source": "Deutsche Welle",
+      "category": "verden",
+      "title": "Can Kenya preserve the democratic space Raila Odinga fought for?",
+      "url": "https://www.dw.com/en/can-kenya-preserve-the-democratic-space-raila-odinga-fought-for/a-79668443?maca=en-rss-en-all-1573-xml-mrss",
+      "summary": "One year after the former prime minister's death, Kenyans are reflecting on his contribution to democracy and national reconciliation. Odinga's \"handshakes\" with his political rivals remain the subject of much debate.",
       "date_label": "15.10.2026",
       "timestamp": 1792075560.0
+    },
+    {
+      "source": "NRK",
+      "category": "norge",
+      "title": "Skuddsekundet skrotes: Problemet utsettes i tusen år",
+      "url": "https://www.nrk.no/nyheter/skuddsekundet-skrotes_-problemet-utsettes-i-tusen-ar--1.18056098",
+      "summary": "Forskere har bestemt at forskjellen mellom verdens klokker og astronomisk tid først skal korrigeres når den når én time, altså 3600 sekunder. Beslutningen betyr at et mulig behov for å fjerne ett sekund fra klokkene skyves rundt tusen år fram i tid. Siden 1972 har 27 sekunder blitt plusset på verdens klokker, sist i 2016. Jordens rotasjon er nemlig",
+      "date_label": "15.10.2026",
+      "timestamp": 1792075218.0
+    },
+    {
+      "source": "Al Jazeera English",
+      "category": "verden",
+      "title": "US teen held over Hindu temple attack plot: Is anti-Indian racism rising?",
+      "url": "https://www.aljazeera.com/news/2026/10/15/us-teen-held-over-hindu-temple-attack-plot-is-anti-indian-racism-rising?traffic_source=rss",
+      "summary": "Illinois teen who allegedly said he 'couldn’t wait' to kill Indians is arrested over a Hindu temple attack plot.",
+      "date_label": "15.10.2026",
+      "timestamp": 1792075126.0
     },
     {
       "source": "Deutsche Welle",
@@ -36,15 +297,6 @@
       "summary": "Two chemical tankers have caught fire in Romanian territorial waters in the Black Sea. The blazes occurred after Russian drones were sighted in Romanian airspace.",
       "date_label": "15.10.2026",
       "timestamp": 1792074840.0
-    },
-    {
-      "source": "The Guardian",
-      "category": "verden",
-      "title": "EU must curb energy prices to prevent people turning to populists, commissioner warns – Europe live",
-      "url": "https://www.theguardian.com/world/live/2026/oct/15/ukraine-russia-war-starlink-zelenskyy-putin-elon-musk-trump-europe-latest-news",
-      "summary": "Dan Jørgensen said governments could find a way to subsidise fossil fuels in the short term to help tackle the cost of living Just as the leaders sit down at the big table in Brussels, Romania has said that seven people are still missing after a fire on a vessel in Romanian territorial waters of the Black Sea. Suspected Russian drones have hit seve",
-      "date_label": "15.10.2026",
-      "timestamp": 1792074824.0
     },
     {
       "source": "The Guardian",
@@ -74,9 +326,18 @@
       "timestamp": 1792074505.0
     },
     {
+      "source": "CNN",
+      "category": "verden",
+      "title": "Trump calls off livestream of Fort Hood shooter’s firing squad execution - CNN",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPY0tSamM1bk1qbXZ1X0pOSGZuSjN3V0pJWkZzUlFvb0hBb2RrWWxIRGM3a1I1Z0FXemdTOENtaExjUnI1aUdwT290R25JYmlKQTZWRXVpZ2xucHlVaEZtbzNxSl9NeUZ1eE9Kd21uU3dHOFU1dmV0am5IN1o2Y0t4STBNVzFaT2J2cldEMjNGTEphdjA?oc=5",
+      "summary": "Trump calls off livestream of Fort Hood shooter’s firing squad execution CNN",
+      "date_label": "15.10.2026",
+      "timestamp": 1792074464.0
+    },
+    {
       "source": "Al Jazeera English",
       "category": "verden",
-      "title": "Trump says Fort Hood shooter execution will not be livestreamed",
+      "title": "Trump says Fort Hood US shooter execution will not be livestreamed",
       "url": "https://www.aljazeera.com/news/2026/10/15/trump-says-fort-hood-shooter-execution-will-not-be-livestreamed?traffic_source=rss",
       "summary": "US president reverses Pentagon's plan to publicly stream execution of Nidal Malik Hasan after outcry.",
       "date_label": "15.10.2026",
@@ -85,9 +346,9 @@
     {
       "source": "NRK",
       "category": "norge",
-      "title": "Fifa-styremedlem langer ut mot Infantino: – Vi må restarte alt på nytt",
+      "title": "Fifa-styremedlem langer ut mot Infantino: – Vi må restarte alt",
       "url": "https://www.nrk.no/sport/flere-fifa-styremedlemmer-ut-mot-gianni-infantino_-_-vi-ma-restarte-alt-pa-nytt-1.18056044",
-      "summary": "Gianni Infantino ble pepret med spørsmål av egne styremedlemmer i Fifa torsdag. Det må ryddes over hele fjøla, var budskapet til den tyske fotballpresidenten.",
+      "summary": "Gianni Infantino ble pepret med spørsmål av egne styremedlemmer i Fifa torsdag. Det må ryddes over hele fjøla, var budskapet fra den tyske fotballpresidenten.",
       "date_label": "15.10.2026",
       "timestamp": 1792074221.0
     },
@@ -101,20 +362,11 @@
       "timestamp": 1792074133.0
     },
     {
-      "source": "Deutsche Welle",
-      "category": "verden",
-      "title": "Trump says execution of Fort Hood shooter will not be livestreamed",
-      "url": "https://www.dw.com/en/trump-says-execution-of-fort-hood-shooter-will-not-be-livestreamed/a-79672036?maca=en-rss-en-all-1573-xml-mrss",
-      "summary": "Trump said the execution of the Fort Hood shooter can be viewed in person by families of the victims if they wish. The decision comes after bipartisan backlash regarding the Pentagon's plans to livestream the execution.",
-      "date_label": "15.10.2026",
-      "timestamp": 1792074120.0
-    },
-    {
       "source": "CNN",
       "category": "verden",
-      "title": "Exclusive: Ukraine runs out of Patriot defense missiles, leaving it more vulnerable to Russian attacks, source tells CNN - CNN",
+      "title": "Exclusive: Ukraine runs out of Patriot interceptor missiles as Zelensky and Trump clash over war - CNN",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQWNDcU81MUJULWdON01uaWlabkJsd085TDYwRG9qaVByQnJnaExXVzkzYmJSM2owNDZ4NERFYlVFdE5iZ3ppbEx3T1Q1UEpKN3pjLXUwT3BlSWlXYm91UDliNWd2QzlOVG5vcDBHeXdEanNxQUFBZFNsdkIwTTIwZl9wSzFic0pia3dHazc0cWVIQ3Jl?oc=5",
-      "summary": "Exclusive: Ukraine runs out of Patriot defense missiles, leaving it more vulnerable to Russian attacks, source tells CNN CNN",
+      "summary": "Exclusive: Ukraine runs out of Patriot interceptor missiles as Zelensky and Trump clash over war CNN",
       "date_label": "15.10.2026",
       "timestamp": 1792073937.0
     },
@@ -157,9 +409,9 @@
     {
       "source": "Deutsche Welle",
       "category": "verden",
-      "title": "Bärbel Bas' resignation shows harsh tone of German politics",
-      "url": "https://www.dw.com/en/bärbel-bas-resignation-shows-harsh-tone-of-german-politics/a-79671395?maca=en-rss-en-all-1573-xml-mrss",
-      "summary": "Germany's Labor Minister Bärbel Bas has stepped down, citing a family bereavement and the harsh realities of political life. Why is German politics today so often unforgiving?",
+      "title": "Resignation of Bärbel Bas shines light on harsh era of German politics",
+      "url": "https://www.dw.com/en/resignation-of-bärbel-bas-shines-light-on-harsh-era-of-german-politics/a-79671395?maca=en-rss-en-all-1573-xml-mrss",
+      "summary": "German Labor Minister Bärbel Bas has stepped down, citing her need to grieve a loved one and leave behind the harsh realities of government. So how did German politics get so heated?",
       "date_label": "15.10.2026",
       "timestamp": 1792072620.0
     },
@@ -317,15 +569,6 @@
       "timestamp": 1792067584.0
     },
     {
-      "source": "BBC World",
-      "category": "verden",
-      "title": "At least 33 pupils and teacher killed after school roof collapses in Pakistan",
-      "url": "https://www.bbc.co.uk/news/articles/cked326llddgo?at_medium=RSS&at_campaign=rss",
-      "summary": "Rescue officials fear more people are buried under the debris in the north-western city of Peshawar.",
-      "date_label": "15.10.2026",
-      "timestamp": 1792067306.0
-    },
-    {
       "source": "Nordre Aker Budstikke",
       "category": "lokalt",
       "title": "Her kan de boltre seg",
@@ -342,15 +585,6 @@
       "summary": "Kommunalminister Bjørnar Skjæran omgjør statsforvalterens avslag til Viken Park i Fredrikstad. Det kom han til østfoldbyen for å fortelle i dag.",
       "date_label": "15.10.2026",
       "timestamp": 1792066357.0
-    },
-    {
-      "source": "BBC World",
-      "category": "verden",
-      "title": "Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume",
-      "url": "https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss",
-      "summary": "Ukraine's president says a pause on striking energy sites is over following fresh Russian attacks.",
-      "date_label": "15.10.2026",
-      "timestamp": 1792065831.0
     },
     {
       "source": "Deutsche Welle",
@@ -416,15 +650,6 @@
       "timestamp": 1792064370.0
     },
     {
-      "source": "Deutsche Welle",
-      "category": "verden",
-      "title": "Ukraine resumes attacks on Russian refineries as Zelenskyy says 'we're done'",
-      "url": "https://www.dw.com/en/ukraine-resumes-attacks-on-russian-refineries-as-zelenskyy-says-we-re-done/a-79667757?maca=en-rss-en-all-1573-xml-mrss",
-      "summary": "Volodymyr Zelenskyy has announced that Ukraine is resuming attacks on Russian energy sites. It came after Moscow summarily ignored a claim by US President Donald Trump that an \"energy ceasefire\" had been agreed.",
-      "date_label": "15.10.2026",
-      "timestamp": 1792063920.0
-    },
-    {
       "source": "BBC World",
       "category": "verden",
       "title": "Why is Starlink internet so important on the battlefield in Ukraine?",
@@ -432,15 +657,6 @@
       "summary": "It is the \"backbone of military communications in Ukraine\" that provides vital high-speed internet to forces across the country.",
       "date_label": "15.10.2026",
       "timestamp": 1792063519.0
-    },
-    {
-      "source": "BBC World",
-      "category": "verden",
-      "title": "Eight crew missing after drone attack leaves tanker ablaze off Romania's coast",
-      "url": "https://www.bbc.co.uk/news/articles/c60qkgpp592yo?at_medium=RSS&at_campaign=rss",
-      "summary": "A search and rescue operation is under way in the Black Sea after the latest attack in the area.",
-      "date_label": "15.10.2026",
-      "timestamp": 1792062774.0
     },
     {
       "source": "Al Jazeera English",
@@ -488,15 +704,6 @@
       "timestamp": 1792061586.0
     },
     {
-      "source": "Al Jazeera English",
-      "category": "verden",
-      "title": "Fighting in Yemen intensifies: What’s the latest on the battlefield?",
-      "url": "https://www.aljazeera.com/news/2026/10/15/fighting-in-yemen-intensifies-whats-the-latest-on-the-battlefield?traffic_source=rss",
-      "summary": "Houthis attempt to raise the cost of the Yemen war for Saudi Arabia as attacks, fighting intensify.",
-      "date_label": "15.10.2026",
-      "timestamp": 1792061532.0
-    },
-    {
       "source": "BBC World",
       "category": "verden",
       "title": "Obama says drift towards extremism 'not inevitable'",
@@ -533,24 +740,6 @@
       "timestamp": 1792061182.0
     },
     {
-      "source": "Al Jazeera English",
-      "category": "verden",
-      "title": "FIFA set for rule change after Balogun red card row at the World Cup: reports",
-      "url": "https://www.aljazeera.com/sports/2026/10/15/fifa-set-for-rule-change-after-balogun-red-card-row-at-the-world-cup-reports?traffic_source=rss",
-      "summary": "The governing body's council is expected to prohibit disciplinary committees from overturning match suspensions.",
-      "date_label": "15.10.2026",
-      "timestamp": 1792061168.0
-    },
-    {
-      "source": "Al Jazeera English",
-      "category": "verden",
-      "title": "Asian Cup in Saudi Arabia could be postponed by a year amid Houthi attacks",
-      "url": "https://www.aljazeera.com/sports/2026/10/15/asian-cup-in-saudi-arabia-could-be-postponed-by-a-year-amid-houthi-attacks?traffic_source=rss",
-      "summary": "The tournament is scheduled to begin on January 7 but could be moved by a year if needed, AFC president says.",
-      "date_label": "15.10.2026",
-      "timestamp": 1792061043.0
-    },
-    {
       "source": "Avisa Oslo",
       "category": "lokalt",
       "title": "Stines (26) oppgjør med den fremmede mannen tar av: – Viser hvor utrolig vanlig det er",
@@ -578,15 +767,6 @@
       "timestamp": 1792060170.0
     },
     {
-      "source": "Al Jazeera English",
-      "category": "verden",
-      "title": "Dozens of children killed after roof collapses in Pakistani school",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/15/10-15-pak-school-collapse-sv?traffic_source=rss",
-      "summary": "At least 29 people, mostly children, have been killed after the school collapsed on them in Pakistan’s Peshawar.",
-      "date_label": "15.10.2026",
-      "timestamp": 1792059703.0
-    },
-    {
       "source": "NRK",
       "category": "norge",
       "title": "Forfatter og programleder Eli Rygg er død, 71 år gammel",
@@ -603,15 +783,6 @@
       "summary": "Local authorities said more than 50 other people were injured in the disaster. Roof collapses have become increasingly common in Pakistan.",
       "date_label": "15.10.2026",
       "timestamp": 1792059600.0
-    },
-    {
-      "source": "The Guardian",
-      "category": "verden",
-      "title": "Russia and Ukraine resume strikes as Trump ‘energy ceasefire’ collapses",
-      "url": "https://www.theguardian.com/world/2026/oct/15/us-effort-to-get-russia-ukraine-energy-ceasefire-collapses",
-      "summary": "Moscow sends swarms of drones to attack infrastructure in central Ukraine as Zelenskyy says Kyiv will restart strikes on Russian oil refineries Europe live – latest updates The White House’s unilateral effort to negotiate an energy ceasefire between Russia and Ukraine has collapsed as Moscow sent a record swarm of drones overnight to attack infrast",
-      "date_label": "15.10.2026",
-      "timestamp": 1792059289.0
     },
     {
       "source": "Deutsche Welle",
@@ -648,24 +819,6 @@
       "summary": "Nesten åtte av ti nordmenn klarer ikke å følge myndighetenes kostholdsråd for sjømat. Løsningen for både tidsnød og skeptiske barn kan være enklere enn du tror.",
       "date_label": "15.10.2026",
       "timestamp": 1792058711.0
-    },
-    {
-      "source": "Al Jazeera English",
-      "category": "verden",
-      "title": "Russia says Ukraine resumes attacks on oil refineries",
-      "url": "https://www.aljazeera.com/news/2026/10/15/russia-says-ukraine-resumes-attacks-on-oil-refineries?traffic_source=rss",
-      "summary": "Ukraine's president earlier said Kyiv was 'done' with energy ceasefire and that strikes on Russian oil refineries would resume.",
-      "date_label": "15.10.2026",
-      "timestamp": 1792058537.0
-    },
-    {
-      "source": "Al Jazeera English",
-      "category": "verden",
-      "title": "Long-delayed China-North Korea bridge officially opens",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/15/long-delayed-china-north-korea-bridge-officially-opens?traffic_source=rss",
-      "summary": "China and North Korea have officially opened the New Yalu River Bridge after a 12-year delay.",
-      "date_label": "15.10.2026",
-      "timestamp": 1792058458.0
     },
     {
       "source": "CNN",
@@ -740,24 +893,6 @@
       "timestamp": 1792056978.0
     },
     {
-      "source": "Al Jazeera English",
-      "category": "verden",
-      "title": "‘Each country goes its own way’: How Balkan politics shape ties with Israel",
-      "url": "https://www.aljazeera.com/news/2026/10/15/each-country-goes-its-own-way-how-balkan-politics-shape-ties-with-israel?traffic_source=rss",
-      "summary": "Countries’ ties with Israel reflect local politics, defence deals and strategic interests rather than a united stance.",
-      "date_label": "15.10.2026",
-      "timestamp": 1792056901.0
-    },
-    {
-      "source": "Al Jazeera English",
-      "category": "verden",
-      "title": "Could France trigger another Eurozone debt crisis?",
-      "url": "https://www.aljazeera.com/video/counting-the-cost/2026/10/15/could-france-trigger-another-eurozone-debt-crisis?traffic_source=rss",
-      "summary": "France's soaring borrowing costs and political divisions raise fears of a wider Eurozone debt crisis.",
-      "date_label": "15.10.2026",
-      "timestamp": 1792056371.0
-    },
-    {
       "source": "NRK",
       "category": "norge",
       "title": "Norsk 19-åring får dom på fredag – forsvareren frykter livstid",
@@ -765,15 +900,6 @@
       "summary": "Fredag faller straffeutmålingen mot den norske tenåringen som er dømt for drapsplanlegging i London: – Vi har hatt ett mål, og det er å få han tilbake til Norge, sier hans norske forsvarer.",
       "date_label": "15.10.2026",
       "timestamp": 1792055805.0
-    },
-    {
-      "source": "Al Jazeera English",
-      "category": "verden",
-      "title": "The irony of OpenAI crying foul over spying",
-      "url": "https://www.aljazeera.com/opinions/2026/10/15/the-irony-of-openai-crying-foul-over-spying?traffic_source=rss",
-      "summary": "A company that owes its existence and enormous valuation to stealing others' work is now up in arms about theft.",
-      "date_label": "15.10.2026",
-      "timestamp": 1792054982.0
     },
     {
       "source": "CNN",
@@ -803,6 +929,15 @@
       "timestamp": 1792054844.0
     },
     {
+      "source": "CNN",
+      "category": "verden",
+      "title": "Teen accused of plotting mass shooting at Chicago-area Hindu temple - CNN",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbGZ4ZW5YMlpIV21UZjhiV1BvUWpLLTJEMGVYdzV1LXF0QmRfLW9EVTg1c0JjOEdZbmN4QV81djlJdGVsanNrcHNvN0JfTGlaRWl4WHFwUE52T29DNTdwMzVISDRBTW5mRHRiS01JWlpjYVhWVlpUel92R0Q1UGFveklLVjNtZmd1RXc?oc=5",
+      "summary": "Teen accused of plotting mass shooting at Chicago-area Hindu temple CNN",
+      "date_label": "15.10.2026",
+      "timestamp": 1792054168.0
+    },
+    {
       "source": "Deutsche Welle",
       "category": "verden",
       "title": "Why Chinese tech brands are outpacing Western rivals from EVs to robot vacuums",
@@ -812,15 +947,6 @@
       "timestamp": 1792053900.0
     },
     {
-      "source": "Al Jazeera English",
-      "category": "verden",
-      "title": "Iraq devalues dinar to ease cash crunch, leaving traders in limbo",
-      "url": "https://www.aljazeera.com/economy/2026/10/15/iraq-devalues-dinar-to-ease-cash-crunch-leaving-traders-in-limbo?traffic_source=rss",
-      "summary": "The government hopes a weaker dinar will help pay salaries, but traders face rising import costs and uncertainty.",
-      "date_label": "15.10.2026",
-      "timestamp": 1792053898.0
-    },
-    {
       "source": "BBC World",
       "category": "verden",
       "title": "White House defends new press secretary over her legal credentials",
@@ -828,15 +954,6 @@
       "summary": "Katie Zacharia does not appear to be registered to the legal bar in any state where she has lived.",
       "date_label": "15.10.2026",
       "timestamp": 1792053664.0
-    },
-    {
-      "source": "Al Jazeera English",
-      "category": "verden",
-      "title": "‘Our works are next to each other’: Art bridges Gaza and West Bank",
-      "url": "https://www.aljazeera.com/features/2026/10/15/our-works-are-next-to-each-other-art-bridges-gaza-and-west-bank?traffic_source=rss",
-      "summary": "Young Palestinian artists in Gaza and the occupied West Bank bring their work together in simultaneous exhibitions.",
-      "date_label": "15.10.2026",
-      "timestamp": 1792053461.0
     },
     {
       "source": "Sagene Avis",
@@ -864,15 +981,6 @@
       "summary": "Talarico refutes skeptics at CNN Town Hall CNN",
       "date_label": "15.10.2026",
       "timestamp": 1792052820.0
-    },
-    {
-      "source": "BBC World",
-      "category": "verden",
-      "title": "What's going on between Kelly Clarkson and a Brooklyn store bird?",
-      "url": "https://www.bbc.co.uk/news/videos/c6e3x9z8jpj1o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Since U Been Gone singer claims she was \"looked at as if I couldn't afford\" an item in the store.",
-      "date_label": "15.10.2026",
-      "timestamp": 1792052340.0
     },
     {
       "source": "BBC World",
@@ -1032,7 +1140,7 @@
       "category": "lokalt",
       "title": "Storaksjon mot byens restauranter: Gjorde alvorlige funn",
       "url": "https://www.ao.no/storaksjon-mot-byens-restauranter-gjorde-alvorlige-funn/s/80-128-49370",
-      "summary": "",
+      "summary": "I nesten åtte av ti tilsyn fant inspektørene brudd på regelverket.",
       "date_label": "15.10.2026",
       "timestamp": 1792045671.0
     },
@@ -1166,19 +1274,19 @@
       "source": "CNN",
       "category": "verden",
       "title": "Exclusive: US considering using ‘mother of all bombs’ against Iran, sources say - CNN",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSktNLUM1VEdiandOcDJVNzE4b2NuajZkcXAtem40MlJ4TWc3VEptSjJqQ1g0QjF5VTVXemNQUDBSdy1wYWM4eG44b05FT3ZLVi1sTUhGM3U1MEk0X3JvTzBFUlVNczJZZlZfUlcxN1NwVnQzc0ZuTEVxSkhLOE5wenBMZ2xqZw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUXo0UGtXa1ZlVDJ4SDZUYXl6RWNMTk84eDVRbEdrQjlaaWdaV1RnUllsSzFoZ1NyUFplOThtUXhwVTNJTUNyQ2tqM3dDc1dPOU1CTWM1dWF4MmVWalo1MnVOZWpYeEtoZnNNeVNhVFRhV3JRZkx6aDZDSWU2MkN3a3UzTjVJN2txZzhn?oc=5",
       "summary": "Exclusive: US considering using ‘mother of all bombs’ against Iran, sources say CNN",
       "date_label": "15.10.2026",
       "timestamp": 1792036904.0
     },
     {
-      "source": "Deutsche Welle",
+      "source": "CNN",
       "category": "verden",
-      "title": "Brazil to shorten workweek in win for Lula ahead of runoff",
-      "url": "https://www.dw.com/en/brazil-to-shorten-workweek-in-win-for-lula-ahead-of-runoff/a-79664991?maca=en-rss-en-all-1573-xml-mrss",
-      "summary": "Brazil's Senate approved cutting the workweek from 44 to 40 hours. The move could give President Luiz Inacio Lula da Silva an edge over his opponent, Flavio Bolsonaro, ahead of the October 25 runoff.",
+      "title": "‘We can find common ground’: James Talarico on abortion - CNN",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNUY5bENXQ1M3TFVsVXR0Y2hBT3hid29vSjA5RmtOTFZtYTJhT1Y1SjhGVDVwdGNEU1l6UEFHRTZaaS1VTTJWSy1DTnZta3pSa0Q1UEtBelg4aG1XQm12S0o1ZEhOMDVGb0V6YmxCb2hydkhoNExJcWd4QUxSRU8tN2ZSRUhxM3JMWUF6OFhNT3ViSG9BazVZMTJPZmRhRnlxWEZJNF81YWJFckUtYXNz?oc=5",
+      "summary": "‘We can find common ground’: James Talarico on abortion CNN",
       "date_label": "15.10.2026",
-      "timestamp": 1792034940.0
+      "timestamp": 1792036140.0
     },
     {
       "source": "NRK",
@@ -1289,15 +1397,6 @@
       "timestamp": 1792018888.0
     },
     {
-      "source": "CNN",
-      "category": "verden",
-      "title": "Defiance or denial? Inside Manchester City’s bubble, decked with inflatable bananas - CNN",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0wTlU5NmcxeThOMjJwRldaRnRhVVdYdWxQajFwVEJ5ZUVnMzZGQjU0OFg5N0lpVy1yY000S2RUdmw3dVNNSFpsbHRTdDhwNW1vX0gxVFN0RVdBcnZyNlFNWlNqYVZUN2JNR0YtaWZ5d0NzTjVBYmk0YWI5dGlIQQ?oc=5",
-      "summary": "Defiance or denial? Inside Manchester City’s bubble, decked with inflatable bananas CNN",
-      "date_label": "14.10.2026",
-      "timestamp": 1792018756.0
-    },
-    {
       "source": "BBC World",
       "category": "verden",
       "title": "At the Brooklyn shop in 'surreal' row with Kelly Clarkson over mechanical bird",
@@ -1305,15 +1404,6 @@
       "summary": "Art of Play says its staff have been threatened after the singer complained online about how she was treated.",
       "date_label": "14.10.2026",
       "timestamp": 1792016353.0
-    },
-    {
-      "source": "Avisa Oslo",
-      "category": "lokalt",
-      "title": "I ett år har 47 vinduer stått på fortauet. Varsler kjemperegning til naboen etter gigablemme",
-      "url": "https://www.ao.no/i-ett-ar-har-47-vinduer-statt-pa-fortauet-varsler-kjemperegning-til-naboen-etter-gigablemme/s/80-128-46136",
-      "summary": "Én mann tok på seg ansvaret med å bestille vinduer til flere av naboene. Så gikk alt skeis.",
-      "date_label": "14.10.2026",
-      "timestamp": 1792015380.0
     },
     {
       "source": "Nordre Aker Budstikke",
@@ -1352,15 +1442,6 @@
       "timestamp": 1792015260.0
     },
     {
-      "source": "CNN",
-      "category": "verden",
-      "title": "OpenAI accuses former employee of leaking intel on AI device to Apple - CNN",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZnB5TXNvLU5qT2pwUnVzWVNxVzN2RnRNenpoRUQ2dktjeUhNYzJHa1JSWUlxNzlnNUlEQmJHa2tZOVhXUjA3ckVCN2s5U3pIQk1PZ2E2VnRqeXFfaFhKQU41ZUN4aFYwNjRrRmpORUY0LU1xU2p4RTROTmwxaDc4WUhWZ1ViTEU1aGlKQ0FsSm9jSWNhNGRDS0M1cWhsUE1saVhEM0dXUnc?oc=5",
-      "summary": "OpenAI accuses former employee of leaking intel on AI device to Apple CNN",
-      "date_label": "14.10.2026",
-      "timestamp": 1792014808.0
-    },
-    {
       "source": "NRK",
       "category": "norge",
       "title": "NRK-ekspert satt ut etter ny norsk bragd: – Herregud, hva er det vi er vitne til?",
@@ -1397,33 +1478,6 @@
       "timestamp": 1792009745.0
     },
     {
-      "source": "CNN",
-      "category": "verden",
-      "title": "SNL is staying quiet while Shane Gillis sexism scandal grows - CNN",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9JQTVEVDNpeEJ6bzNEUy0zYjVyZC1BWWYzeGhjUURLYXlBdlpjY0RKVEFUNGNoQ0NBN3BSak9DSzFmTEVjemN3Wk1NcnNzYm54b29FcDVBd0w4N1FuYlQ1ODdyVWxoUVcwTWMyX0V1OVRiLXFjTU50MXM5MA?oc=5",
-      "summary": "SNL is staying quiet while Shane Gillis sexism scandal grows CNN",
-      "date_label": "14.10.2026",
-      "timestamp": 1792008855.0
-    },
-    {
-      "source": "CNN",
-      "category": "verden",
-      "title": "AI stocks drop after hot inflation report bolsters bets for Fed rate hikes - CNN",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE05Smp5ZFZadGJvLXk5cHo5c1hBRnIwcmR1UldxOVlNRWZ0b19rLTEwT3hLRE1ZdHdWaHRoSFRMeUlsSVN3b2RvNVNRMllzTU5xZVBCd1JJcUNwWDRYTEpJeGowcHhmdmJuenduVUljM3BrUQ?oc=5",
-      "summary": "AI stocks drop after hot inflation report bolsters bets for Fed rate hikes CNN",
-      "date_label": "14.10.2026",
-      "timestamp": 1792008737.0
-    },
-    {
-      "source": "NRK",
-      "category": "norge",
-      "title": "Varslere føler seg lurt av sykehus: Krever oppvask",
-      "url": "https://www.nrk.no/tromsogfinnmark/ambulansesaken_-fem-partier-krever-ny-gransking-av-finnmarkssykehuset-1.18053169",
-      "summary": "Fem partier stiller seg bak varslerne i Finnmarkssykehuset, som ikke fikk sine varsler behandlet på nytt av helseforetaket. Nå må helseministeren svare i Stortinget.",
-      "date_label": "14.10.2026",
-      "timestamp": 1792006310.0
-    },
-    {
       "source": "The Guardian",
       "category": "verden",
       "title": "Zimbabwean author Simbarashe Kundizeza denies using AI to write prize-winning story",
@@ -1433,15 +1487,6 @@
       "timestamp": 1792004489.0
     },
     {
-      "source": "NRK",
-      "category": "norge",
-      "title": "Trumps nye Grønland-utspill overrasker ikke grønlenderne",
-      "url": "https://www.nrk.no/sapmi/donald-trumps-nye-gronland-utspill-overrasker-ikke-gronlenderne-1.18054456",
-      "summary": "Kort tid etter at USA inngikk en ny sikkerhetsavtale med Danmark og Grønland, skriver Donald Trump at massiv leting etter olje og mineraler er i gang.",
-      "date_label": "14.10.2026",
-      "timestamp": 1792004415.0
-    },
-    {
       "source": "Sagene Avis",
       "category": "lokalt",
       "title": "Ulykker har preget strekningen i flere år. Nå blir det endringer her",
@@ -1449,24 +1494,6 @@
       "summary": "Det har vært flere ulykker og nestenulykker i Vitaminveien på Storo. Nå gjennomføres nok et tiltak for å bedre sikkerheten.",
       "date_label": "14.10.2026",
       "timestamp": 1792004400.0
-    },
-    {
-      "source": "NRK",
-      "category": "norge",
-      "title": "Utskjelte stjerner stilnet kritikerne: – Trenger alle gode bekreftelser",
-      "url": "https://www.nrk.no/sport/utskjelte-liverpool-stjerner-stilnet-kritikerne-etter-nimalskamp-mot-lask-1.18055095",
-      "summary": "Flere av Liverpools største profiler har fått gjennomgå den siste tiden. Det de trengte var et middels lag fra Østerrike.",
-      "date_label": "14.10.2026",
-      "timestamp": 1792002970.0
-    },
-    {
-      "source": "NRK",
-      "category": "norge",
-      "title": "Ein køyretur i mørket blei ekkel for Emmy: – Den var jo stor, kanskje fem-seks meter høg",
-      "url": "https://www.nrk.no/tromsogfinnmark/stenger-vegen-eit-halvt-dogn-etter-at-diger-stein-rasa-ut-i-vegbana-1.18055213",
-      "summary": "Fylkesveg 848 ved Løksa i Salangen er no stengd fram til torsdag føremiddag etter steinras.",
-      "date_label": "14.10.2026",
-      "timestamp": 1792001283.0
     },
     {
       "source": "BBC World",
@@ -1485,15 +1512,6 @@
       "summary": "Serhii Kuznietsov is accused of attacking civilian infrastructure in the 2022 sabotage of the Russian gas pipeline to Germany. His lawyers called Nord Stream a military target, and said their client is sworn to secrecy.",
       "date_label": "14.10.2026",
       "timestamp": 1792000800.0
-    },
-    {
-      "source": "NRK",
-      "category": "norge",
-      "title": "Fant langt færre rein enn rapportert: Nå er flere anmeldt",
-      "url": "https://www.nrk.no/nordland/politianmeldt-etter-funn-av-avvik-under-reintelling-1.18054991",
-      "summary": "Store avvik i en kontrolltelling har ført til politianmeldelser i reindrifta. Nå gransker Statsforvalteren også tidligere utbetalinger.",
-      "date_label": "14.10.2026",
-      "timestamp": 1791998382.0
     },
     {
       "source": "The Guardian",
@@ -1602,24 +1620,6 @@
       "summary": "Microbiologist Aili Wang, 32, poisoned tea of colleague in Wyoming who had pending patents, prosecutors allege A Wyoming microbiology graduate student from China has been arrested on accusations she poisoned the tea of a colleague who had pending patents and with whom she did not get along, then tried to flee the country after police questioned her",
       "date_label": "14.10.2026",
       "timestamp": 1791939216.0
-    },
-    {
-      "source": "BBC World",
-      "category": "verden",
-      "title": "Why the lonely in China are hiring 'temporary children'",
-      "url": "https://www.bbc.co.uk/news/videos/cm8xkxn8lqkeo?at_medium=RSS&at_campaign=rss",
-      "summary": "A new industry being dubbed the “loneliness economy” has emerged in China, with people hiring themselves out as companions to help the elderly.",
-      "date_label": "13.10.2026",
-      "timestamp": 1791928820.0
-    },
-    {
-      "source": "The Guardian",
-      "category": "verden",
-      "title": "Intense waves and floods batter California waterfront homes and boardwalks",
-      "url": "https://www.theguardian.com/us-news/2026/oct/13/california-storm-floods",
-      "summary": "Boardwalk destroyed in Long Beach and homes damaged, while Baja California in Mexico and Las Vegas also affected Southern California coastal communities are picking up the pieces after a weekend of extreme weather brought flooding that overtook city streets and intense waves battered beachside homes. The remnants of Tropical Storm Rachel hit Mexico",
-      "date_label": "13.10.2026",
-      "timestamp": 1791926948.0
     }
   ]
 }
