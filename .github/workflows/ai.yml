@@ -24,6 +24,8 @@ jobs:
         run: pip install -r requirements-ai.txt
       - name: Klassifiser nyhetene med KI
         run: python ai_engine.py
+      - name: Mål klassifisering mot testfasit
+        run: python evaluate_topics.py
       - name: Lagre KI-klassifisering
         run: |
           git config user.name "aurora-news-bot"
