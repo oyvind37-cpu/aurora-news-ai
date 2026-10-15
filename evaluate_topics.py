@@ -1,23 +1,42 @@
-"""Measure topic accuracy and coverage on manually labelled headlines."""
+"""Evaluate topic predictions against a manually reviewed gold set.
+
+Missing benchmark cases are failures of test coverage, not correct predictions.
+"""
 import json
 from pathlib import Path
-root=Path(__file__).resolve().parent
-data=json.loads((root/"news.json").read_text(encoding="utf-8"))
-gold=json.loads((root/"tests/topic_gold.json").read_text(encoding="utf-8"))["cases"]
-by_title={x["title"]:x for x in data["items"]}
-matched=[(g,by_title[g["title"]]) for g in gold if g["title"] in by_title]
-if not matched:
-    raise SystemExit("No benchmark headlines in news.json")
-correct=sum(g["topic"]==x.get("topic") for g,x in matched)
-covered=sum(bool(x.get("topic")) for _,x in matched)
-print(f"Benchmark: {len(matched)}/{len(gold)} matched; accuracy {correct}/{len(matched)} ({correct/len(matched):.1%}); coverage {covered}/{len(matched)} ({covered/len(matched):.1%})")
-for g,x in matched:
-    if g["topic"]!=x.get("topic"):
-        print(f"MISS expected={g['topic']} predicted={x.get('topic','unclassified')} | {g['title']}")
 
-# Baseline from v4: 7 correct out of 20. Do not publish a regression.
-# This is a temporary development gate, not an acceptance threshold for
-# production use; the gold set must be expanded and independently reviewed.
-baseline_correct = 7
-if len(matched) == 20 and correct < baseline_correct:
-    raise SystemExit(f"Regression: {correct}/20 is worse than v4 baseline {baseline_correct}/20")
+root = Path(__file__).resolve().parent
+data = json.loads((root / "news.json").read_text(encoding="utf-8"))
+gold = json.loads((root / "tests/topic_gold.json").read_text(encoding="utf-8"))["cases"]
+
+by_title = {item["title"]: item for item in data["items"]}
+matched = [(case, by_title[case["title"]]) for case in gold if case["title"] in by_title]
+missing = [case for case in gold if case["title"] not in by_title]
+
+if not gold:
+    raise SystemExit("Benchmark has no labelled cases")
+
+correct = sum(case["topic"] == item.get("topic") for case, item in matched)
+classified = sum(bool(item.get("topic")) for _, item in matched)
+total = len(gold)
+evaluated = len(matched)
+accuracy = correct / evaluated if evaluated else 0.0
+match_coverage = evaluated / total
+classification_coverage = classified / evaluated if evaluated else 0.0
+
+print(
+    f"Benchmark: {evaluated}/{total} matched ({match_coverage:.1%} dataset coverage); "
+    f"accuracy {correct}/{evaluated} ({accuracy:.1%}); "
+    f"classification coverage {classified}/{evaluated} ({classification_coverage:.1%})"
+)
+for case in missing:
+    print(f"MISSING topic={case['topic']} | {case['title']}")
+for case, item in matched:
+    if case["topic"] != item.get("topic"):
+        print(f"MISS expected={case['topic']} predicted={item.get('topic', 'unclassified')} | {case['title']}")
+
+# A benchmark must never silently skip labelled cases and claim full success.
+if missing:
+    raise SystemExit(f"Benchmark incomplete: {len(missing)} of {total} gold cases absent from news.json")
+if correct != evaluated:
+    raise SystemExit(f"Benchmark classification errors: {evaluated - correct} of {evaluated}")
