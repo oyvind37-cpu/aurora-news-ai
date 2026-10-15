@@ -1,14 +1,23 @@
 {
-  "updated": "2026-10-15T10:13:31.328750+00:00",
+  "updated": "2026-10-15T10:15:19.758179+00:00",
   "items": [
     {
-      "source": "The Guardian",
+      "source": "BBC World",
       "category": "verden",
-      "title": "US effort to get Russia-Ukraine energy ceasefire collapses",
-      "url": "https://www.theguardian.com/world/2026/oct/15/us-effort-to-get-russia-ukraine-energy-ceasefire-collapses",
-      "summary": "Moscow sends swarms of drones to attack infrastructure in central Ukraine as Kyiv appears to resume strikes on Russian oil refineries Europe live – latest updates The White House’s unilateral effort to negotiate an energy ceasefire between Russia and Ukraine has collapsed as Moscow sent a record swarm of drones overnight to attack infrastructure in",
+      "title": "Why is Starlink internet so important on the battlefield in Ukraine?",
+      "url": "https://www.bbc.co.uk/news/articles/cqkgk4zg54reo?at_medium=RSS&at_campaign=rss",
+      "summary": "It is the \"backbone of military communications in Ukraine\" that provides vital high-speed internet to forces across the country.",
       "date_label": "15.10.2026",
-      "timestamp": 1792058928.0
+      "timestamp": 1792059271.0
+    },
+    {
+      "source": "Sagene Avis",
+      "category": "lokalt",
+      "title": "Ny undersøkelse: Nær 80 prosent spiser for lite fisk – her er kokkens triks",
+      "url": "https://www.sageneavis.no/fisk/middag/undersokelse/sliter-du-med-a-spise-nok-fisk-slik-lykkes-du-pa-15-minutter/s/80-95-162624",
+      "summary": "Nesten åtte av ti nordmenn klarer ikke å følge myndighetenes kostholdsråd for sjømat. Løsningen for både tidsnød og skeptiske barn kan være enklere enn du tror.",
+      "date_label": "15.10.2026",
+      "timestamp": 1792058711.0
     },
     {
       "source": "The Guardian",
@@ -17,16 +26,7 @@
       "url": "https://www.theguardian.com/world/live/2026/oct/15/ukraine-russia-war-starlink-zelenskyy-putin-elon-musk-trump-europe-latest-news",
       "summary": "Zelenskyy said he felt ‘betrayed’ by the US after Trump’s diesel deal with Russia and the Starlink restrictions Just as the leaders sit down at the big table in Brussels, Romania has said that seven people are still missing after a fire on a vessel in Romanian territorial waters of the Black Sea. Suspected Russian drones have hit several ships off ",
       "date_label": "15.10.2026",
-      "timestamp": 1792058776.0
-    },
-    {
-      "source": "Nordre Aker Budstikke",
-      "category": "lokalt",
-      "title": "Ny undersøkelse: Nær 80 prosent spiser for lite fisk – her er kokkens triks",
-      "url": "https://www.nab.no/fisk/middag/undersokelse/sliter-du-med-a-spise-nok-fisk-slik-lykkes-du-pa-15-minutter/s/80-95-162624",
-      "summary": "Nesten åtte av ti nordmenn klarer ikke å følge myndighetenes kostholdsråd for sjømat. Løsningen for både tidsnød og skeptiske barn kan være enklere enn du tror.",
-      "date_label": "15.10.2026",
-      "timestamp": 1792058711.0
+      "timestamp": 1792058602.0
     },
     {
       "source": "Al Jazeera English",
@@ -67,7 +67,7 @@
     {
       "source": "Deutsche Welle",
       "category": "verden",
-      "title": "Brazil's elections matter for the planet. This is why",
+      "title": "Brazil's elections matter for the planet. This is why.",
       "url": "https://www.dw.com/en/brazil-s-elections-matter-for-the-planet-this-is-why/a-79659928?maca=en-rss-en-all-1573-xml-mrss",
       "summary": "Brazil is heading back to the polls, but the impact could be felt worldwide. With the Amazon vital to the health of the planet, the election could help shape its future.",
       "date_label": "15.10.2026",
@@ -117,15 +117,6 @@
       "summary": "Fredag faller straffeutmålingen mot den norske tenåringen som er dømt for drapsplanlegging i London: – Vi har hatt ett mål, og det er å få han tilbake til Norge, sier hans norske forsvarer.",
       "date_label": "15.10.2026",
       "timestamp": 1792055805.0
-    },
-    {
-      "source": "BBC World",
-      "category": "verden",
-      "title": "Why is Starlink internet so important on the battlefield in Ukraine?",
-      "url": "https://www.bbc.co.uk/news/articles/cqkgk4zg54reo?at_medium=RSS&at_campaign=rss",
-      "summary": "It is the \"backbone of military communications in Ukraine\" that provides vital high-speed internet to forces across the country.",
-      "date_label": "15.10.2026",
-      "timestamp": 1792055410.0
     },
     {
       "source": "Al Jazeera English",
@@ -801,6 +792,15 @@
       "summary": "North Korean state media said the military test-fired cruise missiles designed to be launched from submarines. Pyongyang has ramped up weapons launches in recent weeks.",
       "date_label": "14.10.2026",
       "timestamp": 1792021020.0
+    },
+    {
+      "source": "The Guardian",
+      "category": "verden",
+      "title": "Student protests in Albania turn violent as demonstrators clash with police",
+      "url": "https://www.theguardian.com/world/2026/oct/14/student-protests-tirana-albania-police-clashes",
+      "summary": "Dozens of people detained after government building and two banks set on fire as tens of thousands march over education costs and corruption Tens of thousands of students have taken to the streets of Tirana, the Albanian capital, setting alight a government building and two banks and hurling stones at police during a protest over rising education c",
+      "date_label": "14.10.2026",
+      "timestamp": 1792019983.0
     },
     {
       "source": "CNN",
