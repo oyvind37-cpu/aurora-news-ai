@@ -14,3 +14,10 @@ print(f"Benchmark: {len(matched)}/{len(gold)} matched; accuracy {correct}/{len(m
 for g,x in matched:
     if g["topic"]!=x.get("topic"):
         print(f"MISS expected={g['topic']} predicted={x.get('topic','unclassified')} | {g['title']}")
+
+# Baseline from v4: 7 correct out of 20. Do not publish a regression.
+# This is a temporary development gate, not an acceptance threshold for
+# production use; the gold set must be expanded and independently reviewed.
+baseline_correct = 7
+if len(matched) == 20 and correct < baseline_correct:
+    raise SystemExit(f"Regression: {correct}/20 is worse than v4 baseline {baseline_correct}/20")
