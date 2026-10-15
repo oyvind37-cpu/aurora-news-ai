@@ -212,7 +212,7 @@
       "summary": "",
       "date_label": "15.10.2026",
       "timestamp": 1792083740.0,
-      "topic_method": "semantic-ai",
+      "topic_method": "headline-guardrail",
       "topic": "nyheter"
     },
     {
@@ -243,7 +243,8 @@
       "summary": "Passasjerer må regne med noen forsinkelser på linjen.",
       "date_label": "15.10.2026",
       "timestamp": 1792083304.0,
-      "topic_method": "unclassified"
+      "topic_method": "semantic-ai",
+      "topic": "nyheter"
     },
     {
       "source": "Avisa Oslo",
@@ -283,7 +284,8 @@
       "summary": "Turkish police raided the Istanbul headquarters of an important pro-opposition television station on Wednesdazy, the day that jailed Istanbul Mayor Ekrem Imamoglu was set to start his defense against corruption charges.",
       "date_label": "15.10.2026",
       "timestamp": 1792082880.0,
-      "topic_method": "unclassified"
+      "topic_method": "semantic-ai",
+      "topic": "nyheter"
     },
     {
       "source": "Al Jazeera English",
@@ -469,8 +471,7 @@
       "summary": "Neanderthal murder mystery reveals a tale of violence and compassion CNN",
       "date_label": "15.10.2026",
       "timestamp": 1792078390.0,
-      "topic_method": "semantic-ai",
-      "topic": "nyheter"
+      "topic_method": "unclassified"
     },
     {
       "source": "Avisa Oslo",
@@ -511,7 +512,8 @@
       "summary": "Children were buried under the debris after the roof crashed through three classrooms, police say.",
       "date_label": "15.10.2026",
       "timestamp": 1792077976.0,
-      "topic_method": "unclassified"
+      "topic_method": "semantic-ai",
+      "topic": "nyheter"
     },
     {
       "source": "The Guardian",
@@ -798,7 +800,8 @@
       "summary": "Trivselen er høy i aktivitetsskolene i bydel Sagene. Men særlig én side ved tilbudet er foreldrene mindre fornøyde med.",
       "date_label": "15.10.2026",
       "timestamp": 1792072800.0,
-      "topic_method": "unclassified"
+      "topic_method": "semantic-ai",
+      "topic": "politikk"
     },
     {
       "source": "Deutsche Welle",
@@ -1003,8 +1006,7 @@
       "summary": "«Squishy»-leker er årets store leketrend på TikTok, men eksperter og sykehus advarer nå mot virale triks som gir barn alvorlige brannskader.",
       "date_label": "15.10.2026",
       "timestamp": 1792062529.0,
-      "topic_method": "semantic-ai",
-      "topic": "nyheter"
+      "topic_method": "unclassified"
     },
     {
       "source": "Nordre Aker Budstikke",
@@ -1104,7 +1106,8 @@
       "summary": "Local authorities said more than 50 other people were injured in the disaster. Roof collapses have become increasingly common in Pakistan.",
       "date_label": "15.10.2026",
       "timestamp": 1792059600.0,
-      "topic_method": "unclassified"
+      "topic_method": "semantic-ai",
+      "topic": "nyheter"
     },
     {
       "source": "Deutsche Welle",
@@ -1403,7 +1406,8 @@
       "summary": "Pakistan school roof collapse kills at least 32 children and one teacher CNN",
       "date_label": "15.10.2026",
       "timestamp": 1792050004.0,
-      "topic_method": "unclassified"
+      "topic_method": "semantic-ai",
+      "topic": "nyheter"
     },
     {
       "source": "Avisa Oslo",
@@ -1528,7 +1532,7 @@
       "date_label": "15.10.2026",
       "timestamp": 1792044816.0,
       "topic_method": "semantic-ai",
-      "topic": "kultur"
+      "topic": "nyheter"
     },
     {
       "source": "CNN",
@@ -1580,8 +1584,7 @@
       "summary": "Sjukepleiarforbundet er bekymra og ber Arbeidstilsynet undersøke forholda etter at fleire leiarar har slutta.",
       "date_label": "15.10.2026",
       "timestamp": 1792040196.0,
-      "topic_method": "semantic-ai",
-      "topic": "politikk"
+      "topic_method": "unclassified"
     },
     {
       "source": "CNN",
@@ -1591,8 +1594,7 @@
       "summary": "Records reveal mechanical failures, faulty restraints and broken bones at Six Flags parks CNN",
       "date_label": "15.10.2026",
       "timestamp": 1792040023.0,
-      "topic_method": "semantic-ai",
-      "topic": "sport"
+      "topic_method": "unclassified"
     },
     {
       "source": "The Guardian",
@@ -1602,7 +1604,8 @@
       "summary": "Having tried cloud seeding and water bombing, one pilot project will see dry ice dispersed by plane across the province of South Sumatra As fires ravage Indonesia, emitting a toxic smoke that has drawn the ire of regional neighbours, the government is testing an unusual new approach to tackle the haze: dry ice. Having tried cloud seeding, water bom",
       "date_label": "15.10.2026",
       "timestamp": 1792038303.0,
-      "topic_method": "unclassified"
+      "topic_method": "semantic-ai",
+      "topic": "nyheter"
     },
     {
       "source": "BBC World",
@@ -1840,7 +1843,7 @@
       "summary": "Nå skal det endelig bestemmes hvilke elever som skal gå på hvilke ungdomsskoler i bydel Sagene. Du kan si din mening frem til 25. oktober.",
       "date_label": "14.10.2026",
       "timestamp": 1791982762.0,
-      "topic_method": "rules",
+      "topic_method": "semantic-ai",
       "topic": "politikk"
     },
     {
@@ -1856,16 +1859,17 @@
     }
   ],
   "ai_model": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
-  "ai_classified_count": 50,
-  "ai_uncertain_count": 130,
+  "ai_classified_count": 53,
+  "ai_uncertain_count": 126,
   "ai_topic_counts": {
-    "nyheter": 12,
-    "politikk": 22,
-    "kultur": 2,
-    "sport": 3,
+    "nyheter": 17,
+    "politikk": 23,
+    "kultur": 1,
+    "sport": 2,
     "teknologi": 8,
     "underholdning": 2,
     "sosiale-medier": 1
   },
-  "ai_method": "multilingual-example-similarity-v3"
+  "ai_method": "multilingual-example-similarity-v4",
+  "ai_guardrail_count": 1
 }
