@@ -26,6 +26,14 @@ export default {
     let mismatch = 0;
     for (let i=0;i<a.length;i++) mismatch |= a[i]^b[i];
     if (!pin || mismatch) return reply({error:'Ugyldig kode'},401);
+    // Avoid dispatching while an existing run is queued/running or was just started.
+    const runsResponse = await fetch(`https://api.github.com/repos/${OWNER}/${REPO}/actions/workflows/${WORKFLOW}/runs?per_page=10`, {
+      headers:{'Authorization':`Bearer ${env.GITHUB_TOKEN}`,'Accept':'application/vnd.github+json','User-Agent':'Aurora-News-Worker'}
+    });
+    if(!runsResponse.ok) return reply({error:'Kunne ikke kontrollere eksisterende jobber'},502);
+    const runs = (await runsResponse.json()).workflow_runs || [];
+    if(runs.some(run => run.status !== 'completed' || Date.now()-Date.parse(run.created_at)<300000))
+      return reply({ok:true,started:false,message:'Innhenting pågår eller er nylig startet'},202);
     const response = await fetch(`https://api.github.com/repos/${OWNER}/${REPO}/actions/workflows/${WORKFLOW}/dispatches`,{
       method:'POST',
       headers:{'Authorization':`Bearer ${env.GITHUB_TOKEN}`,'Accept':'application/vnd.github+json','X-GitHub-Api-Version':'2022-11-28','User-Agent':'Aurora-News-Worker'},

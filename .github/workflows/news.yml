@@ -9,9 +9,14 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: aurora-news-data
+  cancel-in-progress: false
+
 jobs:
   update-news:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
 
     steps:
       - name: Hent prosjektet
@@ -23,7 +28,21 @@ jobs:
           python-version: '3.12'
 
       - name: Hent siste nyheter
-        run: python fetch_news.py
+        run: |
+          python - <<'PY'
+          import datetime as dt, json
+          from pathlib import Path
+          import fetch_news
+          try:
+              stamp = dt.datetime.fromisoformat(json.loads(Path('news.json').read_text())['updated'].replace('Z', '+00:00'))
+              age = (dt.datetime.now(dt.timezone.utc) - stamp).total_seconds()
+          except (ValueError, KeyError, OSError, TypeError):
+              age = 999999
+          if 0 <= age < 300:
+              print('Nyhetsdata er yngre enn fem minutter; hopper over dobbel innhenting.')
+          else:
+              fetch_news.main()
+          PY
 
       - name: Lagre oppdaterte nyheter
         run: |
@@ -32,5 +51,6 @@ jobs:
           git add news.json
           if ! git diff --cached --quiet; then
             git commit -m "Oppdater nyheter automatisk"
-            git push
+            git pull --rebase origin main
+            git push origin HEAD:main
           fi
