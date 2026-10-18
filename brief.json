@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-18T20:31:59.624484+00:00",
+  "generated": "2026-10-18T20:37:28.717734+00:00",
   "method": "extractive_rss_no_ai_generation",
   "notice": "Overskrifter og korte utdrag er hentet fra RSS. Ikke uavhengig faktaverifisert. Åpne originalkilden for full sammenheng.",
   "items": [
@@ -44,6 +44,26 @@
       "category": "norge"
     },
     {
+      "title": "Macron calls for calm in France and warns rioting must not escalate",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-18T20:33:21+00:00",
+      "excerpt": "French President Emmanuel Macron gives a national address after widespread disorder and as some looting continued in Paris.",
+      "evidence_type": "rss_excerpt",
+      "verification": "source_attributed_not_independently_verified",
+      "category": "verden"
+    },
+    {
+      "title": "Fire engulfs Albania’s Supreme Court as protests enter fifth day",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/albania-protests-supreme-court-fire?traffic_source=rss",
+      "published": "2026-10-18T20:26:03+00:00",
+      "excerpt": "Offices at the Supreme Court in Tirana were set ablaze as anti-government protests continue.",
+      "evidence_type": "rss_excerpt",
+      "verification": "source_attributed_not_independently_verified",
+      "category": "verden"
+    },
+    {
       "title": "Ramos could make La Liga return - Monday's gossip",
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/ckjrw11dv5xjo?at_medium=RSS&at_campaign=rss",
@@ -64,16 +84,6 @@
       "category": "verden"
     },
     {
-      "title": "Macron calls for calm in France and warns rioting must not escalate",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-18T20:06:20+00:00",
-      "excerpt": "French President Emmanuel Macron made a national television address after rioting caused widespread damage.",
-      "evidence_type": "rss_excerpt",
-      "verification": "source_attributed_not_independently_verified",
-      "category": "verden"
-    },
-    {
       "title": "What’s behind Europe’s youth protests?",
       "source": "Al Jazeera English",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/whats-behind-europes-youth-protests?traffic_source=rss",
@@ -89,16 +99,6 @@
       "url": "https://www.bbc.co.uk/sport/football/articles/c3qjnyw8qe4do?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-18T19:55:41+00:00",
       "excerpt": "Noni Madueke may not have the role he wants at Arsenal but his winning goal against Nottingham Forest showed why he is one of Mikel Arteta's valued players.",
-      "evidence_type": "rss_excerpt",
-      "verification": "source_attributed_not_independently_verified",
-      "category": "verden"
-    },
-    {
-      "title": "Cindy Crawford 'beyond heartbroken' after death of son Presley at 27",
-      "source": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/cwzrd6123jyyo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-18T19:53:27+00:00",
-      "excerpt": "Presley Gerber's death in September is being investigated as a suspected overdose.",
       "evidence_type": "rss_excerpt",
       "verification": "source_attributed_not_independently_verified",
       "category": "verden"
