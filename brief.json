@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-18T20:39:35.866974+00:00",
+  "generated": "2026-10-18T21:36:48.314746+00:00",
   "method": "extractive_rss_no_ai_generation",
   "notice": "Overskrifter og korte utdrag er hentet fra RSS. Ikke uavhengig faktaverifisert. Åpne originalkilden for full sammenheng.",
   "items": [
@@ -24,27 +24,67 @@
       "category": "lokalt"
     },
     {
-      "title": "Tre perlemål da Norge åpnet U17-VM med seier",
-      "source": "NRK Sport",
-      "url": "https://www.nrk.no/sport/tre-perlemal-da-norge-apnet-u17-vm-med-seier-1.18058092",
-      "published": "2026-10-18T19:58:53+00:00",
-      "excerpt": "Det norske U17-landslaget vartet opp med festfotball og banket Ghana 3-0 i åpningskampen i VM. I den marokkanske hovedstaden Rabat, med fotballpresident Lise Klaveness på tribunen, var det aldri noen tvil. Sara Isabella Lepore hamret til fra distanse, og ballen gikk via tverrliggeren og i mål etter bare seks minutter. Seks minutter senere bøyde Mai",
-      "evidence_type": "rss_excerpt",
-      "verification": "source_attributed_not_independently_verified",
-      "category": "norge"
-    },
-    {
-      "title": "Advarte om nazikonsert – hit dro nynazistene",
+      "title": "TV-aksjonen: 251 millioner kroner ble samlet inn",
       "source": "NRK",
-      "url": "https://www.nrk.no/buskerud/advarte-om-nazikonsert-_-hit-dro-nynazistene-1.18056871",
-      "published": "2026-10-18T19:32:09+00:00",
-      "excerpt": "I helga var flere europeiske nynazister i Norge. Eksperter frykter økt rekruttering blant unge.",
+      "url": "https://www.nrk.no/tvaksjonen/over-250-millioner-kroner-kom-inn-til-tv-aksjonen-2026-1.18047087",
+      "published": "2026-10-18T21:10:54+00:00",
+      "excerpt": "– Vi er overveldet og dypt takknemlige for givergleden, sier generalsekretær i NRC Flyktninghjelpen, Jan Egeland.",
       "evidence_type": "rss_excerpt",
       "verification": "source_attributed_not_independently_verified",
       "category": "norge"
     },
     {
-      "title": "Macron calls for calm in France and warns rioting must not escalate",
+      "title": "Trump: – Zelenskyj ønsker ikke å avslutte krigen",
+      "source": "NRK",
+      "url": "https://www.nrk.no/nyheter/trump_-_-zelenskyj-onsker-ikke-a-avslutte-krigen-1.18058111",
+      "published": "2026-10-18T20:43:37+00:00",
+      "excerpt": "USAs president Donald Trump sier at avgjørelsene hans overfor Russland handler om å skape fred i Ukraina, etter Zelenskyj anklaget han for å presse Ukraina til å kapitulere. Trump hevder at den ukrainske presidenten ikke ønsker å avslutte krigen. Zelenskyj bryr seg ikke, og ærlig talt, med alle pengene som Europa som kjent gir ham, og som korrupte",
+      "evidence_type": "rss_excerpt",
+      "verification": "source_attributed_not_independently_verified",
+      "category": "norge"
+    },
+    {
+      "title": "What we know so far about deadly fire at Canadian military base",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cmgelrq8x92do?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-18T21:23:01+00:00",
+      "excerpt": "At least four people are confirmed to have died after a huge fire swept through the base.",
+      "evidence_type": "rss_excerpt",
+      "verification": "source_attributed_not_independently_verified",
+      "category": "verden"
+    },
+    {
+      "title": "Sydney man charged after alleged gunfire prompted Dulwich Hill lockdown",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/19/man-charged-dulwich-hill-sydney-inner-west-alleged-gun-ntwnfb",
+      "published": "2026-10-18T21:22:51+00:00",
+      "excerpt": "Police responding to reports of an alleged stolen car in Dulwich Hill were told a man was armed with a firearm Get our breaking news email , free app or daily news podcast A man has been charged with a slew of offences following an investigation into reports a man was allegedly seen with a firearm in Sydney’s inner west last week. About 10.20am on",
+      "evidence_type": "rss_excerpt",
+      "verification": "source_attributed_not_independently_verified",
+      "category": "verden"
+    },
+    {
+      "title": "Macron condemns violence after riots lead to looting and mass arrests",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/macron-condemns-violence-after-riots-lead-to-looting-and-mass-arrests?traffic_source=rss",
+      "published": "2026-10-18T21:10:47+00:00",
+      "excerpt": "French President Emmanuel Macron says protesters who attacked government buildings need to pay for their crimes.",
+      "evidence_type": "rss_excerpt",
+      "verification": "source_attributed_not_independently_verified",
+      "category": "verden"
+    },
+    {
+      "title": "Inside Chicago's battle against the synthetic drugs flooding the US",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/videos/c84g166kz003o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-18T21:00:22+00:00",
+      "excerpt": "A new wave of synthetic drugs is sweeping across the United States, raising fear of a worsening drug crisis. The BBC's Quentin Sommerville reports from the frontlines in South Side, Chicago, where communities are battling the crisis.",
+      "evidence_type": "rss_excerpt",
+      "verification": "source_attributed_not_independently_verified",
+      "category": "verden"
+    },
+    {
+      "title": "Macron calls for 'calm and order' after riots across France",
       "source": "BBC World",
       "url": "https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-18T20:33:21+00:00",
@@ -59,46 +99,6 @@
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/albania-protests-supreme-court-fire?traffic_source=rss",
       "published": "2026-10-18T20:26:03+00:00",
       "excerpt": "Offices at the Supreme Court in Tirana were set ablaze as anti-government protests continue.",
-      "evidence_type": "rss_excerpt",
-      "verification": "source_attributed_not_independently_verified",
-      "category": "verden"
-    },
-    {
-      "title": "Ramos could make La Liga return - Monday's gossip",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckjrw11dv5xjo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-18T20:21:54+00:00",
-      "excerpt": "Sergio Ramos could make a surprise return to football in Madrid, Bournemouth put a high price on Alex Scott, and Florian Wirtz is staying at Liverpool.",
-      "evidence_type": "rss_excerpt",
-      "verification": "source_attributed_not_independently_verified",
-      "category": "verden"
-    },
-    {
-      "title": "‘Anger and shame’: Macron denounces France’s nationwide rioting, looting",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/10/18/macron-denounces-frances-nationwide-rioting-looting?traffic_source=rss",
-      "published": "2026-10-18T20:19:22+00:00",
-      "excerpt": "President Macron promises to increase security, but stops short of announcing a state of emergency or curfew.",
-      "evidence_type": "rss_excerpt",
-      "verification": "source_attributed_not_independently_verified",
-      "category": "verden"
-    },
-    {
-      "title": "What’s behind Europe’s youth protests?",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/whats-behind-europes-youth-protests?traffic_source=rss",
-      "published": "2026-10-18T20:05:07+00:00",
-      "excerpt": "What's behind Europe's youth protests?",
-      "evidence_type": "rss_excerpt",
-      "verification": "source_attributed_not_independently_verified",
-      "category": "verden"
-    },
-    {
-      "title": "Madueke's 'anger and conviction' shows he's more than a 'finisher'",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c3qjnyw8qe4do?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-18T19:55:41+00:00",
-      "excerpt": "Noni Madueke may not have the role he wants at Arsenal but his winning goal against Nottingham Forest showed why he is one of Mikel Arteta's valued players.",
       "evidence_type": "rss_excerpt",
       "verification": "source_attributed_not_independently_verified",
       "category": "verden"
