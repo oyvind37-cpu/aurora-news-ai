@@ -111,11 +111,15 @@ def validate(text, sources):
         ids = section.get("source_ids")
         if not isinstance(ids, list) or not ids or any(x not in allowed for x in ids):
             raise ValueError("Ukjent eller manglende kilde-ID")
-    # URL references inside model-generated prose must be drawn from the source set.
+    # All URLs appearing in generated prose must match a supplied source URL.
     permitted = {source["url"] for source in sources}
-    for section in result["sections"]:
-        for url in re.findall(r"https?://[^\\s<>\\)\\]\\\"']+", section["text"]):
-            if url.rstrip(".,;") not in permitted:
+    fields = [result["headline"], result["intro"], result["limitations"]]
+    fields.extend(section["heading"] for section in result["sections"])
+    fields.extend(section["text"] for section in result["sections"])
+    for field in fields:
+        for match in re.finditer(r"https?://[^\\s<>]+", field):
+            candidate = match.group(0).rstrip(".,;:!?)\\"'")
+            if candidate not in permitted:
                 raise ValueError("Ukjent URL i generert tekst")
     return result
 
