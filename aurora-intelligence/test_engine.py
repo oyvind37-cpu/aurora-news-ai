@@ -26,5 +26,21 @@ class EngineTests(unittest.TestCase):
         payload = '{"headline":"H","intro":"I","limitations":"L","sections":[{"heading":"A","text":"B","source_ids":["S1"]}]}'
         self.assertEqual(validate(payload, sources)["headline"], "H")
 
+    def test_many_long_summaries_fit_budget(self):
+        self.data["items"] = [
+            {"title": "Sak " + str(i), "source": "NRK", "url": "https://example.org/" + str(i),
+             "category": "norge", "summary": "lang tekst " * 150} for i in range(18)
+        ]
+        result = build(self.data)
+        import json
+        self.assertLessEqual(len(json.dumps(result["sources"], ensure_ascii=False)), 16000)
+        self.assertGreater(len(result["sources"]), 0)
+
+    def test_rejects_invented_url(self):
+        sources = build(self.data)["sources"]
+        payload = '{"headline":"H","intro":"I","limitations":"L","sections":[{"heading":"A","text":"Les https://falsk.example/artikkel","source_ids":["S1"]}]}'
+        with self.assertRaises(ValueError):
+            validate(payload, sources)
+
 if __name__ == "__main__":
     unittest.main()
