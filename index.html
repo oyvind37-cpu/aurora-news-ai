@@ -3,7 +3,7 @@
 const saved=(key)=>{try{return localStorage.getItem(key)||sessionStorage.getItem(key)||''}catch{return ''}};
 let workerUrl=saved('auroraWorkerUrl');
 let workerPin=saved('auroraWorkerPin');
-let refreshing=false,lastAttempt=0;
+let refreshing=false,lastAttempt=0,opening=false;
 const trigger=document.querySelector('#trigger');
 const configure=document.querySelector('#configure');
 configure.addEventListener('click',()=>{
@@ -36,22 +36,27 @@ async function refreshSources(automatic=false){
     status.textContent='GitHub-jobben er startet. Venter på publiserte nyheter …';
     trigger.textContent='Venter på GitHub …';
     let updated=false;
-    for(let i=0;i<60;i++){
+    for(let i=0;i<36;i++){
       await new Promise(resolve=>setTimeout(resolve,5000));
       await loadNews();
       if(lastPublished&&lastPublished!==before){updated=true;break}
+      status.textContent='Venter på publisering fra GitHub … ('+Math.round((i+1)*5/60)+' min)';
     }
-    status.textContent=updated?'Nye nyhetsdata er nå lastet inn.':'Jobben er sendt til GitHub. Ingen ny publisering oppdaget ennå; prøv Sjekk siste nyheter om litt.';
+    status.textContent=updated?'Nye nyhetsdata er nå lastet inn.':'GitHub har ikke publisert nyere data innen tre minutter. Du kan sjekke igjen uten å starte en ny jobb.';
   }catch(e){status.textContent='Innhenting feilet: '+e.message}
   finally{refreshing=false;trigger.disabled=false;trigger.textContent='↻ Hent nye nyheter'}
 }
 trigger.addEventListener('click',()=>refreshSources(false));
 async function checkOnOpen(){
+  if(opening||refreshing||document.hidden)return;
+  opening=true;
+  try{
   await loadNews();
   const published=Date.parse(lastPublished);
   if(!document.hidden&&navigator.onLine!==false&&
      (!Number.isFinite(published)||Date.now()-published>=300000)&&
      Date.now()-lastAttempt>=300000) await refreshSources(true);
+  }finally{opening=false}
 }
 document.addEventListener('visibilitychange',()=>{if(!document.hidden)checkOnOpen()});
 window.addEventListener('pageshow',e=>{if(e.persisted)checkOnOpen()});
