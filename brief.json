@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-18T20:26:12.768084+00:00",
+  "generated": "2026-10-18T20:31:59.624484+00:00",
   "method": "extractive_rss_no_ai_generation",
   "notice": "Overskrifter og korte utdrag er hentet fra RSS. Ikke uavhengig faktaverifisert. Åpne originalkilden for full sammenheng.",
   "items": [
@@ -54,6 +54,16 @@
       "category": "verden"
     },
     {
+      "title": "‘Anger and shame’: Macron denounces France’s nationwide rioting, looting",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/10/18/macron-denounces-frances-nationwide-rioting-looting?traffic_source=rss",
+      "published": "2026-10-18T20:19:22+00:00",
+      "excerpt": "President Macron promises to increase security, but stops short of announcing a state of emergency or curfew.",
+      "evidence_type": "rss_excerpt",
+      "verification": "source_attributed_not_independently_verified",
+      "category": "verden"
+    },
+    {
       "title": "Macron calls for calm in France and warns rioting must not escalate",
       "source": "BBC World",
       "url": "https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss",
@@ -89,16 +99,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cwzrd6123jyyo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-18T19:53:27+00:00",
       "excerpt": "Presley Gerber's death in September is being investigated as a suspected overdose.",
-      "evidence_type": "rss_excerpt",
-      "verification": "source_attributed_not_independently_verified",
-      "category": "verden"
-    },
-    {
-      "title": "Sage feels 'shame' at Palace thrashing with future in doubt",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cq1kdzp093jwo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-18T19:51:22+00:00",
-      "excerpt": "Crystal Palace manage Pierre Sage says he feels \"shame\" at the Eagles' performance during their 5-0 thrashing by Brighton and does not know if he will be given time to save his job.",
       "evidence_type": "rss_excerpt",
       "verification": "source_attributed_not_independently_verified",
       "category": "verden"
