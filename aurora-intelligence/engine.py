@@ -46,6 +46,9 @@ def prepare_sources(items):
             "topic": str(item.get("topic", "annet")),
             "summary": str(item.get("summary") or "")[:700]
         })
+    # Keep whole JSON documents within the input budget; never truncate JSON text.
+    while sources and len(json.dumps(sources, ensure_ascii=False)) > MAX_INPUT:
+        sources.pop()
     return sources
 
 SYSTEM = """Du er Aurora Intelligence Engine, en forsiktig norsk nyhetsredaktør.
@@ -108,6 +111,12 @@ def validate(text, sources):
         ids = section.get("source_ids")
         if not isinstance(ids, list) or not ids or any(x not in allowed for x in ids):
             raise ValueError("Ukjent eller manglende kilde-ID")
+    # URL references inside model-generated prose must be drawn from the source set.
+    permitted = {source["url"] for source in sources}
+    for section in result["sections"]:
+        for url in re.findall(r"https?://[^\\s<>\\)\\]\\\"']+", section["text"]):
+            if url.rstrip(".,;") not in permitted:
+                raise ValueError("Ukjent URL i generert tekst")
     return result
 
 def build(data, provider="dry-run"):
