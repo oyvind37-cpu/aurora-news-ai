@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-18T21:36:48.314746+00:00",
+  "generated": "2026-10-18T21:43:39.673696+00:00",
   "method": "extractive_rss_no_ai_generation",
   "notice": "Overskrifter og korte utdrag er hentet fra RSS. Ikke uavhengig faktaverifisert. Åpne originalkilden for full sammenheng.",
   "items": [
@@ -44,10 +44,20 @@
       "category": "norge"
     },
     {
+      "title": "Mbappe scores twice as Real Madrid beat Sevilla",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/videos/crp3g7z9x215o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-18T21:39:04+00:00",
+      "excerpt": "Kylian Mbappe scores twice as Real Madrid beat Sevilla 4-1 in La Liga to close the gap on Barcelona to six points ahead of next weekend's El Clasico.",
+      "evidence_type": "rss_excerpt",
+      "verification": "source_attributed_not_independently_verified",
+      "category": "verden"
+    },
+    {
       "title": "What we know so far about deadly fire at Canadian military base",
       "source": "BBC World",
       "url": "https://www.bbc.co.uk/news/articles/cmgelrq8x92do?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-18T21:23:01+00:00",
+      "published": "2026-10-18T21:37:56+00:00",
       "excerpt": "At least four people are confirmed to have died after a huge fire swept through the base.",
       "evidence_type": "rss_excerpt",
       "verification": "source_attributed_not_independently_verified",
@@ -89,16 +99,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-18T20:33:21+00:00",
       "excerpt": "French President Emmanuel Macron gives a national address after widespread disorder and as some looting continued in Paris.",
-      "evidence_type": "rss_excerpt",
-      "verification": "source_attributed_not_independently_verified",
-      "category": "verden"
-    },
-    {
-      "title": "Fire engulfs Albania’s Supreme Court as protests enter fifth day",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/albania-protests-supreme-court-fire?traffic_source=rss",
-      "published": "2026-10-18T20:26:03+00:00",
-      "excerpt": "Offices at the Supreme Court in Tirana were set ablaze as anti-government protests continue.",
       "evidence_type": "rss_excerpt",
       "verification": "source_attributed_not_independently_verified",
       "category": "verden"
