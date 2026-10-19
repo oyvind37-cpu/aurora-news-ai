@@ -46,6 +46,21 @@ jobs:
           PY
       - name: Kjør sikkerhetstester først
         run: python -m unittest discover -s aurora-intelligence -p 'test_*.py' -v
+      - name: Kontroller at nyhetsgrunnlaget er ferskt
+        run: |
+          python - <<'PY'
+          import datetime, json
+          from pathlib import Path
+          data=json.loads(Path("news.json").read_text(encoding="utf-8"))
+          updated=data.get("updated")
+          if not updated:
+              raise SystemExit("Mangler tidsstempel på nyhetsdata. Ingen KI-kall utført.")
+          stamp=datetime.datetime.fromisoformat(updated.replace("Z","+00:00"))
+          age=datetime.datetime.now(datetime.timezone.utc)-stamp
+          if age.total_seconds()<0 or age.total_seconds()>6*3600:
+              raise SystemExit("Nyhetsdata er eldre enn seks timer eller har fremtidig tidsstempel. Ingen KI-kall utført.")
+          print("Nyhetsdata er ferskt nok til test.")
+          PY
       - name: Lag KI-generert forhåndsvisning (ett API-kall)
         env:
           PROVIDER: ${{ inputs.provider }}
