@@ -19,11 +19,11 @@ configure.addEventListener('click',()=>{
     if(confirm('Husk tilgangskoden på denne private enheten, slik at automatisk innhenting også virker neste gang?')) localStorage.setItem('auroraWorkerPin',workerPin);
     else localStorage.removeItem('auroraWorkerPin');
   } catch(e) { /* In-memory settings still work when storage is unavailable. */ }
-  document.querySelector('#check-status').textContent='Tilkoblingen er klar. Nyheter sjekkes automatisk ved åpning.';
+  document.querySelector('#check-status').textContent='Tilkoblingen er klar. Manuell innhenting kan nå startes.';
 });
 async function refreshSources(automatic=false){
   if(refreshing)return;
-  if(automatic&&(!workerUrl||!workerPin))return;
+  if(automatic)return; // Periodic checks only read published data; never trigger costly jobs automatically.
   if(!workerUrl||!workerPin){configure.click();if(!workerUrl||!workerPin)return}
   refreshing=true;lastAttempt=Date.now();
   trigger.disabled=true;trigger.textContent='Starter innhenting …';
@@ -39,22 +39,22 @@ async function refreshSources(automatic=false){
     const d=await r.json();
     if(!r.ok||!d.ok)throw Error(d.error||'Kunne ikke starte GitHub Actions');
 
-    status.textContent='GitHub-jobb forespurt. Kontrollerer publiserte data …';
+    status.textContent='GitHub-jobb startet. Du kan fortsette å lese mens den arbeider.';
     trigger.textContent='Kontrollerer GitHub …';
     let updated=false,checkFailed=false;
     if(Number.isFinite(age)&&age>=0&&age<300000){status.textContent='Nyhetsfilen er under fem minutter gammel. Venter på eventuelle nye data fra GitHub …'}
-    for(let i=0;i<36;i++){
+    for(let i=0;i<12;i++){
       await new Promise(resolve=>setTimeout(resolve,5000));
       const ok=await loadNews();
       if(!ok){checkFailed=true;continue}
       if(lastPublished&&lastPublished!==before){updated=true;break}
-      status.textContent='GitHub-jobb forespurt – ingen ny publisering ennå ('+Math.floor((i+1)*5/60)+' min).';
+      status.textContent='Innhenting startet. Venter på GitHub ('+(i+1)*5+' sek).';
     }
     if(updated){
       const added=items.filter(x=>!priorIds.has(storyId(x))).length;
       status.textContent=added>0?'Publisering fullført: '+added+' nye artikler i listen.':'Publisering fullført, men ingen nye artikler i listen.';
     }else{
-      status.textContent=checkFailed?'Kunne ikke kontrollere alle forsøk. Sjekk nyhetene igjen.':'Ingen ny publisering funnet etter tre minutter. GitHub kan ha hoppet over innhenting eller ikke endret data. Kontroller arbeidsflyten ved behov.';
+      status.textContent=checkFailed?'Kunne ikke kontrollere alle forsøk. Sjekk nyhetene igjen.':'Ingen nye data etter ett minutt. GitHub kan fortsatt arbeide, eller kildene er uendret. Trykk Sjekk siste nyheter senere.';
     }
   }catch(e){status.textContent='Innhenting feilet: '+e.message}
   finally{refreshing=false;trigger.disabled=false;trigger.textContent='↻ Hent nye nyheter'}
@@ -65,10 +65,7 @@ async function checkOnOpen(){
   opening=true;
   try{
   await loadNews();
-  const published=Date.parse(lastPublished);
-  if(!document.hidden&&navigator.onLine!==false&&
-     (!Number.isFinite(published)||Date.now()-published>=300000)&&
-     Date.now()-lastAttempt>=300000) await refreshSources(true);
+  // GitHub schedule handles source collection; app only fetches published data.
   }finally{opening=false}
 }
 document.addEventListener('visibilitychange',()=>{if(!document.hidden)checkOnOpen()});
