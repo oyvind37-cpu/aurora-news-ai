@@ -1,0 +1,22 @@
+name: Aurora Intelligence - sikker test
+on:
+  workflow_dispatch:
+  pull_request:
+    paths:
+      - 'aurora-intelligence/**'
+      - '.github/workflows/aurora-intelligence-test.yml'
+permissions:
+  contents: read
+jobs:
+  offline-test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+      - name: Kjør tester uten API-kall
+        run: python -m unittest discover -s aurora-intelligence -p 'test_*.py' -v
+      - name: Lag kildeutvalg uten KI eller kostnader
+        run: python aurora-intelligence/engine.py --provider dry-run
