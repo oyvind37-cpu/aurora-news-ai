@@ -29,6 +29,10 @@ jobs:
       AURORA_CF_MODEL: '@cf/meta/llama-3.1-8b-instruct'
     steps:
       - uses: actions/checkout@v4
+      - name: Hent siste nyheter fra hovedgrenen uten å kjøre kode derfra
+        run: |
+          git fetch --depth=1 origin main
+          git show FETCH_HEAD:news.json > news.json
       - uses: actions/setup-python@v6
         with:
           python-version: '3.12'
