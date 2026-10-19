@@ -1,8 +1,18 @@
 {
-  "generated": "2026-10-19T13:52:09.600224+00:00",
+  "generated": "2026-10-19T14:56:39.661935+00:00",
   "method": "extractive_rss_no_ai_generation",
   "notice": "Overskrifter og korte utdrag er hentet fra RSS. Ikke uavhengig faktaverifisert. Åpne originalkilden for full sammenheng.",
   "items": [
+    {
+      "title": "Test av Vita julekalender 2026: Best kjøp for veldig mange",
+      "source": "Sagene Avis",
+      "url": "https://www.sageneavis.no/julekalender/vita-exclusive-julekalender/vita/fullstorrelse-og-k-beauty-denne-julekalenderen-er-verdt-a-fa-med-seg/r/80-95-172392",
+      "published": "2026-10-19T13:45:23+00:00",
+      "excerpt": "Mange skjønnhetskalendere drukner i miniatyrer og fyllstoff. VITA Exclusive Julekalender gjør det motsatte, med full-størrelse hudpleie, populære K-beauty-merker og makeup i fargetoner som kler de fleste.",
+      "evidence_type": "rss_excerpt",
+      "verification": "source_attributed_not_independently_verified",
+      "category": "lokalt"
+    },
     {
       "title": "Politihelikopter sirklet over Nordre Aker",
       "source": "Nordre Aker Budstikke",
@@ -14,14 +24,14 @@
       "category": "lokalt"
     },
     {
-      "title": "Tok av på sosiale medier – nå selger eieren lokalet",
-      "source": "Avisa Oslo",
-      "url": "https://www.ao.no/eieren-av-b-nh-m-xo-i-storgata-i-oslo-selger-lokalet/s/80-128-52424",
-      "published": "2026-10-19T12:44:29+00:00",
-      "excerpt": "Eieren ser etter noen som kan overta lokalet, og hvis de ønsker, også bedriften.",
+      "title": "Knivstakk mann i hjertet: – Jeg beklager",
+      "source": "NRK",
+      "url": "https://www.nrk.no/trondelag/knivstakk-tre-personer-pa-mollenberg-i-trondheim-_-beklaget-forste-dag-i-retten-1.18058321",
+      "published": "2026-10-19T13:57:25+00:00",
+      "excerpt": "Han stakk en mann syv ganger i overkroppen og en annen i hjertet med kniv. Selv hevder mannen han handlet i nødverge.",
       "evidence_type": "rss_excerpt",
       "verification": "source_attributed_not_independently_verified",
-      "category": "lokalt"
+      "category": "norge"
     },
     {
       "title": "Milliardær gjorde «spontankjøp» – VM-tromma ble solgt for rekordsum",
@@ -34,71 +44,61 @@
       "category": "norge"
     },
     {
-      "title": "Næringsministeren ber hotellgigantene skjerpe seg",
-      "source": "NRK",
-      "url": "https://www.nrk.no/nordland/turistskatten_-naeringsministeren-ber-hotellgigantene-skjerpe-seg-1.18052557",
-      "published": "2026-10-19T13:18:42+00:00",
-      "excerpt": "Nye tall viser solide marginer for hotellene i nord. Hotellkjedene frykter likevel at turistskatten vil svekke konkurransekraften. Nå får de «voksenkjeft» fra ministeren.",
+      "title": "Germany news: Emergency at Leipzig airport sparked by novice driver",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-emergency-at-leipzig-airport-sparked-by-novice-driver/live-79695354?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "2026-10-19T14:46:00+00:00",
+      "excerpt": "Two men breached a fence at the Leipzig/Halle airport while practicing for a driving test. Meanwhile, the \"Invest in Germany Summit\" is set to kick off as the government looks to fill gaps in public funding. DW has more.",
       "evidence_type": "rss_excerpt",
       "verification": "source_attributed_not_independently_verified",
-      "category": "norge"
+      "category": "verden"
+    },
+    {
+      "title": "Drone attack near market kills 80 in Sudan",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/19/drone-attack-market-al-dibab-west-kordofan-sudan",
+      "published": "2026-10-19T14:45:53+00:00",
+      "excerpt": "Witness says drone struck twice at transport hub in al-Dibab, in one of deadliest single attacks of war A drone strike near a market in southern Sudan on Sunday evening killed 80 people, mostly commuters catching rides home. Ahmed Wadi, a witness, said the attack in the town of al-Dibab in West Kordofan state left “50 bodies who I helped bury, one",
+      "evidence_type": "rss_excerpt",
+      "verification": "source_attributed_not_independently_verified",
+      "category": "verden"
     },
     {
       "title": "French PM blames ‘ultra-left’ for exploiting protests as he seeks partial curfews – Europe live",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/live/2026/oct/19/europe-france-protests-riots-macron-ukraine-russia-zelenskyy-sweden-latest-news-updates",
-      "published": "2026-10-19T13:45:22+00:00",
+      "published": "2026-10-19T14:43:39+00:00",
       "excerpt": "Sébastien Lecornu says new measures will be put in place from tonight Macron criticises ‘unbridled violence’ after 2,400 arrests across France French PM Lecornu says he has asked prefects to implement “a number of partial curfews” in certain “localised” urban areas to stop further disorder, which he attributes to “the extreme-left” and some crimina",
       "evidence_type": "rss_excerpt",
       "verification": "source_attributed_not_independently_verified",
       "category": "verden"
     },
     {
-      "title": "Alberta heads to polls to decide whether to hold vote on separation from Canada",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cxvgd0ymgzgyo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-19T13:44:57+00:00",
-      "excerpt": "Polling suggests most Albertans favour remaining part of the country, although the debate alone has proven divisive.",
+      "title": "Houthi strike on Yemen government military camp kills at least 50",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/houthi-strike-on-yemen-government-military-camp-kills-at-least-50/a-79702163?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "2026-10-19T14:39:00+00:00",
+      "excerpt": "The Iran-backed group has claimed responsibility for the attack which killed new recruits at a military camp. The strikes follow deadly attacks over the weekend blamed on Saudi-led forces.",
       "evidence_type": "rss_excerpt",
       "verification": "source_attributed_not_independently_verified",
       "category": "verden"
     },
     {
-      "title": "Exiled critic of Rwandan president found beheaded",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c3lylj78777do?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-19T13:42:41+00:00",
-      "excerpt": "Former army sergeant major Robert Kabera was a popular YouTuber and singer, who had sought asylum in Uganda.",
-      "evidence_type": "rss_excerpt",
-      "verification": "source_attributed_not_independently_verified",
-      "category": "verden"
-    },
-    {
-      "title": "French protest violence: A ‘Christmas present’ for Le Pen’s far right?",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/10/19/french-protest-violence-a-christmas-present-for-le-pens-far-right?traffic_source=rss",
-      "published": "2026-10-19T13:41:23+00:00",
-      "excerpt": "Le Pen is positioning her party as more capable than centrist or left-wing forces before the 2027 presidential election.",
-      "evidence_type": "rss_excerpt",
-      "verification": "source_attributed_not_independently_verified",
-      "category": "verden"
-    },
-    {
-      "title": "All the goals from the Women's Super League - matchweek six",
+      "title": "Haaland a doubt, Semenyo out - what are Man City's options?",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c5y43049v0zzo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-19T13:36:31+00:00",
-      "excerpt": "Watch every goal from matchweek six of the Women's Super League 2026-27 season.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5djv21rkekwo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-19T14:36:36+00:00",
+      "excerpt": "Manchester City coach Enzo Maresca explores his attacking options for Tuesday's Champions League game against AEK Athens.",
       "evidence_type": "rss_excerpt",
       "verification": "source_attributed_not_independently_verified",
       "category": "verden"
     },
     {
-      "title": "Doctors describe hospitals shattered by Israel’s genocide in Gaza",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/video/2026/10/19/doctors-describe-hospitals-shattered-by-israels-genocide-in-gaza?traffic_source=rss",
-      "published": "2026-10-19T13:36:09+00:00",
-      "excerpt": "Doctors who volunteered in Gaza have described working during Israel’s genocidal war on the strip.",
+      "title": "Ex-Scotland captain Ritchie set for Glasgow debut",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cqg7xj7kj4mzo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-19T14:24:06+00:00",
+      "excerpt": "Glasgow assistant coach Nigel Carolan says the time has finally come to \"unleash\" Jamie Ritchie for his Warriors debut this weekend.",
       "evidence_type": "rss_excerpt",
       "verification": "source_attributed_not_independently_verified",
       "category": "verden"
