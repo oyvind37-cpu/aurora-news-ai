@@ -30,7 +30,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          ref: 4d9f6a9ec4b07be5636a848f69a6280544434acd
+          ref: 4b6cc7069740167d589c05ce1ea377dd5a9366b4
       - name: Hent siste nyheter fra hovedgrenen uten å kjøre kode derfra
         run: |
           git fetch --depth=1 origin main
