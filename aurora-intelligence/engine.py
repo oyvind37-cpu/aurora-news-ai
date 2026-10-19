@@ -117,8 +117,8 @@ def validate(text, sources):
     fields.extend(section["heading"] for section in result["sections"])
     fields.extend(section["text"] for section in result["sections"])
     for field in fields:
-        for match in re.finditer(r"https?://[^\\s<>]+", field):
-            candidate = match.group(0).rstrip(".,;:!?)\\"'")
+        for match in re.finditer(r"https?://[^\s<>]+", field):
+            candidate = match.group(0).rstrip('.,;:!?)"')
             if candidate not in permitted:
                 raise ValueError("Ukjent URL i generert tekst")
     return result
