@@ -9,12 +9,17 @@ on:
         options:
           - cloudflare
           - openai
+      publish_preview:
+        description: 'Publiser KI-brief til appen etter vellykket test'
+        required: true
+        type: boolean
+        default: false
       confirm_live_api:
         description: 'Skriv TEST for å tillate et ekte API-kall (kan bruke kvote/penger)'
         required: true
         type: string
 permissions:
-  contents: read
+  contents: write
 jobs:
   live-preview:
     if: ${{ inputs.confirm_live_api == 'TEST' }}
@@ -77,3 +82,19 @@ jobs:
           name: aurora-morgenbrief-preview
           path: aurora-intelligence/morgenbrief-preview.json
           retention-days: 1
+
+      - name: Publiser KI-brief separat (bare ved eksplisitt valg)
+        if: ${{ inputs.publish_preview == true }}
+        run: |
+          cp aurora-intelligence/morgenbrief-preview.json /tmp/aurora-morgenbrief-ai.json
+          git fetch origin main
+          git checkout -B main origin/main
+          cp /tmp/aurora-morgenbrief-ai.json morgenbrief-ai.json
+          python -m json.tool morgenbrief-ai.json > /dev/null
+          git config user.name "aurora-news-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add morgenbrief-ai.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Publiser KI-morgenbrief etter godkjent test"
+            git push origin HEAD:main
+          fi
