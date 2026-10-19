@@ -26,6 +26,16 @@ class EngineTests(unittest.TestCase):
         payload = '{"headline":"H","intro":"I","limitations":"L","sections":[{"heading":"A","text":"B","source_ids":["S1"]}]}'
         self.assertEqual(validate(payload, sources)["headline"], "H")
 
+    def test_cloudflare_object_response(self):
+        sources = build(self.data)["sources"]
+        payload = {"headline":"H","intro":"I","limitations":"L","sections":[{"heading":"A","text":"B","source_ids":["S1"]}]}
+        self.assertEqual(validate(payload, sources)["headline"], "H")
+
+    def test_rejects_unexpected_response_type(self):
+        sources = build(self.data)["sources"]
+        with self.assertRaises(ValueError):
+            validate(["unexpected"], sources)
+
     def test_many_long_summaries_fit_budget(self):
         self.data["items"] = [
             {"title": "Sak " + str(i), "source": "NRK", "url": "https://example.org/" + str(i),
