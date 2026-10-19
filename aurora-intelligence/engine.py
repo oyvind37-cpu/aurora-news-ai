@@ -93,10 +93,15 @@ def model_request(provider, sources):
     raise ValueError("Ukjent modellleverandør")
 
 def validate(text, sources):
-    raw = text.strip()
-    if raw.startswith("```"):
-        raw = re.sub(r"^\s*```(?:json)?\s*|\s*```\s*$", "", raw)
-    result = json.loads(raw)
+    if isinstance(text, dict):
+        result = text
+    elif isinstance(text, str):
+        raw = text.strip()
+        if raw.startswith("```"):
+            raw = re.sub(r"^\\s*```(?:json)?\\s*|\\s*```\\s*$", "", raw)
+        result = json.loads(raw)
+    else:
+        raise ValueError("Ukjent format på KI-svar")
     if not isinstance(result, dict) or not isinstance(result.get("sections"), list):
         raise ValueError("Ugyldig modellformat")
     allowed = {s["id"] for s in sources}
