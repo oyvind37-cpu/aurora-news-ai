@@ -98,7 +98,7 @@ def validate(text, sources):
     elif isinstance(text, str):
         raw = text.strip()
         if raw.startswith("```"):
-            raw = re.sub(r"^\\s*```(?:json)?\\s*|\\s*```\\s*$", "", raw)
+            raw = re.sub(r"^\s*```(?:json)?\s*|\s*```\s*$", "", raw)
         result = json.loads(raw)
     else:
         raise ValueError("Ukjent format på KI-svar")
