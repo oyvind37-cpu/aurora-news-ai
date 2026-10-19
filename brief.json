@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-19T19:39:51.832537+00:00",
+  "generated": "2026-10-19T20:31:07.199059+00:00",
   "method": "extractive_rss_no_ai_generation",
   "notice": "Overskrifter og korte utdrag er hentet fra RSS. Ikke uavhengig faktaverifisert. Åpne originalkilden for full sammenheng.",
   "items": [
@@ -24,6 +24,16 @@
       "category": "lokalt"
     },
     {
+      "title": "Zelenskyj: Forhandlere kan møtes i Norge",
+      "source": "NRK",
+      "url": "https://www.nrk.no/nyheter/zelenskyj_-forhandlere-kan-motes-i-norge-1.18059063",
+      "published": "2026-10-19T19:40:37+00:00",
+      "excerpt": "Ukrainas president Volodymyr Zelenskyj sier at forhandlere fra Ukraina og USA kan møtes i Norge i løpet av de nærmeste dagene, melder Reuters. NRK har vært i kontakt med Utenriksdepartementet, men har foreløpig ikke fått noen kommentar til opplysningene. Zelenskyj hadde mandag møte med de amerikanske senatorene Richard Blumenthal og Thom Tillis, so",
+      "evidence_type": "rss_excerpt",
+      "verification": "source_attributed_not_independently_verified",
+      "category": "norge"
+    },
+    {
       "title": "12 utøvere klare for verdenscupen i Sölden . Steen Olsen gjør comeback etter skademareritt",
       "source": "NRK Sport",
       "url": "https://www.nrk.no/sport/12-utovere-klare-for-verdenscupen-i-solden-.-steen-olsen-gjor-comeback-etter-skademareritt-1.18059167",
@@ -34,31 +44,41 @@
       "category": "norge"
     },
     {
-      "title": "Regjeringen vil begrense ordningen: – Helt krise for meg",
-      "source": "NRK",
-      "url": "https://www.nrk.no/innlandet/som-15-aring-ble-han-lam_-uten-aktivitetsmidler-hadde-han-ikke-hatt-et-fullverdig-liv-1.18053291",
-      "published": "2026-10-19T17:46:57+00:00",
-      "excerpt": "Han har sittet i rullestol i 25 år, og er helt avhengig av hjelpemidler for å holde seg i aktivitet. Nå vil regjeringen stramme inn på tilgangen.",
-      "evidence_type": "rss_excerpt",
-      "verification": "source_attributed_not_independently_verified",
-      "category": "norge"
-    },
-    {
-      "title": "Palace manager Sage facing fight to keep his job",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cq2d6npjy9xlo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-19T19:32:56+00:00",
-      "excerpt": "Crystal Palace boss Pierre Sage faces a fight to keep his job, but will be given more time.",
+      "title": "Helen Haines: independent MP in critical condition in Melbourne’s Alfred hospital after being struck by car in Wangaratta – follow updates",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/australia-news/live/2026/oct/20/helen-haines-independent-mp-alleged-car-attack-wangaratta-melbourne-hospital-ntwnfb",
+      "published": "2026-10-19T20:18:54+00:00",
+      "excerpt": "A joint counter-terrorism taskforce is investigating the incident, which Anthony Albanese alleged ‘wasn’t an accident’ ‘Deeply appalled’: politicians condemn alleged attack after Helen Haines critically injured Helen Haines, the principled MP respected across parliament What we know so far Get our new political email , free app or daily news podcas",
       "evidence_type": "rss_excerpt",
       "verification": "source_attributed_not_independently_verified",
       "category": "verden"
     },
     {
-      "title": "Helen Haines: Independent MP in critical condition in Melbourne’s Alfred hospital after being struck by car in Wangaratta",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/australia-news/live/2026/oct/20/helen-haines-independent-mp-alleged-car-attack-wangaratta-melbourne-hospital-ntwnfb",
-      "published": "2026-10-19T19:27:49+00:00",
-      "excerpt": "A Joint counter-terrorism taskforce investigating the incident, which Anthony Albanese alleged ‘wasn’t an accident’ ‘Deeply appalled’: politicians condemn alleged attack after Helen Haines critically injured Helen Haines, the principled MP respected across parliament What we know so far Get our new political email , free app or daily news podcast G",
+      "title": "Building Lionesses 2.0 - Wiegman's new challenge awaits",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvze4w57746yo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-19T20:15:48+00:00",
+      "excerpt": "England head coach Sarina Wiegman has changed women's football in the country, so what does she face after signing a contract extension?",
+      "evidence_type": "rss_excerpt",
+      "verification": "source_attributed_not_independently_verified",
+      "category": "verden"
+    },
+    {
+      "title": "Liverpool and Man Utd eye Nmecha - Tuesday's gossip",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/crjwe6wyjeqwo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-19T20:15:18+00:00",
+      "excerpt": "Liverpool and Manchester United are interested in Borussia Dortmund midfielder Felix Nmecha, plus the rest of Tuesday's gossip.",
+      "evidence_type": "rss_excerpt",
+      "verification": "source_attributed_not_independently_verified",
+      "category": "verden"
+    },
+    {
+      "title": "Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cmj47yx572z5o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-19T20:13:27+00:00",
+      "excerpt": "Serhii Beskrestnov says there has not been enough time to warn people about incoming missile attacks. The White House said there had been no changes to intelligence sharing.",
       "evidence_type": "rss_excerpt",
       "verification": "source_attributed_not_independently_verified",
       "category": "verden"
@@ -67,38 +87,18 @@
       "title": "French authorities announce partial curfews as PM blames ‘ultra-left’ for exploiting protests – Europe live",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/live/2026/oct/19/europe-france-protests-riots-macron-ukraine-russia-zelenskyy-sweden-latest-news-updates",
-      "published": "2026-10-19T19:25:56+00:00",
+      "published": "2026-10-19T19:59:00+00:00",
       "excerpt": "Curfews to apply to parts of cities including Paris, Nice and Lyon after days of violence on French streets Macron criticises ‘unbridled violence’ after 2,400 arrests across France French PM Lecornu says he has asked prefects to implement “a number of partial curfews” in certain “localised” urban areas to stop further disorder, which he attributes",
       "evidence_type": "rss_excerpt",
       "verification": "source_attributed_not_independently_verified",
       "category": "verden"
     },
     {
-      "title": "Indian court extends detention of ‘Cockroach’ leaders",
+      "title": "Finland seeking one million land mines as it eyes Russian threat",
       "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/10/19/indian-court-extends-detention-of-cockroach-leaders?traffic_source=rss",
-      "published": "2026-10-19T19:09:22+00:00",
-      "excerpt": "The extension of the custody of the CJP activists comes amid a crackdown on near daily protests against the government.",
-      "evidence_type": "rss_excerpt",
-      "verification": "source_attributed_not_independently_verified",
-      "category": "verden"
-    },
-    {
-      "title": "France: Curfews issued in Paris, Nice after unrest",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/france-curfews-issued-in-paris-nice-after-unrest/live-79707186?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "2026-10-19T19:02:00+00:00",
-      "excerpt": "French authorities imposed curfews in parts of several cities on Monday night after cost-of-living and anti-government protests descended into rioting and looting over the weekend. DW has the latest.",
-      "evidence_type": "rss_excerpt",
-      "verification": "source_attributed_not_independently_verified",
-      "category": "verden"
-    },
-    {
-      "title": "‘Crucial opportunity to act’ as study finds most of Europe’s wild bee species in decline",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/oct/19/study-europe-wild-bee-species-decline-",
-      "published": "2026-10-19T19:00:04+00:00",
-      "excerpt": "As Cop17 kicks off, records since 1921 show more bee species declining than increasing in all parts of Europe except the Alps Most of Europe’s wild bee species and about half of its hover fly species have declined over the last century, a study has found, as a UN biodiversity summit begins in Armenia. Records since 1921 show more bee species are de",
+      "url": "https://www.aljazeera.com/news/2026/10/19/finland-seeking-one-million-land-mines-as-it-eyes-russian-threat?traffic_source=rss",
+      "published": "2026-10-19T19:57:10+00:00",
+      "excerpt": "Helsinki recently joined regional peers in withdrawing from UN Charter banning munitions as it eyes its eastern border.",
       "evidence_type": "rss_excerpt",
       "verification": "source_attributed_not_independently_verified",
       "category": "verden"
