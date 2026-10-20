@@ -1,24 +1,24 @@
 {
-  "generated": "2026-10-20T04:36:14.434218+00:00",
+  "generated": "2026-10-20T04:51:55.656159+00:00",
   "method": "extractive_rss_no_ai_generation",
   "notice": "Overskrifter og korte utdrag er hentet fra RSS. Ikke uavhengig faktaverifisert. Åpne originalkilden for full sammenheng.",
   "items": [
+    {
+      "title": "God morgen, Oslo!",
+      "source": "Avisa Oslo",
+      "url": "https://www.ao.no/god-morgen-oslo/s/80-128-53099",
+      "published": "2026-10-20T04:42:04+00:00",
+      "excerpt": "God morgen, kjære leser! Klar for å gripe tirsdagen?",
+      "evidence_type": "rss_excerpt",
+      "verification": "source_attributed_not_independently_verified",
+      "category": "lokalt"
+    },
     {
       "title": "Seks personer evakuerte under brann: – Må bo et annet sted",
       "source": "Avisa Oslo",
       "url": "https://www.ao.no/seks-personer-evakuerte-under-brann-ma-bo-et-annet-sted/s/30-128-24364",
       "published": "2026-10-20T04:09:25+00:00",
       "excerpt": "Politiet melder om to branner natt til tirsdag.",
-      "evidence_type": "rss_excerpt",
-      "verification": "source_attributed_not_independently_verified",
-      "category": "lokalt"
-    },
-    {
-      "title": "Avisa Oslo erfarer: Lå an til sjokkvraking. Så trakk hun seg",
-      "source": "Avisa Oslo",
-      "url": "https://www.ao.no/avisa-oslo-erfarer-oslos-byutviklingsbyrad-anita-leirvik-north-skulle-vrakes/s/80-128-52454",
-      "published": "2026-10-19T22:03:00+00:00",
-      "excerpt": "Anita Leirvik North (H) viste til tøft ordskifte da byråden erklærte at hun ikke tar gjenvalg. Men Avisa Oslo får oppgitt at nominasjonskomiteen uansett ville vrake henne.",
       "evidence_type": "rss_excerpt",
       "verification": "source_attributed_not_independently_verified",
       "category": "lokalt"
@@ -44,11 +44,21 @@
       "category": "norge"
     },
     {
+      "title": "US Supreme Court to hear case on race in school admissions",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/10/20/us-supreme-court-to-hear-case-on-race-in-school-admissions?traffic_source=rss",
+      "published": "2026-10-20T04:38:07+00:00",
+      "excerpt": "A group of parents claims local admission policy boosts Black and Latino students while constraining Asian applicants.",
+      "evidence_type": "rss_excerpt",
+      "verification": "source_attributed_not_independently_verified",
+      "category": "verden"
+    },
+    {
       "title": "Mother of alleged Alan Jones victim ‘absolutely trusted’ the radio host, court told",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/australia-news/2026/oct/20/alan-jones-alleged-victim-mother-trusted-radio-host-ntwnfb",
       "published": "2026-10-20T04:16:22+00:00",
-      "excerpt": "Witness breaks down in tears, tells court ‘I was scared’ after son declines to report alleged kissing and touching by broadcaster The mother of the youngest alleged victim of Alan Jones has told a Sydney court she “trusted” the 2GB broadcaster and was “comfortable” her teenager was going to spend a weekend at his Fitzroy Falls property. The young m",
+      "excerpt": "Witness breaks down in tears, tells court ‘I was scared’ after son declined to report alleged kissing and touching by broadcaster Listen to the podcast Alan Jones on Trial Sign up for Guardian Australia’s free weekly media newsletter here The mother of the youngest alleged victim of Alan Jones has told a Sydney court she “trusted” the 2GB broadcast",
       "evidence_type": "rss_excerpt",
       "verification": "source_attributed_not_independently_verified",
       "category": "verden"
@@ -59,6 +69,16 @@
       "url": "https://www.theguardian.com/australia-news/live/2026/oct/20/helen-haines-independent-mp-alleged-car-attack-wangaratta-melbourne-hospital-ntwnfb",
       "published": "2026-10-20T04:15:24+00:00",
       "excerpt": "A joint counter-terrorism taskforce is investigating the incident, which Anthony Albanese alleged ‘wasn’t an accident’ ‘Deeply appalled’: politicians condemn alleged attack after Helen Haines critically injured Helen Haines, the principled MP respected across parliament ‘It’s very clear that this was a deliberate act’, PM says The prime minister, A",
+      "evidence_type": "rss_excerpt",
+      "verification": "source_attributed_not_independently_verified",
+      "category": "verden"
+    },
+    {
+      "title": "Japan launches historic mission to bring back Mars moon samples",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/japan-launches-historic-mission-to-bring-back-mars-moon-samples?traffic_source=rss",
+      "published": "2026-10-20T04:08:33+00:00",
+      "excerpt": "Japan has launched a five-year uncrewed mission to collect samples from Phobos, one of Mars’ two moons.",
       "evidence_type": "rss_excerpt",
       "verification": "source_attributed_not_independently_verified",
       "category": "verden"
@@ -79,26 +99,6 @@
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/fourteen-dead-in-illegal-colombian-gold-mine-collapse?traffic_source=rss",
       "published": "2026-10-20T03:55:27+00:00",
       "excerpt": "Fourteen dead in illegal Colombian gold mine collapse",
-      "evidence_type": "rss_excerpt",
-      "verification": "source_attributed_not_independently_verified",
-      "category": "verden"
-    },
-    {
-      "title": "Christiane Amanpour to leave CNN after 43 years",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/christiane-amanpour-to-leave-cnn-after-43-years/a-79708034?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "2026-10-20T03:45:00+00:00",
-      "excerpt": "Christiane Amanpour's announcement comes after Paramount Skydance's controversial merger with Warner Bros. Discovery, CNN's parent company.",
-      "evidence_type": "rss_excerpt",
-      "verification": "source_attributed_not_independently_verified",
-      "category": "verden"
-    },
-    {
-      "title": "‘Deliberate’ car ramming of Australian MP an isolated incident, police say",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/10/20/deliberate-car-ramming-of-australian-mp-an-isolated-incident-police-say?traffic_source=rss",
-      "published": "2026-10-20T03:24:18+00:00",
-      "excerpt": "A 43-year-old man accused of deliberately hitting Helen Haines outside her office is in police custody.",
       "evidence_type": "rss_excerpt",
       "verification": "source_attributed_not_independently_verified",
       "category": "verden"
