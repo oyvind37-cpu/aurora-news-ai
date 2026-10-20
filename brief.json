@@ -1,27 +1,37 @@
 {
-  "generated": "2026-10-20T13:38:36.404096+00:00",
+  "generated": "2026-10-20T14:30:37.973188+00:00",
   "method": "extractive_rss_no_ai_generation",
   "notice": "Overskrifter og korte utdrag er hentet fra RSS. Ikke uavhengig faktaverifisert. Åpne originalkilden for full sammenheng.",
   "items": [
     {
-      "title": "Velteren",
+      "title": "Her klatrer rotten over disken",
       "source": "Avisa Oslo",
-      "url": "https://www.ao.no/velteren/v/80-128-53927",
-      "published": "2026-10-20T13:03:18+00:00",
+      "url": "https://www.ao.no/her-klatrer-rotten-over-disken/v/80-128-54029",
+      "published": "2026-10-20T14:01:55+00:00",
       "excerpt": "",
       "evidence_type": "headline_only",
       "verification": "source_attributed_not_independently_verified",
       "category": "lokalt"
     },
     {
-      "title": "De 20 beste gavene til jenter på 12 år",
+      "title": "Starta som 16-åring. Nå åpner Naomi (23) sin andre lokasjon: – Litt skummelt",
       "source": "Sagene Avis",
-      "url": "https://www.sageneavis.no/gaveguide/gaver-12-ar-gammel-jente/gave/gave-til-jente-12-ar-de-20-beste-gavene/s/80-95-172614",
-      "published": "2026-10-20T13:00:57+00:00",
-      "excerpt": "Hva vil en jente på 12 år ha i gave? Vi har samlet de beste kjøpene til bursdag, jul, og andre anledninger.",
+      "url": "https://www.sageneavis.no/starta-som-16-aring-na-apner-naomi-23-sin-andre-lokasjon-litt-skummelt/s/80-144-7554",
+      "published": "2026-10-20T14:00:00+00:00",
+      "excerpt": "Lite er igjen av meglerkontoret i Maridalsveien. Nå møtes du av duse farger og luksus.",
       "evidence_type": "rss_excerpt",
       "verification": "source_attributed_not_independently_verified",
       "category": "lokalt"
+    },
+    {
+      "title": "Fotballkvinnene klatrer på Fifa-rankingen",
+      "source": "NRK Sport",
+      "url": "https://www.nrk.no/sport/fotballkvinnene-klatrer-pa-fifa-rankingen-1.18059757",
+      "published": "2026-10-20T13:42:06+00:00",
+      "excerpt": "Norge går opp én plass på Fifa-rankingen og er nummer 13 etter dobbeltseieren over Romania. Det kommer fram på Fifas oppdaterte ranking for kvinnene. Norge har passert Italia siden forrige utgave. Det norske laget tok seg tidligere i måneden videre i VM-kvalifiseringen ved å slå Romania 2-0 borte og 6-0 hjemme.",
+      "evidence_type": "rss_excerpt",
+      "verification": "source_attributed_not_independently_verified",
+      "category": "norge"
     },
     {
       "title": "Ut mot media etter kritikk-kampen: – De er vel ute etter klikk",
@@ -34,71 +44,61 @@
       "category": "norge"
     },
     {
-      "title": "EU vil la oljen i Arktis ligge",
-      "source": "NRK",
-      "url": "https://www.nrk.no/nyheter/eu-vil-la-oljen-i-arktis-ligge-1.18059832",
-      "published": "2026-10-20T12:45:21+00:00",
-      "excerpt": "– Den nye EU-strategien for Arktis slår fast at EUs posisjon fortsatt er «å sikre at olje, kull og gass blir værende i bakken, inkludert i arktiske regioner». Det sier EU-kommisjonens president Ursula von der Leyen, ifølge Reuters. Hun legger i dag frem EUs nye Arktis-strategi. – Den europeiske union må endre sin strategiske holdning i Arktis etter",
-      "evidence_type": "rss_excerpt",
-      "verification": "source_attributed_not_independently_verified",
-      "category": "norge"
-    },
-    {
-      "title": "Google Cloud problems: regulators push for details about outage which caused widespread disruption – latest updates",
+      "title": "Google Cloud outage: problems fixed for ‘most‘ customers, as regulators push for details – latest updates",
       "source": "The Guardian Technology",
       "url": "https://www.theguardian.com/business/live/2026/oct/20/uk-unemployment-rate-pre-budget-boost-wages-vacancies-latest-news-updates",
-      "published": "2026-10-20T13:32:52+00:00",
-      "excerpt": "Google apologises after suffering a major Cloud outage in its London region that caused problems at banks, Revolut, and court video cameras Google cloud failure hits millions as UK courts and banks knocked offline The pound has rallied after Britain’s unemployment rate fell unexpectedly this morning to 4.7%. Sterling has gained half a cent against",
+      "published": "2026-10-20T14:20:46+00:00",
+      "excerpt": "Google apologises after power issue causes a major Cloud outage in its London region today that led to problems at banks, Revolut, and court video cameras Google cloud failure hits millions as UK courts and banks knocked offline The pound has rallied after Britain’s unemployment rate fell unexpectedly this morning to 4.7%. Sterling has gained half",
       "evidence_type": "rss_excerpt",
       "verification": "source_attributed_not_independently_verified",
       "category": "verden"
     },
     {
-      "title": "Italy poised to approve tougher security measures in response to protests – Europe live",
+      "title": "‘Tinubu Must Go’: Nigeria's northern protests test the limits of political dissent",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/tinubu-must-go-nigeria-s-northern-protests-test-the-limits-of-political-dissent/a-79713785?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "2026-10-20T14:20:00+00:00",
+      "excerpt": "The arrest of several men wearing anti-government T-shirts and the disruption of a political meeting have renewed debate over free expression and protest rights in Nigeria.",
+      "evidence_type": "rss_excerpt",
+      "verification": "source_attributed_not_independently_verified",
+      "category": "verden"
+    },
+    {
+      "title": "Houthi missile strike on Yemen camp kills 73 security recruits, local authorities say",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cv0ld6lrr2zeo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-20T14:09:42+00:00",
+      "excerpt": "Three missiles hit a camp in government-controlled Shabwa province on Monday that was being used as a training centre, Yemen's army says.",
+      "evidence_type": "rss_excerpt",
+      "verification": "source_attributed_not_independently_verified",
+      "category": "verden"
+    },
+    {
+      "title": "France to deploy military forces during expected weekend protests – Europe live",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/live/2026/oct/20/france-protests-paris-curfews-italy-europe-ukraine-latest-news-updates",
-      "published": "2026-10-20T13:29:05+00:00",
-      "excerpt": "Italy’s deputy prime minister said police will be able to detain under-18s for 12 hours, even if they have not committed a crime Nordic correspondent As well as Steve Witkoff, Ukrainian president Volodymyr Zelenskyy will also meet the Norwegian prime minister, Jonas Gahr Støre and the Finnish president Alexander Stubb and Norway’s new King Haakon d",
+      "published": "2026-10-20T14:06:39+00:00",
+      "excerpt": "Interior minister confirms military to reinforce police as Italy poised to approve tougher security measures in response to protests Nordic correspondent As well as Steve Witkoff, Ukrainian president Volodymyr Zelenskyy will also meet the Norwegian prime minister, Jonas Gahr Støre and the Finnish president Alexander Stubb and Norway’s new King Haak",
       "evidence_type": "rss_excerpt",
       "verification": "source_attributed_not_independently_verified",
       "category": "verden"
     },
     {
-      "title": "Kenya cult leader's children still being starved weeks before trial, son says",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c6d7q2rxqxgxo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-20T13:23:32+00:00",
-      "excerpt": "Dan Mackenzie initially defended his father but now says he felt he had to report his own grandmother.",
-      "evidence_type": "rss_excerpt",
-      "verification": "source_attributed_not_independently_verified",
-      "category": "verden"
-    },
-    {
-      "title": "Labour will not have the courage to cut spending, says Badenoch",
-      "source": "BBC Politics",
-      "url": "https://www.bbc.co.uk/news/articles/cry835v68dq9o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-20T13:22:03+00:00",
-      "excerpt": "Speaking ahead of next week's Budget, the Conservative leader says her party would make £70bn of cuts.",
-      "evidence_type": "rss_excerpt",
-      "verification": "source_attributed_not_independently_verified",
-      "category": "verden"
-    },
-    {
-      "title": "BBC Three, BBC Scotland and Radio 4 Extra broadcast channels to close",
-      "source": "BBC Entertainment",
-      "url": "https://www.bbc.co.uk/news/articles/cqx2v800nnr2o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-20T13:10:43+00:00",
-      "excerpt": "The closurse are announced as the corporation continues to try to save £500m over two years.",
-      "evidence_type": "rss_excerpt",
-      "verification": "source_attributed_not_independently_verified",
-      "category": "verden"
-    },
-    {
-      "title": "More than 250,000 displaced in Yemen since fighting escalated: UNHCR",
+      "title": "Three months of PM Andy Burnham: Can he sustain the ‘hope vibe’?",
       "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/10/20/more-than-250000-displaced-in-yemen-since-fighting-escalated-unhcr?traffic_source=rss",
-      "published": "2026-10-20T13:00:21+00:00",
-      "excerpt": "UNICEF says escalating fighting in Taiz is threatening its water systems, serving an estimated three million people.",
+      "url": "https://www.aljazeera.com/news/2026/10/20/three-months-of-pm-andy-burnham-can-he-sustain-the-hope-vibe?traffic_source=rss",
+      "published": "2026-10-20T14:00:49+00:00",
+      "excerpt": "The UK's new prime minister has made big promises and is a popular leader, but there is still talk of an early election.",
+      "evidence_type": "rss_excerpt",
+      "verification": "source_attributed_not_independently_verified",
+      "category": "verden"
+    },
+    {
+      "title": "Labor and the Coalition are poised to take a reckless gamble on AI. Haven’t they realised community support has collapsed? | Edward Santow and Sarah Sacher",
+      "source": "The Guardian Technology",
+      "url": "https://www.theguardian.com/technology/commentisfree/2026/oct/21/labor-coalition-poised-to-take-reckless-gamble-on-ai-joint-select-committee",
+      "published": "2026-10-20T14:00:38+00:00",
+      "excerpt": "Australian workers expect the government to act to protect them from AI harms. There is a clear reform solution at hand Get our new political email , free app or daily news podcast Australia’s major political parties are edging towards rare consensus. Labor and the Coalition increasingly want to take a major bet on artificial intelligence. Yet, jus",
       "evidence_type": "rss_excerpt",
       "verification": "source_attributed_not_independently_verified",
       "category": "verden"
