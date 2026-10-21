@@ -105,8 +105,12 @@ def validate(text, sources):
     if not isinstance(result, dict) or not isinstance(result.get("sections"), list):
         raise ValueError("Ugyldig modellformat")
     allowed = {s["id"] for s in sources}
-    if not 1 <= len(result["sections"]) <= 3:
-        raise ValueError(f"Ugyldig antall seksjoner: mottok {len(result['sections'])}, forventet 1–3. Ingen publisering; ingen automatisk ekstra API-kall.")
+    if not result["sections"]:
+        raise ValueError("KI-svaret mangler seksjoner; ingen publisering eller ekstra API-kall.")
+    # A valid response with extra sections can be shortened locally, without
+    # another billable model call. Retained sections are still fully validated.
+    if len(result["sections"]) > 3:
+        result["sections"] = result["sections"][:3]
     for key in ("headline", "intro", "limitations"):
         if not isinstance(result.get(key), str) or not result[key].strip():
             raise ValueError("Manglende felt: " + key)
