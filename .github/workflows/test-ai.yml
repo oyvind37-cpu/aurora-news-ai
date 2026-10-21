@@ -1,0 +1,30 @@
+name: Aurora Intelligence - Test KI-generator
+on:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  test-ai:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+      - name: Verify configuration
+        env:
+          AURORA_AI_URL: ${{ secrets.AURORA_AI_URL }}
+          AURORA_AI_SECRET: ${{ secrets.AURORA_AI_SECRET }}
+        run: |
+          test -n "$AURORA_AI_URL" && test -n "$AURORA_AI_SECRET" || { echo 'Missing AI URL or secret'; exit 1; }
+      - name: Generate isolated AI test
+        env:
+          AURORA_AI_URL: ${{ secrets.AURORA_AI_URL }}
+          AURORA_AI_SECRET: ${{ secrets.AURORA_AI_SECRET }}
+        run: python aurora-intelligence/test_generator.py
+      - uses: actions/upload-artifact@v4
+        with:
+          name: aurora-ai-test-brief
+          path: morgenbrief-ai-test.json
+          retention-days: 3
