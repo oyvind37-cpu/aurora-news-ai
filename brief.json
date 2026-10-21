@@ -1,8 +1,18 @@
 {
-  "generated": "2026-10-21T19:23:13.526895+00:00",
+  "generated": "2026-10-21T19:40:02.590210+00:00",
   "method": "extractive_rss_no_ai_generation",
   "notice": "Overskrifter og korte utdrag er hentet fra RSS. Ikke uavhengig faktaverifisert. Åpne originalkilden for full sammenheng.",
   "items": [
+    {
+      "title": "Slaktet forslaget. Likevel er det i ferd med å skje en endring med de omstridte sykkelfeltene",
+      "source": "Avisa Oslo",
+      "url": "https://www.ao.no/slaktet-forslaget-likevel-er-det-i-ferd-med-a-skje-en-endring-med-de-omstridte-sykkelfeltene/s/80-128-55048",
+      "published": "2026-10-21T19:32:50+00:00",
+      "excerpt": "Det vil mest sannsynlig komme mange flere opphøyde sykkelfelt – med en liten justering for å unngå at syklister går på trynet.",
+      "evidence_type": "rss_excerpt",
+      "verification": "source_attributed_not_independently_verified",
+      "category": "lokalt"
+    },
     {
       "title": "20 år gammelt firma konkurs: Over to millioner i gjeld - flere ansatte er sagt opp",
       "source": "Nordre Aker Budstikke",
@@ -14,14 +24,14 @@
       "category": "lokalt"
     },
     {
-      "title": "Bakeriet flyttet 30 meter. Så eksploderte interessen i nabolaget",
-      "source": "Avisa Oslo",
-      "url": "https://www.ao.no/det-lille-franske-bakeriet-obelia-i-oslo-flyttet-30-meter-det-fikk-mange-flere-kunder-til-a-komme/s/80-128-53708",
-      "published": "2026-10-21T18:09:28+00:00",
-      "excerpt": "Planen var en annen.",
+      "title": "Ber amerikanere forlate Saudi-Arabia",
+      "source": "NRK",
+      "url": "https://www.nrk.no/nyheter/ber-amerikanere-forlate-saudi-arabia-1.18061250",
+      "published": "2026-10-21T19:24:18+00:00",
+      "excerpt": "Amerikanske myndigheter har beordret alle ansatte ved den amerikanske ambassaden og deres familier til å forlate Saudi-Arabia, som angripes av houthiene. Det opplyser en diplomatisk kilde til AFP. Vedkommende legger til at familiene til ambassadeansatte også har fått ordre om å reise fra De forente arabiske emirater, Jordan, Qatar og Bahrain.",
       "evidence_type": "rss_excerpt",
       "verification": "source_attributed_not_independently_verified",
-      "category": "lokalt"
+      "category": "norge"
     },
     {
       "title": "Oslos nye bydelsnavn vedtatt",
@@ -34,21 +44,11 @@
       "category": "norge"
     },
     {
-      "title": "Lærarutdanninga mistar 360 studieplassar: Fryktar nedbygging av tilbodet",
-      "source": "NRK",
-      "url": "https://www.nrk.no/vestland/hvl-styret-flyttar-360-studieplassar-fra-laerarutdanninga-1.18060475",
-      "published": "2026-10-21T18:34:15+00:00",
-      "excerpt": "Høgskuleleiinga meiner vedtaket er nødvendig, medan tilsette fryktar konsekvensane for lærarutdanninga.",
-      "evidence_type": "rss_excerpt",
-      "verification": "source_attributed_not_independently_verified",
-      "category": "norge"
-    },
-    {
-      "title": "Tunisia jails opposition politician for four years over social media posts",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/10/21/tunisia-jails-opposition-politician-for-four-years-over-social-media-posts?traffic_source=rss",
-      "published": "2026-10-21T19:14:49+00:00",
-      "excerpt": "Olfa ⁠Hamdi, a US-Tunisian national, was convicted of 'plotting' and 'inciting' military to disobey orders.",
+      "title": "What China wants from a Trump-Putin summit on Ukraine",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/what-china-wants-from-a-trump-putin-summit-on-ukraine/a-79726190?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "2026-10-21T19:32:00+00:00",
+      "excerpt": "Moscow is pushing for a summit with Donald Trump and Xi Jinping to discuss ending the war in Ukraine, without Kyiv or the EU. What does Russia hope to gain, and why might China be willing to take part?",
       "evidence_type": "rss_excerpt",
       "verification": "source_attributed_not_independently_verified",
       "category": "verden"
@@ -57,48 +57,48 @@
       "title": "Meta fined $25bn for 'lies' over user data privacy",
       "source": "BBC World",
       "url": "https://www.bbc.co.uk/news/articles/cqdr8zxrr3dxo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-21T19:11:53+00:00",
+      "published": "2026-10-21T19:30:30+00:00",
       "excerpt": "The fine is the largest to date against Facebook's owner, larger than an $18bn deal with California.",
       "evidence_type": "rss_excerpt",
       "verification": "source_attributed_not_independently_verified",
       "category": "verden"
     },
     {
-      "title": "Russia willing to resume peace talks with Ukraine, US after Witkoff visit",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/21/russia-willing-to-resume-peace-talks-with-ukraine-us-after-witkoff-visit?traffic_source=rss",
-      "published": "2026-10-21T19:01:05+00:00",
-      "excerpt": "Russian President Vladimir Putin has signalled Moscow is willing in principle to resume talks with Ukraine and the US.",
+      "title": "Nigeria's first Ebola patient holidayed in Uganda, officials say",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c62kepvg2x9lo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-21T19:29:40+00:00",
+      "excerpt": "The wife of a diplomat based in Abuja travelled to Kampala for a vacation.",
       "evidence_type": "rss_excerpt",
       "verification": "source_attributed_not_independently_verified",
       "category": "verden"
     },
     {
-      "title": "Steelers and Saints set for historic NFL clash in riot-hit Paris",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/21/steelers-and-saints-set-for-historic-nfl-clash-in-riot-hit-paris?traffic_source=rss",
-      "published": "2026-10-21T18:59:37+00:00",
-      "excerpt": "The NFL’s Steelers and Saints will play in Paris on Sunday despite the riots.",
+      "title": "Meta ordered to pay $25 billion in Cambridge Analytica case",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/meta-ordered-to-pay-25-billion-in-cambridge-analytica-case/a-79726486?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "2026-10-21T19:27:00+00:00",
+      "excerpt": "A New Mexico judge ordered Facebook's parent company, Meta, to pay $25 billion for misleading users over the Cambridge Analytica breach, which took place during Donald Trump's first presidential campaign.",
       "evidence_type": "rss_excerpt",
       "verification": "source_attributed_not_independently_verified",
       "category": "verden"
     },
     {
-      "title": "Iran determined to keep uranium amid increased war odds, flurry of meetings",
+      "title": "India’s ‘Cockroach’ leaders free after a week in jail",
       "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/10/21/iran-determined-to-keep-uranium-amid-increased-war-odds-flurry-of-meetings?traffic_source=rss",
-      "published": "2026-10-21T18:58:29+00:00",
-      "excerpt": "Tehran had 'nothing new' to tell Washington after latest nuclear proposals reportedly offered by mediators.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/21/indias-cockroach-leaders-free-after-a-week-in-jail?traffic_source=rss",
+      "published": "2026-10-21T19:17:51+00:00",
+      "excerpt": "Two top leaders of India’s Cockroach Party, Ashutosh Ranka and Saurav Das, have been released after a week in jail.",
       "evidence_type": "rss_excerpt",
       "verification": "source_attributed_not_independently_verified",
       "category": "verden"
     },
     {
-      "title": "Farmers blocked from olive harvest in occ. West Bank, volunteers detained",
+      "title": "Tunisia jails opposition politician for four years over social media posts",
       "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/21/farmers-blocked-from-olive-harvest-in-occ-west-bank-volunteers-detained?traffic_source=rss",
-      "published": "2026-10-21T18:51:07+00:00",
-      "excerpt": "Palestinian farmers are still being blocked from accessing their olive groves by Israeli settlers and the military",
+      "url": "https://www.aljazeera.com/news/2026/10/21/tunisia-jails-opposition-politician-for-four-years-over-social-media-posts?traffic_source=rss",
+      "published": "2026-10-21T19:14:49+00:00",
+      "excerpt": "Olfa ⁠Hamdi, a US-Tunisian national, was convicted of 'plotting' and 'inciting' military to disobey orders.",
       "evidence_type": "rss_excerpt",
       "verification": "source_attributed_not_independently_verified",
       "category": "verden"

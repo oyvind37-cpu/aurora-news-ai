@@ -1,15 +1,25 @@
 {
-  "updated": "2026-10-21T19:23:13.470266+00:00",
+  "updated": "2026-10-21T19:40:02.528803+00:00",
   "items": [
     {
-      "source": "Al Jazeera English",
+      "source": "Avisa Oslo",
+      "category": "lokalt",
+      "topic": "annet",
+      "title": "Slaktet forslaget. Likevel er det i ferd med å skje en endring med de omstridte sykkelfeltene",
+      "url": "https://www.ao.no/slaktet-forslaget-likevel-er-det-i-ferd-med-a-skje-en-endring-med-de-omstridte-sykkelfeltene/s/80-128-55048",
+      "summary": "Det vil mest sannsynlig komme mange flere opphøyde sykkelfelt – med en liten justering for å unngå at syklister går på trynet.",
+      "date_label": "21.10.2026",
+      "timestamp": 1792611170.0
+    },
+    {
+      "source": "Deutsche Welle",
       "category": "verden",
       "topic": "annet",
-      "title": "Tunisia jails opposition politician for four years over social media posts",
-      "url": "https://www.aljazeera.com/news/2026/10/21/tunisia-jails-opposition-politician-for-four-years-over-social-media-posts?traffic_source=rss",
-      "summary": "Olfa ⁠Hamdi, a US-Tunisian national, was convicted of 'plotting' and 'inciting' military to disobey orders.",
+      "title": "What China wants from a Trump-Putin summit on Ukraine",
+      "url": "https://www.dw.com/en/what-china-wants-from-a-trump-putin-summit-on-ukraine/a-79726190?maca=en-rss-en-all-1573-xml-mrss",
+      "summary": "Moscow is pushing for a summit with Donald Trump and Xi Jinping to discuss ending the war in Ukraine, without Kyiv or the EU. What does Russia hope to gain, and why might China be willing to take part?",
       "date_label": "21.10.2026",
-      "timestamp": 1792610089.0
+      "timestamp": 1792611120.0
     },
     {
       "source": "BBC World",
@@ -19,7 +29,57 @@
       "url": "https://www.bbc.co.uk/news/articles/cqdr8zxrr3dxo?at_medium=RSS&at_campaign=rss",
       "summary": "The fine is the largest to date against Facebook's owner, larger than an $18bn deal with California.",
       "date_label": "21.10.2026",
-      "timestamp": 1792609913.0
+      "timestamp": 1792611030.0
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "annet",
+      "title": "Nigeria's first Ebola patient holidayed in Uganda, officials say",
+      "url": "https://www.bbc.co.uk/news/articles/c62kepvg2x9lo?at_medium=RSS&at_campaign=rss",
+      "summary": "The wife of a diplomat based in Abuja travelled to Kampala for a vacation.",
+      "date_label": "21.10.2026",
+      "timestamp": 1792610980.0
+    },
+    {
+      "source": "Deutsche Welle",
+      "category": "verden",
+      "topic": "annet",
+      "title": "Meta ordered to pay $25 billion in Cambridge Analytica case",
+      "url": "https://www.dw.com/en/meta-ordered-to-pay-25-billion-in-cambridge-analytica-case/a-79726486?maca=en-rss-en-all-1573-xml-mrss",
+      "summary": "A New Mexico judge ordered Facebook's parent company, Meta, to pay $25 billion for misleading users over the Cambridge Analytica breach, which took place during Donald Trump's first presidential campaign.",
+      "date_label": "21.10.2026",
+      "timestamp": 1792610820.0
+    },
+    {
+      "source": "NRK",
+      "category": "norge",
+      "topic": "annet",
+      "title": "Ber amerikanere forlate Saudi-Arabia",
+      "url": "https://www.nrk.no/nyheter/ber-amerikanere-forlate-saudi-arabia-1.18061250",
+      "summary": "Amerikanske myndigheter har beordret alle ansatte ved den amerikanske ambassaden og deres familier til å forlate Saudi-Arabia, som angripes av houthiene. Det opplyser en diplomatisk kilde til AFP. Vedkommende legger til at familiene til ambassadeansatte også har fått ordre om å reise fra De forente arabiske emirater, Jordan, Qatar og Bahrain.",
+      "date_label": "21.10.2026",
+      "timestamp": 1792610658.0
+    },
+    {
+      "source": "Al Jazeera English",
+      "category": "verden",
+      "topic": "annet",
+      "title": "India’s ‘Cockroach’ leaders free after a week in jail",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/21/indias-cockroach-leaders-free-after-a-week-in-jail?traffic_source=rss",
+      "summary": "Two top leaders of India’s Cockroach Party, Ashutosh Ranka and Saurav Das, have been released after a week in jail.",
+      "date_label": "21.10.2026",
+      "timestamp": 1792610271.0
+    },
+    {
+      "source": "Al Jazeera English",
+      "category": "verden",
+      "topic": "annet",
+      "title": "Tunisia jails opposition politician for four years over social media posts",
+      "url": "https://www.aljazeera.com/news/2026/10/21/tunisia-jails-opposition-politician-for-four-years-over-social-media-posts?traffic_source=rss",
+      "summary": "Olfa ⁠Hamdi, a US-Tunisian national, was convicted of 'plotting' and 'inciting' military to disobey orders.",
+      "date_label": "21.10.2026",
+      "timestamp": 1792610089.0
     },
     {
       "source": "Al Jazeera English",
@@ -295,7 +355,7 @@
       "source": "BBC Politics",
       "category": "verden",
       "topic": "politikk",
-      "title": "'Mindset shift' needed within government for No10 North to work, says deputy",
+      "title": "'Mindset shift' needed within government on No10 North, says deputy",
       "url": "https://www.bbc.co.uk/news/articles/cqx28yp532r0o?at_medium=RSS&at_campaign=rss",
       "summary": "Number 10 North deputy director Duncan Parish has told a conference he is still facing \"institutional barriers\".",
       "date_label": "21.10.2026",
@@ -782,16 +842,6 @@
       "timestamp": 1792593502.0
     },
     {
-      "source": "Al Jazeera English",
-      "category": "verden",
-      "topic": "annet",
-      "title": "Russia releases American Stephen Hubbard after four years in prison",
-      "url": "https://www.aljazeera.com/news/2026/10/21/russia-releases-american-stephen-hubbard-after-four-years-in-prison?traffic_source=rss",
-      "summary": "Hubbard was jailed after being accused of fighting alongside Ukrainian forces against Russia.",
-      "date_label": "21.10.2026",
-      "timestamp": 1792593113.0
-    },
-    {
       "source": "NRK",
       "category": "norge",
       "topic": "annet",
@@ -1142,16 +1192,6 @@
       "timestamp": 1792586601.0
     },
     {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "annet",
-      "title": "Nigeria confirms Ebola case linked to East Africa",
-      "url": "https://www.bbc.co.uk/news/articles/cm2l4xw7xpjgo?at_medium=RSS&at_campaign=rss",
-      "summary": "The female patient, who sources have told the BBC is not Nigerian, is in isolation and in an Abuja hospital.",
-      "date_label": "21.10.2026",
-      "timestamp": 1792586374.0
-    },
-    {
       "source": "NRK",
       "category": "norge",
       "topic": "annet",
@@ -1300,16 +1340,6 @@
       "summary": "Bukang-i successfully guided out after month in which it drew 1.6m visitors and was watched over by YouTubers In South Korea , they call them jagyeongdan , a word whose meaning sits somewhere between vigilante group and neighbourhood watch. Each night they put on hi-vis vests, picked up their selfie sticks and gathered around the harbour in Busan t",
       "date_label": "21.10.2026",
       "timestamp": 1792582908.0
-    },
-    {
-      "source": "Avisa Oslo",
-      "category": "lokalt",
-      "topic": "annet",
-      "title": "Nødetatene er på vei til en kollisjon mellom to personbiler",
-      "url": "https://www.ao.no/nodetatene-er-pa-vei-til-en-kollisjon-mellom-to-personbiler/s/30-128-24503",
-      "summary": "Det skal dreie seg om en påkjørsel bakfra.",
-      "date_label": "21.10.2026",
-      "timestamp": 1792582191.0
     },
     {
       "source": "Sagene Avis",
@@ -2282,16 +2312,6 @@
       "timestamp": 1792523286.0
     },
     {
-      "source": "Deutsche Welle",
-      "category": "verden",
-      "topic": "annet",
-      "title": "Nigeria records its first Ebola case, in capital Abuja",
-      "url": "https://www.dw.com/en/nigeria-records-its-first-ebola-case-in-capital-abuja/a-79717377?maca=en-rss-en-all-1573-xml-mrss",
-      "summary": "Nigeria has reported its first known case of Ebola during Africa's latest outbreak originating in the DRC. Health Minister Muhammad Ali Pate said the patient was a woman who had recently flown to Abuja from Uganda.",
-      "date_label": "20.10.2026",
-      "timestamp": 1792523280.0
-    },
-    {
       "source": "Nordre Aker Budstikke",
       "category": "lokalt",
       "topic": "annet",
@@ -2322,16 +2342,6 @@
       "timestamp": 1792520841.0
     },
     {
-      "source": "Deutsche Welle",
-      "category": "verden",
-      "topic": "annet",
-      "title": "Lebanon faces uncertainty as UNIFIL mandate nears end",
-      "url": "https://www.dw.com/en/lebanon-faces-uncertainty-as-unifil-mandate-nears-end/a-79714491?maca=en-rss-en-all-1573-xml-mrss",
-      "summary": "As UN peacekeeping forces prepare to withdraw from Lebanon, Israel remains present and Hezbollah is still armed. A new EU support mission aims to strengthen Lebanon's army, but will not replace UN peacekeepers.",
-      "date_label": "20.10.2026",
-      "timestamp": 1792520340.0
-    },
-    {
       "source": "BBC Technology",
       "category": "verden",
       "topic": "teknologi",
@@ -2350,16 +2360,6 @@
       "summary": "A large group of protesters turned up outside the Reform UK rally in Plymouth with Nigel Farage.",
       "date_label": "20.10.2026",
       "timestamp": 1792519163.0
-    },
-    {
-      "source": "NRK",
-      "category": "norge",
-      "topic": "annet",
-      "title": "Ville be for at blinde Thomas skulle få synet tilbake: – Forkvakla form for nestekjærlighet",
-      "url": "https://www.nrk.no/rogaland/_the-voice_-thomas-oppsokt-pa-gata_-ville-helbrede-synet-hans-1.18055197",
-      "summary": "Mennene fulgte etter blinde Thomas Tvedt på gata for å helbrede synet hans. Nå håper «The Voice»-artisten at hendelsen vil skape debatt om hvordan synshemmede blir møtt.",
-      "date_label": "20.10.2026",
-      "timestamp": 1792518305.0
     },
     {
       "source": "BBC World",
