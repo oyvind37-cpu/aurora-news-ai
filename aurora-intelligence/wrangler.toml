@@ -1,0 +1,10 @@
+name = "aurora-intelligence"
+main = "generator-worker.js"
+compatibility_date = "2026-10-01"
+
+[ai]
+binding = "AI"
+
+# Deploy from aurora-intelligence/ with Wrangler.
+# Set GENERATE_SECRET using: npx wrangler secret put GENERATE_SECRET
+# Never commit secret values.
