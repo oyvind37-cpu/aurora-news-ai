@@ -46,6 +46,21 @@ class EngineTests(unittest.TestCase):
         self.assertLessEqual(len(json.dumps(result["sources"], ensure_ascii=False)), 16000)
         self.assertGreater(len(result["sources"]), 0)
 
+    def test_rejects_four_sections(self):
+        sources = build(self.data)["sources"]
+        section = {"heading": "A", "text": "B", "source_ids": ["S1"]}
+        payload = {"headline": "H", "intro": "I", "limitations": "L",
+                   "sections": [section.copy() for _ in range(4)]}
+        with self.assertRaisesRegex(ValueError, "Ugyldig antall seksjoner"):
+            validate(payload, sources)
+
+    def test_accepts_three_sections(self):
+        sources = build(self.data)["sources"]
+        section = {"heading": "A", "text": "B", "source_ids": ["S1"]}
+        payload = {"headline": "H", "intro": "I", "limitations": "L",
+                   "sections": [section.copy() for _ in range(3)]}
+        self.assertEqual(len(validate(payload, sources)["sections"]), 3)
+
     def test_rejects_invented_url(self):
         sources = build(self.data)["sources"]
         payload = '{"headline":"H","intro":"I","limitations":"L","sections":[{"heading":"A","text":"Les https://falsk.example/artikkel","source_ids":["S1"]}]}'
