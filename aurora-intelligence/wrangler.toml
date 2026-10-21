@@ -5,6 +5,20 @@ compatibility_date = "2026-10-01"
 [ai]
 binding = "AI"
 
+[observability.logs]
+enabled = true
+head_sampling_rate = 1
+invocation_logs = true
+persist = true
+
+[observability.traces]
+enabled = false
+head_sampling_rate = 1
+persist = true
+
+[observability]
+# Keep issue detection off while testing.
+# Cloudflare dashboard changes should be mirrored here.
+
 # Deploy from aurora-intelligence/ with Wrangler.
-# Set GENERATE_SECRET using: npx wrangler secret put GENERATE_SECRET
-# Never commit secret values.
+# GENERATE_SECRET must be set as a Cloudflare secret, never committed.
