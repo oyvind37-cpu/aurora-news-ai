@@ -1,107 +1,107 @@
 {
-  "generated": "2026-10-21T19:40:02.590210+00:00",
+  "generated": "2026-10-21T22:47:33.078590+00:00",
   "method": "extractive_rss_no_ai_generation",
   "notice": "Overskrifter og korte utdrag er hentet fra RSS. Ikke uavhengig faktaverifisert. Åpne originalkilden for full sammenheng.",
   "items": [
     {
-      "title": "Slaktet forslaget. Likevel er det i ferd med å skje en endring med de omstridte sykkelfeltene",
+      "title": "Var «skuffet» og «overrasket». Nå kan det likevel bli et nytt gigant-Ikea: – Viktig milepæl",
       "source": "Avisa Oslo",
-      "url": "https://www.ao.no/slaktet-forslaget-likevel-er-det-i-ferd-med-a-skje-en-endring-med-de-omstridte-sykkelfeltene/s/80-128-55048",
-      "published": "2026-10-21T19:32:50+00:00",
-      "excerpt": "Det vil mest sannsynlig komme mange flere opphøyde sykkelfelt – med en liten justering for å unngå at syklister går på trynet.",
+      "url": "https://www.ao.no/ikea-oslo-na-kan-det-bli-nytt-gigant-varehus-pa-furuset/s/80-128-52670",
+      "published": "2026-10-21T22:06:00+00:00",
+      "excerpt": "For to år siden fikk Ikea et uventet nei til å bygge ut på Furuset. Nå er gigantplanene tilbake på bordet.",
       "evidence_type": "rss_excerpt",
       "verification": "source_attributed_not_independently_verified",
       "category": "lokalt"
     },
     {
-      "title": "20 år gammelt firma konkurs: Over to millioner i gjeld - flere ansatte er sagt opp",
+      "title": "Hver dag strømmer 70 000 forbi. Lager gigantrestaurant midt på Majorstuen stasjon: – Historisk",
+      "source": "Avisa Oslo",
+      "url": "https://www.ao.no/vil-forvandle-vognhallen-pa-majorstuen-stasjon-i-oslo-til-en-enorm-restaurant-na-er-planene-klare/s/80-128-54751",
+      "published": "2026-10-21T22:04:00+00:00",
+      "excerpt": "Bygget har vært lukket for publikum i snart 100 år. Nå får det nytt liv.",
+      "evidence_type": "rss_excerpt",
+      "verification": "source_attributed_not_independently_verified",
+      "category": "lokalt"
+    },
+    {
+      "title": "Real Madrid ubeseiret i Mesterligaen – Nusa plaget stjernene",
+      "source": "NRK Sport",
+      "url": "https://www.nrk.no/sport/real-madrid-ubeseiret-i-mesterligaen-_-nusa-plaget-stjernene-1.18061292",
+      "published": "2026-10-21T22:04:47+00:00",
+      "excerpt": "Real Madrid tok en oppskriftsmessig seier i Champions League da Antonio Nusa og RB Leipzig ble slått 4-1 i ligafasen. Den spanske storklubben står dermed med tre seire på tre kamper i Champions League denne sesongen. RB Leipzig står med kun en seier på tre forsøk. Antonio Nusa var svært aktiv i første omgang og plaget Real Madrids kaptein og høyreb",
+      "evidence_type": "rss_excerpt",
+      "verification": "source_attributed_not_independently_verified",
+      "category": "norge"
+    },
+    {
+      "title": "Arsenal slo tilbake mot Bayern – Ødegaard-assist i 2-2-kamp",
+      "source": "NRK Sport",
+      "url": "https://www.nrk.no/sport/arsenal-slo-tilbake-mot-bayern-_-odegaard-assist-i-2-2-kamp-1.18061218",
+      "published": "2026-10-21T20:54:44+00:00",
+      "excerpt": "Bayern München snudde kampen, men Declan Rice scoret målet som sørget for 2-2 i mesterligaen. Arsenal unngikk dermed sitt første tap i CL-sesongen. Napoli og Lille ble slått i de to første kampene. Martin Ødegaard hadde assist på Arsenals ledermål, men Harry Kane og Bayern ledet 2-1 etter en times spill. Etter 82 minutter kom Rice gjennom i feltet",
+      "evidence_type": "rss_excerpt",
+      "verification": "source_attributed_not_independently_verified",
+      "category": "norge"
+    },
+    {
+      "title": "Is it 'phenomenal' Kane's year to lift the Ballon d'Or?",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/videos/crpdg21y070jo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-21T22:41:53+00:00",
+      "excerpt": "Stephen Warnock, Nedum Onuoha and Lars Sivertsen look at whether England captain and Bayern Munich forward Harry Kane should lift the Ballon d'Or following a \"phenomenal\" season.",
+      "evidence_type": "rss_excerpt",
+      "verification": "source_attributed_not_independently_verified",
+      "category": "verden"
+    },
+    {
+      "title": "'Simply not good enough - Warnock on Man Utd's Como display",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c8040gdrdlwwo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-21T22:36:23+00:00",
+      "excerpt": "Match of the Day pundits Nedum Onuoha and Stephen Warnock analyse Manchester United's performance after their 4-1 Champions League defeat to Como, and discuss midfielder Bruno Fernandes' criticism of team tactics.",
+      "evidence_type": "rss_excerpt",
+      "verification": "source_attributed_not_independently_verified",
+      "category": "verden"
+    },
+    {
+      "title": "France bans protests in parts of Paris as Macron slams Trump",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/france-bans-protests-in-parts-of-paris-as-macron-slams-trump/a-79727141?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "2026-10-21T22:32:00+00:00",
+      "excerpt": "French President Emmanuel Macron railed against \"stupid\" comments made by foreign leaders for their political gains. Meanwhile, Paris police impose restrictions on gatherings in key areas in the city.",
+      "evidence_type": "rss_excerpt",
+      "verification": "source_attributed_not_independently_verified",
+      "category": "verden"
+    },
+    {
+      "title": "Canadian publisher cuts ties with best-selling writer Orelien over AI use",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/10/21/canadian-publisher-cuts-ties-with-best-selling-writer-orelien-over-ai-use?traffic_source=rss",
+      "published": "2026-10-21T22:16:50+00:00",
+      "excerpt": "Publisher Boreal says investigations confirmed the Haitian-Canadian Thelyson Orelien used AI in his breakthrough novel.",
+      "evidence_type": "rss_excerpt",
+      "verification": "source_attributed_not_independently_verified",
+      "category": "verden"
+    },
+    {
+      "title": "Video shows Israeli settler assaulting Palestinian child",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/21/video-shows-israeli-settler-assaulting-palestinian-child-2?traffic_source=rss",
+      "published": "2026-10-21T22:03:54+00:00",
+      "excerpt": "An Israeli settler was filmed shouting at and assaulting a Palestinian child during an attack on a family east of Yatta.",
+      "evidence_type": "rss_excerpt",
+      "verification": "source_attributed_not_independently_verified",
+      "category": "verden"
+    },
+    {
+      "title": "Kirken ble utsatt for frekt tyveri - kobles til flere hendelser",
       "source": "Nordre Aker Budstikke",
-      "url": "https://www.nab.no/20-ar-gammelt-firma-konkurs-over-to-millioner-i-gjeld-flere-ansatte-er-sagt-opp/s/80-143-25539",
-      "published": "2026-10-21T19:00:00+00:00",
-      "excerpt": "Nydalsfirmaet Cpm Analytics AS er konkurs.",
+      "url": "https://www.nab.no/kirken-ble-utsatt-for-frekt-tyveri-kobles-til-flere-hendelser/s/80-143-26067",
+      "published": "2026-10-21T22:03:00+00:00",
+      "excerpt": "Mange opplever å ha blitt utsatt for det som antageligvis er samme gjerningsmann.",
       "evidence_type": "rss_excerpt",
       "verification": "source_attributed_not_independently_verified",
       "category": "lokalt"
-    },
-    {
-      "title": "Ber amerikanere forlate Saudi-Arabia",
-      "source": "NRK",
-      "url": "https://www.nrk.no/nyheter/ber-amerikanere-forlate-saudi-arabia-1.18061250",
-      "published": "2026-10-21T19:24:18+00:00",
-      "excerpt": "Amerikanske myndigheter har beordret alle ansatte ved den amerikanske ambassaden og deres familier til å forlate Saudi-Arabia, som angripes av houthiene. Det opplyser en diplomatisk kilde til AFP. Vedkommende legger til at familiene til ambassadeansatte også har fått ordre om å reise fra De forente arabiske emirater, Jordan, Qatar og Bahrain.",
-      "evidence_type": "rss_excerpt",
-      "verification": "source_attributed_not_independently_verified",
-      "category": "norge"
-    },
-    {
-      "title": "Oslos nye bydelsnavn vedtatt",
-      "source": "NRK",
-      "url": "https://www.nrk.no/stor-oslo/oslos-nye-bydelsnavn-vedtatt-1.18061231",
-      "published": "2026-10-21T18:52:52+00:00",
-      "excerpt": "De åtte nye bydelsnavnene i Oslo er endelig vedtatt. Bystyret gikk onsdag inn for å kalle bydelene Vestre Aker, Gamle Aker, Gamle Oslo, Frysja, Hovin, Øvre Groruddalen, Østensjø og Nordstrand. Vedtaket ble ikke fattet uten debatt. SV foreslo å kalle nye bydel Østensjø for Søndre Aker, og nye bydel Norstrand for Ljabru. Miljøpartiet De Grønne og Rød",
-      "evidence_type": "rss_excerpt",
-      "verification": "source_attributed_not_independently_verified",
-      "category": "norge"
-    },
-    {
-      "title": "What China wants from a Trump-Putin summit on Ukraine",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/what-china-wants-from-a-trump-putin-summit-on-ukraine/a-79726190?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "2026-10-21T19:32:00+00:00",
-      "excerpt": "Moscow is pushing for a summit with Donald Trump and Xi Jinping to discuss ending the war in Ukraine, without Kyiv or the EU. What does Russia hope to gain, and why might China be willing to take part?",
-      "evidence_type": "rss_excerpt",
-      "verification": "source_attributed_not_independently_verified",
-      "category": "verden"
-    },
-    {
-      "title": "Meta fined $25bn for 'lies' over user data privacy",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cqdr8zxrr3dxo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-21T19:30:30+00:00",
-      "excerpt": "The fine is the largest to date against Facebook's owner, larger than an $18bn deal with California.",
-      "evidence_type": "rss_excerpt",
-      "verification": "source_attributed_not_independently_verified",
-      "category": "verden"
-    },
-    {
-      "title": "Nigeria's first Ebola patient holidayed in Uganda, officials say",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c62kepvg2x9lo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-21T19:29:40+00:00",
-      "excerpt": "The wife of a diplomat based in Abuja travelled to Kampala for a vacation.",
-      "evidence_type": "rss_excerpt",
-      "verification": "source_attributed_not_independently_verified",
-      "category": "verden"
-    },
-    {
-      "title": "Meta ordered to pay $25 billion in Cambridge Analytica case",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/meta-ordered-to-pay-25-billion-in-cambridge-analytica-case/a-79726486?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "2026-10-21T19:27:00+00:00",
-      "excerpt": "A New Mexico judge ordered Facebook's parent company, Meta, to pay $25 billion for misleading users over the Cambridge Analytica breach, which took place during Donald Trump's first presidential campaign.",
-      "evidence_type": "rss_excerpt",
-      "verification": "source_attributed_not_independently_verified",
-      "category": "verden"
-    },
-    {
-      "title": "India’s ‘Cockroach’ leaders free after a week in jail",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/21/indias-cockroach-leaders-free-after-a-week-in-jail?traffic_source=rss",
-      "published": "2026-10-21T19:17:51+00:00",
-      "excerpt": "Two top leaders of India’s Cockroach Party, Ashutosh Ranka and Saurav Das, have been released after a week in jail.",
-      "evidence_type": "rss_excerpt",
-      "verification": "source_attributed_not_independently_verified",
-      "category": "verden"
-    },
-    {
-      "title": "Tunisia jails opposition politician for four years over social media posts",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/10/21/tunisia-jails-opposition-politician-for-four-years-over-social-media-posts?traffic_source=rss",
-      "published": "2026-10-21T19:14:49+00:00",
-      "excerpt": "Olfa ⁠Hamdi, a US-Tunisian national, was convicted of 'plotting' and 'inciting' military to disobey orders.",
-      "evidence_type": "rss_excerpt",
-      "verification": "source_attributed_not_independently_verified",
-      "category": "verden"
     }
   ]
 }
