@@ -1,8 +1,18 @@
 {
-  "generated": "2026-10-22T01:21:56.705879+00:00",
+  "generated": "2026-10-22T05:14:37.212723+00:00",
   "method": "extractive_rss_no_ai_generation",
   "notice": "Overskrifter og korte utdrag er hentet fra RSS. Ikke uavhengig faktaverifisert. Åpne originalkilden for full sammenheng.",
   "items": [
+    {
+      "title": "God morgen, Oslo!",
+      "source": "Avisa Oslo",
+      "url": "https://www.ao.no/god-morgen-oslo/s/80-128-55240",
+      "published": "2026-10-22T04:33:15+00:00",
+      "excerpt": "Drittværet fortsetter, men humøret er på topp?",
+      "evidence_type": "rss_excerpt",
+      "verification": "source_attributed_not_independently_verified",
+      "category": "lokalt"
+    },
     {
       "title": "Var «skuffet» og «overrasket». Nå kan det likevel bli et nytt gigant-Ikea: – Viktig milepæl",
       "source": "Avisa Oslo",
@@ -14,14 +24,14 @@
       "category": "lokalt"
     },
     {
-      "title": "Hver dag strømmer 70 000 forbi. Lager gigantrestaurant midt på Majorstuen stasjon: – Historisk",
-      "source": "Avisa Oslo",
-      "url": "https://www.ao.no/vil-forvandle-vognhallen-pa-majorstuen-stasjon-i-oslo-til-en-enorm-restaurant-na-er-planene-klare/s/80-128-54751",
-      "published": "2026-10-21T22:04:00+00:00",
-      "excerpt": "Bygget har vært lukket for publikum i snart 100 år. Nå får det nytt liv.",
+      "title": "Viking-sjefen stusset over dette: – Ikke opplevd før",
+      "source": "NRK",
+      "url": "https://www.nrk.no/sport/viking-sjefen-stusset-over-dette_-_-ikke-opplevd-for-1.18060990",
+      "published": "2026-10-22T04:45:46+00:00",
+      "excerpt": "Kampen mot Aston Villa ble en vekker for Viking – og bød på et uvanlig nært møte med en verdenskjent trener.",
       "evidence_type": "rss_excerpt",
       "verification": "source_attributed_not_independently_verified",
-      "category": "lokalt"
+      "category": "norge"
     },
     {
       "title": "Rød beredskap ved Kirkenes sykehus etter vannlekkasje",
@@ -34,71 +44,61 @@
       "category": "norge"
     },
     {
-      "title": "Mann til sykehus etter knivstikking i Stavanger",
-      "source": "NRK",
-      "url": "https://www.nrk.no/nyheter/mann-til-sykehus-etter-knivstikking-i-stavanger-1.18061302",
-      "published": "2026-10-21T22:31:21+00:00",
-      "excerpt": "En mann i 20-årene er fraktet med ambulanse til sykehus etter en hendelse i Stavanger sentrum, opplyser operasjonsleder Olaug Bjørnsen i Sør-Vest politidistrikt. Politiet og ambulanse rykket ut like før midnatt etter melding om en mulig knivstikking. Den skadde mannen ble funnet kort tid etterpå. Operasjonslederen skriver i en oppdatering at mannen",
+      "title": "UK working to identify exposure after global cyber-security warning",
+      "source": "BBC Technology",
+      "url": "https://www.bbc.co.uk/news/articles/cmx23d0k57d3o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-22T05:03:47+00:00",
+      "excerpt": "Governments and companies are scrambling to protect their websites, as Amazon says it experienced attacks before the warning was made public.",
       "evidence_type": "rss_excerpt",
       "verification": "source_attributed_not_independently_verified",
-      "category": "norge"
+      "category": "verden"
     },
     {
-      "title": "Canadian publisher Boréal ends relationship with novelist Thélyson Orélien over alleged use of AI",
+      "title": "AI firms say UK has a year to head off datacentre protests before construction is threatened",
       "source": "The Guardian Technology",
-      "url": "https://www.theguardian.com/culture/2026/oct/22/canadian-publisher-boreal-ends-relationship-author-thelyson-orelien-over-ai",
-      "published": "2026-10-22T01:13:01+00:00",
-      "excerpt": "Author withdrawn from France’s Prix Goncourt last month has repeatedly denied using artificial intelligence to write novel The publisher of top-selling Haitian Canadian writer Thélyson Orélien, who was removed from France’s most prestigious literary prize list last month, has confirmed the author used artificial intelligence to help write his novel",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/22/ai-firms-say-uk-has-a-year-to-head-off-datacentre-protests-before-construction-is-threatened",
+      "published": "2026-10-22T05:00:08+00:00",
+      "excerpt": "Exclusive: Nvidia, Microsoft and Cisco taskforce urges ministers to offer areas greater benefits from tech infrastructure amid fears of US-style opposition AI companies have told ministers they have 12 months to head off public opposition to datacentres in the UK or risk US-style protests that could threaten their construction. Successive dry summe",
       "evidence_type": "rss_excerpt",
       "verification": "source_attributed_not_independently_verified",
       "category": "verden"
     },
     {
-      "title": "Brother of George Bush endorses Democratic Senate candidate in Texas",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/10/22/brother-of-george-bush-endorses-democratic-senate-candidate-in-texas?traffic_source=rss",
-      "published": "2026-10-22T01:01:52+00:00",
-      "excerpt": "Neil Bush says that he will vote for Democrat James Talarico due to reservations about Republican candidate Ken Paxton.",
+      "title": "Ukraine, Russia trade strikes after Witkoff talks",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/ukraine-russia-trade-strikes-after-witkoff-talks/a-79727542?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "2026-10-22T04:57:00+00:00",
+      "excerpt": "Soon after Putin and Zelenskyy expressed willingness to resume US-mediated talks, Russia and Ukraine traded major attacks on each other's capitals.",
       "evidence_type": "rss_excerpt",
       "verification": "source_attributed_not_independently_verified",
       "category": "verden"
     },
     {
-      "title": "One killed, eight injured in attack on Saudi Arabia’s King Fahd airport",
+      "title": "North Korea to resume propaganda broadcasts, South Korea urges dialogue",
       "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/10/22/one-killed-eight-injured-in-attack-on-saudi-arabias-king-fahd-airport-2?traffic_source=rss",
-      "published": "2026-10-22T00:25:41+00:00",
-      "excerpt": "Injured immediately transported to hospitals as aviation authority says updates will be forthcoming.",
+      "url": "https://www.aljazeera.com/news/2026/10/22/north-korea-to-resume-propaganda-broadcasts-south-korea-urges-dialogue?traffic_source=rss",
+      "published": "2026-10-22T04:45:41+00:00",
+      "excerpt": "Pyongyang plans to resume broadcasting anti-South Korea propaganda along the armed border.",
       "evidence_type": "rss_excerpt",
       "verification": "source_attributed_not_independently_verified",
       "category": "verden"
     },
     {
-      "title": "World leaders warn of security flaws found in PHP programming language",
+      "title": "Brazil’s Bolsonaro challenges Lula to expand release of personal records",
       "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/10/22/world-leaders-warn-against-security-flaw-found-in-php-computer-programming?traffic_source=rss",
-      "published": "2026-10-22T00:10:27+00:00",
-      "excerpt": "AI was used to pinpoint two vulnerabilities in the PHP language, used by about 70 percent of websites.",
+      "url": "https://www.aljazeera.com/news/2026/10/22/brazils-bolsonaro-challenges-lula-to-expand-release-of-personal-records?traffic_source=rss",
+      "published": "2026-10-22T04:36:04+00:00",
+      "excerpt": "Right-wing presidential candidate says he will release personal records if his opponent Lula meets his conditions.",
       "evidence_type": "rss_excerpt",
       "verification": "source_attributed_not_independently_verified",
       "category": "verden"
     },
     {
-      "title": "Iran war live: IRGC vows invasion as defence doctrine turns ‘offensive’",
+      "title": "Australian TV reporter rescues man from sinking car",
       "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/10/22/iran-war-live-irgc-vows-invasion-as-defence-doctrine-turns-offensive?traffic_source=rss",
-      "published": "2026-10-22T00:00:00+00:00",
-      "excerpt": "Iran's IRGC threatens to invade any country that attacks it under a new 'offensive and asymmetrical' doctrine.",
-      "evidence_type": "rss_excerpt",
-      "verification": "source_attributed_not_independently_verified",
-      "category": "verden"
-    },
-    {
-      "title": "US accuses Canada of election interference ahead of midterms",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/10/21/us-accuses-canada-of-election-interference-ahead-of-midterms?traffic_source=rss",
-      "published": "2026-10-21T23:52:21+00:00",
-      "excerpt": "Washington cites Canadian tariffs, political meetings and anti-Trump ads as evidence of attempted election interference.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/22/australian-tv-reporter-rescues-man-from-sinking-car?traffic_source=rss",
+      "published": "2026-10-22T04:19:33+00:00",
+      "excerpt": "Australian TV reporter rescues man from sinking car",
       "evidence_type": "rss_excerpt",
       "verification": "source_attributed_not_independently_verified",
       "category": "verden"
