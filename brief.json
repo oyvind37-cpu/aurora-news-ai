@@ -1,27 +1,37 @@
 {
-  "generated": "2026-10-25T20:58:54.887625+00:00",
+  "generated": "2026-10-25T21:41:49.944478+00:00",
   "method": "extractive_rss_no_ai_generation",
   "notice": "Overskrifter og korte utdrag er hentet fra RSS. Ikke uavhengig faktaverifisert. Åpne originalkilden for full sammenheng.",
   "items": [
     {
-      "title": "Sykehjemmet ble «friskmeldt» to ganger – nå avdekker interne rapporter svikt: – En skandale",
+      "title": "Skiltet kommer med en uvanlig beskjed. Nå er det sporløst borte: – Hvem faen gjør noe sånt!",
       "source": "Avisa Oslo",
-      "url": "https://www.ao.no/uranienborghjemmet-under-smartlegen-sine-avvik-har-blitt-offentliggjort-av-helsebyrad-i-oslo-kommune-blir-kritiserte-for-forholdene-pa-det-privatiserte-sykehjemmet-pa-frogner/s/80-128-55456",
-      "published": "2026-10-25T20:09:58+00:00",
-      "excerpt": "Sykehjemsetaten mener det ikke finnes noe dokumentasjon på at det systematisk serveres for lite mat. «Én pakke fiskepinner på 18 eldre» står det i et av avvikene.",
+      "url": "https://www.ao.no/skiltet-pa-pissoaret-til-schroder-har-forsvunnet/s/80-128-57943",
+      "published": "2026-10-25T21:24:57+00:00",
+      "excerpt": "Noen har stjålet den legendariske restaurantens pissoar-skilt. Restauranteier Andreas Viestad lover syndsforlatelse hvis tyven diskret leverer det tilbake.",
       "evidence_type": "rss_excerpt",
       "verification": "source_attributed_not_independently_verified",
       "category": "lokalt"
     },
     {
-      "title": "Her må du være 34 for å være med: – Det gøyeste som finnes",
-      "source": "Nordre Aker Budstikke",
-      "url": "https://www.nab.no/her-ma-du-vare-34-for-a-vare-med-det-goyeste-som-finnes/s/80-143-27168",
-      "published": "2026-10-25T20:00:00+00:00",
-      "excerpt": "Samholdet er sterkt, og målene er det mange av.",
-      "evidence_type": "rss_excerpt",
+      "title": "Oversvømmelse på Ring 2: – Kjør sakte",
+      "source": "Sagene Avis",
+      "url": "https://www.sageneavis.no/oversvommelse-pa-ring-2-kjor-sakte/s/80-144-8082",
+      "published": "2026-10-25T21:01:02+00:00",
+      "excerpt": "",
+      "evidence_type": "headline_only",
       "verification": "source_attributed_not_independently_verified",
       "category": "lokalt"
+    },
+    {
+      "title": "Suveren Antonelli-seier i USA",
+      "source": "NRK Sport",
+      "url": "https://www.nrk.no/sport/suveren-antonelli-seier-i-usa-1.18064436",
+      "published": "2026-10-25T21:40:12+00:00",
+      "excerpt": "Mercedes-fører Kimi Antonelli var suveren i Formel 1-løpet i Texas søndag kveld. Han ledet nesten hele løpet, og vant 14 sekunder foran Ferraris Charles Leclerc. Max Verstappen ble nummer tre. – Sånn skal det f... meg gjøres, sa Antonelli etter løpet.",
+      "evidence_type": "rss_excerpt",
+      "verification": "source_attributed_not_independently_verified",
+      "category": "norge"
     },
     {
       "title": "Jonatan Braut Brunes scoret fire for Sparta Praha – publikum rodde",
@@ -34,71 +44,61 @@
       "category": "norge"
     },
     {
-      "title": "E6 stengt mellom Lillehammer og Biri",
-      "source": "NRK",
-      "url": "https://www.nrk.no/innlandet/e6-stengt-mellom-lillehammer-og-biri-1.18064498",
-      "published": "2026-10-25T19:52:57+00:00",
-      "excerpt": "Flere oversvømmelser gjør at veien kan bli stengt frem til klokken 7 mandag morgen.",
+      "title": "Brazil elections: Voting extended after transport complaints",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/brazil-elections-voting-extended-after-transport-complaints/live-79755630?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "2026-10-25T21:28:00+00:00",
+      "excerpt": "Supporters of left-wing Lula and far-right Bolsonaro have two more hours to vote after polling was extended. The result is expected to be very close. DW has more.",
       "evidence_type": "rss_excerpt",
       "verification": "source_attributed_not_independently_verified",
-      "category": "norge"
+      "category": "verden"
+    },
+    {
+      "title": "Serbia's Vučić concedes election defeat to student-led protest movement",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-25T21:25:04+00:00",
+      "excerpt": "The country's populist right-wing leader of 12 years says it is \"clear\" his Serbian Progressive Party has lost.",
+      "evidence_type": "rss_excerpt",
+      "verification": "source_attributed_not_independently_verified",
+      "category": "verden"
+    },
+    {
+      "title": "End approaching for Carrick but Man Utd owners' problems far bigger",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwm24jk9743yo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-25T21:24:21+00:00",
+      "excerpt": "Manchester United's fans sang their support for Michael Carrick during the 3-0 home defeat by Bournemouth, but voiced there opposition to virtually everything else.",
+      "evidence_type": "rss_excerpt",
+      "verification": "source_attributed_not_independently_verified",
+      "category": "verden"
+    },
+    {
+      "title": "Wild scenes of celebration in Belgrade as Vučić concedes Serbian election – Europe live",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/oct/25/europe-serbia-elections-aleksander-vucic-student-list-protests-bulgaria-latest-news-updates",
+      "published": "2026-10-25T21:24:08+00:00",
+      "excerpt": "Student List movement projected to have 138 seats in the new parliament, well clear of the 126 required for majority, to Vučić’s 104 Serbian leader Aleksandar Vučić concedes defeat in fiercely contested parliamentary election What is at stake in Serbia’s election? The latest turnout projection by Ipsos/Cesid suggests a turnout of 60.8% by 5pm local",
+      "evidence_type": "rss_excerpt",
+      "verification": "source_attributed_not_independently_verified",
+      "category": "verden"
     },
     {
       "title": "Australia politics live: MPs to pay tribute to Helen Haines as parliament resumes; Hanson says One Nation cartoons ‘not going anywhere’",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/australia-news/live/2026/oct/26/australia-politics-live-helen-haines-tribute-anthony-albanese-labor-liberal-one-nation-pauline-hanson-angus-taylor-question-time-senate-estimates-ntwnfb",
-      "published": "2026-10-25T20:43:34+00:00",
-      "excerpt": "Follow live updates Get our daily political email , free app or daily news podcast Politicians to sign ‘civility pledge’ following alleged attack on Haines The speaker of the house, Milton Dick , will call for civility in parliament today, and some politicians are expected to sign a “civility pledge”. I think there’s something really symbolic about",
+      "published": "2026-10-25T21:15:40+00:00",
+      "excerpt": "Follow live updates Get our daily political email , free app or daily news podcast Politicians may feel less safe in home electorates than parliament, Tehan says Following the alleged attack on Helen Haines , security measures have reportedly increased around Parliament House. There’s been a lot of money and a lot of effort and a lot of thought goi",
       "evidence_type": "rss_excerpt",
       "verification": "source_attributed_not_independently_verified",
       "category": "verden"
     },
     {
-      "title": "Vučić concedes Serbian election, says Student List will be the largest party – Europe live",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/oct/25/europe-serbia-elections-aleksander-vucic-student-list-protests-bulgaria-latest-news-updates",
-      "published": "2026-10-25T20:43:06+00:00",
-      "excerpt": "The Student List movement is taking on authoritarian leader following nearly two years of protests against government and institutional corruption What is at stake in Serbia’s election? The latest turnout projection by Ipsos/Cesid suggests a turnout of 60.8% by 5pm local time (4pm UK), with three hours still to go until the polling stations close.",
-      "evidence_type": "rss_excerpt",
-      "verification": "source_attributed_not_independently_verified",
-      "category": "verden"
-    },
-    {
-      "title": "Wilson beats Jones to secure NI Open title",
+      "title": "Howe open to Man Utd talks - Monday's gossip",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/snooker/articles/cqwyrgg0nylwo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-25T20:20:09+00:00",
-      "excerpt": "Kyren Wilson wins his second Northern Ireland Open title in three years with a clinical 9-2 victory over Jak Jones at the Waterfront Hall.",
-      "evidence_type": "rss_excerpt",
-      "verification": "source_attributed_not_independently_verified",
-      "category": "verden"
-    },
-    {
-      "title": "Can Carrick survive Man United’s slump and Fernandes fallout?",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/sports/2026/10/25/can-carrick-survive-man-united-slump-and-fernandes-fallout?traffic_source=rss",
-      "published": "2026-10-25T20:01:00+00:00",
-      "excerpt": "Manchester United cheer Michael Carrick off after Bournemouth loss but boo Bruno Fernandes, what now for crisis club?",
-      "evidence_type": "rss_excerpt",
-      "verification": "source_attributed_not_independently_verified",
-      "category": "verden"
-    },
-    {
-      "title": "Pressure intensifies on Carrick as Man Utd lose to Bournemouth",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cq0mepm1d774o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-25T20:00:19+00:00",
-      "excerpt": "Manchester United's winless run stretches to eight matches in all competitions as they're beaten 3-0 by Bournemouth at Old Trafford - a defeat that leaves United's manager Michael Carrick under severe pressure.",
-      "evidence_type": "rss_excerpt",
-      "verification": "source_attributed_not_independently_verified",
-      "category": "verden"
-    },
-    {
-      "title": "Liverpool earn first league win at Anfield with victory over Brighton",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cm3vq1vpv6zno?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-25T20:00:09+00:00",
-      "excerpt": "An own goal from Brighton's Pascal Gross swiftly followed by a goal from Alexander Isak, sees Liverpool beat the Seagulls 2-0 at Anfield to move into the Premier League top four.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq1j3e889rg8o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-25T21:09:37+00:00",
+      "excerpt": "Eddie Howe is open to holding talks with Manchester United if they part ways with manager Michael Carrick, three Premier League clubs are monitoring Bayern Munich's Lennart Karl, plus more.",
       "evidence_type": "rss_excerpt",
       "verification": "source_attributed_not_independently_verified",
       "category": "verden"
