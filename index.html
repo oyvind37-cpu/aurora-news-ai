@@ -274,8 +274,8 @@ setInterval(()=>{if(!document.hidden)checkOnOpen()},300000);
  const box=document.getElementById('audio-player'), label=document.getElementById('audio-playing');
  const toggle=document.getElementById('audio-toggle'),next=document.getElementById('audio-next');
  let queue=[],index=0,active=false,paused=false,generation=0;
- const short=x=>String(x||'').replace(/\\s+/g,' ').trim();
- const speechFor=x=>({title:x.title,source:x.source,text:short(x.summary),language:/[æøåÆØÅ]/.test(x.title+' '+(x.summary||''))?'nb-NO':/\\b(the|and|with|says|after|from)\\b/i.test(x.title+' '+(x.summary||''))?'en-GB':'nb-NO'});
+ const short=x=>String(x||'').replace(/\s+/g,' ').trim();
+ const speechFor=x=>({title:x.title,source:x.source,text:short(x.summary),language:/[æøåÆØÅ]/.test(x.title+' '+(x.summary||''))?'nb-NO':/\b(the|and|with|says|after|from)\b/i.test(x.title+' '+(x.summary||''))?'en-GB':'nb-NO'});
  function status(text){label.textContent=text}
  function stop(){generation++;active=false;paused=false;queue=[];synth?.cancel();box.hidden=true;toggle.textContent='Pause'}
  function speak(){if(!active||index>=queue.length){stop();return}
@@ -293,7 +293,7 @@ setInterval(()=>{if(!document.hidden)checkOnOpen()},300000);
  toggle.addEventListener('click',()=>{if(!supported)return;if(!active){if(queue.length){active=true;paused=false;generation++;synth.cancel();speak()}return}if(paused){synth.resume();paused=false;toggle.textContent='Pause'}else{synth.pause();paused=true;toggle.textContent='Fortsett'}});
  next.addEventListener('click',()=>{if(!active)return;generation++;synth.cancel();index++;paused=false;toggle.textContent='Pause';speak()});
  document.getElementById('audio-stop').addEventListener('click',stop);
- document.addEventListener('visibilitychange',()=>{if(document.hidden&&active&&!paused){synth.pause();paused=true;toggle.textContent='Fortsett'}});
+ // Let the browser decide whether speech can continue with the screen locked.
  window.addEventListener('pagehide',stop);
  if(!supported){document.getElementById('brief-speak').title='Opplesning er ikke støttet i denne nettleseren'}
  const commute=document.getElementById('commute-toggle');
