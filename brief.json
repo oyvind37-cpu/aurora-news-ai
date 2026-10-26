@@ -1,8 +1,18 @@
 {
-  "generated": "2026-10-26T00:37:36.054616+00:00",
+  "generated": "2026-10-26T05:22:12.618867+00:00",
   "method": "extractive_rss_no_ai_generation",
   "notice": "Overskrifter og korte utdrag er hentet fra RSS. Ikke uavhengig faktaverifisert. Åpne originalkilden for full sammenheng.",
   "items": [
+    {
+      "title": "Sånn vil de forvandle og bygge ut området: – Unik",
+      "source": "Nordre Aker Budstikke",
+      "url": "https://www.nab.no/sann-vil-de-utvikle-den-store-eiendommen-ved-ring-3/s/80-143-26568",
+      "published": "2026-10-26T04:18:00+00:00",
+      "excerpt": "Nylig ble det sendt inn søknad til oppstartsmøte i Plan- og bygningsetaten, om eiendommen i Klaus Torgårds vei 3.",
+      "evidence_type": "rss_excerpt",
+      "verification": "source_attributed_not_independently_verified",
+      "category": "lokalt"
+    },
     {
       "title": "Avviste at lekeplassen har vært farlig. Legen varslet om noe helt annet: – Fare for alvorlig skade",
       "source": "Avisa Oslo",
@@ -14,91 +24,81 @@
       "category": "lokalt"
     },
     {
-      "title": "Storo-butikken har vokst med 100 kvadrat: – Folk er fra seg av begeistring",
-      "source": "Nordre Aker Budstikke",
-      "url": "https://www.nab.no/storo-butikken-har-vokst-med-100-kvadrat-folk-er-fra-seg-av-begeistring/s/80-143-26625",
-      "published": "2026-10-25T23:03:00+00:00",
-      "excerpt": "Det går godt om dagen for Sprell på Storo.",
-      "evidence_type": "rss_excerpt",
-      "verification": "source_attributed_not_independently_verified",
-      "category": "lokalt"
-    },
-    {
-      "title": "Nytt vannbrudd i Sør-Varanger",
+      "title": "Én pågrepet etter mistenkt drap på Ringerike",
       "source": "NRK",
-      "url": "https://www.nrk.no/nyheter/nytt-vannbrudd-i-sor-varanger-1.18064546",
-      "published": "2026-10-25T23:49:47+00:00",
-      "excerpt": "Søndag kveld har det oppstått et nytt brudd på hovedvannledningen i Sør-Varanger, opplyser kommunen selv. Bruddet oppsto klokken halv tolv, opplyser kommunen. – Bruddet er lokalisert og det er mannskaper på stedet som har satt i gang umiddelbare tiltak, skriver de i et innlegg på Facebook. Skadeomfanget er fortsatt uvisst og rettetiden er usikker.",
+      "url": "https://www.nrk.no/nyheter/en-pagrepet-etter-mistenkt-drap-pa-ringerike-1.18064611",
+      "published": "2026-10-26T05:11:47+00:00",
+      "excerpt": "En person er pågrepet og siktet etter at en person ble funnet død i en bolig på Ringerike natt til mandag. Dødsfallet etterforskes som drap. Politiet fikk melding om funnet klokken 00.08. – Politipatruljer og kriminalteknikere har gjennomført undersøkelser på stedet, opplyser operasjonsleder Roger Aaser i Sørøst politidistrikt i politiloggen. Polit",
       "evidence_type": "rss_excerpt",
       "verification": "source_attributed_not_independently_verified",
       "category": "norge"
     },
     {
-      "title": "Mbappé-show senket Barcelona i El Clásico",
-      "source": "NRK Sport",
-      "url": "https://www.nrk.no/sport/mbappe-show-senket-barcelona-i-el-clasico-1.18064552",
-      "published": "2026-10-25T22:02:29+00:00",
-      "excerpt": "Kylian Mbappé scoret målene da Real Madrid brøt Barcelonas seiersrekke i La Liga. Etter ni strake seiere måtte serielederen tåle 1-2-tap søndag. Det så lenge ut til å bli en målløs første omgang, men Barcelona-forsvaret surret det til i det 41. minutt. En dårlig klarering førte til at Kylian Mbappé kom borti ballen, som gikk inn i mål. – Det er nok",
+      "title": "Haaland kjempar om å bli verdas beste: – Som målskårar så er det ingen som kan måle seg",
+      "source": "NRK",
+      "url": "https://www.nrk.no/sport/erling-braut-haaland-kan-vinne-gullballen-1.18063965",
+      "published": "2026-10-26T05:00:47+00:00",
+      "excerpt": "Erling Braut Haaland er blant dei som kan vinne Gullballen. Også Caroline Graham Hansen og Bodø/Glimt kan smykke seg med ein tittel måndag kveld.",
       "evidence_type": "rss_excerpt",
       "verification": "source_attributed_not_independently_verified",
       "category": "norge"
     },
     {
-      "title": "Australia politics live: ‘Helen Haines is a fighter’: parliament hears emotional tributes to Indi MP; NSW to begin gun buyback",
+      "title": "Venezuelan opposition leader María Machado returns after months in exile",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-26T05:20:19+00:00",
+      "excerpt": "Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro.",
+      "evidence_type": "rss_excerpt",
+      "verification": "source_attributed_not_independently_verified",
+      "category": "verden"
+    },
+    {
+      "title": "The Gambia’s first blind magistrate tests a system built for the sighted",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/10/26/the-gambias-first-blind-magistrate-tests-a-system-built-for-the-sighted?traffic_source=rss",
+      "published": "2026-10-26T05:18:00+00:00",
+      "excerpt": "For a decade, Muhammed Krubally has shown what is possible and what still needs to change.",
+      "evidence_type": "rss_excerpt",
+      "verification": "source_attributed_not_independently_verified",
+      "category": "verden"
+    },
+    {
+      "title": "Israel’s election: Five key things to know",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/10/26/israels-election-five-key-things-to-know?traffic_source=rss",
+      "published": "2026-10-26T05:16:38+00:00",
+      "excerpt": "Vote comes as Israel is embroiled in multiple wars, faces international criticism and grapples with domestic divisions.",
+      "evidence_type": "rss_excerpt",
+      "verification": "source_attributed_not_independently_verified",
+      "category": "verden"
+    },
+    {
+      "title": "Australia politics live: Zali Steggall accuses Angus Taylor of not ‘reading the room’ in Haines tribute speech",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/australia-news/live/2026/oct/26/australia-politics-live-helen-haines-tribute-anthony-albanese-labor-liberal-one-nation-pauline-hanson-angus-taylor-question-time-senate-estimates-ntwnfb",
-      "published": "2026-10-26T00:29:20+00:00",
+      "published": "2026-10-26T05:10:17+00:00",
       "excerpt": "Follow live updates Get our daily political email , free app or daily news podcast Steggall calls for civility and respect Independent MP Zali Steggall has called for more respect in times of disagreement, telling ABC that leadership and words matter. We absolutely need to make sure there is more civility and respect. Social media is a platform whe",
       "evidence_type": "rss_excerpt",
       "verification": "source_attributed_not_independently_verified",
       "category": "verden"
     },
     {
-      "title": "Brazil runoff live updates: Lula has defeated Bolsonaro, electoral court announces",
+      "title": "Brazil runoff live updates: Bolsonaro says it is ‘impossible to concede’ election result after historic Lula win",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/live/2026/oct/25/brazil-election-runoff-live-updates-flavio-bolsonaro-lula",
-      "published": "2026-10-26T00:22:09+00:00",
-      "excerpt": "Leftist president Luiz Inácio Lula da Silva defeated far-right senator Flávio Bolsonaro and was elected president of Brazil for a fourth non-consecutive term Full report: Lula wins fourth term as Brazil’s president over Flávio Bolsonaro Live second round results The local electoral court ordered the immediate restoration of 100% of the bus fleet an",
+      "published": "2026-10-26T05:10:03+00:00",
+      "excerpt": "Leftist president Luiz Inácio Lula da Silva defeated the far-right senator and was elected president of Brazil for a fourth non-consecutive term Full report: Lula wins fourth term as Brazil’s president over Flávio Bolsonaro Live second round results The local electoral court ordered the immediate restoration of 100% of the bus fleet and ordered the",
       "evidence_type": "rss_excerpt",
       "verification": "source_attributed_not_independently_verified",
       "category": "verden"
     },
     {
-      "title": "Lula wins fourth term as Brazil president after historic upset over far-right Flávio Bolsonaro",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/26/lula-wins-brazil-election",
-      "published": "2026-10-26T00:19:05+00:00",
-      "excerpt": "Leftist incumbent Lula stages unprecedented comeback weeks after narrowly losing first round of election to Bolsonaro Lula wins election in stunning comeback – live updates Luiz Inácio Lula da Silva , the Brazilian president, has staged a dramatic election fightback , defeating his far-right opponent, Flávio Bolsonaro , to claim a historic fourth t",
-      "evidence_type": "rss_excerpt",
-      "verification": "source_attributed_not_independently_verified",
-      "category": "verden"
-    },
-    {
-      "title": "Lula holds off far right with victory in Brazil presidential election",
+      "title": "Social video captures moment Brazil’s election turned",
       "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/10/26/lula-holds-off-far-right-with-victory-in-brazil-presidential-election?traffic_source=rss",
-      "published": "2026-10-26T00:16:29+00:00",
-      "excerpt": "Leftist president mounts stunning comeback after unexpected first round loss galvanised supporters of Flavio Bolsonaro.",
-      "evidence_type": "rss_excerpt",
-      "verification": "source_attributed_not_independently_verified",
-      "category": "verden"
-    },
-    {
-      "title": "Brazil election 2026: Full second round results as Lula wins comeback against Flávio Bolsonaro",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/ng-interactive/2026/oct/25/brazil-election-2026-live-second-round-results",
-      "published": "2026-10-26T00:15:36+00:00",
-      "excerpt": "After a shock defeat in the first round, the incumbent Brazilian president, Luiz Inácio Lula da Silva, has turned the election around to win the runoff. Live blog: latest analysis and reaction Brazil’s president is elected purely by the popular vote. A winning candidate needs one more vote than 50% of votes cast; there is no role for the parliament",
-      "evidence_type": "rss_excerpt",
-      "verification": "source_attributed_not_independently_verified",
-      "category": "verden"
-    },
-    {
-      "title": "Bullet left on Victorian Labor minister’s car with ‘RAT’ etched on to it",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/26/labor-mp-paul-edbrooke-bullet-on-car-rat-ntwnfb",
-      "published": "2026-10-26T00:11:11+00:00",
-      "excerpt": "Paul Edbrooke says he fears for family’s safety amid heightened concerns for MPs after alleged attack on Helen Haines Get our breaking news email , free app or daily news podcast Victoria’s emergency services minister says he fears for his family’s safety after a bullet, etched with the word “RAT” and his old firefighter number, was left on his car",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/social-video-captures-moment-brazils-election-turned?traffic_source=rss",
+      "published": "2026-10-26T05:01:59+00:00",
+      "excerpt": "Video shot by supporters of the candidates in Brazil’s presidential runoff show the moment the result began changing",
       "evidence_type": "rss_excerpt",
       "verification": "source_attributed_not_independently_verified",
       "category": "verden"
