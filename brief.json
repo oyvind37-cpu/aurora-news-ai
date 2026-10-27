@@ -1,27 +1,37 @@
 {
-  "generated": "2026-10-26T21:53:51.129383+00:00",
+  "generated": "2026-10-27T01:18:12.284397+00:00",
   "method": "extractive_rss_no_ai_generation",
   "notice": "Overskrifter og korte utdrag er hentet fra RSS. Ikke uavhengig faktaverifisert. Åpne originalkilden for full sammenheng.",
   "items": [
     {
-      "title": "Jeg kjenner ikke lenger igjen min egen by",
+      "title": "Gjorde kjempekupp på Skillebekk. Men detaljen nekter kjøperen å flytte inn: – Uvanlig",
       "source": "Avisa Oslo",
-      "url": "https://www.ao.no/naturen-er-kuren-skriver-mina-adampour-oslofolk-har-blitt-en-innendorsart-og-lever-biologisk-feil/o/80-128-58192",
-      "published": "2026-10-26T21:16:31+00:00",
-      "excerpt": "Mølla, på toppen av Grünerløkka, består av høyhus og det grå NAV-bygget. Alexander Kiellands plass er en rundkjøring full av eksos, blokker og kjøpesenter.",
+      "url": "https://www.ao.no/bjarne-melgaard-sin-leilighet-pa-skillebekk-i-oslo-tvangssolgt-langt-under-prisantydning-uvanlig/s/80-128-58198",
+      "published": "2026-10-26T23:03:00+00:00",
+      "excerpt": "De spesielle omstendighetene gjorde at leiligheten fikk en kvadratmeterpris langt under det som er vanlig i det fine nabolaget.",
       "evidence_type": "rss_excerpt",
       "verification": "source_attributed_not_independently_verified",
       "category": "lokalt"
     },
     {
-      "title": "Det nye gamle navnet «Frysja»",
-      "source": "Sagene Avis",
-      "url": "https://www.sageneavis.no/det-nye-gamle-navnet-frysja/s/80-144-8256",
-      "published": "2026-10-26T20:00:00+00:00",
-      "excerpt": "Etter 1. januar 2028 skal de to sammenslåtte bydelene Sagene og Nordre Aker hete Frysja. For «Frysja» er ikke et stedsnavn, det var middelalderens navn på Akerselva. Som het noe annet enda tidligere.",
+      "title": "Sitter på en kjempeverdi: – Helt fantastisk!",
+      "source": "Nordre Aker Budstikke",
+      "url": "https://www.nab.no/boligsameiet-grefsen-terrassehus-i-grefsenkollveien-sitter-pa-en-kjempeverdi-helt-fantastisk/s/80-143-24546",
+      "published": "2026-10-26T23:03:00+00:00",
+      "excerpt": "Det er ikke alle boligsameier som har en stor og ferdig regulert boligtomt i «bakgården».",
       "evidence_type": "rss_excerpt",
       "verification": "source_attributed_not_independently_verified",
       "category": "lokalt"
+    },
+    {
+      "title": "Hvem skal styre Kina etter Xi Jinping?",
+      "source": "NRK",
+      "url": "https://www.nrk.no/urix/hvem-skal-styre-kina-etter-xi-jinping___-1.18062575",
+      "published": "2026-10-26T22:53:32+00:00",
+      "excerpt": "Spørsmålet er rett og slett farlig. Denne uken blir det likevel stilt.",
+      "evidence_type": "rss_excerpt",
+      "verification": "source_attributed_not_independently_verified",
+      "category": "norge"
     },
     {
       "title": "Arne var 12 år da han ble fanget av nazistene",
@@ -34,71 +44,61 @@
       "category": "norge"
     },
     {
-      "title": "Håndball: Gjerpen må skaffe tre millioner innen torsdag – risikerer konkurs",
-      "source": "NRK Sport",
-      "url": "https://www.nrk.no/sport/handball_-gjerpen-ma-skaffe-tre-millioner-innen-torsdag-_-risikerer-konkurs-1.18065491",
-      "published": "2026-10-26T19:23:45+00:00",
-      "excerpt": "Håndballklubben Gjerpen er i en akutt økonomisk situasjon og trenger flere millioner på få dager for å sikre videre drift. Det kommer fram i en pressemelding. «Klubben trenger 3,0 millioner kroner for å kunne etablere et økonomisk forsvarlig grunnlag for videre drift. Dersom en reell og dokumenterbar løsning ikke foreligger innen torsdag 29. oktobe",
+      "title": "Apple says it will replace iPhone Duo handsets with screen problems",
+      "source": "BBC Technology",
+      "url": "https://www.bbc.co.uk/news/articles/c893zwlev2xpo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-27T01:16:22+00:00",
+      "excerpt": "Photos shared online showed faults appearing on the screens of Apple's first foldable device.",
       "evidence_type": "rss_excerpt",
       "verification": "source_attributed_not_independently_verified",
-      "category": "norge"
+      "category": "verden"
+    },
+    {
+      "title": "Healey vows cheaper marmalade and gherkins in pre-Budget package of 'everyday fixes'",
+      "source": "BBC Politics",
+      "url": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-27T01:10:22+00:00",
+      "excerpt": "The chancellor will axe tariffs on some staples as part of plans to give households \"breathing space\".",
+      "evidence_type": "rss_excerpt",
+      "verification": "source_attributed_not_independently_verified",
+      "category": "verden"
+    },
+    {
+      "title": "Politics live: Labor says Payman linking Haines-style attack to staffing allocation ‘outrageous’; first Aukus nuclear sub for Australia revealed",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/australia-news/live/2026/oct/27/one-nation-pauline-hanson-independent-jacqui-lambie-labor-anthony-albanese-coalition-ntwnfb",
+      "published": "2026-10-27T01:02:58+00:00",
+      "excerpt": "Follow the day’s news live Get our breaking news email , free app or daily news podcast Political debate should be ‘robust but respectful’, Anne Ruston says A day after MPs addressed the House of Representatives paying tribute to the independent Helen Haines , who was injured after an alleged attack in her electorate, the Liberal senator Anne Rusto",
+      "evidence_type": "rss_excerpt",
+      "verification": "source_attributed_not_independently_verified",
+      "category": "verden"
+    },
+    {
+      "title": "Romania says Russia-run sabotage network set fire near weapons factory",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/10/27/romania-says-russia-run-sabotage-network-set-fire-near-weapons-factory?traffic_source=rss",
+      "published": "2026-10-27T00:33:06+00:00",
+      "excerpt": "Authorities say the fire in September is part of a broader campaign against European countries that support Ukraine.",
+      "evidence_type": "rss_excerpt",
+      "verification": "source_attributed_not_independently_verified",
+      "category": "verden"
     },
     {
       "title": "Macklemore begins Free Palestine tour after Ed Sheeran fallout",
       "source": "BBC Entertainment",
       "url": "https://www.bbc.co.uk/news/articles/cqkgl82nm43po?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-26T21:53:05+00:00",
+      "published": "2026-10-27T00:11:27+00:00",
       "excerpt": "Proceeds from the tour, which begins in Dublin next month, will go to organisations supporting Palestinians, he says.",
       "evidence_type": "rss_excerpt",
       "verification": "source_attributed_not_independently_verified",
       "category": "verden"
     },
     {
-      "title": "Australian politics live: Lambie awaiting Hanson apology over cartoon; Liberal candidate’s husband allegedly attacked",
+      "title": "Reader Q&A: After Lula’s sensational victory in Brazil’s presidential election, post your questions for the Guardian’s Latin America correspondent",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/australia-news/live/2026/oct/27/one-nation-pauline-hanson-independent-jacqui-lambie-labor-anthony-albanese-coalition-ntwnfb",
-      "published": "2026-10-26T21:46:12+00:00",
-      "excerpt": "Follow the day’s news live Get our breaking news email , free app or daily news podcast Political debate should be ‘robust but respectful’: Ruston A day after MPs addressed the House of Representatives paying tribute to independent Helen Haines , who was injured after an alleged attack in her electorate, Liberal senator Anne Ruston maintains that r",
-      "evidence_type": "rss_excerpt",
-      "verification": "source_attributed_not_independently_verified",
-      "category": "verden"
-    },
-    {
-      "title": "Arsenal eye Monza striker Varela - Tuesday's gossip",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cj3vq7l22yk9o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-26T21:38:42+00:00",
-      "excerpt": "Portuguese striker Gustavo Varela is on Arsenal's radar, Crystal Palace want to keep winger Ismaila Sarr, Brighton defender Luka Vuskovic receives admiring glances from some of Europe's biggest clubs, plus more.",
-      "evidence_type": "rss_excerpt",
-      "verification": "source_attributed_not_independently_verified",
-      "category": "verden"
-    },
-    {
-      "title": "'Maxxing' selected as Dictionary.com word of the year",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cmy4xwp22xyqo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-26T21:31:53+00:00",
-      "excerpt": "\"Whatever we're doing, we want to push it further,\" said an expert on why Americans are embracing the term, which is short for maximising.",
-      "evidence_type": "rss_excerpt",
-      "verification": "source_attributed_not_independently_verified",
-      "category": "verden"
-    },
-    {
-      "title": "Lula wins fourth term in dramatic Brazil election comeback",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-26T21:02:47+00:00",
-      "excerpt": "The left-wing incumbent president had lost the first round to right-wing challenger Flávio Bolsonaro.",
-      "evidence_type": "rss_excerpt",
-      "verification": "source_attributed_not_independently_verified",
-      "category": "verden"
-    },
-    {
-      "title": "UN sounds the alarm over Israel's West Bank military operation",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/un-sounds-the-alarm-over-israel-s-west-bank-military-operation/a-79770228?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "2026-10-26T20:56:00+00:00",
-      "excerpt": "The UN has sounded the alarm on Israeli action in the West Bank city of Hebron after hundreds of families were displaced at the weekend. Israel has ordered the military to demolish homes after soldiers were killed there.",
+      "url": "https://www.theguardian.com/world/live/2026/oct/27/brazil-election-reader-questions-lula-bolsonaro",
+      "published": "2026-10-27T00:00:03+00:00",
+      "excerpt": "Having lost the first round of Brazil’s presidential election to far right rival Flávio Bolsonaro, incumbent Luiz Inácio Lula da Silva spectacularly triumphed in the second. What comes next for Brazil? The Guardian’s Tom Phillips will be answering your questions from 15:00 GMT today. Ask a question: log in or sign up here to comment, or email conve",
       "evidence_type": "rss_excerpt",
       "verification": "source_attributed_not_independently_verified",
       "category": "verden"
