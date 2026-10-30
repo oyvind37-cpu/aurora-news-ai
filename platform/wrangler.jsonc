@@ -1,0 +1,13 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "aurora-news-platform",
+  "main": "src/worker.js",
+  "compatibility_date": "2026-10-01",
+  "workers_dev": true,
+  "assets": {"directory": "./public", "binding": "ASSETS"},
+  "ai": {"binding": "AI", "remote": false},
+  "d1_databases": [{"binding": "DB", "database_name": "aurora-news", "database_id": "00000000-0000-0000-0000-000000000000", "migrations_dir": "migrations"}],
+  "triggers": {"crons": ["* * * * *"]},
+  "vars": {"AI_ENABLED": "false", "ALLOWED_ORIGIN": "https://oyvind37-cpu.github.io"},
+  "observability": {"enabled": true}
+}
