@@ -5,6 +5,7 @@ import html
 import json
 import re
 import urllib.request
+import urllib.parse
 import xml.etree.ElementTree as ET
 from pathlib import Path
 
@@ -33,6 +34,26 @@ FALLBACK_FEEDS = {
     'Deutsche Welle': 'https://news.google.com/rss/search?q=site%3Adw.com%2Fen%2F%20when%3A2d&hl=en-US&gl=US&ceid=US%3Aen',
 }
 TAG = re.compile(r'<[^>]+>')
+META_TITLE = re.compile(r'<meta\\s+[^>]*?(?:property|name)=[\\'"](?:og:title|twitter:title)[\\'"][^>]*?content=[\\'"]([^\\'"]+)', re.I)
+HTML_TITLE = re.compile(r'<title[^>]*>(.*?)</title>', re.I | re.S)
+STOPWORDS = {'og','i','på','av','til','for','med','fra','som','det','den','de','en','et','er','the','and','of','in','to','a'}
+
+def headline_matches(rss_title, page_title):
+    def tokens(s):
+        return {w for w in re.findall(r'[a-zæøå0-9]{3,}', s.casefold()) if w not in STOPWORDS}
+    a, b = tokens(rss_title), tokens(page_title)
+    return bool(a and b and len(a & b) >= min(2, len(a)) and len(a & b) / len(a) >= 0.5)
+
+def verified_article_title(url):
+    """Read only public page metadata, never article/paywall content."""
+    request = urllib.request.Request(url, headers={'User-Agent':'Mozilla/5.0 (compatible; AuroraNewsAI/1.0)', 'Accept':'text/html'})
+    with urllib.request.urlopen(request, timeout=8) as response:
+        if 'text/html' not in response.headers.get('Content-Type','').lower():
+            return None
+        page = response.read(120_000).decode('utf-8', errors='replace')
+    match = META_TITLE.search(page) or HTML_TITLE.search(page)
+    return clean(match.group(1)) if match else None
+
 TOPIC_SOURCES = {
     'NRK Sport': 'sport', 'BBC Sport': 'sport',
     'BBC Technology': 'teknologi', 'The Guardian Technology': 'teknologi',
@@ -88,6 +109,17 @@ def fetch(source, category, url):
             stamp = 0
             date_label = 'Dato ukjent'
         summary = clean(field('description','{http://www.w3.org/2005/Atom}summary'))
+        # Local news links sometimes point to a different article than the RSS title.
+        # Fail closed for local sources: unverified links must not be published.
+        if category == 'lokalt':
+            try:
+                page_title = verified_article_title(link)
+                if not page_title or not headline_matches(title, page_title):
+                    print(f'{source}: forkastet RSS-lenke med feil/ukjent artikkeltittel: {title[:65]}')
+                    continue
+            except Exception as exc:
+                print(f'{source}: kunne ikke verifisere artikkellenke ({type(exc).__name__}): {title[:65]}')
+                continue
         result.append(dict(source=source, category=category, topic=classify_topic(source,title,summary), title=title, url=link, summary=summary, date_label=date_label, timestamp=stamp))
     return result
 
