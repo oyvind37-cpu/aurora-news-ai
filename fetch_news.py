@@ -34,7 +34,7 @@ FALLBACK_FEEDS = {
     'Deutsche Welle': 'https://news.google.com/rss/search?q=site%3Adw.com%2Fen%2F%20when%3A2d&hl=en-US&gl=US&ceid=US%3Aen',
 }
 TAG = re.compile(r'<[^>]+>')
-META_TITLE = re.compile(r'<meta\\s+[^>]*?(?:property|name)=[\\'"](?:og:title|twitter:title)[\\'"][^>]*?content=[\\'"]([^\\'"]+)', re.I)
+META_TITLE = re.compile(r"<meta\\s+[^>]*?(?:property|name)=[\\'\\\"](?:og:title|twitter:title)[\\'\\\"][^>]*?content=[\\'\\\"]([^\\'\\\"]+)", re.I)
 HTML_TITLE = re.compile(r'<title[^>]*>(.*?)</title>', re.I | re.S)
 STOPWORDS = {'og','i','på','av','til','for','med','fra','som','det','den','de','en','et','er','the','and','of','in','to','a'}
 
