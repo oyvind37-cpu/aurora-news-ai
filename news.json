@@ -1,15 +1,515 @@
 {
-  "updated": "2026-11-08T02:30:40.413169+00:00",
+  "updated": "2026-11-08T09:31:13.918281+00:00",
   "items": [
+    {
+      "source": "NRK",
+      "category": "norge",
+      "topic": "annet",
+      "title": "Russland skyver Norge ut av junior-VM i ishockey",
+      "url": "https://www.nrk.no/sport/russland-skyver-norge-ut-av-junior-vm-i-ishockey-1.18076757",
+      "summary": "Russland får plass i junior-VM i ishockey på bekostning av Norge, opplyser Norges Ishockeyforbund",
+      "date_label": "08.11.2026",
+      "timestamp": 1794129925.0
+    },
+    {
+      "source": "The Guardian",
+      "category": "verden",
+      "topic": "annet",
+      "title": "Briton among six dead after gunman opens fire in Kraków market square",
+      "url": "https://www.theguardian.com/world/2026/nov/07/krakow-poland-shooting-market-square-deaths-gunman",
+      "summary": "Three more people found dead at home of suspect, who minister says held ‘ultra-nationalistic’ views Six people were killed and 16 wounded after a gunman opened fire in a busy market square in Kraków, authorities said, in what Poland’s defence minister called an “act of terror” on the people of the city. The suspect, a 25-year-old Polish citizen, op",
+      "date_label": "08.11.2026",
+      "timestamp": 1794128975.0
+    },
+    {
+      "source": "Deutsche Welle",
+      "category": "verden",
+      "topic": "annet",
+      "title": "Germany news: Friedrich Merz set to confirm presidential nominee",
+      "url": "https://www.dw.com/en/germany-news-friedrich-merz-set-to-confirm-presidential-nominee/live-79883533?maca=en-rss-en-all-1573-xml-mrss",
+      "summary": "The executive committee of the German chancellor's CDU party is expected to finalize its nomination for the country's president. DW has more.",
+      "date_label": "08.11.2026",
+      "timestamp": 1794128520.0
+    },
+    {
+      "source": "The Guardian",
+      "category": "verden",
+      "topic": "annet",
+      "title": "Pope’s visit to Argentina sets up showdown with ‘hyper-capitalist’ Milei",
+      "url": "https://www.theguardian.com/world/2026/nov/08/popes-visit-to-argentina-sets-up-showdown-with-hyper-capitalist-milei",
+      "summary": "President has opposing views on many issues, and once called Leo’s predecessor the ‘representative of the Evil One’ Trees are being planted in the garden. The brightly coloured buildings are getting another coat of paint. The choir rehearses. Hundreds of other residents, several of them using wheelchairs, practise their positions outside the sanctu",
+      "date_label": "08.11.2026",
+      "timestamp": 1794128435.0
+    },
+    {
+      "source": "The Guardian",
+      "category": "verden",
+      "topic": "annet",
+      "title": "Psychiatrists and paediatricians among specialists most likely to charge ‘extreme’ fees, thinktank finds",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/08/psychiatrists-paediatricians-extreme-specialist-fees-health-australia",
+      "summary": "Grattan Institute finds some doctors charge up to triple the fees of their peers – well beyond what can be justified by business running costs Get our breaking news email , free app or daily news podcast More than 2.2 million Australians paid an “extreme” fee to see a specialist last year, with psychiatrists and paediatricians among the most likely",
+      "date_label": "08.11.2026",
+      "timestamp": 1794128435.0
+    },
+    {
+      "source": "Al Jazeera English",
+      "category": "verden",
+      "topic": "annet",
+      "title": "Rent-a-grandchild: Businesses offering companions to elderly grow in India",
+      "url": "https://www.aljazeera.com/news/2026/11/8/rent-a-grandchild-businesses-offering-companions-to-elderly-grow-in-india?traffic_source=rss",
+      "summary": "A small but growing number of firms selling what families once took for granted: someone to take care of the seniors.",
+      "date_label": "08.11.2026",
+      "timestamp": 1794128269.0
+    },
+    {
+      "source": "Al Jazeera English",
+      "category": "verden",
+      "topic": "annet",
+      "title": "Khawaja denies throwing ‘anyone under the bus’ over Sandpapergate scandal",
+      "url": "https://www.aljazeera.com/sports/2026/11/8/khawaja-denies-throwing-anyone-under-the-bus-over-sandpapergate-scandal?traffic_source=rss",
+      "summary": "Australian cricketer defends waiting so long to place blame, denying it was a marketing ploy to sell his book.",
+      "date_label": "08.11.2026",
+      "timestamp": 1794128265.0
+    },
+    {
+      "source": "Al Jazeera English",
+      "category": "verden",
+      "topic": "annet",
+      "title": "‘Don’t bring your camera’: Filmmakers face extortion in Lagos",
+      "url": "https://www.aljazeera.com/news/2026/11/8/dont-bring-your-camera-filmmakers-face-extortion-in-lagos?traffic_source=rss",
+      "summary": "Filmmakers and journalists say threats on Lagos streets is making it harder to tell the city’s stories.",
+      "date_label": "08.11.2026",
+      "timestamp": 1794128164.0
+    },
+    {
+      "source": "Al Jazeera English",
+      "category": "verden",
+      "topic": "annet",
+      "title": "The anti-Netanyahu: Can Gadi Eisenkot give the world a different Israel?",
+      "url": "https://www.aljazeera.com/news/2026/11/8/the-anti-netanyahu-can-gadi-eisenkot-give-the-world-a-different-israel?traffic_source=rss",
+      "summary": "Unpolished and understated, Eisenkot offers a stark contrast to Netanyahu but risks continuing his legacy",
+      "date_label": "08.11.2026",
+      "timestamp": 1794127656.0
+    },
+    {
+      "source": "Avisa Oslo",
+      "category": "lokalt",
+      "topic": "annet",
+      "title": "Drepte lillebroren på Prinsdal – mandag starter rettssaken",
+      "url": "https://www.ao.no/drepte-lillebroren-pa-prinsdal-i-oslo-mandag-starter-rettssaken/s/80-128-72375",
+      "summary": "En kvinne er tiltalt for å ha drept sin 18 år gamle lillebror på Prinsdal i Oslo. Hun erkjenner de faktiske forholdene, men ikke straffskyld.",
+      "date_label": "08.11.2026",
+      "timestamp": 1794127490.0
+    },
+    {
+      "source": "Al Jazeera English",
+      "category": "verden",
+      "topic": "annet",
+      "title": "Hossam Hassan sacked as Egypt head coach over ex-wife scandal",
+      "url": "https://www.aljazeera.com/sports/2026/11/8/hossam-hassan-sacked-as-egypt-head-coach-over-ex-wife-scandal?traffic_source=rss",
+      "summary": "A series of controversies surrounding Hassan's marital life left a 'negative impact' on the team, Egyptian FA says.",
+      "date_label": "08.11.2026",
+      "timestamp": 1794127336.0
+    },
+    {
+      "source": "Al Jazeera English",
+      "category": "verden",
+      "topic": "annet",
+      "title": "US military attacks cargo ship in the Gulf of Oman",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/us-military-attacks-cargo-ship-in-the-gulf-of-oman?traffic_source=rss",
+      "summary": "The US military says it has fired on and disabled a St. Kitts-flagged cargo ship in the Gulf of Oman.",
+      "date_label": "08.11.2026",
+      "timestamp": 1794126277.0
+    },
+    {
+      "source": "BBC Sport",
+      "category": "verden",
+      "topic": "sport",
+      "title": "Australia reach World Cup final after Fiji scare",
+      "url": "https://www.bbc.co.uk/sport/rugby-league/articles/c6vg02klk084o?at_medium=RSS&at_campaign=rss",
+      "summary": "Australia have reached their fifth successive Women's Rugby League World Cup final as they seek a fourth consecutive title - but they were made to work harder than anyone expected.",
+      "date_label": "08.11.2026",
+      "timestamp": 1794125958.0
+    },
+    {
+      "source": "Al Jazeera English",
+      "category": "verden",
+      "topic": "annet",
+      "title": "Mapping how France’s protest wave spread across Europe",
+      "url": "https://www.aljazeera.com/news/2026/11/8/mapping-how-frances-protest-wave-spread-across-europe?traffic_source=rss",
+      "summary": "More than 1,700 cost-of-living demonstrations have hit 31 European countries since mid-September, led by France.",
+      "date_label": "08.11.2026",
+      "timestamp": 1794125918.0
+    },
+    {
+      "source": "Avisa Oslo",
+      "category": "lokalt",
+      "topic": "annet",
+      "title": "Røde tall for det franske bakeriet: – Barnefamilier har ikke råd",
+      "url": "https://www.ao.no/rode-tall-for-det-franske-bakeriet-barnefamilier-har-ikke-rad/s/80-128-72372",
+      "summary": "Bakeriet risikerer konsekvenser etter kontroll – samtidig melder styrelederen om dårligere økonomi",
+      "date_label": "08.11.2026",
+      "timestamp": 1794125883.0
+    },
+    {
+      "source": "Al Jazeera English",
+      "category": "verden",
+      "topic": "annet",
+      "title": "As AI data centres guzzle energy, can we harness their wasted heat?",
+      "url": "https://www.aljazeera.com/features/2026/11/8/as-ai-data-centres-guzzle-energy-can-we-harness-waste-heat?traffic_source=rss",
+      "summary": "The rapid development of AI is draining our resources, but engineers have found a way to use heat lost to the air.",
+      "date_label": "08.11.2026",
+      "timestamp": 1794125832.0
+    },
+    {
+      "source": "The Guardian Technology",
+      "category": "verden",
+      "topic": "teknologi",
+      "title": "‘AI clog’: UK public bodies battle onslaught of chatbot-generated complaints",
+      "url": "https://www.theguardian.com/technology/2026/nov/08/ai-clog-public-bodies-local-authorities-onslaught-chatbot-generated-correspondence",
+      "summary": "MPs, local authorities, lawyers, schools and more are receiving floods of grievances, requests and legal challenges, often complex to read and respond to “It started as a trickle in 2024 and now it’s an onslaught.” Hollie Wickens, a senior caseworker in a Labour MP’s office, is explaining the daily reality of dealing with surging volumes of artific",
+      "date_label": "08.11.2026",
+      "timestamp": 1794124836.0
+    },
+    {
+      "source": "The Guardian",
+      "category": "verden",
+      "topic": "annet",
+      "title": "Reintroduction of white-tailed eagles puts seabird colonies at risk of wipeout, say experts",
+      "url": "https://www.theguardian.com/environment/2026/nov/08/reintroduction-white-tailed-eagles-seabird-colonies-risk-england-wales",
+      "summary": "Naturalists divided over potential impact of proposals to increase number of wild raptors in England and Wales White-tailed eagles reintroduced into England and Wales imperil endangered seabird populations and risk wiping out some colonies, ecologists and conservationists are warning. Puffins, guillemots, razorbills, fulmars and kittiwakes are amon",
+      "date_label": "08.11.2026",
+      "timestamp": 1794124835.0
+    },
+    {
+      "source": "NRK Sport",
+      "category": "norge",
+      "topic": "sport",
+      "title": "Messi skrev mer MLS-historie",
+      "url": "https://www.nrk.no/sport/messi-skrev-mer-mls-historie-1.18076734",
+      "summary": "Lionel Messi og hans Inter Miami ga fra seg en 3–0-ledelse og spilte 3–3 i sesongavslutningen mot Charlotte FC. Samtidig knuste Nashville SC Miamis poengrekord i MLS. Messi gikk målløs av banen i grunnspillets siste kamp lørdag, men den argentinske stjernen sto likevel for 26 scoringer denne sesongen. Det klarte ingen andre å hente inn i siste rund",
+      "date_label": "08.11.2026",
+      "timestamp": 1794124657.0
+    },
+    {
+      "source": "Deutsche Welle",
+      "category": "verden",
+      "topic": "annet",
+      "title": "India: Delhi chokes on most polluted Diwali eve in 10 years",
+      "url": "https://www.dw.com/en/india-delhi-chokes-on-most-polluted-diwali-eve-in-10-years/live-79883248?maca=en-rss-en-all-1573-xml-mrss",
+      "summary": "Delhi was ranked as the world's most polluted major city on the eve of Diwali. Delhi's air pollution is expected to get worse in the coming days. DW has more.",
+      "date_label": "08.11.2026",
+      "timestamp": 1794124380.0
+    },
     {
       "source": "BBC World",
       "category": "verden",
       "topic": "annet",
       "title": "What we know so far after Krakow gun attack",
       "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
-      "summary": "Six people were killed in a random shooting in the city's main square, and three bodies were later found at the home of the attacker.",
+      "summary": "Six people were killed in a random shooting in Krakow's main square, and three bodies were later found at the home of the attacker.",
       "date_label": "08.11.2026",
-      "timestamp": 1794102461.0
+      "timestamp": 1794124353.0
+    },
+    {
+      "source": "Al Jazeera English",
+      "category": "verden",
+      "topic": "annet",
+      "title": "Saudi Arabia intercepts Houthi missiles targeting Riyadh, Eastern province",
+      "url": "https://www.aljazeera.com/news/2026/11/8/saudi-arabia-intercepts-houthi-missiles-targeting-riyadh-eastern-province?traffic_source=rss",
+      "summary": "The interceptions come as the Houthis report 33 people killed in a coalition air attack on a village near Sanaa.",
+      "date_label": "08.11.2026",
+      "timestamp": 1794123607.0
+    },
+    {
+      "source": "NRK",
+      "category": "norge",
+      "topic": "annet",
+      "title": "Vil tappe ned elv for å lage kunstsnø: – Sjokkert over at det i det heile tatt går an å foreslå",
+      "url": "https://www.nrk.no/trondelag/vil-tappe-ned-elv-for-a-lage-kunstsno_-_-sjokkert-over-at-det-i-det-heile-tatt-gar-an-a-foresla-1.18069127",
+      "summary": "Trondheim kommune brukte millionar på å restaurere Leirelva. No søker kommunen sjølv om å få redusere vassføringa med meir enn 85 prosent.",
+      "date_label": "08.11.2026",
+      "timestamp": 1794123412.0
+    },
+    {
+      "source": "BBC Sport",
+      "category": "verden",
+      "topic": "sport",
+      "title": "I want to face Baumgardner, it will be boxing's next great rivalry - Dubois",
+      "url": "https://www.bbc.co.uk/sport/boxing/articles/c6y8l1318k8zo?at_medium=RSS&at_campaign=rss",
+      "summary": "In her BBC Sport column, Caroline Dubois believes a fight with Alycia Baumgardner could redefine women's boxing.",
+      "date_label": "08.11.2026",
+      "timestamp": 1794123009.0
+    },
+    {
+      "source": "BBC Sport",
+      "category": "verden",
+      "topic": "sport",
+      "title": "'I can't believe he is one of us' - inside Salah's life in Trabzon",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmwyqzy934lxo?at_medium=RSS&at_campaign=rss",
+      "summary": "BBC Sport travels to Turkey to watch Mohamed Salah play for Trabzonspor and discover how the 'Egyptian King' is settling into life by the Black Sea.",
+      "date_label": "08.11.2026",
+      "timestamp": 1794123001.0
+    },
+    {
+      "source": "BBC Sport",
+      "category": "verden",
+      "topic": "sport",
+      "title": "Messi makes history with MLS Golden Boot",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckr5ygezr0m9o?at_medium=RSS&at_campaign=rss",
+      "summary": "Inter Miami forward Lionel Messi becomes the first player in MLS history to win the Golden Boot in consecutive seasons.",
+      "date_label": "08.11.2026",
+      "timestamp": 1794122630.0
+    },
+    {
+      "source": "The Guardian",
+      "category": "verden",
+      "topic": "annet",
+      "title": "Banana producers in Latin America want better pay to cope with effects of climate crisis",
+      "url": "https://www.theguardian.com/business/2026/nov/08/banana-producers-in-latin-america-want-better-pay-to-cope-with-effects-of-climate-crisis",
+      "summary": "Farmers face big drop in production from extreme weather during this year’s super El Niño event Banana producers in Latin America are calling for better pay to help cope with the impact of the climate crisis, as they face big drops in production resulting from extreme weather during this year’s super El Niño event. High winds in parts of Colombia, ",
+      "date_label": "08.11.2026",
+      "timestamp": 1794121234.0
+    },
+    {
+      "source": "The Guardian",
+      "category": "verden",
+      "topic": "annet",
+      "title": "‘Windrush’ accusations over sharp rise in Turkish nationals facing removal from UK",
+      "url": "https://www.theguardian.com/politics/2026/nov/08/turkish-nationals-uk-indefinite-leave-to-remain-home-office-windrush",
+      "summary": "David Lammy among those raising concerns after errors found in rejected applications for indefinite leave to remain Concerns have been raised over the sudden rise in number of Turkish nationals facing removal from the UK as a result of mistakes, prompting accusations that the Home Office has failed to learn the lessons of the Windrush scandal. Sinc",
+      "date_label": "08.11.2026",
+      "timestamp": 1794121233.0
+    },
+    {
+      "source": "Al Jazeera English",
+      "category": "verden",
+      "topic": "annet",
+      "title": "Photos: Heavy rains leave tens of thousands without shelter in Gaza",
+      "url": "https://www.aljazeera.com/gallery/2026/11/8/photos-heavy-rains-leave-tens-of-thousands-without-shelter-in-gaza?traffic_source=rss",
+      "summary": "Heavy rain floods tents housing displaced Palestinians in Gaza as Israeli restrictions on aid hamper response.",
+      "date_label": "08.11.2026",
+      "timestamp": 1794120924.0
+    },
+    {
+      "source": "NRK",
+      "category": "norge",
+      "topic": "annet",
+      "title": "Legenden ringte med «uimotståelig» tilbud: – Første gang jeg er ansatt",
+      "url": "https://www.nrk.no/trondelag/skoyteloperen-bjorn-magnussen-med-proffkontrakt-i-nederland-1.18070995",
+      "summary": "I årevis har Bjørn Magnussen betalt av egen lomme for å kunne drive med idretten han elsker. Nå får han endelig lønn for strevet.",
+      "date_label": "08.11.2026",
+      "timestamp": 1794120847.0
+    },
+    {
+      "source": "Al Jazeera English",
+      "category": "verden",
+      "topic": "annet",
+      "title": "Is unconditional support for Israel becoming a liability for Republicans?",
+      "url": "https://www.aljazeera.com/opinions/2026/11/8/is-unconditional-support-for-israel-becoming-a-liability-for-republicans?traffic_source=rss",
+      "summary": "JD Vance’s response to the midterm defeat suggests a once-untouchable Republican consensus may be starting to crack.",
+      "date_label": "08.11.2026",
+      "timestamp": 1794120734.0
+    },
+    {
+      "source": "BBC Sport",
+      "category": "verden",
+      "topic": "sport",
+      "title": "Who am I? Plus today's other quizzes",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cr20wvgx2q27o?at_medium=RSS&at_campaign=rss",
+      "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+      "date_label": "08.11.2026",
+      "timestamp": 1794120478.0
+    },
+    {
+      "source": "Avisa Oslo",
+      "category": "lokalt",
+      "topic": "annet",
+      "title": "God morgen, Oslo!",
+      "url": "https://www.ao.no/god-morgen-oslo/s/80-128-72321",
+      "summary": "Den kommende uken blir både kald og glatt.",
+      "date_label": "08.11.2026",
+      "timestamp": 1794120140.0
+    },
+    {
+      "source": "BBC Sport",
+      "category": "verden",
+      "topic": "sport",
+      "title": "Why unique Brighton defence is so tricky to unpick",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm0j033lnp5po?at_medium=RSS&at_campaign=rss",
+      "summary": "Brighton's unique defensive shape has provided the platform for the Seagulls' superb start to the Premier League season.",
+      "date_label": "08.11.2026",
+      "timestamp": 1794120097.0
+    },
+    {
+      "source": "Al Jazeera English",
+      "category": "verden",
+      "topic": "annet",
+      "title": "There is reason to hope that the Democrats might deliver this time",
+      "url": "https://www.aljazeera.com/opinions/2026/11/8/there-is-reason-to-hope-that-the-democrats-might-deliver-this-time?traffic_source=rss",
+      "summary": "With a decisive rejection of Trumpism, US voters have given Democrats one more chance — they better not blow it.",
+      "date_label": "08.11.2026",
+      "timestamp": 1794119973.0
+    },
+    {
+      "source": "NRK",
+      "category": "norge",
+      "topic": "annet",
+      "title": "Heidra av Versace og A$AP Rocky: Slik blei Haaland popkulturen sin yndling",
+      "url": "https://www.nrk.no/sport/heidra-av-versace-og-a_ap-rocky_-slik-blei-haaland-popkulturen-sin-yndling-1.18073038",
+      "summary": "Han har allereie erobra fotballverda. No blir han heidra av nokre av dei fremste mote- og kulturikona i verda.",
+      "date_label": "08.11.2026",
+      "timestamp": 1794119838.0
+    },
+    {
+      "source": "NRK",
+      "category": "norge",
+      "topic": "annet",
+      "title": "Reagerer på hijab i lærebok for seksåringer",
+      "url": "https://www.nrk.no/stor-oslo/barneombudet-reagerer-pa-hijabbruk-i-barnebok-1.18072080",
+      "summary": "En ny lærebok skal lære seksåringer om islam og respekt. Men illustrasjonene av jenter med hijab vekker reaksjoner.",
+      "date_label": "08.11.2026",
+      "timestamp": 1794119835.0
+    },
+    {
+      "source": "BBC Sport",
+      "category": "verden",
+      "topic": "sport",
+      "title": "The oldest club in London making FA Cup history",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cv8ez3pe5x41o?at_medium=RSS&at_campaign=rss",
+      "summary": "Cray Wanderers host Stockport County in the FA Cup first round, with 112 league places separating the two sides.",
+      "date_label": "08.11.2026",
+      "timestamp": 1794119336.0
+    },
+    {
+      "source": "The Guardian Technology",
+      "category": "verden",
+      "topic": "teknologi",
+      "title": "Hot fridges, a fake nuclear alert and a $6bn heist: are we in the foothills of a hacking epidemic?",
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/nov/08/hot-fridges-a-fake-nuclear-alert-and-a-6bn-heist-are-we-in-the-foothills-of-a-hacking-epidemic",
+      "summary": "As AI exposes flaws in IT systems and geopolitics plays out on the cyber frontline, some experts say the events of recent weeks could soon be a common occurence Alex Pearce was doing the morning rounds at his fruit and vegetable wholesale business in London on Monday last week when he noticed something odd. The defrost light on refrigeration unit 2",
+      "date_label": "08.11.2026",
+      "timestamp": 1794117633.0
+    },
+    {
+      "source": "Deutsche Welle",
+      "category": "verden",
+      "topic": "annet",
+      "title": "As COP31 Antalya kicks off, can world move beyond big promises?",
+      "url": "https://www.dw.com/en/as-cop31-antalya-kicks-off-can-world-move-beyond-big-promises/a-79661366?maca=en-rss-en-all-1573-xml-mrss",
+      "summary": "Droughts, floods and extreme heat are upping the pressure on delegates at the UN climate talks in Antalya, Turkey. Can countries move beyond pledges to concrete action?",
+      "date_label": "08.11.2026",
+      "timestamp": 1794117300.0
+    },
+    {
+      "source": "Al Jazeera English",
+      "category": "verden",
+      "topic": "annet",
+      "title": "Haitians cheer El Salvador’s Bukele amid gang war",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/haitians-cheer-el-salvadors-bukele-amid-gang-war?traffic_source=rss",
+      "summary": "Some Haitians have cheered on El Salvadorian troops deployed to fight gangs in the Haitian capital.",
+      "date_label": "08.11.2026",
+      "timestamp": 1794114579.0
+    },
+    {
+      "source": "CNN",
+      "category": "verden",
+      "topic": "annet",
+      "title": "As fresh peace talks loom, Putin is escalating his efforts to shatter Ukraine’s economy - CNN",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVkJhbUU4U3hhRkVIaTZRdXNXSXVvSklBbm13NGtJam9NNFJoaTJUN0VVTmwwejEyN2ZKVEFrTlI1QTkyVVp2c1F2R055akZBUGItd1pWbUxxS3Fkek9aXzRMZTNMZUNEcDgyMU44ME5Jb0psZEVEM21FdjFIRndnZmlzUzB0blhVb243aEFYcXBUanVSbVk2UHZ1NA?oc=5",
+      "summary": "As fresh peace talks loom, Putin is escalating his efforts to shatter Ukraine’s economy CNN",
+      "date_label": "08.11.2026",
+      "timestamp": 1794114015.0
+    },
+    {
+      "source": "Al Jazeera English",
+      "category": "verden",
+      "topic": "annet",
+      "title": "Plane clips truck during emergency landing on busy Florida road",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/aje-onl-nf_plane-clips-truck-during-emergency-landing-florida-071126?traffic_source=rss",
+      "summary": "A small plane has made an emergency landing on a busy Florida road, much to the shock of drivers.",
+      "date_label": "08.11.2026",
+      "timestamp": 1794113942.0
+    },
+    {
+      "source": "Al Jazeera English",
+      "category": "verden",
+      "topic": "annet",
+      "title": "Drone attack on Colombian army base kills three soldiers and wounds 16",
+      "url": "https://www.aljazeera.com/news/2026/11/8/drone-attack-on-colombian-army-base-kills-three-soldiers-and-wounds-16?traffic_source=rss",
+      "summary": "Colombian President de la Espriella says those behind the attack in Santa Rosa del Sur will have ‘nowhere to hide’.",
+      "date_label": "08.11.2026",
+      "timestamp": 1794113797.0
+    },
+    {
+      "source": "Al Jazeera English",
+      "category": "verden",
+      "topic": "annet",
+      "title": "Earthquake hits central Japan, injuring more than 20 people",
+      "url": "https://www.aljazeera.com/news/2026/11/8/earthquake-hits-central-japan-injuring-more-than-20-people?traffic_source=rss",
+      "summary": "The magnitude 5.7 quake hit Shizuoka prefecture, and authorities warn of possible strong aftershocks in coming days.",
+      "date_label": "08.11.2026",
+      "timestamp": 1794111657.0
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "annet",
+      "title": "Houthis say at least 33 killed in Saudi air strike",
+      "url": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
+      "summary": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented.",
+      "date_label": "08.11.2026",
+      "timestamp": 1794110592.0
+    },
+    {
+      "source": "Al Jazeera English",
+      "category": "verden",
+      "topic": "annet",
+      "title": "Trump asks UFC chief Dana White to be White House press secretary",
+      "url": "https://www.aljazeera.com/news/2026/11/8/trump-asks-ufc-chief-dana-white-to-be-white-house-press-secretary?traffic_source=rss",
+      "summary": "Ultimate Fighting Championship CEO says he will meet with the US president on Monday to discuss the offer.",
+      "date_label": "08.11.2026",
+      "timestamp": 1794107564.0
+    },
+    {
+      "source": "Al Jazeera English",
+      "category": "verden",
+      "topic": "annet",
+      "title": "Egypt sacks winning football coach after wives’ scandal",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/aje-onl-nf_egypt-sacks-winning-football-coach-after-scandal-071126?traffic_source=rss",
+      "summary": "The Egyptian Football Association has sacked national team coach Hossam Hassan, cutting short a promising tenure.",
+      "date_label": "08.11.2026",
+      "timestamp": 1794107068.0
+    },
+    {
+      "source": "The Guardian",
+      "category": "verden",
+      "topic": "annet",
+      "title": "Uyghurs facing deportation by Thailand say they will be ‘like slaves’ in China",
+      "url": "https://www.theguardian.com/global-development/2026/nov/08/uyghurs-thailand-china-forced-deportation",
+      "summary": "Activists fear Bangkok will give in to pressure from Beijing despite reports of torture and human rights abuses against the mostly muslim ethnic minority The deportation of two more Uyghurs to China from Thailand would put their lives in grave danger, activists have said, with one of the men saying he would be “like a slave” if he was sent back. La",
+      "date_label": "08.11.2026",
+      "timestamp": 1794106828.0
+    },
+    {
+      "source": "The Guardian",
+      "category": "verden",
+      "topic": "annet",
+      "title": "Cold blast brings springtime snow to alpine regions as temperatures plummet across Australia’s south-east",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/08/australia-weather-cold-blast-springtime-snow-thredbo-perisher-hotham-victoria-tasmania-el-nino",
+      "summary": "Thredbo, Perisher and Mount Hotham all recorded falls, along with Kunanyi/Mount Wellington in Tasmania Get our breaking news email , free app or daily news podcast Snow has fallen across parts of NSW, Victoria and Tasmania as an unseasonal cold blast whips through Australia’s south-east. Thredbo, Perisher and Mount Hotham all recorded falls, while ",
+      "date_label": "08.11.2026",
+      "timestamp": 1794105259.0
+    },
+    {
+      "source": "Al Jazeera English",
+      "category": "verden",
+      "topic": "annet",
+      "title": "US launches task force to disrupt Iran’s land-based supply routes",
+      "url": "https://www.aljazeera.com/news/2026/11/8/us-launches-task-force-to-disrupt-irans-land-based-supply-routes?traffic_source=rss",
+      "summary": "The operation is to prevent Iran from using ground routes to transport weapons and other materials, US says.",
+      "date_label": "08.11.2026",
+      "timestamp": 1794105244.0
     },
     {
       "source": "Al Jazeera English",
@@ -32,6 +532,16 @@
       "timestamp": 1794099648.0
     },
     {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "annet",
+      "title": "The Trump coalition is shattered - what will Republicans do now?",
+      "url": "https://www.bbc.co.uk/news/articles/cm3r5gnxqz3jo?at_medium=RSS&at_campaign=rss",
+      "summary": "Republicans can stick with Trumpism or chart a new path, writes BBC Washington correspondent Daniel Bush.",
+      "date_label": "08.11.2026",
+      "timestamp": 1794099159.0
+    },
+    {
       "source": "Al Jazeera English",
       "category": "verden",
       "topic": "annet",
@@ -40,6 +550,16 @@
       "summary": "Polish Prime Minister Donald Tusk describes a deadly shooting in Krakow that killed six people as an act of ‘terrorism’.",
       "date_label": "08.11.2026",
       "timestamp": 1794099028.0
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "annet",
+      "title": "Germans wrestle with what to do with Hitler's destroyed Eagle's Nest retreat",
+      "url": "https://www.bbc.co.uk/news/articles/cm74pk1g51nko?at_medium=RSS&at_campaign=rss",
+      "summary": "While some believe the site should be partially or completely rebuilt, others want it abandoned and all memory of its Nazi past forgotten.",
+      "date_label": "08.11.2026",
+      "timestamp": 1794098939.0
     },
     {
       "source": "BBC Technology",
@@ -77,7 +597,7 @@
       "topic": "annet",
       "title": "Victoria Barracks in Sydney and Melbourne to remain in public hands after partial backtrack on defence property selloff",
       "url": "https://www.theguardian.com/australia-news/2026/nov/08/victoria-barracks-sydney-and-melbourne-remain-in-public-hands-backtrack-defence-property-sale-albanese-marles",
-      "summary": "Four heritage-listed defence properties to be preserved for community use after backlash from veterans and former PMs Get our daily political email , free app or daily news podcast Four heritage-listed defence sites, including Sydney’s Victoria Barracks, will remain in public hands after the Albanese government yielded to public backlash against th",
+      "summary": "Four heritage-listed defence properties to be preserved for community use after backlash from veterans and former PMs Get our daily political email , free app or daily news podcast Richard Marles has denied claims Australia’s defence will be undermined by its decision to repurpose a historical military base near Sydney’s CBD for public use. The Alb",
       "date_label": "08.11.2026",
       "timestamp": 1794097048.0
     },
@@ -105,31 +625,11 @@
       "source": "Al Jazeera English",
       "category": "verden",
       "topic": "annet",
-      "title": "Iran war live: Blasts heard in Qeshm; US moves to block land supply routes",
+      "title": "Iran war live: US moves to block land supply routes; UAE rescues 22 sailors",
       "url": "https://www.aljazeera.com/news/liveblog/2026/11/8/iran-war-live-explosions-hit-qeshm-us-moves-to-block-land-supply-routes?traffic_source=rss",
       "summary": "Iranian state media report blasts on Qeshm Island in Strait of Hormuz and the cities of Jask, Sirik and Bandar Abbas.",
       "date_label": "08.11.2026",
       "timestamp": 1794096056.0
-    },
-    {
-      "source": "BBC Sport",
-      "category": "verden",
-      "topic": "sport",
-      "title": "Was Leeds' Bogle lucky to escape red card?",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c6lyl7qvq8ejo?at_medium=RSS&at_campaign=rss",
-      "summary": "Match of the Day's Steph Houghton and Danny Murphy assess whether a challenge from Leeds United's Jayden Bogle on Tottenham's Mathys Tel was worthy of a red card.",
-      "date_label": "08.11.2026",
-      "timestamp": 1794096026.0
-    },
-    {
-      "source": "BBC Sport",
-      "category": "verden",
-      "topic": "sport",
-      "title": "Forest win over Man City 'a turning point' - Murphy",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c893zr4rlzp1o?at_medium=RSS&at_campaign=rss",
-      "summary": "Match of the Day's Danny Murphy breaks down Nottingham Forest's impressive 3-1 win over Manchester City, a victory that he believes could be \"a turning point\" in Forest's first season under Oliver Glasner.",
-      "date_label": "08.11.2026",
-      "timestamp": 1794096014.0
     },
     {
       "source": "BBC Sport",
@@ -195,21 +695,21 @@
       "source": "CNN",
       "category": "verden",
       "topic": "annet",
+      "title": "Netanyahu rival Gadi Eisenkot to be tasked with forming next Israeli government - CNN",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE80dzFua01CTzQ5b0gtYkROTk1LbUhIRkxBSG81YlQ4dXE3Qk05bVg4MWRhd0pYN3FSY1IwTFFHQU5Rb19KMnJMSFpEQ3VDRGdoRnV0dVR6Mm51bWJadDY0SG0ybE4?oc=5",
+      "summary": "Netanyahu rival Gadi Eisenkot to be tasked with forming next Israeli government CNN",
+      "date_label": "07.11.2026",
+      "timestamp": 1794093660.0
+    },
+    {
+      "source": "CNN",
+      "category": "verden",
+      "topic": "annet",
       "title": "Schumer faces skepticism among some Democrats over majority leader role - CNN",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQOERQbldpdHQ1dW1TUEVnMkZNaXNpdG1HX3ZLZEJkOThwdWktU29wbkVvaWNWdndDSVUzTVZ4SmFvSTFVejNfdzVyMi1UcXdRSEdDS3dnN0lGU2dadldFRzFQWGFWUHpCdTcyLWdFNXNrXzZZUXBJVjFRYXY4QUgtdTdR?oc=5",
       "summary": "Schumer faces skepticism among some Democrats over majority leader role CNN",
       "date_label": "07.11.2026",
       "timestamp": 1794092749.0
-    },
-    {
-      "source": "BBC Sport",
-      "category": "verden",
-      "topic": "sport",
-      "title": "McNeill's superb halfway goal sparks Crewe upset over Wimbledon",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cv5yn15k5pz0o?at_medium=RSS&at_campaign=rss",
-      "summary": "Charlie McNeill's strike from the halfway line helps League Two frontrunners Crewe progress to the second round of the FA Cup, with a 2-1 win over League One AFC Wimbledon.",
-      "date_label": "07.11.2026",
-      "timestamp": 1794092736.0
     },
     {
       "source": "Nordre Aker Budstikke",
@@ -312,6 +812,16 @@
       "timestamp": 1794089999.0
     },
     {
+      "source": "CNN",
+      "category": "verden",
+      "topic": "annet",
+      "title": "Republican attorney general blames Trump for Georgia midterm losses - CNN",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcGloYmpBc0NDazZfV3F2V2dCUXJHUVBLSG9JQmt1cmhvd0NwbFpaQzc5QlVQMVpJeTh0UmRsRjRhOXNYaDJfcUgwS1Q1VXRVTnBWa1FGbTBFS3NBSW85OEJ0YWdHc29sUEZHVUlkakM3WUVyUWdELUc0XzlrdlFsZEYzbk55dFhBS3ZDd0J3OTZha0s1ZTBIdGdPTTRqbGRfc0Z2STlYa3JzVkZ5blNuTWtENzc?oc=5",
+      "summary": "Republican attorney general blames Trump for Georgia midterm losses CNN",
+      "date_label": "07.11.2026",
+      "timestamp": 1794089940.0
+    },
+    {
       "source": "Avisa Oslo",
       "category": "lokalt",
       "topic": "annet",
@@ -372,24 +882,24 @@
       "timestamp": 1794087599.0
     },
     {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "annet",
+      "title": "'Flat', 'tired', 'cynical': Unusually gloomy Kiwis deliver New Zealand's tightest election in years",
+      "url": "https://www.bbc.co.uk/news/articles/cxr5yyg2nj9eo?at_medium=RSS&at_campaign=rss",
+      "summary": "The national mood is low, and faith in politics even lower - with voters deserting the major parties at the polls.",
+      "date_label": "07.11.2026",
+      "timestamp": 1794087376.0
+    },
+    {
       "source": "Deutsche Welle",
       "category": "verden",
       "topic": "annet",
       "title": "Poland: Gunman kills 6 in Krakow main square",
       "url": "https://www.dw.com/en/poland-gunman-kills-6-in-krakow-main-square/a-79886489?maca=en-rss-en-all-1573-xml-mrss",
-      "summary": "A gunman who fired from a car killed at least six people, including a British tourist, in Krakow's main market square. Officials said the shooter was fascinated with \"radical\" and \"far right' ideologies.",
+      "summary": "A gunman who fired from a car killed at least six people, including a British tourist, in Krakow's main market square. Officials said the shooter was fascinated with \"radical\" and \"far-right\" ideologies.",
       "date_label": "07.11.2026",
       "timestamp": 1794087240.0
-    },
-    {
-      "source": "BBC Sport",
-      "category": "verden",
-      "topic": "sport",
-      "title": "Notts County beat Altrincham in incredible fog-filled spectacle",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cq77p24myz4ro?at_medium=RSS&at_campaign=rss",
-      "summary": "Notts County find a way to get past National League Altrincham in incredible conditions.",
-      "date_label": "07.11.2026",
-      "timestamp": 1794086719.0
     },
     {
       "source": "Al Jazeera English",
@@ -402,14 +912,14 @@
       "timestamp": 1794086650.0
     },
     {
-      "source": "The Guardian",
+      "source": "CNN",
       "category": "verden",
       "topic": "annet",
-      "title": "Six dead after gunman opens fire in Kraków market square, with three more victims found at suspect’s home",
-      "url": "https://www.theguardian.com/world/2026/nov/07/krakow-poland-shooting-market-square-deaths-gunman",
-      "summary": "Suspect was influenced by far-right ideology and held ‘ultra-nationalistic’ views, says Polish interior minister Six people have been killed and 16 wounded after a gunman opened fire in a busy market square in Kraków, authorities said, in what Poland’s defence minister called an “act of terror” on the people of the city. The suspect, a 25-year-old ",
+      "title": "'Like Mean Girls 3: L.A. Edition' - How L.A.'s new mayor defied a brutal campaign and pulled off a historic mayoral upset - CNN",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOdVRmSHNDT3ZXYVQ4dFBaLVYzOHNkSC1qcmVqUkZadTlUc2RlTTZlOGYyN3N4bGpFQURGZkgyZ29JLTZYZVVqeVE5Y1Nsbi1zUzNqREI5R0pFOFhvcE9NLTZSSDBwT0NtQnRHb3RkUFl6d21hcXZoYjlSRTBiTndkcExqeHJsUllwXzhmWk45TDdMRTZjaXAwV3UtMUpFdUItekNCdDcxcU9IdnRrTkRXbk42ampOYklFVzhVOFF3ZVhvN2pOQThkTnJHNlFxc3UyUU5tNUJ3SmxHaWtBU01oSG1kUzduYjMyVUdNc1YxWUdKYWxS?oc=5",
+      "summary": "'Like Mean Girls 3: L.A. Edition' - How L.A.'s new mayor defied a brutal campaign and pulled off a historic mayoral upset CNN",
       "date_label": "07.11.2026",
-      "timestamp": 1794086341.0
+      "timestamp": 1794086101.0
     },
     {
       "source": "BBC Sport",
@@ -477,19 +987,9 @@
       "topic": "sport",
       "title": "Maresca's dream start turns into nightmare as title hopes hit",
       "url": "https://www.bbc.co.uk/sport/football/articles/cm93z0l03n8vo?at_medium=RSS&at_campaign=rss",
-      "summary": "Enzo Maresca left the City Ground on Saturday evening with chants of \"can we play you every week?\" ringing in his ears - the Italian's dream start as Manchester City manager is rapidly turning into a nightmare.",
+      "summary": "Enzo Maresca left the City Ground with chants of \"can we play you every week?\" ringing in his ears, as Manchester City's dream start turns into a nightmare.",
       "date_label": "07.11.2026",
       "timestamp": 1794084852.0
-    },
-    {
-      "source": "Al Jazeera English",
-      "category": "verden",
-      "topic": "annet",
-      "title": "Mélenchon promises action against Israeli annexation if elected President",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/melenchon-promises-action-against-israeli-annexation-if-elected-president?traffic_source=rss",
-      "summary": "Mélenchon promises action against Israeli annexation if elected President",
-      "date_label": "07.11.2026",
-      "timestamp": 1794084827.0
     },
     {
       "source": "NRK Sport",
@@ -502,16 +1002,6 @@
       "timestamp": 1794084668.0
     },
     {
-      "source": "Al Jazeera English",
-      "category": "verden",
-      "topic": "annet",
-      "title": "Who is behind Europe’s suspected hybrid attacks?",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/11/7/who-is-behind-europes-suspected-hybrid-attacks?traffic_source=rss",
-      "summary": "Bomb hoaxes and supermarket cyberattacks are heightening security fears.",
-      "date_label": "07.11.2026",
-      "timestamp": 1794084538.0
-    },
-    {
       "source": "NRK",
       "category": "norge",
       "topic": "annet",
@@ -520,16 +1010,6 @@
       "summary": "Den norske tannlegeforening sier dette er en utfordring de tar på alvor.",
       "date_label": "07.11.2026",
       "timestamp": 1794084320.0
-    },
-    {
-      "source": "Al Jazeera English",
-      "category": "verden",
-      "topic": "annet",
-      "title": "Abdul El-Sayed slams Trump’s tariff war with Canada",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/abdul-el-sayed-slams-trumps-tariff-war-with-canada?traffic_source=rss",
-      "summary": "Michigan Senator-elect Abdul El-Sayed has criticised Trump’s trade war with Canada.",
-      "date_label": "07.11.2026",
-      "timestamp": 1794084274.0
     },
     {
       "source": "Avisa Oslo",
@@ -542,26 +1022,6 @@
       "timestamp": 1794084252.0
     },
     {
-      "source": "Al Jazeera English",
-      "category": "verden",
-      "topic": "annet",
-      "title": "Israel’s president picks Eisenkot over Netanyahu to form next government",
-      "url": "https://www.aljazeera.com/news/2026/11/7/israels-president-picks-eisenkot-over-netanyahu-to-form-next-government?traffic_source=rss",
-      "summary": "Isaac Herzog formally gives Gadi Eisenkot 28 days to secure 61 Knesset seats and replace Netanyahu as prime minister.",
-      "date_label": "07.11.2026",
-      "timestamp": 1794083218.0
-    },
-    {
-      "source": "Al Jazeera English",
-      "category": "verden",
-      "topic": "annet",
-      "title": "More than 140,000 rally as new protests against rising costs sweep France",
-      "url": "https://www.aljazeera.com/news/2026/11/7/more-than-140000-rally-as-new-protests-against-rising-costs-sweep-france?traffic_source=rss",
-      "summary": "Tear gas fired in Paris and Lyon as interior minister warns authorities are 'ready and waiting' for rioters and looters.",
-      "date_label": "07.11.2026",
-      "timestamp": 1794082342.0
-    },
-    {
       "source": "CNN",
       "category": "verden",
       "topic": "annet",
@@ -570,26 +1030,6 @@
       "summary": "Gadi Eisenkot to be tasked with forming next Israeli government CNN",
       "date_label": "07.11.2026",
       "timestamp": 1794082297.0
-    },
-    {
-      "source": "Al Jazeera English",
-      "category": "verden",
-      "topic": "annet",
-      "title": "Ukraine’s Zaporizhzhia faces threat as Russian drones close in",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/0711-reported-audrey-in-zaporizhzhia-071126?traffic_source=rss",
-      "summary": "Ukraine’s Zaporizhzhia, once a refuge for those fleeing the war, is now facing growing danger.",
-      "date_label": "07.11.2026",
-      "timestamp": 1794082238.0
-    },
-    {
-      "source": "Al Jazeera English",
-      "category": "verden",
-      "topic": "annet",
-      "title": "Paraguay’s ousted president appears before prosecutors after impeachment",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/7-11-clip-paraguay-former-president-detained-appears?traffic_source=rss",
-      "summary": "Former Paraguayan President Santiago Pena has appeared before prosecutors.",
-      "date_label": "07.11.2026",
-      "timestamp": 1794082127.0
     },
     {
       "source": "NRK",
@@ -652,6 +1092,16 @@
       "timestamp": 1794081571.0
     },
     {
+      "source": "CNN",
+      "category": "verden",
+      "topic": "annet",
+      "title": "Rockefeller Center tree arrives in New York City - CNN",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPekpxTTNpQklPNHpMU2NsUFBObS1LN2x6Y1VIM0hMYmNWQkpta19yc1NmSFVKS0dJWm5BX1g0Wjd0Vm5zN25pRjFDZFZfRDM2emR2VkJWTHNOM0lWMHl4Y0Y0cnlEVHVpekxRZ0dabjZNMWd2ZmtaU1d2QktVaDI5Q1RnX2N3U29mMHRpYXlUMm1INTJnQW1NaXgtcGxGTFpEM1E?oc=5",
+      "summary": "Rockefeller Center tree arrives in New York City CNN",
+      "date_label": "07.11.2026",
+      "timestamp": 1794081480.0
+    },
+    {
       "source": "Deutsche Welle",
       "category": "verden",
       "topic": "annet",
@@ -660,16 +1110,6 @@
       "summary": "President Isaac Herzog has picked former Israeli military chief Gadi Eisenkot, leader of an anti-Netanyahu alliance, to take the first shot at trying to form a government, with tricky coalition talks expected.",
       "date_label": "07.11.2026",
       "timestamp": 1794081360.0
-    },
-    {
-      "source": "Al Jazeera English",
-      "category": "verden",
-      "topic": "annet",
-      "title": "Masked protesters set off firecrackers and block roads in Albania",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/masked-protesters-set-off-firecrackers-and-block-roads-in-albania?traffic_source=rss",
-      "summary": "Police used water cannons to disperse masked protesters in Albania’s capital, Tirana.",
-      "date_label": "07.11.2026",
-      "timestamp": 1794080959.0
     },
     {
       "source": "Avisa Oslo",
@@ -690,16 +1130,6 @@
       "summary": "US President Donald Trump has offered the White House press secretary job to Dana White, the chief executive of the Ultimate Fighting Championship. White has neither formally accepted nor turned down the invitation.",
       "date_label": "07.11.2026",
       "timestamp": 1794080760.0
-    },
-    {
-      "source": "Al Jazeera English",
-      "category": "verden",
-      "topic": "annet",
-      "title": "Trump orders DOJ to investigate Democrats for ‘threatening’ people",
-      "url": "https://www.aljazeera.com/news/2026/11/7/trump-orders-doj-to-investigate-democrats-for-threatening-people?traffic_source=rss",
-      "summary": "Trump lashed out at Democrats on Truth Social days after the party won control of Congress.",
-      "date_label": "07.11.2026",
-      "timestamp": 1794080566.0
     },
     {
       "source": "CNN",
@@ -732,16 +1162,6 @@
       "timestamp": 1794080072.0
     },
     {
-      "source": "Al Jazeera English",
-      "category": "verden",
-      "topic": "annet",
-      "title": "How did AIPAC-backed candidates fare in the US midterm elections?",
-      "url": "https://www.aljazeera.com/news/2026/11/7/how-did-aipac-backed-candidates-fare-in-the-us-midterm-elections?traffic_source=rss",
-      "summary": "Many candidates the pro-Israel group backed still won, but most of the money it spent went to candidates who lost.",
-      "date_label": "07.11.2026",
-      "timestamp": 1794079746.0
-    },
-    {
       "source": "Deutsche Welle",
       "category": "verden",
       "topic": "annet",
@@ -762,16 +1182,6 @@
       "timestamp": 1794079554.0
     },
     {
-      "source": "Al Jazeera English",
-      "category": "verden",
-      "topic": "annet",
-      "title": "Malaysian king warns against defying house arrest order for ex-PM Najib",
-      "url": "https://www.aljazeera.com/news/2026/11/7/malaysian-king-warns-against-defying-house-arrest-order-for-ex-pm-najib?traffic_source=rss",
-      "summary": "Attorney general postponed Najib Razak’s transfer from jail after court cleared him for house arrest on Friday.",
-      "date_label": "07.11.2026",
-      "timestamp": 1794079461.0
-    },
-    {
       "source": "BBC World",
       "category": "verden",
       "topic": "annet",
@@ -780,36 +1190,6 @@
       "summary": "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money.",
       "date_label": "07.11.2026",
       "timestamp": 1794079042.0
-    },
-    {
-      "source": "Al Jazeera English",
-      "category": "verden",
-      "topic": "annet",
-      "title": "Latvian farmers protest over ‘blood grain’ trade with Russia",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/7-11-sv-latvia-farmers-protest-russian-grain-transit?traffic_source=rss",
-      "summary": "Latvian farmers are protesting Russian grain transit, arguing that it helps fund Moscow’s war in Ukraine.",
-      "date_label": "07.11.2026",
-      "timestamp": 1794078634.0
-    },
-    {
-      "source": "Al Jazeera English",
-      "category": "verden",
-      "topic": "annet",
-      "title": "Yemeni gov’t forces report advances as Houthis say deadly strikes hit Sanaa",
-      "url": "https://www.aljazeera.com/news/2026/11/7/yemeni-govt-forces-report-advances-as-houthis-say-deadly-strikes-hit-sanaa?traffic_source=rss",
-      "summary": "Civilians bear the brunt of fighting as 27 people reported killed in strikes on a village in Sanaa province.",
-      "date_label": "07.11.2026",
-      "timestamp": 1794078391.0
-    },
-    {
-      "source": "Al Jazeera English",
-      "category": "verden",
-      "topic": "annet",
-      "title": "Demonstration in Berlin calls for an end to arming Israel",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/demonstration-in-berlin-calls-for-an-end-to-arming-israel?traffic_source=rss",
-      "summary": "Demonstration in Berlin calls for an end to arming Israel",
-      "date_label": "07.11.2026",
-      "timestamp": 1794078244.0
     },
     {
       "source": "The Guardian",
@@ -840,16 +1220,6 @@
       "summary": "Shooting in Poland kills at least 6 CNN",
       "date_label": "07.11.2026",
       "timestamp": 1794077910.0
-    },
-    {
-      "source": "Al Jazeera English",
-      "category": "verden",
-      "topic": "annet",
-      "title": "Houston mayor orders police to limit cooperation with ICE",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/houston-mayor-orders-police-to-limit-cooperation-with-ice?traffic_source=rss",
-      "summary": "Houston Mayor John Whitmire has instructed police to limit contact with ICE, reversing the city’s previous approach.",
-      "date_label": "07.11.2026",
-      "timestamp": 1794077740.0
     },
     {
       "source": "NRK Sport",
@@ -922,36 +1292,6 @@
       "timestamp": 1794076560.0
     },
     {
-      "source": "Al Jazeera English",
-      "category": "verden",
-      "topic": "annet",
-      "title": "Paraguay’s ousted president charged over banking scandal",
-      "url": "https://www.aljazeera.com/economy/2026/11/7/paraguays-ousted-president-charged-over-banking-scandal?traffic_source=rss",
-      "summary": "Santiago Pena was impeached over the collapse of Ueno Bank, which left millions unable to access their accounts.",
-      "date_label": "07.11.2026",
-      "timestamp": 1794076515.0
-    },
-    {
-      "source": "BBC Sport",
-      "category": "verden",
-      "topic": "sport",
-      "title": "National League Carlisle upset League Two leaders Salford",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cm1exw70d49po?at_medium=RSS&at_campaign=rss",
-      "summary": "National League side Carlisle United defeat League Two leaders Salford City 1-0 to progress into the second round of the FA Cup.",
-      "date_label": "07.11.2026",
-      "timestamp": 1794076160.0
-    },
-    {
-      "source": "BBC Sport",
-      "category": "verden",
-      "topic": "sport",
-      "title": "Title race hots up before Chelsea-Man City showdown",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm0qkjdx3l9zo?at_medium=RSS&at_campaign=rss",
-      "summary": "Champions Manchester City will travel to Chelsea next week on top of the pile after a decisive Saturday in the Women's Super League.",
-      "date_label": "07.11.2026",
-      "timestamp": 1794076066.0
-    },
-    {
       "source": "BBC World",
       "category": "verden",
       "topic": "annet",
@@ -972,14 +1312,14 @@
       "timestamp": 1794074820.0
     },
     {
-      "source": "Al Jazeera English",
+      "source": "CNN",
       "category": "verden",
       "topic": "annet",
-      "title": "Pope Leo hold first mass in Uruguay, urges crowd to be ‘bridge builders’",
-      "url": "https://www.aljazeera.com/news/2026/11/7/pope-leo-hold-first-mass-in-uruguay-urges-crowd-to-be-bridge-builders?traffic_source=rss",
-      "summary": "Vatican says some 40,000 Catholic faithful attended the pontiff's service in Uruguay's western city of Paysandu.",
+      "title": "1 killed, 22 injured after impaired driver strikes bicyclists in North Carolina, officials say - CNN",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdUMzWXZhc3ZnQjRLNGlqSmFhOFZpVmthRVFZUjZmZktwS2JBVFpPd3VkSjFDUnhPN0I3X05QXzAyaDdMNkRaV0trWGtoVy1jOGw2OHhIQXA5SjlnZWRPNmpCb092S0Q5djhZOWRjWW9qV3YtX2g2MG5hOVhmRHhyQjVmeHpJZw?oc=5",
+      "summary": "1 killed, 22 injured after impaired driver strikes bicyclists in North Carolina, officials say CNN",
       "date_label": "07.11.2026",
-      "timestamp": 1794074421.0
+      "timestamp": 1794074454.0
     },
     {
       "source": "Nordre Aker Budstikke",
@@ -990,16 +1330,6 @@
       "summary": "To trær som skulle bevares, er felt.",
       "date_label": "07.11.2026",
       "timestamp": 1794074400.0
-    },
-    {
-      "source": "CNN",
-      "category": "verden",
-      "topic": "annet",
-      "title": "1 killed, 22 injured after impaired driver strikes bicyclists in North Carolina, officials say - CNN",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQTGluM2tKenBhTlVTekRhMU5qcmlTYTNHTUlsRU0tT3ByalpUcHdBVG84enZzY0pZdVlEemQxLUVHYjN0cXpJcVl2M2txUEpUMWtBSi10WnRiNWFDSy1jN0FPUnpyWHpQdk96bXlrOF9CSGRYOUdQMWl2SGdRa01iQg?oc=5",
-      "summary": "1 killed, 22 injured after impaired driver strikes bicyclists in North Carolina, officials say CNN",
-      "date_label": "07.11.2026",
-      "timestamp": 1794074359.0
     },
     {
       "source": "BBC World",
@@ -1022,16 +1352,6 @@
       "timestamp": 1794074086.0
     },
     {
-      "source": "Al Jazeera English",
-      "category": "verden",
-      "topic": "annet",
-      "title": "Houthis report 25 killed in Yemen strikes",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/houthis-report-25-killed-in-yemen-strikes?traffic_source=rss",
-      "summary": "Yemen’s Houthis say at least 25 people have been killed and 30 injured in air strikes.",
-      "date_label": "07.11.2026",
-      "timestamp": 1794073163.0
-    },
-    {
       "source": "Avisa Oslo",
       "category": "lokalt",
       "topic": "annet",
@@ -1042,16 +1362,6 @@
       "timestamp": 1794072659.0
     },
     {
-      "source": "BBC Sport",
-      "category": "verden",
-      "topic": "sport",
-      "title": "Highlights: Non-league Kidderminster shock League One Doncaster",
-      "url": "https://www.bbc.co.uk/sport/football/videos/ck9dz7l6exx3o?at_medium=RSS&at_campaign=rss",
-      "summary": "National League Kidderminster shock League One Doncaster to progress to the second round of the FA Cup.",
-      "date_label": "07.11.2026",
-      "timestamp": 1794072200.0
-    },
-    {
       "source": "NRK",
       "category": "norge",
       "topic": "annet",
@@ -1060,26 +1370,6 @@
       "summary": "Helt som forventet, svarer Høyre-lederen på kritikken, som ikke kunne gi noen drivstoff-lovnader til partifellene.",
       "date_label": "07.11.2026",
       "timestamp": 1794072010.0
-    },
-    {
-      "source": "Al Jazeera English",
-      "category": "verden",
-      "topic": "annet",
-      "title": "Lebanese footballer refuses to give up after injuries from Israeli strike",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/lebanese-footballer-refuses-to-give-up-after-injuries-from-israeli-strike?traffic_source=rss",
-      "summary": "After surviving an Israeli airstrike that left her in a coma, Celine Haidar is back on the pitch, coaching footballers.",
-      "date_label": "07.11.2026",
-      "timestamp": 1794071810.0
-    },
-    {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "annet",
-      "title": "Houthis say at least 25 killed in Saudi air strike",
-      "url": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
-      "summary": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented.",
-      "date_label": "07.11.2026",
-      "timestamp": 1794071364.0
     },
     {
       "source": "CNN",
@@ -1095,29 +1385,9 @@
       "source": "CNN",
       "category": "verden",
       "topic": "annet",
-      "title": "AI nerves reinforce age-old investing lesson: Get diversified - CNN",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBjS1A2TEVKZXMtLXZYc1I0U25qWmlpUjhhMGR5dXFPWWV1Nm5QMWtubktxenhCVjd1NXZlRkJLNWhsTFMzSHczNUZQemJaTXN0OVB5NmZtMmNraGdNU3o0aTNhOEh2LWVfZUlQUlZFVGJlWUlMVzJJVmNn?oc=5",
-      "summary": "AI nerves reinforce age-old investing lesson: Get diversified CNN",
-      "date_label": "07.11.2026",
-      "timestamp": 1794070816.0
-    },
-    {
-      "source": "CNN",
-      "category": "verden",
-      "topic": "annet",
       "title": "What Trump shares with Truman after a midterm shellacking - CNN",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0yblNTcGV4alFSanJkZEpTRWIyOUZIRUtOblVwYjBjcUdqWGZBLUpkNG1wTnVoaTlKM3RhR3p3Z2h2V1NpQmJ0Q1p0Nk9fcGF3YTBJWnlBYkpsbHJSX3Z4UGJ5VUt4dXp2SlBZbHJrUkxBTER6bUE?oc=5",
       "summary": "What Trump shares with Truman after a midterm shellacking CNN",
-      "date_label": "07.11.2026",
-      "timestamp": 1794070815.0
-    },
-    {
-      "source": "CNN",
-      "category": "verden",
-      "topic": "annet",
-      "title": "His daughter was abducted during a sleepover and killed. He is among families grappling with Newsom’s death row commutation - CNN",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdWtCUk5YbEM1UkFnbTJSTTdmdVlNWV85RDVPSmNXY0l6OHJpeXlMdTk1TXVfMWFLZXFpT09XeGFfRDlvTFUtZ3RzNjc0NWEtQzRCZ2Q4cGZKVUZLRlRuNE9rNEdEczZRczRndG42TmhBUWZyTFhkWGxsal9TNi02UEVIUQ?oc=5",
-      "summary": "His daughter was abducted during a sleepover and killed. He is among families grappling with Newsom’s death row commutation CNN",
       "date_label": "07.11.2026",
       "timestamp": 1794070815.0
     },
@@ -1192,16 +1462,6 @@
       "timestamp": 1794067314.0
     },
     {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "annet",
-      "title": "No clear winner after tight New Zealand general election",
-      "url": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss",
-      "summary": "Weeks of coalition talks could follow after preliminary results pointed to a highly divided national parliament.",
-      "date_label": "07.11.2026",
-      "timestamp": 1794066988.0
-    },
-    {
       "source": "CNN",
       "category": "verden",
       "topic": "annet",
@@ -1250,16 +1510,6 @@
       "summary": "The former Brexit negotiator says EU countries would reject any British attempts to follow economic rules \"a la carte\".",
       "date_label": "07.11.2026",
       "timestamp": 1794064775.0
-    },
-    {
-      "source": "Avisa Oslo",
-      "category": "lokalt",
-      "topic": "annet",
-      "title": "Flere hundre meter med kø: – Stor pågang",
-      "url": "https://www.ao.no/flere-hundre-meter-med-ko-stor-pagang/s/30-128-25555",
-      "summary": "Lørdag ettermiddag melder en tipser om trafikkaos på Økern som følge av en «flere hundre meter lang dekkskift-kø».",
-      "date_label": "07.11.2026",
-      "timestamp": 1794064769.0
     },
     {
       "source": "NRK",
@@ -1392,16 +1642,6 @@
       "timestamp": 1794060936.0
     },
     {
-      "source": "CNN",
-      "category": "verden",
-      "topic": "annet",
-      "title": "2 skydivers die after colliding midair in California and their parachutes become entangled - CNN",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1jdkF5cEFoWkRKNldJeDd2OGlTaFVKcEpxanhEaFZuR0NMajNERGJneFExOTNOYVc5TEtCR01DeUdPeENhUEdPN3hXcTBiN3QxUTJmbW11ck5xOXRvMkcweG5EUHZFa2RkZlNwMlg2dlY?oc=5",
-      "summary": "2 skydivers die after colliding midair in California and their parachutes become entangled CNN",
-      "date_label": "07.11.2026",
-      "timestamp": 1794060915.0
-    },
-    {
       "source": "Deutsche Welle",
       "category": "verden",
       "topic": "annet",
@@ -1475,9 +1715,9 @@
       "source": "Deutsche Welle",
       "category": "verden",
       "topic": "annet",
-      "title": "Yemen: 22 killed in strike near Sanaa, Houthis say",
-      "url": "https://www.dw.com/en/yemen-22-killed-in-strike-near-sanaa-houthis-say/a-79885177?maca=en-rss-en-all-1573-xml-mrss",
-      "summary": "The Iran-backed Houthi rebel group accused Saudi Arabia of hitting several homes in the village of al-Shariya near the Yemeni capital. There was no initial comment from Riyadh.",
+      "title": "Yemen: 33 killed in strike near Sanaa, Houthis say",
+      "url": "https://www.dw.com/en/yemen-33-killed-in-strike-near-sanaa-houthis-say/a-79885177?maca=en-rss-en-all-1573-xml-mrss",
+      "summary": "The Iran-backed Houthi rebel group accused Saudi Arabia of hitting several homes in the village of al-Shariya near the Yemeni capital.",
       "date_label": "07.11.2026",
       "timestamp": 1794059400.0
     },
@@ -1502,26 +1742,6 @@
       "timestamp": 1794056637.0
     },
     {
-      "source": "The Guardian",
-      "category": "verden",
-      "topic": "annet",
-      "title": "Blackouts and water shortages in Kyiv after Russia strikes Ukraine’s energy grid",
-      "url": "https://www.theguardian.com/world/2026/nov/07/blackout-water-shortage-kyiv-russia-strike-ukraine-energy-grid",
-      "summary": "Moscow used 172 drones and 36 ballistic missiles in attacks on electricity substations and bridge over the Dnipro Volodymyr Zelenskyy has accused Russia of trying to “plunge Kyiv and the entire country into a blackout”, after a major attack overnight on energy infrastructure in the capital and a bridge over the Dnipro River. Ukraine’s president sai",
-      "date_label": "07.11.2026",
-      "timestamp": 1794056583.0
-    },
-    {
-      "source": "The Guardian",
-      "category": "verden",
-      "topic": "annet",
-      "title": "Court rules against Home Office in asylum seeker kidnapping case",
-      "url": "https://www.theguardian.com/law/2026/nov/07/court-of-appeal-rules-kidnap-for-ransom-libya-exploitation-trafficking-victims-asylum-seeker-home-office",
-      "summary": "Department had claimed that being kidnapped for ransom was not exploitation of trafficking victims in case of Syrian man abducted in Libya The court of appeal has rejected claims by the Home Office that being kidnapped for ransom is not exploitation of trafficking victims. The ruling means that many people who have been kidnapped for ransom, whom o",
-      "date_label": "07.11.2026",
-      "timestamp": 1794056411.0
-    },
-    {
       "source": "BBC World",
       "category": "verden",
       "topic": "annet",
@@ -1542,14 +1762,14 @@
       "timestamp": 1794054313.0
     },
     {
-      "source": "BBC World",
+      "source": "The Guardian Technology",
       "category": "verden",
-      "topic": "annet",
-      "title": "Four things we learned this week about 2028 White House race",
-      "url": "https://www.bbc.co.uk/news/articles/cq1m41n3v7mmo?at_medium=RSS&at_campaign=rss",
-      "summary": "The seismic Democratic gains in Congress could shape the presidential election, so who had a good night and who's making moves?",
+      "topic": "teknologi",
+      "title": "A ‘customer success story’: leaked documents show Cisco doubled down on Israeli military deals during Gaza war",
+      "url": "https://www.theguardian.com/world/2026/nov/07/israel-intelligence-cisco-gaza-palestine",
+      "summary": "Tech giant leaped to shore up relationship even as company was roiled by worker protest over its role in the war A year into the war in Gaza , the networks of Israel ’s military intelligence community were plagued with technical problems. There were major, multi-hour outages to their systems, and repeated crashes. Built-in debugging mechanisms fail",
       "date_label": "07.11.2026",
-      "timestamp": 1794054208.0
+      "timestamp": 1794052812.0
     },
     {
       "source": "NRK Sport",
@@ -1582,16 +1802,6 @@
       "timestamp": 1794052133.0
     },
     {
-      "source": "NRK Sport",
-      "category": "norge",
-      "topic": "sport",
-      "title": "Ny hockeymelding: Belarus fortsatt utestengt",
-      "url": "https://www.nrk.no/sport/ny-hockeymelding_-belarus-fortsatt-utestengt-1.18076386",
-      "summary": "Det internasjonale ishockeyforbundet (IIHF) fastholder utestengelsen av Belarus og informerer samtidig om veien videre i Russland-spørsmålet. I en fersk pressemelding på eget nettsted kommer IIHF med en oppdatering på situasjonen etter at Idrettens voldgiftsrett (CAS) påla forbundet å slippe Russland tilbake i internasjonale mesterskap. Både Russla",
-      "date_label": "07.11.2026",
-      "timestamp": 1794052028.0
-    },
-    {
       "source": "BBC Entertainment",
       "category": "verden",
       "topic": "underholdning",
@@ -1600,36 +1810,6 @@
       "summary": "The show was cancelled after a BBC Panorama investigation heard allegations from three former cast members.",
       "date_label": "07.11.2026",
       "timestamp": 1794051070.0
-    },
-    {
-      "source": "CNN",
-      "category": "verden",
-      "topic": "annet",
-      "title": "The fallout from the AO3 hack - CNN",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9Qdm5mTXRFVllXYWlpWUU0QldCUVhhU1dwYVdTVkVYWjVnS2NGWFVPVERkcE1fS3hUOHhRT19SWURFWEszNHpBb3RBMHZabU5hTjAxNU83Tjd3bms0OHFwajExd1cydWJuOEdQNTBlbmNULW1j?oc=5",
-      "summary": "The fallout from the AO3 hack CNN",
-      "date_label": "07.11.2026",
-      "timestamp": 1794051015.0
-    },
-    {
-      "source": "CNN",
-      "category": "verden",
-      "topic": "annet",
-      "title": "How one of Trump’s most controversial advisers rose to chief of staff – and what it means - CNN",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZTE1VFYyVURidnQ3dFRmMko4ZHRtQXZKT094WExDTHJTMlBJY2hqSEx1dzN1bUZYWGt5NXgzSGVRblVGT204MnNxYlYyVkNSc2dBYUd6bi02bFMzNjhfc19YUnBpV044S3JQcW4tb19FYTVGN0ZKZmQ0c1JqSVhVNg?oc=5",
-      "summary": "How one of Trump’s most controversial advisers rose to chief of staff – and what it means CNN",
-      "date_label": "07.11.2026",
-      "timestamp": 1794051015.0
-    },
-    {
-      "source": "CNN",
-      "category": "verden",
-      "topic": "annet",
-      "title": "Washington made Moscow a pariah. Now a tanker of Russian diesel is headed for US shores - CNN",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNM2xzQk5CMjhWeTkwQWdLRzV3Q1VDenl2Q0d5bWttX3ZaeGZRcVN3VXRzQ2VuRW1wM1N0SGl2T1E4WUtjWEJ6Y0R3dVZDcVpCYm1LUV8yTm9ESDh2WVBDdXI5d21IOFhpMEpRRTBHa3dGRFRxNUZXdHRka3REVU1ublFWQ24?oc=5",
-      "summary": "Washington made Moscow a pariah. Now a tanker of Russian diesel is headed for US shores CNN",
-      "date_label": "07.11.2026",
-      "timestamp": 1794051015.0
     },
     {
       "source": "Deutsche Welle",
@@ -1682,16 +1862,6 @@
       "timestamp": 1794045607.0
     },
     {
-      "source": "NRK Sport",
-      "category": "norge",
-      "topic": "sport",
-      "title": "Norge møter regjerende verdensmester Spania på Ullevaal i april",
-      "url": "https://www.nrk.no/sport/norge-moter-regjerende-verdensmester-spania-pa-ullevaal-i-april-1.18076346",
-      "summary": "Norges kvinnelandslag i fotball får besøk av stormakten Spania på Ullevaal stadion 24. april neste år. Det er klart etter at kampoppsettet for det kommende nasjonsligaspillet er offentliggjort. Norge ble tidligere denne uken trukket i gruppe A1 sammen med Spania, Sveits og Irland. De regjerende spanske verdensmesterne kommer til Norge for å kjempe ",
-      "date_label": "07.11.2026",
-      "timestamp": 1794044706.0
-    },
-    {
       "source": "Sagene Avis",
       "category": "lokalt",
       "topic": "annet",
@@ -1700,16 +1870,6 @@
       "summary": "Mistel er åpen hele året, men nå er butikken nok en gang transformert til Bjølsens julebutikk.",
       "date_label": "07.11.2026",
       "timestamp": 1794044493.0
-    },
-    {
-      "source": "NRK Sport",
-      "category": "norge",
-      "topic": "sport",
-      "title": "Caroline tok VM-gull: – Feiringen må vente",
-      "url": "https://www.nrk.no/sport/caroline-tok-vm-gull_-_-feiringen-ma-vente-1.18076316",
-      "summary": "Caroline Finnestad Lund (21) skjøt seg til VM-gull på 50 m rifle 60 skudd liggende i Doha, Qatar etter en intens duell mot danske Stephanie Grundsøe. Men noen gullfest blir det ikke tid til med det samme. – Det var rett på igjen. Først premieseremoni, og så rett på ny trening. Vi har ny konkurranse i morgen, så det blir lite restitusjon mellom slag",
-      "date_label": "07.11.2026",
-      "timestamp": 1794043750.0
     },
     {
       "source": "NRK",
@@ -1740,26 +1900,6 @@
       "summary": "En mann i 30-årene er død etter knivstikking på Drammen sykehus i går. Den drapssiktede mannen blir tvangsplassert på institusjon med brev og besøksforbud.",
       "date_label": "07.11.2026",
       "timestamp": 1794043054.0
-    },
-    {
-      "source": "The Guardian",
-      "category": "verden",
-      "topic": "annet",
-      "title": "Home Office sued after stripping almost 1,500 EU citizens of right to live in UK",
-      "url": "https://www.theguardian.com/politics/2026/nov/07/home-office-sued-the3million-eu-citizens-right-to-live-in-uk-pre-settled",
-      "summary": "Campaign group the3million lodges court papers after EU citizens told pre-settled status was an ‘error’ The Home Office is being sued for alleged breach of the Brexit withdrawal agreement after stripping almost 1,500 EU citizens of their full rights to live in the UK. Campaign group the3million lodged papers at the high court on Friday after severa",
-      "date_label": "07.11.2026",
-      "timestamp": 1794042935.0
-    },
-    {
-      "source": "Deutsche Welle",
-      "category": "verden",
-      "topic": "annet",
-      "title": "Germany news: Son of Iran's last shah takes center stage in Frankfurt",
-      "url": "https://www.dw.com/en/germany-news-son-of-iran-s-last-shah-takes-center-stage-in-frankfurt/live-79883533?maca=en-rss-en-all-1573-xml-mrss",
-      "summary": "Iranian opposition leader Reza Pahlavi accepted a peace prize in the name of the Iranian people in Frankfurt. Meanwhile, Germany's defense minister said he believes military conscription will not be needed. DW has more.",
-      "date_label": "07.11.2026",
-      "timestamp": 1794042480.0
     },
     {
       "source": "The Guardian Technology",
@@ -1812,16 +1952,6 @@
       "timestamp": 1794039355.0
     },
     {
-      "source": "Deutsche Welle",
-      "category": "verden",
-      "topic": "annet",
-      "title": "US: Giant pandas from China make public debut at Atlanta zoo",
-      "url": "https://www.dw.com/en/us-giant-pandas-from-china-make-public-debut-at-atlanta-zoo/a-79883388?maca=en-rss-en-all-1573-xml-mrss",
-      "summary": "Ping Ping and Fu Shuang are the first giant pandas to be housed in Zoo Atlanta after a gap of two years.",
-      "date_label": "07.11.2026",
-      "timestamp": 1794036780.0
-    },
-    {
       "source": "BBC World",
       "category": "verden",
       "topic": "annet",
@@ -1830,16 +1960,6 @@
       "summary": "The 82-year-old appeared in court in Florida after the FBI searched two Los Angeles-area storage units he rented.",
       "date_label": "07.11.2026",
       "timestamp": 1794036464.0
-    },
-    {
-      "source": "Deutsche Welle",
-      "category": "verden",
-      "topic": "annet",
-      "title": "India news: Vehicles major cause of Delhi pollution, top court says",
-      "url": "https://www.dw.com/en/india-news-vehicles-major-cause-of-delhi-pollution-top-court-says/live-79883248?maca=en-rss-en-all-1573-xml-mrss",
-      "summary": "The Supreme Court implored responsible Diwali celebrations as the Indian government sets out to tackle the country's severe air pollution crisis. DW has more.",
-      "date_label": "07.11.2026",
-      "timestamp": 1794035220.0
     },
     {
       "source": "The Guardian Technology",
@@ -1912,26 +2032,6 @@
       "timestamp": 1794030780.0
     },
     {
-      "source": "The Guardian Technology",
-      "category": "verden",
-      "topic": "teknologi",
-      "title": "Freezer meltdowns and airline hoaxes are a taste of things to come. Hoping for the best is no longer an option | Elisabeth Braw",
-      "url": "https://www.theguardian.com/commentisfree/2026/nov/07/freezer-meltdowns-airline-hoaxes-greyzone-aggression-europe",
-      "summary": "Acts of greyzone aggression aim to spread panic. Europe has to show the saboteurs that we are resilient It was as though a ghostly hand had switched the settings on supermarket freezers across Europe from “freeze” to “defrost”. From Finland to Ireland, they suddenly began heating up , many reaching 50C and food worth millions of euros had to be thr",
-      "date_label": "07.11.2026",
-      "timestamp": 1794027602.0
-    },
-    {
-      "source": "The Guardian",
-      "category": "verden",
-      "topic": "annet",
-      "title": "What’s the point? Ten years after the Paris treaty, are climate talks getting anywhere?",
-      "url": "https://www.theguardian.com/environment/ng-interactive/2026/nov/07/whats-the-point-ten-years-after-the-paris-treaty-are-climate-talks-getting-anywhere",
-      "summary": "Its key temperature goal has been missed but experts say the agreement is still proving a vital moral compass for progress It was a curious way of conducting negotiations. Ahead of the 2025 climate summit, in the Amazonian port of Belém last year, the Brazilian hosts had taken off the table the issue that most had assumed would be at its heart: con",
-      "date_label": "07.11.2026",
-      "timestamp": 1794027602.0
-    },
-    {
       "source": "BBC Entertainment",
       "category": "verden",
       "topic": "underholdning",
@@ -1982,36 +2082,6 @@
       "timestamp": 1794014389.0
     },
     {
-      "source": "The Guardian",
-      "category": "verden",
-      "topic": "annet",
-      "title": "Ben Roberts-Smith collaborates with gym business run by influencer that sold ‘war crimes’ pre-workout supplement",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/07/ben-roberts-smith-collaborates-gym-business-influencer-war-crimes-pre-workout-supplement-ntwnfb",
-      "summary": "Zero Limits supplements is co-owned by rightwing podcaster and fitness coach Chris Katelaris, also known as ‘Big Chocky’ Get our breaking news email , free app or daily news podcast Ben Roberts-Smith has collaborated with a gym supplements company run by a rightwing influencer which recently sold a pre-workout product called “war crimes”. Roberts-S",
-      "date_label": "07.11.2026",
-      "timestamp": 1794013091.0
-    },
-    {
-      "source": "NRK",
-      "category": "norge",
-      "topic": "annet",
-      "title": "Ruud fikk revansje i Paris – klar for første semifinale siden mai",
-      "url": "https://www.nrk.no/sport/ruud-fikk-revansje-i-paris-_-klar-for-forste-semifinale-siden-mai-1.18076278",
-      "summary": "Casper Ruud har storspilt i Paris denne uken. Nå er han klar for semifinale etter seier over Nuno Borges. Ruuds oppgjør mot portugiseren endte med 7-6 (7-5), 6-4. De to møttes for bare ni dager siden i Basel, og da snudde Borges kampen til seier. Ruud og Borges kom til semifinalen proppfulle av selvtillit: Ingen har tapt ett sett på veien, og de ha",
-      "date_label": "06.11.2026",
-      "timestamp": 1794009427.0
-    },
-    {
-      "source": "NRK",
-      "category": "norge",
-      "topic": "annet",
-      "title": "Paraguays president avsatt og pågrepet",
-      "url": "https://www.nrk.no/nyheter/paraguays-president-avsatt-og-pagrepet-1.18076275",
-      "summary": "Paraguays president Santiago Peña er avsatt etter en riksrettssak, og visepresident Pedro Alliana har overtatt makten. Peña er nå pågrepet og satt i husarrest, ifølge lokale medier. Bakgrunnen for avsettelsen er kollapsen i en stor digitalbank som den tidligere presidenten hadde eierinteresser i, melder nyhetsbyrået Reuters.",
-      "date_label": "06.11.2026",
-      "timestamp": 1794007650.0
-    },
-    {
       "source": "BBC World",
       "category": "verden",
       "topic": "annet",
@@ -2050,16 +2120,6 @@
       "summary": "Musk said it was to make room for production of its Cybercabs - autonomous taxis without a driver.",
       "date_label": "06.11.2026",
       "timestamp": 1794001790.0
-    },
-    {
-      "source": "NRK",
-      "category": "norge",
-      "topic": "annet",
-      "title": "Brann i historisk bygning i Kongsvinger",
-      "url": "https://www.nrk.no/nyheter/brann-i-historisk-bygning-i-kongsvinger-1.18076202",
-      "summary": "Det brenner i den historiske bygningen Lunderbye Nor fra 1850-årene i Kongsvinger. – Vi har vært i kontakt med eier som bekrefter at huset er tomt, sier operasjonsleder Vidar Flokenes i Innlandet politidistrikt til NRK. E16 er stengt som følge av brannen.",
-      "date_label": "06.11.2026",
-      "timestamp": 1794001464.0
     },
     {
       "source": "The Guardian Technology",
@@ -2112,16 +2172,6 @@
       "timestamp": 1793998601.0
     },
     {
-      "source": "NRK",
-      "category": "norge",
-      "topic": "annet",
-      "title": "Pornofilmer av kommunedirektør dukket opp – Trekker seg umiddelbart",
-      "url": "https://www.nrk.no/sapmi/kommunedirektor-i-jokkmokk-sluttet-etter-pornoavsloring-1.18073650",
-      "summary": "Da Lars Erikssons hemmelige pornofortid ble kjent, gikk den svenske kommunedirektøren av på dagen. Men ifølge ordføreren i Jokkmokk fikk han ikke sparken, og kunne fint fortsatt å jobbe for kommunen.",
-      "date_label": "06.11.2026",
-      "timestamp": 1793997787.0
-    },
-    {
       "source": "The Guardian Technology",
       "category": "verden",
       "topic": "teknologi",
@@ -2150,26 +2200,6 @@
       "summary": "The Chilean film-maker, whose films starred Florence Pugh, Julianne Moore and Rachel Weisz, died at his home in Santiago Chilean film-maker Sebastián Lelio has died at the age of 52. He was best known for the Oscar-winning trans drama A Fantastic Woman and his English-language films included Gloria Bell and The Wonder. Continue reading...",
       "date_label": "06.11.2026",
       "timestamp": 1793993004.0
-    },
-    {
-      "source": "NRK",
-      "category": "norge",
-      "topic": "annet",
-      "title": "Trump: Stephen Miller blir ny stabssjef",
-      "url": "https://www.nrk.no/nyheter/trump_-stephen-miller-blir-ny-stabssjef-1.18076143",
-      "summary": "President Donald Trump varsler på Truth Social at hans mangeårige rådgiver Stephen Miller blir ny stabssjef i Det hvite hus. Han er nå visestabssjef og overtar ansvaret etter Susie Wiles, som skal få en annen rolle i administrasjonene, ifølge Trump. Miller regnes for å stå bak den kontroversielle innvandringspolitikken til administrasjonen. Susie W",
-      "date_label": "06.11.2026",
-      "timestamp": 1793991308.0
-    },
-    {
-      "source": "The Guardian Technology",
-      "category": "verden",
-      "topic": "teknologi",
-      "title": "Activists break into building site of Microsoft datacentre in Amsterdam",
-      "url": "https://www.theguardian.com/world/2026/nov/06/activists-break-into-building-site-of-microsoft-datacentre-in-amsterdam",
-      "summary": "Separate actions also take place outside fence and across Europe in backlash against impact of AI boom Activists have stormed the site of a Microsoft datacentre being built in Amsterdam, as the backlash to the social and environmental harms of the AI boom spreads across Europe. Protesters from Geef Tegengas, a Dutch direct action group, clashed wit",
-      "date_label": "06.11.2026",
-      "timestamp": 1793991097.0
     },
     {
       "source": "Deutsche Welle",
@@ -2260,16 +2290,6 @@
       "summary": "Late-night hosts spoke about how the losing party is dealing with the midterms, which saw a round of wins for the Democrats Late-night hosts ridiculed the many Republicans who are now trying to distance themselves from Donald Trump after the Democrats scored a midterms victory this week. Continue reading...",
       "date_label": "06.11.2026",
       "timestamp": 1793982665.0
-    },
-    {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "annet",
-      "title": "Spate of bomb threats poses serious challenge to airline industry",
-      "url": "https://www.bbc.co.uk/news/articles/cv8ezz9yn6pyo?at_medium=RSS&at_campaign=rss",
-      "summary": "After a week of disruption, airlines are facing both safety and financial concerns.",
-      "date_label": "06.11.2026",
-      "timestamp": 1793981924.0
     },
     {
       "source": "BBC Politics",
@@ -2380,26 +2400,6 @@
       "summary": "The SNL alum has an appealing energy and this is an improvement on the 2003 travesty but it’s also far too long and strangely corporate Over a long enough timeline, perhaps every living alumnus of Saturday Night Live will play the Cat in the Hat. Mike Myers kicked off this unexpected tradition by embodying the furry, anarchic Dr Seuss character for",
       "date_label": "06.11.2026",
       "timestamp": 1793975908.0
-    },
-    {
-      "source": "Sagene Avis",
-      "category": "lokalt",
-      "topic": "annet",
-      "title": "Stor uenighet om julepynten: Unge tjuvstarter – mens de eldre holder igjen",
-      "url": "https://www.sageneavis.no/jul/julepynting/julepynt/stor-uenighet-om-julepynten-unge-tjuvstarter-mens-de-eldre-holder-igjen/s/80-95-227409",
-      "summary": "",
-      "date_label": "06.11.2026",
-      "timestamp": 1793975025.0
-    },
-    {
-      "source": "The Guardian Culture",
-      "category": "verden",
-      "topic": "kultur",
-      "title": "If Dune is this generation’s Star Wars, we are all in big trouble",
-      "url": "https://www.theguardian.com/film/2026/nov/06/florence-pugh-dune-star-wars",
-      "summary": "According to Florence Pugh, Denis Villeneuve’s stunningly strange and breathtaking universe is the equivalent to George Lucas’ heroic space opera. Let’s hope not A long time ago, far far away, in a galaxy called the 1970s, kids dreamed of joining the rebellion, rescuing a princess and blowing up the Death Star. Peer into the cosmic tea leaves and i",
-      "date_label": "06.11.2026",
-      "timestamp": 1793973883.0
     }
   ]
 }
