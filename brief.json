@@ -1,27 +1,37 @@
 {
-  "generated": "2026-11-09T00:06:25.194974+00:00",
+  "generated": "2026-11-09T06:36:03.490806+00:00",
   "method": "extractive_rss_no_ai_generation",
   "notice": "Overskrifter og korte utdrag er hentet fra RSS. Ikke uavhengig faktaverifisert. Åpne originalkilden for full sammenheng.",
   "items": [
     {
-      "title": "Stenger Oslos viktigste i fire dager. Krever «pause-knapp» i Ruter-appen",
+      "title": "Derfor ser du flere av disse nå",
       "source": "Avisa Oslo",
-      "url": "https://www.ao.no/stenger-t-banen-i-oslo-i-fire-dager-krever-at-ruter-setter-manedskortet-pa-pause/s/80-128-68937",
-      "published": "2026-11-08T23:03:00+00:00",
-      "excerpt": "Ruter ber folk om å droppe reisen hvis de ikke må. Derfor vil Frp at månedskortet skal kunne settes på pause under den enorme stengingen.",
+      "url": "https://www.ao.no/flere-billettkontrollorer-og-mer-billettkontroll-i-oslo-na-enn-for/v/80-128-71478",
+      "published": "2026-11-09T06:24:57+00:00",
+      "excerpt": "",
+      "evidence_type": "headline_only",
+      "verification": "source_attributed_not_independently_verified",
+      "category": "lokalt"
+    },
+    {
+      "title": "God morgen, Oslo!",
+      "source": "Avisa Oslo",
+      "url": "https://www.ao.no/bli-oppdatert-pa-oslo-i-dag-9-november-2026/s/80-128-72678",
+      "published": "2026-11-09T05:30:58+00:00",
+      "excerpt": "Denne uken blir både kald og glatt.",
       "evidence_type": "rss_excerpt",
       "verification": "source_attributed_not_independently_verified",
       "category": "lokalt"
     },
     {
-      "title": "Fryktet hva som kunne møte barna i heisen. Så fikk Ensjø-naboene stoppet planene i blokka: – Fortsatt nervepirrende",
-      "source": "Avisa Oslo",
-      "url": "https://www.ao.no/fryktet-hva-som-kunne-mote-barna-i-heisen-sa-fikk-ensjo-naboene-stoppet-planene-i-blokka-fortsatt-nervepirrende/s/80-128-63090",
-      "published": "2026-11-08T23:02:00+00:00",
-      "excerpt": "I sameiet på Ensjø feires vedtaket, men frykten henger fortsatt i.",
+      "title": "Norge gir 600 regnskogmillioner til Brasil",
+      "source": "NRK",
+      "url": "https://www.nrk.no/nyheter/norge-gir-600-regnskogmillioner-til-brasil-1.18077109",
+      "published": "2026-11-09T05:00:01+00:00",
+      "excerpt": "Klimaminister Sigrun Aasland (Ap) har med en stor sum når hun mandag reiser til åpningen av klimatoppmøtet i Tyrkia. – Vi har med 600 millioner kroner til Brasil, for de har levert veldig gode resultater på å hindre avskoging i 2025, sier Aasland. Brasil har det siste året redusert avskogningen til det laveste nivået siden målingene staret for over",
       "evidence_type": "rss_excerpt",
       "verification": "source_attributed_not_independently_verified",
-      "category": "lokalt"
+      "category": "norge"
     },
     {
       "title": "Sørloth målløs da López snudde toppkampen",
@@ -34,71 +44,61 @@
       "category": "norge"
     },
     {
-      "title": "NFF ba om gjennomgang: Tromsø kontrollerte tribunen dager før kollaps",
-      "source": "NRK",
-      "url": "https://www.nrk.no/sport/nff-ba-om-gjennomgang_-tromso-kontrollerte-tribunen-dager-for-kollaps-1.18077071",
-      "published": "2026-11-08T21:39:26+00:00",
-      "excerpt": "I forrige uke krevde Norges Fotballforbund (NFF) en kontroll av tribunene i Norge. Tromsø gjorde rutinesjekk og sier at tribunen har vært godkjent for bruk.",
-      "evidence_type": "rss_excerpt",
-      "verification": "source_attributed_not_independently_verified",
-      "category": "norge"
-    },
-    {
-      "title": "Iran war live: Trump says land blockade in effect; drone cuts power in Iraq",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/11/9/iran-war-live-trump-says-land-blockade-in-effect-drone-cuts-power-in-iraq?traffic_source=rss",
-      "published": "2026-11-09T00:00:34+00:00",
-      "excerpt": "More than 70 percent of northern Iraq's Kurdish region is without power after a drone struck the Khor Mor gas facility,",
-      "evidence_type": "rss_excerpt",
-      "verification": "source_attributed_not_independently_verified",
-      "category": "verden"
-    },
-    {
-      "title": "Nvidia CEO’s affair sparks Chinese espionage probe",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/nvidia-ceos-affair-sparks-chinese-espionage-probe?traffic_source=rss",
-      "published": "2026-11-08T23:58:53+00:00",
-      "excerpt": "Nvidia CEO Jensen Huang has admitted to an affair with a woman suspected of spying for China.",
-      "evidence_type": "rss_excerpt",
-      "verification": "source_attributed_not_independently_verified",
-      "category": "verden"
-    },
-    {
-      "title": "Mexican mayor found alive after hours-long abduction",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/11/8/mexican-mayor-found-alive-after-hours-long-abduction?traffic_source=rss",
-      "published": "2026-11-08T23:55:37+00:00",
-      "excerpt": "Rio Bravo mayor freed by captors after being abducted in Zacatecas state, known for cartel-linked violence.",
-      "evidence_type": "rss_excerpt",
-      "verification": "source_attributed_not_independently_verified",
-      "category": "verden"
-    },
-    {
-      "title": "Four 'huge mistakes' that show Man Utd's defensive problems",
+      "title": "Who am I? Plus today's other quizzes",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c64g1n1wezvyo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-08T23:53:20+00:00",
-      "excerpt": "After Manchester United consed four preventable goal against Aston Villa in the Premier League Dion Dublin and Leon Osman brake down what is going wrong on Match of the Day.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6ly0w4n7d91o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-09T06:25:16+00:00",
+      "excerpt": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
       "evidence_type": "rss_excerpt",
       "verification": "source_attributed_not_independently_verified",
       "category": "verden"
     },
     {
-      "title": "'A horrible place to be' - What's gone wrong for Palace?",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cm62ypyydqg4o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-08T23:53:08+00:00",
-      "excerpt": "Match of the Day's Dion Dublin and Leon Osman discuss the problems that have led to Crystal Palace being bottom of Premier League, after a couple of seasons of unprecedented success for the club.",
+      "title": "US President Donald Trump says deportation policy was 'too tough' for voters",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/us-president-donald-trump-says-deportation-policy-was-too-tough-for-voters/a-79895321?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "2026-11-09T06:14:00+00:00",
+      "excerpt": "Trump said his deportation policy may be one of the reasons the Republicans lost so much ground in the midterm elections.",
       "evidence_type": "rss_excerpt",
       "verification": "source_attributed_not_independently_verified",
       "category": "verden"
     },
     {
-      "title": "‘This happened very quick’: Beau Lamarre-Condon reenacts shooting Jesse Baird during double murder trial",
+      "title": "Jensen Huang: Silicon Valley superstar engulfed by personal scandal",
+      "source": "BBC Technology",
+      "url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-09T06:01:52+00:00",
+      "excerpt": "Once lauded as the \"Taylor Swift of tech\", Huang is mired in scandal after an affair with a suspected Chinese spy.",
+      "evidence_type": "rss_excerpt",
+      "verification": "source_attributed_not_independently_verified",
+      "category": "verden"
+    },
+    {
+      "title": "Inside the French drug gangs recruiting children to kill",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cq62y01r2313o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-09T06:00:26+00:00",
+      "excerpt": "The BBC enters Marseille's dangerous underworld, where young people are trapped, brutalised and exploited.",
+      "evidence_type": "rss_excerpt",
+      "verification": "source_attributed_not_independently_verified",
+      "category": "verden"
+    },
+    {
+      "title": "Stop undermining Jim Chalmers, environment minister urges Labor colleagues",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/09/beau-lamarre-condon-trial-reenacts-shooting-jesse-baird-ntwnfb",
-      "published": "2026-11-08T23:50:17+00:00",
-      "excerpt": "Former police officer has pleaded not guilty to murdering Jesse Baird and Luke Davies in Paddington in early 20224 Get our breaking news email , free app or daily news podcast Beau Lamarre-Condon has demonstrated in court how he claims he shot Jesse Baird, acting out his movements in the witness box in Sydney. The former police officer is accused o",
+      "url": "https://www.theguardian.com/uk-news/2026/nov/09/stop-undermining-treasurer-jim-chalmers-environment-minister-urges-colleagues",
+      "published": "2026-11-09T05:47:49+00:00",
+      "excerpt": "‘It’s pretty obvious that there are all sorts of people making all sorts of comments,’ Murray Watt says after budget savings meeting Get our breaking news email , free app or daily news podcast The environment minister, Murray Watt , has urged ministers to stop undermining the treasurer, Jim Chalmers, as Labor struggles to sell its budget and looks",
+      "evidence_type": "rss_excerpt",
+      "verification": "source_attributed_not_independently_verified",
+      "category": "verden"
+    },
+    {
+      "title": "Pope delivers veiled rebuke of Milei's austerity measures",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/ckj0l082jqzvo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-09T05:30:37+00:00",
+      "excerpt": "Pope Leo made the comments as he arrived in Argentina on the second leg of his Latin America tour.",
       "evidence_type": "rss_excerpt",
       "verification": "source_attributed_not_independently_verified",
       "category": "verden"
