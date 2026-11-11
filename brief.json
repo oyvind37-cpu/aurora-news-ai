@@ -1,107 +1,107 @@
 {
-  "generated": "2026-11-11T17:10:25.476941+00:00",
+  "generated": "2026-11-11T23:28:32.050904+00:00",
   "method": "extractive_rss_no_ai_generation",
   "notice": "Overskrifter og korte utdrag er hentet fra RSS. Ikke uavhengig faktaverifisert. Åpne originalkilden for full sammenheng.",
   "items": [
     {
-      "title": "Lurte til seg luksusleilighet på Lofthus - så krevde paret hundretusener",
+      "title": "Ramponert over natta. Mener området trenger flere parkeringsplasser: – Det var glass overalt",
       "source": "Nordre Aker Budstikke",
-      "url": "https://www.nab.no/lurte-til-seg-luksusleilighet-pa-lofthus-sa-krevde-paret-hundretusener/v/80-143-35126",
-      "published": "2026-11-11T16:03:00+00:00",
+      "url": "https://www.nab.no/ramponert-over-natta-mener-omradet-trenger-flere-parkeringsplasser-det-var-glass-overalt/s/80-143-34130",
+      "published": "2026-11-11T23:03:00+00:00",
+      "excerpt": "Frykter flere vil bli rammet grunnet parkeringssituasjonen i området.",
+      "evidence_type": "rss_excerpt",
+      "verification": "source_attributed_not_independently_verified",
+      "category": "lokalt"
+    },
+    {
+      "title": "Siri falt inne på Deli de Luca. Nå er hun låst til hjemmet: – Jeg føler meg utrygg",
+      "source": "Avisa Oslo",
+      "url": "https://www.ao.no/siri-berg-falt-inne-pa-deli-de-luca-og-brakk-larhalsen-da-sendte-bydelen-henne-hjem-til-leiligheten-pa-bislett-i-oslo-hvor-hun-nn-er-hun-last-til-hjemmet-jeg-foler-meg-utrygg/s/80-128-70068",
+      "published": "2026-11-11T23:02:00+00:00",
       "excerpt": "",
       "evidence_type": "headline_only",
       "verification": "source_attributed_not_independently_verified",
       "category": "lokalt"
     },
     {
-      "title": "«T-banen er ikke til å stole på lenger», sier folk. Dette er grunnen til alle forsinkelsene",
-      "source": "Avisa Oslo",
-      "url": "https://www.ao.no/t-banen-er-ikke-til-a-stole-pa-lenger-sier-folk-dette-er-grunnen-til-alle-forsinkelsene/s/80-128-76355",
-      "published": "2026-11-11T15:51:24+00:00",
-      "excerpt": "Det er mange frustrerte T-bane-passasjerer om dagen. Nå vil Sporveien ta grep.",
+      "title": "CNN: Demokratene vinner historisk senatsvalg i Mississippi",
+      "source": "NRK",
+      "url": "https://www.nrk.no/nyheter/cnn_-demokratene-vinner-historisk-senatsvalg-i-mississippi-1.18079865",
+      "published": "2026-11-11T22:46:27+00:00",
+      "excerpt": "Demokraten Scott Colom har vunnet senatsvalget i den tradisjonelt republikanske delstaten Mississippi, ifølge CNNs prognose. Colom slår dermed den sittende republikanske senatoren Cindy Hyde-Smith, melder CNN onsdag kveld. Han blir den første demokraten som representerer Mississippi i Senatet på over 40 år. Colom blir også den første svarte politik",
+      "evidence_type": "rss_excerpt",
+      "verification": "source_attributed_not_independently_verified",
+      "category": "norge"
+    },
+    {
+      "title": "Sykdomsutbrudd på villaks: – En internasjonal katastrofe",
+      "source": "NRK",
+      "url": "https://www.nrk.no/trondelag/forsker-kaller-sykdomsutbrudd-pa-villaks-i-tronderske-elver-en-internasjonal-katastrofe-1.18078639",
+      "published": "2026-11-11T22:45:12+00:00",
+      "excerpt": "Fem lakseelver er rammet av et større utbrudd av sykdom.",
+      "evidence_type": "rss_excerpt",
+      "verification": "source_attributed_not_independently_verified",
+      "category": "norge"
+    },
+    {
+      "title": "Democrat Scott Colom wins Mississippi Senate race in surprise victory for party",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-11T23:24:15+00:00",
+      "excerpt": "Colom's victory makes him the first black person from Mississippi to be elected to the US Senate in more than 140 years.",
+      "evidence_type": "rss_excerpt",
+      "verification": "source_attributed_not_independently_verified",
+      "category": "verden"
+    },
+    {
+      "title": "Some under-25s should get less benefits, Milburn review to say",
+      "source": "BBC Politics",
+      "url": "https://www.bbc.co.uk/news/articles/cwn70l1628l0o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-11T23:22:04+00:00",
+      "excerpt": "The proposed radical overhaul of the welfare system would move under-25s off the main sickness benefits.",
+      "evidence_type": "rss_excerpt",
+      "verification": "source_attributed_not_independently_verified",
+      "category": "verden"
+    },
+    {
+      "title": "Russian Foreign Ministry says its ambassador to US has died",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/russian-foreign-ministry-says-its-ambassador-to-us-has-died/a-79924829?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "2026-11-11T23:20:00+00:00",
+      "excerpt": "Russia's Foreign Ministry has said that Alexander Darchiev died from a chronic illness at the age of 66. The long-time diplomat had been in the Washington post since early 2025.",
+      "evidence_type": "rss_excerpt",
+      "verification": "source_attributed_not_independently_verified",
+      "category": "verden"
+    },
+    {
+      "title": "Stengte av parkeringen, men det er ikke nok mener Jan: – Altfor høyt",
+      "source": "Nordre Aker Budstikke",
+      "url": "https://www.nab.no/stengte-av-parkeringen-men-det-er-ikke-nok-mener-jan-altfor-hoyt/s/80-143-33287",
+      "published": "2026-11-11T23:02:00+00:00",
+      "excerpt": "Folk på vei fra Kjelsås mot Maridalen og Sognsvann krysser veien både her og der, uten noen sikker overgang. Nå vil Jan Halvorsen ha ned farten innenfor Brekkekrysset.",
       "evidence_type": "rss_excerpt",
       "verification": "source_attributed_not_independently_verified",
       "category": "lokalt"
     },
     {
-      "title": "Trumps eks-utenriksminister forsvarer gruvekjøp: – Vil styrke Norge og EU",
-      "source": "NRK",
-      "url": "https://www.nrk.no/tromsogfinnmark/trumps-eks-utenriksminister-om-nussir-kjop_-_-vil-styrke-norge-og-eu-1.18078943",
-      "published": "2026-11-11T15:58:38+00:00",
-      "excerpt": "Mike Pompeo mener at en vestlig kobbergigant i Hammerfest trygger norsk sikkerhet. Sjefen for Finnmark-gruvas nye eier er en britisk-russer med tidligere oligarkbånd.",
+      "title": "Knusende dom: Stempler Oslo som dårligst i Norden – nå rister forskerne på hodet",
+      "source": "Avisa Oslo",
+      "url": "https://www.ao.no/knusende-dom-stempler-oslo-som-darligst-i-norden-na-rister-forskerne-pa-hodet/s/80-128-75605",
+      "published": "2026-11-11T23:01:00+00:00",
+      "excerpt": "På papiret havner Oslo markant bak både København og Stockholm. Spesielt én detalj får ekspertene til å ta byen i forsvar.",
       "evidence_type": "rss_excerpt",
       "verification": "source_attributed_not_independently_verified",
-      "category": "norge"
+      "category": "lokalt"
     },
     {
-      "title": "Røa bekrefter: Berger seg ut året etter krisegrep",
-      "source": "NRK Sport",
-      "url": "https://www.nrk.no/sport/roa-bekrefter_-berger-seg-ut-aret-etter-krisegrep-1.18079271",
-      "published": "2026-11-11T15:09:23+00:00",
-      "excerpt": "Røa Fotball Elite unngår konkurs og fullfører sesongen. Det bekrefter klubben til NRK. – Ut fra slik det er nå, så kommer vi oss i mål med disse tiltakene, ja, forteller styremedlem Kristine Edner. Klubben har vært i dyp økonomisk krise, men kommer seg nå i mål etter at det ble satt inn drastiske sparetiltak. Alle spillere med proffkontrakt har ent",
+      "title": "Julehefte, hjemmefødsel og høydepunkter. Komikeren hyller året på Bjølsen: – Sønnen min ble født på gulvet",
+      "source": "Sagene Avis",
+      "url": "https://www.sageneavis.no/julehefte-hjemmefodsel-og-hoydepunkter-komikeren-hyller-aret-pa-bjolsen-sonnen-min-ble-fodt-pa-gulvet/s/80-144-9896",
+      "published": "2026-11-11T23:01:00+00:00",
+      "excerpt": "Komiker og programleder Lars Berrum har bare bodd på Bjølsen et lite år. Mye har imidlertid rukket å skje.",
       "evidence_type": "rss_excerpt",
       "verification": "source_attributed_not_independently_verified",
-      "category": "norge"
-    },
-    {
-      "title": "Ukraine talks in Abu Dhabi bring progress on prisoners but not on peace",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/nov/11/ukraine-talks-in-abu-dhabi-bring-progress-on-prisoners-but-not-on-peace",
-      "published": "2026-11-11T17:03:43+00:00",
-      "excerpt": "US envoys to visit Moscow and Dublin on Thursday for talks with Vladimir Putin and Volodymyr Zelenskyy respectively Russia and Ukraine have agreed to the “largest prisoner exchange” of the war at their first US-brokered talks since February, but made little progress towards a broader peace agreement. Both sides sent senior delegations to the two-da",
-      "evidence_type": "rss_excerpt",
-      "verification": "source_attributed_not_independently_verified",
-      "category": "verden"
-    },
-    {
-      "title": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-11T16:59:34+00:00",
-      "excerpt": "The US Department of Justice says the men were involved in a string of plots, including a major incident near the UK airbase that is used by US armed forces.",
-      "evidence_type": "rss_excerpt",
-      "verification": "source_attributed_not_independently_verified",
-      "category": "verden"
-    },
-    {
-      "title": "Russia-Ukraine talks in UAE secure major prisoner exchange deal",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/11/russia-ukraine-talks-in-uae-secure-major-prisoner-exchange-deal?traffic_source=rss",
-      "published": "2026-11-11T16:58:32+00:00",
-      "excerpt": "Russia and Ukraine have agreed to a major prisoner exchange following two days of US-mediated talks in Abu Dhabi",
-      "evidence_type": "rss_excerpt",
-      "verification": "source_attributed_not_independently_verified",
-      "category": "verden"
-    },
-    {
-      "title": "Palestinian American activist refused UK entry for Gaza fundraiser",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/11/palestinian-american-activist-refused-uk-entry-for-gaza-fundraiser?traffic_source=rss",
-      "published": "2026-11-11T16:52:59+00:00",
-      "excerpt": "A Palestinian American activist has been refused entry to the UK to attend his charity’s annual Gaza fundraiser.",
-      "evidence_type": "rss_excerpt",
-      "verification": "source_attributed_not_independently_verified",
-      "category": "verden"
-    },
-    {
-      "title": "Israeli army kills Palestinian footballer Mahmoud Kamal Abdel-Malek in Gaza",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/sports/2026/11/11/israeli-army-kills-palestinian-footballer-mahmoud-kamal-abdel-malek-in-gaza?traffic_source=rss",
-      "published": "2026-11-11T16:48:48+00:00",
-      "excerpt": "Abdel-Malek, the captain and goalkeeper of Gaza Sports Club, recently played in the Thousand Martyrs Cup final.",
-      "evidence_type": "rss_excerpt",
-      "verification": "source_attributed_not_independently_verified",
-      "category": "verden"
-    },
-    {
-      "title": "US Treasury Secretary Scott Bessent relocated after alleged Iranian threats",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cqr7gr0010r2o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-11T16:45:11+00:00",
-      "excerpt": "Bessent is now one of several Trump administration officials to live on military bases due to safety concerns.",
-      "evidence_type": "rss_excerpt",
-      "verification": "source_attributed_not_independently_verified",
-      "category": "verden"
+      "category": "lokalt"
     }
   ]
 }
