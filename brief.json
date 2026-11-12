@@ -1,8 +1,18 @@
 {
-  "generated": "2026-11-11T23:28:32.050904+00:00",
+  "generated": "2026-11-12T04:06:15.940890+00:00",
   "method": "extractive_rss_no_ai_generation",
   "notice": "Overskrifter og korte utdrag er hentet fra RSS. Ikke uavhengig faktaverifisert. Åpne originalkilden for full sammenheng.",
   "items": [
+    {
+      "title": "Nå kommer snøen. Meteorologen advarer: – Alltid noen som tror det er lurt",
+      "source": "Sagene Avis",
+      "url": "https://www.sageneavis.no/na-kommer-snoen-meteorologen-advarer-alltid-noen-som-tror-det-er-lurt/s/80-144-10178",
+      "published": "2026-11-12T00:02:21+00:00",
+      "excerpt": "Snøen har inntatt Oslo. Nå advarer meteorologen om kaos på veiene.",
+      "evidence_type": "rss_excerpt",
+      "verification": "source_attributed_not_independently_verified",
+      "category": "lokalt"
+    },
     {
       "title": "Ramponert over natta. Mener området trenger flere parkeringsplasser: – Det var glass overalt",
       "source": "Nordre Aker Budstikke",
@@ -10,16 +20,6 @@
       "published": "2026-11-11T23:03:00+00:00",
       "excerpt": "Frykter flere vil bli rammet grunnet parkeringssituasjonen i området.",
       "evidence_type": "rss_excerpt",
-      "verification": "source_attributed_not_independently_verified",
-      "category": "lokalt"
-    },
-    {
-      "title": "Siri falt inne på Deli de Luca. Nå er hun låst til hjemmet: – Jeg føler meg utrygg",
-      "source": "Avisa Oslo",
-      "url": "https://www.ao.no/siri-berg-falt-inne-pa-deli-de-luca-og-brakk-larhalsen-da-sendte-bydelen-henne-hjem-til-leiligheten-pa-bislett-i-oslo-hvor-hun-nn-er-hun-last-til-hjemmet-jeg-foler-meg-utrygg/s/80-128-70068",
-      "published": "2026-11-11T23:02:00+00:00",
-      "excerpt": "",
-      "evidence_type": "headline_only",
       "verification": "source_attributed_not_independently_verified",
       "category": "lokalt"
     },
@@ -44,64 +44,64 @@
       "category": "norge"
     },
     {
-      "title": "Democrat Scott Colom wins Mississippi Senate race in surprise victory for party",
+      "title": "Famed ship SS United States sunk off coast of Florida",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c3x298n87rn2o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-12T04:03:13+00:00",
+      "excerpt": "Activists unsuccessfully fought for the historic liner to be preserved and turned into a museum, but it will now become the world's largest artificial ocean reef.",
+      "evidence_type": "rss_excerpt",
+      "verification": "source_attributed_not_independently_verified",
+      "category": "verden"
+    },
+    {
+      "title": "What we know as pressure builds on embattled Nvidia CEO Jensen Huang",
+      "source": "BBC Technology",
+      "url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-12T04:01:14+00:00",
+      "excerpt": "The billionaire tech executive's future is in question after reports of a second extramarital affair.",
+      "evidence_type": "rss_excerpt",
+      "verification": "source_attributed_not_independently_verified",
+      "category": "verden"
+    },
+    {
+      "title": "Democrat Scott Colom seals historic win in Mississippi Senate race",
       "source": "BBC World",
       "url": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-11T23:24:15+00:00",
-      "excerpt": "Colom's victory makes him the first black person from Mississippi to be elected to the US Senate in more than 140 years.",
+      "published": "2026-11-12T04:00:30+00:00",
+      "excerpt": "Colom is the first black person from the southern state elected to the US Senate in over 140 years.",
       "evidence_type": "rss_excerpt",
       "verification": "source_attributed_not_independently_verified",
       "category": "verden"
     },
     {
-      "title": "Some under-25s should get less benefits, Milburn review to say",
-      "source": "BBC Politics",
-      "url": "https://www.bbc.co.uk/news/articles/cwn70l1628l0o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-11T23:22:04+00:00",
-      "excerpt": "The proposed radical overhaul of the welfare system would move under-25s off the main sickness benefits.",
+      "title": "Iran warns of expanded retaliation as Israel reportedly readies to attack",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/11/12/iran-warns-of-expanded-retaliation-as-israel-reportedly-readies-to-attack?traffic_source=rss",
+      "published": "2026-11-12T03:50:42+00:00",
+      "excerpt": "Israeli security cabinet orders military to step up preparations for a possible attack on Iran, Israeli media reports.",
       "evidence_type": "rss_excerpt",
       "verification": "source_attributed_not_independently_verified",
       "category": "verden"
     },
     {
-      "title": "Russian Foreign Ministry says its ambassador to US has died",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/russian-foreign-ministry-says-its-ambassador-to-us-has-died/a-79924829?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "2026-11-11T23:20:00+00:00",
-      "excerpt": "Russia's Foreign Ministry has said that Alexander Darchiev died from a chronic illness at the age of 66. The long-time diplomat had been in the Washington post since early 2025.",
+      "title": "Building collapse in Brooklyn kills two, injures more than a dozen",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/11/12/building-collapse-in-brooklyn-kills-two-injures-more-than-a-dozen?traffic_source=rss",
+      "published": "2026-11-12T03:31:08+00:00",
+      "excerpt": "Rescue crews search for victims as Mayor Mamdani says first responders arrived one minute after emergency call.",
       "evidence_type": "rss_excerpt",
       "verification": "source_attributed_not_independently_verified",
       "category": "verden"
     },
     {
-      "title": "Stengte av parkeringen, men det er ikke nok mener Jan: – Altfor høyt",
-      "source": "Nordre Aker Budstikke",
-      "url": "https://www.nab.no/stengte-av-parkeringen-men-det-er-ikke-nok-mener-jan-altfor-hoyt/s/80-143-33287",
-      "published": "2026-11-11T23:02:00+00:00",
-      "excerpt": "Folk på vei fra Kjelsås mot Maridalen og Sognsvann krysser veien både her og der, uten noen sikker overgang. Nå vil Jan Halvorsen ha ned farten innenfor Brekkekrysset.",
+      "title": "Mother reunites with sons taken under Pinochet regime 40 years ago",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/aje-onl-nf_mother-reunites-with-sons-taken-under-pinochet-111126?traffic_source=rss",
+      "published": "2026-11-12T03:13:32+00:00",
+      "excerpt": "A Chilean mother has finally embraced her sons for the first time in 40 years since they were taken under Pinochet.",
       "evidence_type": "rss_excerpt",
       "verification": "source_attributed_not_independently_verified",
-      "category": "lokalt"
-    },
-    {
-      "title": "Knusende dom: Stempler Oslo som dårligst i Norden – nå rister forskerne på hodet",
-      "source": "Avisa Oslo",
-      "url": "https://www.ao.no/knusende-dom-stempler-oslo-som-darligst-i-norden-na-rister-forskerne-pa-hodet/s/80-128-75605",
-      "published": "2026-11-11T23:01:00+00:00",
-      "excerpt": "På papiret havner Oslo markant bak både København og Stockholm. Spesielt én detalj får ekspertene til å ta byen i forsvar.",
-      "evidence_type": "rss_excerpt",
-      "verification": "source_attributed_not_independently_verified",
-      "category": "lokalt"
-    },
-    {
-      "title": "Julehefte, hjemmefødsel og høydepunkter. Komikeren hyller året på Bjølsen: – Sønnen min ble født på gulvet",
-      "source": "Sagene Avis",
-      "url": "https://www.sageneavis.no/julehefte-hjemmefodsel-og-hoydepunkter-komikeren-hyller-aret-pa-bjolsen-sonnen-min-ble-fodt-pa-gulvet/s/80-144-9896",
-      "published": "2026-11-11T23:01:00+00:00",
-      "excerpt": "Komiker og programleder Lars Berrum har bare bodd på Bjølsen et lite år. Mye har imidlertid rukket å skje.",
-      "evidence_type": "rss_excerpt",
-      "verification": "source_attributed_not_independently_verified",
-      "category": "lokalt"
+      "category": "verden"
     }
   ]
 }
