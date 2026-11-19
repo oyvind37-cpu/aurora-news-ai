@@ -1,107 +1,107 @@
 {
-  "generated": "2026-11-19T10:46:56.394316+00:00",
+  "generated": "2026-11-19T19:25:37.235404+00:00",
   "method": "extractive_rss_no_ai_generation",
   "notice": "Overskrifter og korte utdrag er hentet fra RSS. Ikke uavhengig faktaverifisert. Åpne originalkilden for full sammenheng.",
   "items": [
     {
-      "title": "Hittil «ukjent» arving (52) har solgt bygårder for 300 millioner",
-      "source": "Avisa Oslo",
-      "url": "https://www.ao.no/hittil-ukjent-arving-52-har-solgt-bygarder-for-300-millioner/s/80-128-82019",
-      "published": "2026-11-19T10:34:32+00:00",
-      "excerpt": "På transaksjonspapirene sto flere privatpersoner.",
+      "title": "Advarer mot GTA 6",
+      "source": "Nordre Aker Budstikke",
+      "url": "https://www.nab.no/advarer-mot-gta-6/v/80-143-40620",
+      "published": "2026-11-19T18:30:00+00:00",
+      "excerpt": "",
+      "evidence_type": "headline_only",
+      "verification": "source_attributed_not_independently_verified",
+      "category": "lokalt"
+    },
+    {
+      "title": "13 års ventetid og ekstrem etterspørsel – men Leif advarer foreldrene",
+      "source": "Nordre Aker Budstikke",
+      "url": "https://www.nab.no/13-ars-ventetid-og-ekstrem-ettersporsel-men-leif-advarer-foreldrene/s/80-143-40131",
+      "published": "2026-11-19T18:30:00+00:00",
+      "excerpt": "Torsdag er 13 års ventetid over – Grand Theft Auto 6, et av verdens mest populære spill, er lansert.",
       "evidence_type": "rss_excerpt",
       "verification": "source_attributed_not_independently_verified",
       "category": "lokalt"
     },
     {
-      "title": "Black Week: De 10 beste kjøpene den 19. november",
-      "source": "Sagene Avis",
-      "url": "https://www.sageneavis.no/black-friday-2026/black-friday/tilbud/black-week-de-10-beste-kjopene-den-19-november/s/80-95-263507",
-      "published": "2026-11-19T08:43:14+00:00",
-      "excerpt": "Vi har sjekket prisene på våre testvinnere for å finne de beste Black Friday-kuppene akkurat nå.",
-      "evidence_type": "rss_excerpt",
-      "verification": "source_attributed_not_independently_verified",
-      "category": "lokalt"
-    },
-    {
-      "title": "Haaland gruser legender og verdens­stjerner: – Uvirkelig",
+      "title": "Endte opp alene på samling – mener langrennslandslaget er splittet",
       "source": "NRK",
-      "url": "https://www.nrk.no/sport/reagerer-pa-haalands-spinnville-tall_-_-uvirkelig-1.18084442",
-      "published": "2026-11-19T10:30:11+00:00",
-      "excerpt": "Erling Braut Haalands (26) scoringsfrekvens på landslaget får selv landslagssjefen til å heve øyenbrynene.",
+      "url": "https://www.nrk.no/sport/milla-andreassen-mener-langrennslandslaget-er-splittet_-_-ekstremt-kjipt-1.18085391",
+      "published": "2026-11-19T19:23:10+00:00",
+      "excerpt": "Milla Grosberghaugen Andreassen (21) åpner om problemer på langrennslandslaget. NRK-eksperten mener at kvinnelandslaget er i ferd med å kollapse.",
       "evidence_type": "rss_excerpt",
       "verification": "source_attributed_not_independently_verified",
       "category": "norge"
     },
     {
-      "title": "Utsetter åpningen av Vestfoldbanen: – Sikker og stabil drift går foran",
-      "source": "NRK",
-      "url": "https://www.nrk.no/vestfoldogtelemark/apner-ikke-dobbeltspor-pa-vestfoldbanen-i-uke-48-likevel-1.18084892",
-      "published": "2026-11-19T10:20:38+00:00",
-      "excerpt": "Kun dager før den planlagte åpningen av nytt dobbeltspor på Vestfoldbanen kommer Bane NOR med dårlig nytt for togreisende.",
-      "evidence_type": "rss_excerpt",
-      "verification": "source_attributed_not_independently_verified",
-      "category": "norge"
-    },
-    {
-      "title": "Cleverly to run as Tory London mayor candidate",
-      "source": "BBC Politics",
-      "url": "https://www.bbc.co.uk/news/articles/cmy0ep02wn3lo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-19T10:33:34+00:00",
-      "excerpt": "The former home and foreign secretary has been a London Assembly member and fire authority chair.",
-      "evidence_type": "rss_excerpt",
-      "verification": "source_attributed_not_independently_verified",
-      "category": "verden"
-    },
-    {
-      "title": "'I'm very healthy' - Kompany to return to dugout after health scare",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm0rkzwgn0lro?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-19T10:32:30+00:00",
-      "excerpt": "Bayern Munich boss Vincent Kompany says he is \"very healthy\" and grateful for all of the support he has recieved as he prepares to return to the dugout on Friday.",
-      "evidence_type": "rss_excerpt",
-      "verification": "source_attributed_not_independently_verified",
-      "category": "verden"
-    },
-    {
-      "title": "Tusk appears to mock Trump’s Putin comment as Ukraine’s allies meet in Berlin – Europe live",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/nov/19/russia-ukraine-war-coalition-of-the-willing-europe-latest-news-updates",
-      "published": "2026-11-19T10:32:02+00:00",
-      "excerpt": "After US president called Putin a friend, Poland’s PM said: ‘God, protect us from such friends’ Meanwhile, foreign ministers arriving for the EU foreign affairs council meeting in Brussels are heroically trying to avoid saying anything remotely interesting or controversial in response to reporters’ questions on Trump’s meetings with Xi and Putin. C",
-      "evidence_type": "rss_excerpt",
-      "verification": "source_attributed_not_independently_verified",
-      "category": "verden"
-    },
-    {
-      "title": "Will Infantino feel he's already won as Fifa challengers confirmed?",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c8wy53z3ygypo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-19T10:21:10+00:00",
-      "excerpt": "Fifa has confirmed Philippe Diallo and Kozo Tashima will also stand in next year's presidential election - but can either stop Gianni Infantino from winning?",
-      "evidence_type": "rss_excerpt",
-      "verification": "source_attributed_not_independently_verified",
-      "category": "verden"
-    },
-    {
-      "title": "Eight-year ban for player who threw rock that hit assistant referee",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqlyk9yzkz2no?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-19T10:20:58+00:00",
-      "excerpt": "Ecuadorian footballer Jhon Perlaza is banned for eight years after hitting an assistant referee with a rock during a third-tier match.",
-      "evidence_type": "rss_excerpt",
-      "verification": "source_attributed_not_independently_verified",
-      "category": "verden"
-    },
-    {
-      "title": "Bekreftet: Dette er Infantinos motkandidater",
+      "title": "Byåsen klar for NM-finale etter 17 år – knuste Oppsal",
       "source": "NRK Sport",
-      "url": "https://www.nrk.no/sport/bekreftet_-dette-er-infantinos-motkandidater-1.18084845",
-      "published": "2026-11-19T10:17:38+00:00",
-      "excerpt": "Gianni Infantino får kamp fra en japaner og en franskmann om presidentposten i Det internasjonale fotballforbundet. Fifa bekrefter at det som ventet er tre kandidater til neste års presidentvalg. – Kandidaturene er videresendt til valgkomiteen for gjennomgang og for å fatte en beslutning om godkjenning av kandidatene. I tråd med Fifas vedtekter og",
+      "url": "https://www.nrk.no/sport/byasen-klar-for-nm-finale-etter-17-ar-_-knuste-oppsal-1.18085421",
+      "published": "2026-11-19T18:36:39+00:00",
+      "excerpt": "Byåsen hadde god kontroll mot Oppsal, vant 36-27 og er klar for sin 17. NM-finale i håndball. Byåsen var blant Norges beste lag for 20 år siden, men siden 2009 har NM-finalene gått uten trønderklubben. Byåsen hadde før det spilt seks strake NM-finaler mot Larvik, der det ble en triumf. Byåsen var også på 80- og 90-tallet en storklubb, og de spilte",
       "evidence_type": "rss_excerpt",
       "verification": "source_attributed_not_independently_verified",
       "category": "norge"
+    },
+    {
+      "title": "World reacts to ICJ finding Myanmar guilty of genocide against Rohingya",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/11/19/world-reacts-to-icj-finding-myanmar-guilty-of-genocide-against-rohingya?traffic_source=rss",
+      "published": "2026-11-19T19:19:06+00:00",
+      "excerpt": "Landmark judgement in The Hague is the first time a state has been held responsible for genocide at the ICJ.",
+      "evidence_type": "rss_excerpt",
+      "verification": "source_attributed_not_independently_verified",
+      "category": "verden"
+    },
+    {
+      "title": "Rohingya survivors react to landmark genocide ruling against Myanmar",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/rohingya-survivors-react-to-landmark-genocide-ruling-against-myanmar?traffic_source=rss",
+      "published": "2026-11-19T19:16:34+00:00",
+      "excerpt": "Rohingya refugees in Bangladesh and an activist in New York react as the UN's top court rules Myanmar committed genocide",
+      "evidence_type": "rss_excerpt",
+      "verification": "source_attributed_not_independently_verified",
+      "category": "verden"
+    },
+    {
+      "title": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-19T19:16:21+00:00",
+      "excerpt": "European allies of Ukraine say they have a \"united\" negotiating position at a summit in Berlin.",
+      "evidence_type": "rss_excerpt",
+      "verification": "source_attributed_not_independently_verified",
+      "category": "verden"
+    },
+    {
+      "title": "Man protests on roof of Spanish embassy over Fergie Chambers extradition",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/man-protests-on-roof-of-spanish-embassy-over-fergie-chambers-extradition?traffic_source=rss",
+      "published": "2026-11-19T19:15:10+00:00",
+      "excerpt": "A man protested on the roof of Spain’s embassy in London against the extradition of US media heir Fergie Chambers.",
+      "evidence_type": "rss_excerpt",
+      "verification": "source_attributed_not_independently_verified",
+      "category": "verden"
+    },
+    {
+      "title": "England fined for fans' anti-Catholic chants in Spain",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmlye2n7p7d9o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-19T19:11:03+00:00",
+      "excerpt": "England are punished by Uefa following anti-Catholic chanting from the away fans during their Nations League victory in Spain.",
+      "evidence_type": "rss_excerpt",
+      "verification": "source_attributed_not_independently_verified",
+      "category": "verden"
+    },
+    {
+      "title": "Star Wars actor 'thrilled' to voice the Welsh Luke Skywalker",
+      "source": "BBC Entertainment",
+      "url": "https://www.bbc.co.uk/news/articles/cjy5xnye765zo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-19T19:07:07+00:00",
+      "excerpt": "The classic 1977 film has been dubbed into Welsh for the first time and features a host of star names.",
+      "evidence_type": "rss_excerpt",
+      "verification": "source_attributed_not_independently_verified",
+      "category": "verden"
     }
   ]
 }
