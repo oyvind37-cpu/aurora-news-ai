@@ -1,11 +1,661 @@
 {
-  "updated": "2026-11-18T21:12:31.345574+00:00",
+  "updated": "2026-11-19T02:37:51.957265+00:00",
   "items": [
+    {
+      "source": "BBC Technology",
+      "category": "verden",
+      "topic": "teknologi",
+      "title": "Claude-maker Anthropic poised for stock market debut worth up to $1.5tn",
+      "url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
+      "summary": "Anthropic started just five years ago an is now one of the biggest names in artificial intelligence.",
+      "date_label": "19.11.2026",
+      "timestamp": 1795054815.0
+    },
     {
       "source": "Al Jazeera English",
       "category": "verden",
       "topic": "annet",
-      "title": "US defence secretary announces military partnership on trip to Venezuela",
+      "title": "ICJ to rule on Rohingya genocide case against Myanmar",
+      "url": "https://www.aljazeera.com/news/2026/11/19/icj-to-rule-on-rohingya-genocide-case-against-myanmar?traffic_source=rss",
+      "summary": "The Gambia accuses Myanmar of genocide following a 2017 military crackdown that displaced at least 730,000 Rohingya.",
+      "date_label": "19.11.2026",
+      "timestamp": 1795054243.0
+    },
+    {
+      "source": "BBC Technology",
+      "category": "verden",
+      "topic": "teknologi",
+      "title": "Elon Musk says record spending on US midterms was 'pretty foolish'",
+      "url": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss",
+      "summary": "The multi-billionaire also said he was \"not Maga\", distancing himself from the political movement linked to Trump.",
+      "date_label": "19.11.2026",
+      "timestamp": 1795053388.0
+    },
+    {
+      "source": "Al Jazeera English",
+      "category": "verden",
+      "topic": "annet",
+      "title": "Hegseth unveils new US-Venezuela military deal",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/hegseth-unveils-new-us-venezuela-military-deal?traffic_source=rss",
+      "summary": "Pete Hegseth has unveiled a new military deal with Venezuela in his first visit since the US capture of Nicolas Maduro.",
+      "date_label": "19.11.2026",
+      "timestamp": 1795052926.0
+    },
+    {
+      "source": "The Guardian",
+      "category": "verden",
+      "topic": "annet",
+      "title": "General Pants Co enters voluntary administration, putting hundreds of jobs at risk",
+      "url": "https://www.theguardian.com/business/2026/nov/19/general-pants-co-enters-voluntary-administration-jobs-at-risk",
+      "summary": "Australian fashion chain becomes latest retailer in trouble after David Jones, Cue and Veronika Maine Get our breaking news email , free app or daily news podcast Youth fashion chain General Pants Co has become the latest major retailer to slide into voluntary administration, putting nearly 500 jobs at risk as Australia’s retail sector continues to",
+      "date_label": "19.11.2026",
+      "timestamp": 1795052781.0
+    },
+    {
+      "source": "Al Jazeera English",
+      "category": "verden",
+      "topic": "annet",
+      "title": "Why a trio of experts alleges Jeffrey Epstein did not die by suicide",
+      "url": "https://www.aljazeera.com/news/2026/11/19/why-a-trio-of-experts-alleges-jeffrey-epstein-did-not-die-by-suicide?traffic_source=rss",
+      "summary": "A new report alleges that injuries on Epstein's body were overlooked by medical examiners during his 2019 autopsy.",
+      "date_label": "19.11.2026",
+      "timestamp": 1795051028.0
+    },
+    {
+      "source": "Al Jazeera English",
+      "category": "verden",
+      "topic": "annet",
+      "title": "Settler rams into Palestinians at multiple locations in central Israel",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/settler-rams-into-palestinians-at-multiple-locations-in-central-israel?traffic_source=rss",
+      "summary": "At least eight Palestinians were injured after a settler driver was caught on camera running them over.",
+      "date_label": "19.11.2026",
+      "timestamp": 1795050825.0
+    },
+    {
+      "source": "The Guardian",
+      "category": "verden",
+      "topic": "annet",
+      "title": "Australia may have ‘one foot in recession’ as unemployment surges to five-year high",
+      "url": "https://www.theguardian.com/business/2026/nov/19/unemployment-rate-jumps-highest-level-five-years-job-figures",
+      "summary": "Jobless rate rises from 4.7% to 4.9% for October, latest bureau of statistics figures reveal Get our daily political email , free app or daily news podcast Australia may already have “one foot in recession” after unemployment surged to 4.9% in October, from 4.7%, in a shock increase that will add to rising worries this year’s five interest rate hik",
+      "date_label": "19.11.2026",
+      "timestamp": 1795050775.0
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "annet",
+      "title": "Crimean Bridge attacked again, Russian official says",
+      "url": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
+      "summary": "The head of Crimea said traffic was suspended after another attack on the link between Russia and the occupied territory.",
+      "date_label": "19.11.2026",
+      "timestamp": 1795050303.0
+    },
+    {
+      "source": "The Guardian",
+      "category": "verden",
+      "topic": "annet",
+      "title": "Beau Lamarre-Condon’s testimony about Jesse Baird and Luke Davies’ deaths ‘fanciful in the extreme’, crown alleges",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/19/beau-lamarre-condon-jesse-baird-luke-davies-ntwnfb",
+      "summary": "Prosecutor argues accused could be convicted on strength of forensic and ballistics evidence alone in closing statement Get our breaking news email , free app or daily news podcast Beau Lamarre-Condon’s claims about the deaths of Jesse Baird and Luke Davies are “fanciful in the extreme”, a court has heard. The former police officer is accused of fa",
+      "date_label": "19.11.2026",
+      "timestamp": 1795050025.0
+    },
+    {
+      "source": "CNN",
+      "category": "verden",
+      "topic": "annet",
+      "title": "Russian arrested on charges he spied on and harassed employees of defense tech company Palantir - CNN",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQR0xsR2k5bG9kUFlWdmRIVHBDNDRvdVhHckJ2Z0dtaWRkZzZZXzhZTkdVai1DczRqdVNJRGs5OGVRQmZXcWhwNnhEMmZIcUlmaVZIQW5Pb2pSTVV1Qk1lQVJITjhhNkJUZmpxZHlaZXFHUlRIaF9mNXVqMnpTeGR4MVVQZTJ0QQ?oc=5",
+      "summary": "Russian arrested on charges he spied on and harassed employees of defense tech company Palantir CNN",
+      "date_label": "19.11.2026",
+      "timestamp": 1795049940.0
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "annet",
+      "title": "Van Gogh painting sells for record $190.4m after row over its Nazi history",
+      "url": "https://www.bbc.co.uk/news/articles/c5dj1dkwzvzwo?at_medium=RSS&at_campaign=rss",
+      "summary": "Châtaigniers en fleurs was painted in 1890 in the final two months of Vincent van Gogh's life.",
+      "date_label": "19.11.2026",
+      "timestamp": 1795049359.0
+    },
+    {
+      "source": "Al Jazeera English",
+      "category": "verden",
+      "topic": "annet",
+      "title": "German FA backs France’s Diallo for FIFA presidency",
+      "url": "https://www.aljazeera.com/news/2026/11/19/german-fa-backs-frances-diallo-for-fifa-presidency?traffic_source=rss",
+      "summary": "Incumbent Gianni Infantino has resisted repeated calls to resign, citing overwhelming global support.",
+      "date_label": "19.11.2026",
+      "timestamp": 1795049090.0
+    },
+    {
+      "source": "Al Jazeera English",
+      "category": "verden",
+      "topic": "annet",
+      "title": "Kenya’s milk shortage deepens as drought hits farmers and pushes up prices",
+      "url": "https://www.aljazeera.com/news/2026/11/19/kenyas-milk-shortage-deepens-as-drought-hits-farmers-and-pushes-up-prices?traffic_source=rss",
+      "summary": "Farmers are receiving higher payments but are producing far less milk and also face rising prices for hay.",
+      "date_label": "19.11.2026",
+      "timestamp": 1795048801.0
+    },
+    {
+      "source": "Al Jazeera English",
+      "category": "verden",
+      "topic": "annet",
+      "title": "Somalia’s constitutional overhaul tests its fragile federal bargain",
+      "url": "https://www.aljazeera.com/news/2026/11/19/somalias-constitutional-overhaul-tests-its-fragile-federal-bargain?traffic_source=rss",
+      "summary": "Mohamud’s reforms promise stronger government, but regional resistance and violence threaten the fragile deal of 2012.",
+      "date_label": "19.11.2026",
+      "timestamp": 1795048623.0
+    },
+    {
+      "source": "Deutsche Welle",
+      "category": "verden",
+      "topic": "annet",
+      "title": "Almost 1 in 4 children live in conflict zones — report",
+      "url": "https://www.dw.com/en/almost-1-in-4-children-live-in-conflict-zones-report/a-79979203?maca=en-rss-en-all-1573-xml-mrss",
+      "summary": "Denial of humanitarian access, abductions and sexual violence are among several violations against children that have increased dramtically over the past year, according to a new report by Save the Children.",
+      "date_label": "19.11.2026",
+      "timestamp": 1795048440.0
+    },
+    {
+      "source": "CNN",
+      "category": "verden",
+      "topic": "annet",
+      "title": "Kerch attack: Bridge connecting Russia to occupied Crimea has been hit again - CNN",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMzRmTXhmRm1jLWp1c2JoZGc4Z0VwR1lvMFNNUnVKTmZPbGZ6QVY5bS01Rl96M3Y4WWtQdEtOLUVKMTJ3Z1hLMVlLQllYWW5hbTVQV0hrb2trQ2dYZUZKSVNDUDNKNzgzVUliRDlqWHBaMER2R2VnT05UM2lPS0w5N3haenNObzNYc3VR?oc=5",
+      "summary": "Kerch attack: Bridge connecting Russia to occupied Crimea has been hit again CNN",
+      "date_label": "19.11.2026",
+      "timestamp": 1795048020.0
+    },
+    {
+      "source": "Al Jazeera English",
+      "category": "verden",
+      "topic": "annet",
+      "title": "Anthropic raises $81.3bn in biggest IPO of all time",
+      "url": "https://www.aljazeera.com/economy/2026/11/19/anthropic-raises-81-3bn-in-biggest-ipo-of-all-time?traffic_source=rss",
+      "summary": "AI giant prices shares at $83 in blockbuster market debut.",
+      "date_label": "19.11.2026",
+      "timestamp": 1795047603.0
+    },
+    {
+      "source": "Al Jazeera English",
+      "category": "verden",
+      "topic": "annet",
+      "title": "Unvaccinated Pennsylvania resident dies amid historic US measles resurgence",
+      "url": "https://www.aljazeera.com/news/2026/11/19/unvaccinated-pennsylvania-resident-dies-amid-historic-us-measles-resurgence?traffic_source=rss",
+      "summary": "Pennsylvania records eighth measles death of 2026, a day after the US formally loses its 26-year elimination status.",
+      "date_label": "19.11.2026",
+      "timestamp": 1795047280.0
+    },
+    {
+      "source": "Al Jazeera English",
+      "category": "verden",
+      "topic": "annet",
+      "title": "EU governments approve trade deal with Indonesia to offset Trump tariffs",
+      "url": "https://www.aljazeera.com/economy/2026/11/19/eu-governments-approve-trade-deal-with-indonesia-to-offset-trump-tariffs?traffic_source=rss",
+      "summary": "The deal, initially concluded in 2025, will see both sides remove import duties on more than 90 percent of products.",
+      "date_label": "19.11.2026",
+      "timestamp": 1795047100.0
+    },
+    {
+      "source": "NRK",
+      "category": "norge",
+      "topic": "annet",
+      "title": "Militært vogntog av veien i Troms",
+      "url": "https://www.nrk.no/norge/militaert-vogntog-kjorte-av-veien-i-troms-1.18084632",
+      "summary": "To personer er sendt til sykehus.",
+      "date_label": "19.11.2026",
+      "timestamp": 1795046473.0
+    },
+    {
+      "source": "The Guardian",
+      "category": "verden",
+      "topic": "annet",
+      "title": "Mike Lynch’s superyacht had unidentified vulnerability to high winds, report finds",
+      "url": "https://www.theguardian.com/world/2026/nov/19/mike-lynch-superyacht-bayesian-vulnerability-to-high-winds-report",
+      "summary": "Bayesian, which sank off Sicily killing seven including tech tycoon, had not been fully assessed, say investigators The superyacht Bayesian, which sank in a storm off Sicily killing seven people including the tech tycoon Mike Lynch and his teenage daughter, was vulnerable to knockdown but crew were not aware as it had never been assessed at anchor ",
+      "date_label": "19.11.2026",
+      "timestamp": 1795046471.0
+    },
+    {
+      "source": "Al Jazeera English",
+      "category": "verden",
+      "topic": "annet",
+      "title": "Iran war live: Saudi-led coalition strikes Yemen; ships on fire in Hormuz",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/11/19/iran-war-live-saudi-led-coalition-strikes-yemen-ships-on-fire-in-hormuz?traffic_source=rss",
+      "summary": "Saudi-led coalition says it destroyed a missile platform in Saada, Yemen, as Iran claims three ships hit mines.",
+      "date_label": "19.11.2026",
+      "timestamp": 1795046462.0
+    },
+    {
+      "source": "CNN",
+      "category": "verden",
+      "topic": "annet",
+      "title": "Exclusive: ‘There was no monitoring.’ Sources say FAA had little oversight of work that led to nationwide ground stop - CNN",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZ0x3T2Zwc3Rfb2l5czlmU0o4OTU3T0Z4TUdseHJrV0x1RkFzN29CeUZJYUg1QjZ5VEJQUzNMLTk5TUFPS1lXVWdkQkh5VUtsVF9SdnJqSjcxR3ZBaEJRZlBpUVVUMlFQYWZiOE5BZnZaazJ1MUsxX0pWQzJOZ2RoTkhR?oc=5",
+      "summary": "Exclusive: ‘There was no monitoring.’ Sources say FAA had little oversight of work that led to nationwide ground stop CNN",
+      "date_label": "19.11.2026",
+      "timestamp": 1795046460.0
+    },
+    {
+      "source": "Deutsche Welle",
+      "category": "verden",
+      "topic": "annet",
+      "title": "Grand Theft Auto VI released as gamers rejoice globally",
+      "url": "https://www.dw.com/en/grand-theft-auto-vi-released-as-gamers-rejoice-globally/a-79986461?maca=en-rss-en-all-1573-xml-mrss",
+      "summary": "After 13 years of waiting, fans around the world will get to play the latest installment in the blockbuster video game series. In focus: A tale of crime and violence in a fictionalized version of Miami.",
+      "date_label": "18.11.2026",
+      "timestamp": 1795046280.0
+    },
+    {
+      "source": "The Guardian Technology",
+      "category": "verden",
+      "topic": "teknologi",
+      "title": "Four Maryland high school students sue after AI mistakes Doritos bag for gun",
+      "url": "https://www.theguardian.com/us-news/2026/nov/18/maryland-baltimore-county-doritos-gun-ai-lawsuit",
+      "summary": "Football players say they are ‘traumatized’ after being handcuffed and detained by police while waiting for rides home Four current and former students at a Maryland high school have filed a lawsuit a year after armed police detained them , prompted by an AI alert that mistook a bag of Doritos for a gun, in an incident that left them “fearing for t",
+      "date_label": "18.11.2026",
+      "timestamp": 1795046031.0
+    },
+    {
+      "source": "Al Jazeera English",
+      "category": "verden",
+      "topic": "annet",
+      "title": "Israel uses Gaza swimming video to minimise winter hardships",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/israel-uses-gaza-swimming-video-to-minimise-winter-hardships?traffic_source=rss",
+      "summary": "Israel shared an Al Jazeera video of Palestinians swimming, to suggest winter storms in Gaza can’t be that bad.",
+      "date_label": "18.11.2026",
+      "timestamp": 1795046001.0
+    },
+    {
+      "source": "CNN",
+      "category": "verden",
+      "topic": "annet",
+      "title": "Anthropic’s $83 IPO price puts it on track for a record-breaking debut on Wall Street. Here’s what it means - CNN",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBaSEpySEJVdkE1YUZTN3FtVFNFU1JIRWVyTnk4QUJ2T0tIVjJTZjl2dUZWSGVBS0RaLWpVeU1jR0ZONG5TR0RPQnpuOGlnZ1JBQmxFb0tzUGc0RUcyN1dDTDNiQTdkMDBLUEZ0ckNlSDZiTVFf?oc=5",
+      "summary": "Anthropic’s $83 IPO price puts it on track for a record-breaking debut on Wall Street. Here’s what it means CNN",
+      "date_label": "18.11.2026",
+      "timestamp": 1795045776.0
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "annet",
+      "title": "Why has Waymo pulled all its driverless cars from US freeways?",
+      "url": "https://www.bbc.co.uk/news/videos/cmx2ryw97x4go?at_medium=RSS&at_campaign=rss",
+      "summary": "The vehicles currently operate in 15 US cities, though freeway rides are only offered in a handful, including San Francisco and Los Angeles.",
+      "date_label": "18.11.2026",
+      "timestamp": 1795045666.0
+    },
+    {
+      "source": "BBC Technology",
+      "category": "verden",
+      "topic": "teknologi",
+      "title": "The seven Anthropic founders who are about to become multi-billionaires",
+      "url": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
+      "summary": "The AI company behind Claude is about to sell its shares on the US stock market - making its founders very rich.",
+      "date_label": "18.11.2026",
+      "timestamp": 1795045327.0
+    },
+    {
+      "source": "Al Jazeera English",
+      "category": "verden",
+      "topic": "annet",
+      "title": "Migrant boat capsizes off Senegal, leaving at least one dead",
+      "url": "https://www.aljazeera.com/news/2026/11/18/migrant-boat-capsizes-off-senegal-leaving-at-least-one-dead?traffic_source=rss",
+      "summary": "Incident comes days after another boat capsized in Senegalese waters, and Spain declared a migration emergency.",
+      "date_label": "18.11.2026",
+      "timestamp": 1795044983.0
+    },
+    {
+      "source": "Al Jazeera English",
+      "category": "verden",
+      "topic": "annet",
+      "title": "NASA’s Voyager 1 hits record one light-day distance, 50 years after launch",
+      "url": "https://www.aljazeera.com/news/2026/11/18/nasas-voyager-1-hits-record-one-light-day-distance-50-years-after-launch?traffic_source=rss",
+      "summary": "Voyager 1 reaches one light-day from Earth, marking a historic milestone nearly 50 years after its 1977 launch.",
+      "date_label": "18.11.2026",
+      "timestamp": 1795044912.0
+    },
+    {
+      "source": "CNN",
+      "category": "verden",
+      "topic": "annet",
+      "title": "Vincent van Gogh painting sells for $190 million, smashing auction record - CNN",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOcG16WFc2NXZDel9HU0JPMGVmNVh3cUQ2djZOYW5ObHBHSjdtYVpzX25pYjNZbTk2WkhOX2NTdnFKbXFmQVNqelFhc2lrZFhCYzZ1dXdhc0dOOVpxMU4wTGNBUUN6U1R3VUotZG15eTdzQ1g5Ri1mem05NzVrRmU1Q0JPZw?oc=5",
+      "summary": "Vincent van Gogh painting sells for $190 million, smashing auction record CNN",
+      "date_label": "18.11.2026",
+      "timestamp": 1795044661.0
+    },
+    {
+      "source": "BBC Politics",
+      "category": "verden",
+      "topic": "politikk",
+      "title": "Google rejects UK request for Russell Brand YouTube video to be removed, sources say",
+      "url": "https://www.bbc.co.uk/news/articles/cmgrenln8p29o?at_medium=RSS&at_campaign=rss",
+      "summary": "This comes after Brand's wife shared a message from him in which he claimed his innocence.",
+      "date_label": "18.11.2026",
+      "timestamp": 1795044554.0
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "annet",
+      "title": "Russian arrested for spying on US defence company Palantir over Ukraine support",
+      "url": "https://www.bbc.co.uk/news/articles/cq20xg80ly47o?at_medium=RSS&at_campaign=rss",
+      "summary": "The suspect followed employees and was found with fake US IDs and two Russian passports, prosecutors say.",
+      "date_label": "18.11.2026",
+      "timestamp": 1795044483.0
+    },
+    {
+      "source": "The Guardian",
+      "category": "verden",
+      "topic": "annet",
+      "title": "Crimea bridge has been attacked again, says Russian-installed governor",
+      "url": "https://www.theguardian.com/world/2026/nov/19/kerch-bridge-crimea-russia-attacked-again-ukraine",
+      "summary": "Assessment of damage is underway, days after two attacks that destroyed road section of key bridge across Kerch strait linking annexed peninsula to Russia A key bridge connecting annexed Crimea to Russia has been attacked again, a Russian-appointed regional governor has said, two days after Ukrainian strikes caused serious damage to it. “Following ",
+      "date_label": "18.11.2026",
+      "timestamp": 1795044457.0
+    },
+    {
+      "source": "Al Jazeera English",
+      "category": "verden",
+      "topic": "annet",
+      "title": "GTA 6 launches after 13-year wait, breaking pre-order records",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/gta-6-launches-after-13-year-wait-breaking-pre-order-records?traffic_source=rss",
+      "summary": "Grand Theft Auto’s latest instalment is out, ending a 13-year wait for one of gaming’s biggest franchises.",
+      "date_label": "18.11.2026",
+      "timestamp": 1795043883.0
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "annet",
+      "title": "Myanmar faces historic genocide verdict at UN court over Rohingya massacres",
+      "url": "https://www.bbc.co.uk/news/articles/c5m2l90ez144o?at_medium=RSS&at_campaign=rss",
+      "summary": "No state has ever been found guilty by an international court of committing genocide.",
+      "date_label": "18.11.2026",
+      "timestamp": 1795043046.0
+    },
+    {
+      "source": "Nordre Aker Budstikke",
+      "category": "lokalt",
+      "topic": "annet",
+      "title": "Den unge mannen råkjørte gang på gang: Kunne fått gigantbot, men retten mente det ikke holdt",
+      "url": "https://www.nab.no/den-unge-mannen-rakjorte-gang-pa-gang-kunne-fatt-gigantbot-men-retten-mente-det-ikke-holdt/s/80-143-39663",
+      "summary": "På 22 dager ble han tatt for råkjøring 18 ganger. Det tilsvarer bøter for 275.000 kroner, men retten ville ha ham bak lås og slå.",
+      "date_label": "18.11.2026",
+      "timestamp": 1795042920.0
+    },
+    {
+      "source": "BBC Entertainment",
+      "category": "verden",
+      "topic": "underholdning",
+      "title": "Hunger Games fan, 13, to get artwork shown on cinema screens before film",
+      "url": "https://www.bbc.co.uk/news/articles/cm4gnxjy5zllo?at_medium=RSS&at_campaign=rss",
+      "summary": "Freja Brown beat more than 1,000 entries and met some of the stars after winning a competition.",
+      "date_label": "18.11.2026",
+      "timestamp": 1795042909.0
+    },
+    {
+      "source": "Sagene Avis",
+      "category": "lokalt",
+      "topic": "annet",
+      "title": "Kri­ti­se­rer ny­bygg på Tors­hov: – Jeg ser ikke helt hvor­for noen skul­le bru­ke dis­se",
+      "url": "https://www.sageneavis.no/kritiserer-nybygg-pa-torshov-jeg-ser-ikke-helt-hvorfor-noen-skulle-bruke-disse/s/80-144-10911",
+      "summary": "Utbyggeren mener det nye røde teglbygget på Torshov har et klassisk uttrykk. Samtidig er ikke Arkitekturopprøret overbevist.",
+      "date_label": "18.11.2026",
+      "timestamp": 1795042860.0
+    },
+    {
+      "source": "Nordre Aker Budstikke",
+      "category": "lokalt",
+      "topic": "annet",
+      "title": "Usedvanlig mange boliger til salgs for over 20 millioner: – Blir solgt til slutt",
+      "url": "https://www.nab.no/usedvanlig-mange-boliger-til-salgs-for-over-20-millioner-blir-solgt-til-slutt/s/80-143-39267",
+      "summary": "Så langt i høst har det blitt solgt over 300 boliger i bydelen.",
+      "date_label": "18.11.2026",
+      "timestamp": 1795042860.0
+    },
+    {
+      "source": "CNN",
+      "category": "verden",
+      "topic": "annet",
+      "title": "NSA outage disrupts key intel hub that supports Middle East intelligence and operations, sources say - CNN",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQk0wUERwNVA3anJGSW1DbHhpNkFTTUZxR20yeUFCNWphcFluNjhuMFlEWldobkRDNTE0RFRFaDlRSmFGYW0ySGJEZU1UV2FCVWZfeHhLQ0FQYi14T2J2RTAxajZYMUhxSlM1aG5RNUNuYzUycXBhOEpNdXBNcnRNWFdmQXVSYWtKcnctenJUMnVHRkNNajFLdGxDeldtMzF0V1lWTQ?oc=5",
+      "summary": "NSA outage disrupts key intel hub that supports Middle East intelligence and operations, sources say CNN",
+      "date_label": "18.11.2026",
+      "timestamp": 1795042853.0
+    },
+    {
+      "source": "Al Jazeera English",
+      "category": "verden",
+      "topic": "annet",
+      "title": "US steps up pressure on Iran-backed Hezbollah with new sanctions",
+      "url": "https://www.aljazeera.com/news/2026/11/18/us-steps-up-pressure-on-iran-backed-hezbollah-with-new-sanctions?traffic_source=rss",
+      "summary": "The US Treasury has accused Hezbollah of using charitable organisations as 'fronts' for fundraising.",
+      "date_label": "18.11.2026",
+      "timestamp": 1795042579.0
+    },
+    {
+      "source": "The Guardian",
+      "category": "verden",
+      "topic": "annet",
+      "title": "GTA 6 dazzles gamers in Australia with ‘fully lived-in, breathable world’",
+      "url": "https://www.theguardian.com/games/2026/nov/19/gta-6-grand-theft-auto-vi-release-launch-australia-first-to-play-game",
+      "summary": "Players can renovate houses, fix cars, lift weights and follow the story in Grand Theft Auto VI’s Miami-inspired Vice City Tell us: are you playing Grand Theft Auto VI? Gamers across Australia woke up Thursday morning feeling like Christmas had come early, some bleary-eyed from late-night sessions on the PlayStation, others with grand plans for a w",
+      "date_label": "18.11.2026",
+      "timestamp": 1795042126.0
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "annet",
+      "title": "Israeli military launches rare ground operation in Gaza beyond Yellow Line",
+      "url": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
+      "summary": "Hamas condemns the incursion, which the Israeli military says is dismantling a \"terror tunnel\", as a \"flagrant\" ceasefire violation.",
+      "date_label": "18.11.2026",
+      "timestamp": 1795041296.0
+    },
+    {
+      "source": "BBC Sport",
+      "category": "verden",
+      "topic": "sport",
+      "title": "Man Utd pursuing Como's Paz - Thursday's gossip",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cxnv4q2qnvjvo?at_medium=RSS&at_campaign=rss",
+      "summary": "Manchester United pursuing Nico Paz, Besiktas plot move for Amad Diallo, Barcelona to rebuff offers for Alejandro Balde, plus more.",
+      "date_label": "18.11.2026",
+      "timestamp": 1795041245.0
+    },
+    {
+      "source": "The Guardian",
+      "category": "verden",
+      "topic": "annet",
+      "title": "EU proposes €45bn loan for Ukraine to avert cash crisis and boost defences",
+      "url": "https://www.theguardian.com/world/2026/nov/18/eu-loan-ukraine-cash-crisis-defences-von-der-leyen-kyiv",
+      "summary": "Von der Leyen says she wants to give Kyiv ‘strong hand’ in talks and is confident all 27 member states will back idea The EU executive has proposed a €45bn (£37.5bn) loan for Ukraine to help with a looming cash crisis and reinforce its defences, as Russia’s relentless bombardment continues. Announcing the plan to lend Kyiv the money in 2027, the Eu",
+      "date_label": "18.11.2026",
+      "timestamp": 1795041243.0
+    },
+    {
+      "source": "BBC Sport",
+      "category": "verden",
+      "topic": "sport",
+      "title": "Littler shocked by brilliant Wattimena at Grand Slam",
+      "url": "https://www.bbc.co.uk/sport/darts/articles/crlyenxw18d7o?at_medium=RSS&at_campaign=rss",
+      "summary": "Defending champion Luke Littler suffers a shock early exit at the Grand Slam of Darts after a stunning display from Jermaine Wattimena.",
+      "date_label": "18.11.2026",
+      "timestamp": 1795041212.0
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "annet",
+      "title": "Catherine visits Mumbai maternity hospital on the last day of royal trip",
+      "url": "https://www.bbc.co.uk/news/videos/c9gkljpgdn1lo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Prince and Princess of Wales ended their three-day trip to India on Wednesday, the couple's first international tour since 2022.",
+      "date_label": "18.11.2026",
+      "timestamp": 1795041167.0
+    },
+    {
+      "source": "The Guardian",
+      "category": "verden",
+      "topic": "annet",
+      "title": "Florida pastor found guilty over 2021 assassination of Haitian president",
+      "url": "https://www.theguardian.com/us-news/2026/nov/18/florida-pastor-guilty-haiti-president-assassination",
+      "summary": "Christian Emmanuel Sanon faces life in prison after conviction on charges arising from killing of Jovenel Moïse A Florida pastor with dual Haitian-American citizenship was convicted on Wednesday of US charges arising from the 2021 assassination of the Haitian president Jovenel Moïse. Christian Emmanuel Sanon was found guilty on charges including co",
+      "date_label": "18.11.2026",
+      "timestamp": 1795041101.0
+    },
+    {
+      "source": "NRK Sport",
+      "category": "norge",
+      "topic": "sport",
+      "title": "Bekrefter etter rykteflom: Formel 1-profil fortsetter",
+      "url": "https://www.nrk.no/sport/bekrefter-etter-rykteflom_-formel-1-profil-fortsetter-1.18084605",
+      "summary": "Valtteri Bottas blir å se i Cadillac-bilen også i Formel 1-sesongen i 2027. Det bekrefter laget onsdag. «Til den det måtte angå, jeg blir», står det på et bilde av den finske 37-åringen. Meldingen er en referanse til da han som Mercedes-fører vant et løp i Australia i 2019. På lagradioen svarte han kritikere i sosiale medier med: «til den det måtte",
+      "date_label": "18.11.2026",
+      "timestamp": 1795040628.0
+    },
+    {
+      "source": "CNN",
+      "category": "verden",
+      "topic": "annet",
+      "title": "72-year-old Palestinian woman shot and killed by Israeli settlers near newly established outpost - CNN",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNR0hjVDk5NU9leWhZT1loOFhjcGQ4aWxKM2Z6djJZVkxFLTYzLW9xUW82Y3dyOFFLOTVUWFlySUN4RHd1X3lOZE9pUzMxTGhpX0U5X25MSzRxSGdYaEI2bkJSbzVkc1pRRUhwT3lyOTNNaExtME5jR0xacFNZQ0hsMW5HVHBzdjdtR1loclhHQzdoUFZkMWhV?oc=5",
+      "summary": "72-year-old Palestinian woman shot and killed by Israeli settlers near newly established outpost CNN",
+      "date_label": "18.11.2026",
+      "timestamp": 1795040327.0
+    },
+    {
+      "source": "BBC Sport",
+      "category": "verden",
+      "topic": "sport",
+      "title": "Buurman rescues late Chelsea win against PSG",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cjy5xkq5wwrgo?at_medium=RSS&at_campaign=rss",
+      "summary": "Veerle Buurman scores an 87th-minute winner for Chelsea as they edge past Paris St-Germain 1-0 in the Women's Champions League to move top of the table.",
+      "date_label": "18.11.2026",
+      "timestamp": 1795040029.0
+    },
+    {
+      "source": "NRK",
+      "category": "norge",
+      "topic": "annet",
+      "title": "Medier: Anthropic-aksjen prises til 83 dollar",
+      "url": "https://www.nrk.no/nyheter/medier_-anthropic-aksjen-prises-til-83-dollar-1.18084614",
+      "summary": "Aksjen til KI-giganten Anthropic får en pris på 83 dollar. Det melder flere medier, blant annet The New York Times, Reuters og Wall Street Journal. Det er ventet at aksjenoteringen til Anthropic blir en av verdens største noensinne. Til sammen er det planlagt et salg av 825 millioner aksjer.",
+      "date_label": "18.11.2026",
+      "timestamp": 1795039472.0
+    },
+    {
+      "source": "CNN",
+      "category": "verden",
+      "topic": "annet",
+      "title": "A Florida pastor has been convicted of US charges related to the 2021 assassination of Haitian President Jovenel Moïse - CNN",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNE0zVUNRS0o3Z2JxcmplTEtQQmd3Qmcwd0YxbU5iZVd0T0J5U2lOSHdXdXVfMmpZanlYdTJIWmJOd20wSlFvWXhscVRyd2ItalRlUXExcFFVRFhkU2p1RW1GU3ZyYUlJN2lwVURvTVFNdkpTSU5UT1JXWG1pR2JpOHR6SkxaLWJHZ3hNd3FYbms4VlFaRW5qV2Zlbw?oc=5",
+      "summary": "A Florida pastor has been convicted of US charges related to the 2021 assassination of Haitian President Jovenel Moïse CNN",
+      "date_label": "18.11.2026",
+      "timestamp": 1795039436.0
+    },
+    {
+      "source": "Al Jazeera English",
+      "category": "verden",
+      "topic": "annet",
+      "title": "Iraq sentences six French nationals to life in prison for joining ISIL",
+      "url": "https://www.aljazeera.com/news/2026/11/18/iraq-sentences-six-french-nationals-to-life-in-prison-for-joining-isil?traffic_source=rss",
+      "summary": "Trials began in September for 47 French citizens who were transferred from Syria last year.",
+      "date_label": "18.11.2026",
+      "timestamp": 1795038797.0
+    },
+    {
+      "source": "CNN",
+      "category": "verden",
+      "topic": "annet",
+      "title": "Venezuela a ‘compliant security partner,’ Hegseth says as he announces military deal with Caracas - CNN",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUE9iX19fb2Ewd1JMVDFON3FPZi0wSGFGeTNLWk9TdDI1TWFuUmQ3dEZnaFVmS2tpYktqcUxqVGxaZGNZa1FnUDNYQU5XS3RXSkpPZDUxNmRMZ2ZZUE5oNV8wSDZ5OHpRcmw0YjlQUnhKbWotcEROTnljY2p2OTdYdGhLYzF6SjdaY3hPY3JB?oc=5",
+      "summary": "Venezuela a ‘compliant security partner,’ Hegseth says as he announces military deal with Caracas CNN",
+      "date_label": "18.11.2026",
+      "timestamp": 1795038128.0
+    },
+    {
+      "source": "Al Jazeera English",
+      "category": "verden",
+      "topic": "annet",
+      "title": "US lawmakers push to raise minimum wage to $25, end tipped pay system",
+      "url": "https://www.aljazeera.com/economy/2026/11/18/us-lawmakers-push-to-raise-minimum-wage-to-25-end-tipped-pay-system?traffic_source=rss",
+      "summary": "Public support for raising the minimum wage grows, with 78 percent of voters saying it was an important election issue.",
+      "date_label": "18.11.2026",
+      "timestamp": 1795037059.0
+    },
+    {
+      "source": "BBC Sport",
+      "category": "verden",
+      "topic": "sport",
+      "title": "Ukrainian FA to blame for failed drugs test - Mudryk",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cr930l71z5ejo?at_medium=RSS&at_campaign=rss",
+      "summary": "Tottenham's on-loan Chelsea winger Mykhailo Mudryk says he blames the Ukrainian Association of Football for his failed drugs test and subsequent ban.",
+      "date_label": "18.11.2026",
+      "timestamp": 1795036938.0
+    },
+    {
+      "source": "BBC Sport",
+      "category": "verden",
+      "topic": "sport",
+      "title": "Bottas' stay at Cadillac confirmed for 2027",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/cqkgr0elvl5zo?at_medium=RSS&at_campaign=rss",
+      "summary": "Valtteri Bottas is retained by Cadillac for the 2027 Formula 1 season.",
+      "date_label": "18.11.2026",
+      "timestamp": 1795036712.0
+    },
+    {
+      "source": "NRK",
+      "category": "norge",
+      "topic": "annet",
+      "title": "Russisk fiskerikonsern tapte søksmålet mot den norske stat",
+      "url": "https://www.nrk.no/tromsogfinnmark/russiske-norebo-tapte-soksmalet-mot-den-norske-stat-1.18084597",
+      "summary": "Norge ble saksøkt av den russiske fiskerigiganten Norebo.",
+      "date_label": "18.11.2026",
+      "timestamp": 1795036563.0
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "annet",
+      "title": "Democrats nominate Hakeem Jeffries to be US Speaker of the House",
+      "url": "https://www.bbc.co.uk/news/articles/cmy49873dn95o?at_medium=RSS&at_campaign=rss",
+      "summary": "The nomination sets him on the path to become the first black lawmaker to lead the chamber when Democrats take control of the House in January.",
+      "date_label": "18.11.2026",
+      "timestamp": 1795036386.0
+    },
+    {
+      "source": "Al Jazeera English",
+      "category": "verden",
+      "topic": "annet",
+      "title": "Floodwaters submerge cars and parking lots in Florida town",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/aje-onl-nf_floodwaters-submerge-cars-in-florida-181126?traffic_source=rss",
+      "summary": "Floodwaters turned streets and parking lots into rivers in Davie, Florida, leaving drivers facing dangerous conditions.",
+      "date_label": "18.11.2026",
+      "timestamp": 1795036084.0
+    },
+    {
+      "source": "BBC Sport",
+      "category": "verden",
+      "topic": "sport",
+      "title": "England defender Carter joins Bay FC after Gotham exit",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ck5y169v1262o?at_medium=RSS&at_campaign=rss",
+      "summary": "England defender Jess Carter completes a move to Bay FC after leaving Gotham FC as a free agent.",
+      "date_label": "18.11.2026",
+      "timestamp": 1795036046.0
+    },
+    {
+      "source": "Al Jazeera English",
+      "category": "verden",
+      "topic": "annet",
+      "title": "US Defence Secretary Hegseth reveals military partnership on Venezuela trip",
       "url": "https://www.aljazeera.com/news/2026/11/18/us-defence-secretary-announces-military-partnership-on-trip-to-venezuela?traffic_source=rss",
       "summary": "Pete Hegseth says the agreement will include joint training and intelligence sharing with the Venezuelan military.",
       "date_label": "18.11.2026",
@@ -30,26 +680,6 @@
       "summary": "",
       "date_label": "18.11.2026",
       "timestamp": 1795035123.0
-    },
-    {
-      "source": "BBC Politics",
-      "category": "verden",
-      "topic": "politikk",
-      "title": "UK government asks for Russell Brand's YouTube account to be removed",
-      "url": "https://www.bbc.co.uk/news/articles/cmgrenln8p29o?at_medium=RSS&at_campaign=rss",
-      "summary": "This comes after Brand's wife shared a message from him in which he claimed his innocence.",
-      "date_label": "18.11.2026",
-      "timestamp": 1795034938.0
-    },
-    {
-      "source": "NRK Sport",
-      "category": "norge",
-      "topic": "sport",
-      "title": "Ingvild Flugstad Østberg legger opp: – Stolt og enormt heldig",
-      "url": "https://www.nrk.no/sport/ingvild-flugstad-ostberg-legger-opp_-_-stolt-og-enormt-heldig-1.18084514",
-      "summary": "Langrennsprofilen Ingvild Flugstad Østberg (36) har besluttet å gi seg med satsingen. Det melder hun i et innlegg på Instagram onsdag. «Jeg er både stolt og enormt heldig som har levd et langt og fantastisk toppidrettsliv jeg ikke engang visste at jeg drømte om! Først og fremst er jeg utrolig takknemlig for alle vennskap jeg har fått», skriver hun.",
-      "date_label": "18.11.2026",
-      "timestamp": 1795034715.0
     },
     {
       "source": "NRK Sport",
@@ -90,6 +720,16 @@
       "summary": "The report projects steady increases for both Christianity and Islam from 2020 to 2070.",
       "date_label": "18.11.2026",
       "timestamp": 1795034260.0
+    },
+    {
+      "source": "CNN",
+      "category": "verden",
+      "topic": "annet",
+      "title": "Sen. Cornyn blocks judicial nominee because Trump didn’t choose Texas - CNN",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPenRockMyb0xwZEpMYWc1dmhRZmt2bEU4S21jR00zMEkzb2xVa21LM3kySDFqR3hJRnlVNzBMRUYwUzVKMjFIRUQybmNVWXRKRmkyMF84S0FjMU1FUWxQeHlzS0psVDFKM3BjSXEtVWJJcGVTOThuZ2xhZ3ZOWEZEdUxiUDFJR2JqUVgtemNoLVFLUHdxeU10b1Z6MXVNaEVmREVUY2ln?oc=5",
+      "summary": "Sen. Cornyn blocks judicial nominee because Trump didn’t choose Texas CNN",
+      "date_label": "18.11.2026",
+      "timestamp": 1795033924.0
     },
     {
       "source": "Deutsche Welle",
@@ -165,36 +805,6 @@
       "source": "BBC World",
       "category": "verden",
       "topic": "annet",
-      "title": "Israeli military launches rare ground operation in Gaza beyond Yellow Line",
-      "url": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
-      "summary": "Hamas condemns the incursion, which the Israeli military says is dismantling a \"terror tunnel\", as a \"flagrant\" ceasefire violation.",
-      "date_label": "18.11.2026",
-      "timestamp": 1795032897.0
-    },
-    {
-      "source": "Al Jazeera English",
-      "category": "verden",
-      "topic": "annet",
-      "title": "US lawmakers launch probe into Lutnick’s actions amid Nvidia scandal",
-      "url": "https://www.aljazeera.com/economy/2026/11/18/us-lawmakers-launch-probe-into-lutnicks-actions-amid-nvidia-scandal?traffic_source=rss",
-      "summary": "Letter alleges possible conflict of interest in commerce secretary not adding Megaspeed to US trade blacklist.",
-      "date_label": "18.11.2026",
-      "timestamp": 1795032844.0
-    },
-    {
-      "source": "Al Jazeera English",
-      "category": "verden",
-      "topic": "annet",
-      "title": "Trump and Putin to meet one-on-one in China Thursday",
-      "url": "https://www.aljazeera.com/news/2026/11/18/trump-and-putin-to-meet-one-on-one-in-china-thursday?traffic_source=rss",
-      "summary": "US and Russia leaders meet in China amid efforts to resolve Ukraine crisis and enhance post-war security guarantees.",
-      "date_label": "18.11.2026",
-      "timestamp": 1795032740.0
-    },
-    {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "annet",
       "title": "William and Kate meet PM Modi as they wrap up India tour",
       "url": "https://www.bbc.co.uk/news/articles/cq62ped2ypy4o?at_medium=RSS&at_campaign=rss",
       "summary": "The meeting in New Delhi was a late addition to the royal couple's India visit, which also included their appearance at the annual Earthshot Prize",
@@ -212,16 +822,6 @@
       "timestamp": 1795032000.0
     },
     {
-      "source": "Al Jazeera English",
-      "category": "verden",
-      "topic": "annet",
-      "title": "Heated debate escalates into on-air fight on Armenian TV",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/heated-debate-escalates-into-on-air-fight-on-armenian-tv?traffic_source=rss",
-      "summary": "A heated political debate on Armenia’s Public Television escalated into a physical altercation",
-      "date_label": "18.11.2026",
-      "timestamp": 1795031777.0
-    },
-    {
       "source": "CNN",
       "category": "verden",
       "topic": "annet",
@@ -235,11 +835,21 @@
       "source": "CNN",
       "category": "verden",
       "topic": "annet",
-      "title": "Mullin defends flight as he bears brunt of lawmaker’s ire during threats hearing - CNN",
+      "title": "Mullin defends flight as he bears brunt of lawmakers’ ire during threats hearing - CNN",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZV9LR2xVV1JMTVctZm9FRC1xaFFKX3hyaWtMV0RuanFpQXVQLW51SGNQNXFodzA2eWhtN3lfVWc3dDRxMXQxUXlQcC1SdnNXeFhaZXNnOXdnNERIQ2NmbW9rWTBZRlBQR1JiLVdMZXhlQ2JGa29IMU9Vb0xrRHdWeGktYi12MFExUWVKeg?oc=5",
-      "summary": "Mullin defends flight as he bears brunt of lawmaker’s ire during threats hearing CNN",
+      "summary": "Mullin defends flight as he bears brunt of lawmakers’ ire during threats hearing CNN",
       "date_label": "18.11.2026",
       "timestamp": 1795030706.0
+    },
+    {
+      "source": "CNN",
+      "category": "verden",
+      "topic": "annet",
+      "title": "Grand jury indicts Illinois man on terrorism and weapons charges in foiled Hindu temple shooting - CNN",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5jZlFGc2h1eXR5WFRqNmpjWE5BbzNJZl9KSjZoMlJxWG50MDFjVEtjMGI2SGJ6NDd1VTJmUVp3ei04clduRFRmZ3NNREdqWWFlZFd5V1NhcWdiUXFLaGtjTTFYbEN2QTJfMnlKT3dGaTZiT2hrbGdld1Rn?oc=5",
+      "summary": "Grand jury indicts Illinois man on terrorism and weapons charges in foiled Hindu temple shooting CNN",
+      "date_label": "18.11.2026",
+      "timestamp": 1795030684.0
     },
     {
       "source": "NRK",
@@ -252,36 +862,6 @@
       "timestamp": 1795030505.0
     },
     {
-      "source": "Al Jazeera English",
-      "category": "verden",
-      "topic": "annet",
-      "title": "Four killed as Russian strikes hit Ukraine’s Odesa",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/four-killed-as-russian-strikes-hit-ukraines-odesa?traffic_source=rss",
-      "summary": "At least four people have been killed and thirteen more injured after Russian strikes hit Ukraine’s port city of Odesa.",
-      "date_label": "18.11.2026",
-      "timestamp": 1795030291.0
-    },
-    {
-      "source": "Al Jazeera English",
-      "category": "verden",
-      "topic": "annet",
-      "title": "Voyager 1 reaches one light-day from Earth after 49 years in space",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/voyager-1-reaches-one-light-day-from-earth-after-49-years-in-space?traffic_source=rss",
-      "summary": "NASA’s Voyager 1 has reached a record distance of more than 16 billion miles from Earth, 49 years after its launch.",
-      "date_label": "18.11.2026",
-      "timestamp": 1795030251.0
-    },
-    {
-      "source": "Al Jazeera English",
-      "category": "verden",
-      "topic": "annet",
-      "title": "Israeli settler kills Palestinian grandmother in occupied West Bank",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/israeli-settler-kills-palestinian-grandmother-in-occupied-west-bank?traffic_source=rss",
-      "summary": "A Palestinian grandmother was killed by an Israeli settler in the occupied West Bank.",
-      "date_label": "18.11.2026",
-      "timestamp": 1795030062.0
-    },
-    {
       "source": "Avisa Oslo",
       "category": "lokalt",
       "topic": "annet",
@@ -290,6 +870,16 @@
       "summary": "Nabolaget mistet strømmen på verst tenkelige tidspunkt.",
       "date_label": "18.11.2026",
       "timestamp": 1795029945.0
+    },
+    {
+      "source": "CNN",
+      "category": "verden",
+      "topic": "annet",
+      "title": "The Trump team’s messaging problems on tech outages, broken down - CNN",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNd3NzOHhJbXNjWlozRHNscjR3Yk9YVXl0eDBpc181V2QzVkE5cUNid3drQVdVWVZtWHpScE1qekVTTmZTendXbXNzc0ZhbS1PM19FZW1rdDItVG5MamJnMDE3Z21NaG5iM3ltX3ZKNF9KOGRHaEpLcFdJajJxcFpVc0xFZw?oc=5",
+      "summary": "The Trump team’s messaging problems on tech outages, broken down CNN",
+      "date_label": "18.11.2026",
+      "timestamp": 1795029512.0
     },
     {
       "source": "The Guardian",
@@ -382,6 +972,16 @@
       "timestamp": 1795027200.0
     },
     {
+      "source": "CNN",
+      "category": "verden",
+      "topic": "annet",
+      "title": "Was ‘Grand Theft Auto VI’ worth the 13-year wait? The reviews are in - CNN",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZWZlc2t5b2NpS3NwZTl6c2ZnR3FyZkxLNFQ3T0preHpxaVJaQkJrQ1VpSW5CV0QzQUdxZkltUkI0c1Q1cjcwT0d3UGVtdFhjYnprNW9fVFRETUM3eGtLSFljOWtULTdrYnpuUWVUMExPS2U4WHVtb0xCdW5LdmFNa3B3?oc=5",
+      "summary": "Was ‘Grand Theft Auto VI’ worth the 13-year wait? The reviews are in CNN",
+      "date_label": "18.11.2026",
+      "timestamp": 1795027061.0
+    },
+    {
       "source": "Nordre Aker Budstikke",
       "category": "lokalt",
       "topic": "annet",
@@ -412,16 +1012,6 @@
       "timestamp": 1795026277.0
     },
     {
-      "source": "Al Jazeera English",
-      "category": "verden",
-      "topic": "annet",
-      "title": "Israeli court extends Gaza doctor Abu Safia’s detention without charge",
-      "url": "https://www.aljazeera.com/news/2026/11/18/israeli-court-extends-gaza-doctor-abu-safias-detention-without-charge?traffic_source=rss",
-      "summary": "An Israeli court extended the detention of Abu Safia nearly two years after Israel's army detained him.",
-      "date_label": "18.11.2026",
-      "timestamp": 1795026146.0
-    },
-    {
       "source": "BBC Politics",
       "category": "verden",
       "topic": "politikk",
@@ -430,26 +1020,6 @@
       "summary": "In her decision, Judge Emma Kelly says there was a \"compelling need\" to grant the interim injunction.",
       "date_label": "18.11.2026",
       "timestamp": 1795025974.0
-    },
-    {
-      "source": "Al Jazeera English",
-      "category": "verden",
-      "topic": "annet",
-      "title": "Israeli forces launch new military operation in central Gaza",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/israeli-forces-launch-new-military-operation-in-central-gaza?traffic_source=rss",
-      "summary": "Israeli forces have launched a new military operation in central Gaza, advancing west of the Yellow Line",
-      "date_label": "18.11.2026",
-      "timestamp": 1795025562.0
-    },
-    {
-      "source": "Al Jazeera English",
-      "category": "verden",
-      "topic": "annet",
-      "title": "Donald Trump meets ‘longtime friend’ Imelda Marcos during Philippines visit",
-      "url": "https://www.aljazeera.com/news/2026/11/18/donald-trump-meets-longtime-friend-imelda-marcos-during-philippines-visit?traffic_source=rss",
-      "summary": "Trump told Philippine President Marcos he knew his parents 'very well'.",
-      "date_label": "18.11.2026",
-      "timestamp": 1795025397.0
     },
     {
       "source": "BBC Sport",
@@ -465,11 +1035,11 @@
       "source": "CNN",
       "category": "verden",
       "topic": "annet",
-      "title": "What’s causing all these outages? The internet is held together with shoestring and bubblegum | CNN Business - CNN",
+      "title": "What’s causing all these outages? The internet is held together with shoestring and bubblegum - CNN",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0zcHBKZkxSTTJMcHNpMDd0bTZULWkwLWRlQUREb0xzaGl2RE1YaGV4VmgxTkpZdHpiTlZBV3ExZ0xyQ3VpcGRFUUhBSXdCa3F3MEJPVnVMTm9WeTRDcXRYYk91VXZpSWx1?oc=5",
-      "summary": "What’s causing all these outages? The internet is held together with shoestring and bubblegum | CNN Business CNN",
+      "summary": "What’s causing all these outages? The internet is held together with shoestring and bubblegum CNN",
       "date_label": "18.11.2026",
-      "timestamp": 1795024922.0
+      "timestamp": 1795024872.0
     },
     {
       "source": "Sagene Avis",
@@ -502,26 +1072,6 @@
       "timestamp": 1795024657.0
     },
     {
-      "source": "The Guardian",
-      "category": "verden",
-      "topic": "annet",
-      "title": "Cheese, pet passports and youth mobility: what’s in the UK-EU ‘relationship reset’ draft?",
-      "url": "https://www.theguardian.com/politics/2026/nov/18/uk-eu-relationship-reset-draft-explainer",
-      "summary": "Leaked text of 72-paragraph second draft shows agreement has largely been reached before expected signoff on Friday The UK-EU “relationship reset” agreement, which began in earnest under Keir Starmer, is expected to be signed off by Andy Burnham in Brussels on Friday. A leaked text of the second draft shows an agreement has largely been reached wit",
-      "date_label": "18.11.2026",
-      "timestamp": 1795024599.0
-    },
-    {
-      "source": "The Guardian",
-      "category": "verden",
-      "topic": "annet",
-      "title": "Alexander Zverev notified of abuse lawsuit by ex-partner during ATP Finals",
-      "url": "https://www.theguardian.com/sport/2026/nov/18/alexander-zverev-abuse-lawsuit-atp-finals-finals-brenda-patea",
-      "summary": "Men’s world No 1 allegedly violated terms of settlement Lawyers say Zverev will ‘defend himself against lawsuit’ Alexander Zverev was officially notified of a lawsuit filed by his former partner during the middle of the season-ending ATP Finals on Wednesday. The latest legal case against the men’s world No 1 brought by the mother of the former coup",
-      "date_label": "18.11.2026",
-      "timestamp": 1795024359.0
-    },
-    {
       "source": "Deutsche Welle",
       "category": "verden",
       "topic": "annet",
@@ -532,16 +1082,6 @@
       "timestamp": 1795024320.0
     },
     {
-      "source": "Al Jazeera English",
-      "category": "verden",
-      "topic": "annet",
-      "title": "Far-right influencer Jake Lang kicked out of Dearborn council meeting",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/far-right-influencer-jake-lang-kicked-out-of-dearborn-council-meeting?traffic_source=rss",
-      "summary": "Far-right influencer Jake Lang was removed from a Dearborn City Council meeting after disrupting proceedings.",
-      "date_label": "18.11.2026",
-      "timestamp": 1795024200.0
-    },
-    {
       "source": "The Guardian",
       "category": "verden",
       "topic": "annet",
@@ -550,16 +1090,6 @@
       "summary": "This blog is now closed, you can read more on this story here Yalta became a byword for betrayal. Will Trump, Xi and Putin enact another carve-up? That is the question the Guardian’s diplomatic correspondent Patrick Wintour seeks to address in his piece about the expected, Putin, Trump and Xi, meeting at Apec on Thursday. It is a truism in diplomac",
       "date_label": "18.11.2026",
       "timestamp": 1795024104.0
-    },
-    {
-      "source": "Al Jazeera English",
-      "category": "verden",
-      "topic": "annet",
-      "title": "What has happened to the $18bn pledged to Trump’s Board of Peace for Gaza?",
-      "url": "https://www.aljazeera.com/news/2026/11/18/what-has-happened-to-the-18bn-pledged-to-trumps-board-of-peace-for-gaza?traffic_source=rss",
-      "summary": "Billions have been pledged for Gaza since a 2025 'ceasefire', but rebuilding hasn’t begun and Israeli attacks continue.",
-      "date_label": "18.11.2026",
-      "timestamp": 1795023909.0
     },
     {
       "source": "BBC Sport",
@@ -602,16 +1132,6 @@
       "timestamp": 1795023265.0
     },
     {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "annet",
-      "title": "Democrats nominate Hakeem Jeffries to be US Speaker of the House",
-      "url": "https://www.bbc.co.uk/news/articles/cmy49873dn95o?at_medium=RSS&at_campaign=rss",
-      "summary": "The nomination sets him on the path to become the first black lawmaker to lead the chamber when Democrats take control of the House in January.",
-      "date_label": "18.11.2026",
-      "timestamp": 1795023263.0
-    },
-    {
       "source": "The Guardian Technology",
       "category": "verden",
       "topic": "teknologi",
@@ -640,6 +1160,16 @@
       "summary": "Magnus Carlsen hadde god kontroll mot Bibisara Assubayeva i Total Chess-turneringen i Budapest. Igjen droppet han klassiskdelen. Duellen varte over to dager, og Carlsen skaffet seg et overtak da han vant tirsdag. Dermed trengte han bare uavgjort på poeng onsdag for å ta seg videre, men igjen avgjorde Carlsen det hele før det avsluttende klassiskpar",
       "date_label": "18.11.2026",
       "timestamp": 1795022384.0
+    },
+    {
+      "source": "CNN",
+      "category": "verden",
+      "topic": "annet",
+      "title": "Why SNL’s ‘Sister’ sketch hit a nerve about the reality of caregiving - CNN",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE55V0VReUpLajlhekNvNWxVR1BRaWdXVktBSGc3SmhXU3dpWWNqaXBwQlJVZm4zbDBHTFFiRlFnellDX3NhNDJMUGJpR0FxT0U5cnh0QXAwSWRPRmlJU3U4Z2Q2OXJJMl8za29NdU1YYl9RZmFhanc?oc=5",
+      "summary": "Why SNL’s ‘Sister’ sketch hit a nerve about the reality of caregiving CNN",
+      "date_label": "18.11.2026",
+      "timestamp": 1795022354.0
     },
     {
       "source": "Deutsche Welle",
@@ -722,44 +1252,14 @@
       "timestamp": 1795020518.0
     },
     {
-      "source": "Al Jazeera English",
+      "source": "CNN",
       "category": "verden",
       "topic": "annet",
-      "title": "Kuwait, Bahrain face new Iran attacks after US strike on Qeshm Island",
-      "url": "https://www.aljazeera.com/news/2026/11/18/kuwait-bahrain-face-new-iran-attacks-after-us-strike-on-qeshm-island?traffic_source=rss",
-      "summary": "Iranian attacks on the Gulf countries draw condemnation from across the region.",
+      "title": "Hakeem Jeffries wins Democratic nomination for House speaker - CNN",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQzlRRHY3TjZYaV9YWlVQcXExLVVqajFlRUY2ZHhHUkxaUk1DRmNOdUZJeERsTGMyMUdTRjhzYXNTTXp3d2Q4SUVDNXRldGJmUXNFZHByTGZHSWFNS1laaEZLQ3pSTEEtZGJlUENSbWhEbHRoWWVUYk5sSDJLS2dXOHB2SQ?oc=5",
+      "summary": "Hakeem Jeffries wins Democratic nomination for House speaker CNN",
       "date_label": "18.11.2026",
-      "timestamp": 1795020446.0
-    },
-    {
-      "source": "BBC Sport",
-      "category": "verden",
-      "topic": "sport",
-      "title": "Prem opens registration for expansion to 12 teams",
-      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cje39nwzryw3o?at_medium=RSS&at_campaign=rss",
-      "summary": "Prem Rugby opens a registration process for teams to apply with the aim of expanding the league to 12 clubs for the 2029-30 season.",
-      "date_label": "18.11.2026",
-      "timestamp": 1795020405.0
-    },
-    {
-      "source": "Al Jazeera English",
-      "category": "verden",
-      "topic": "annet",
-      "title": "World Bank official says Lebanon reconstruction making slow progress",
-      "url": "https://www.aljazeera.com/news/2026/11/18/world-bank-official-says-lebanon-reconstruction-making-slow-progress?traffic_source=rss",
-      "summary": "Beirut blames Israel's occupation and attacks on southern Lebanon for reconstruction delays.",
-      "date_label": "18.11.2026",
-      "timestamp": 1795020299.0
-    },
-    {
-      "source": "Al Jazeera English",
-      "category": "verden",
-      "topic": "annet",
-      "title": "Crowds gather as Trump arrives in China ahead of talks with Xi and Putin",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/crowds-gather-as-trump-arrives-in-china-ahead-of-talks-with-xi-and-putin?traffic_source=rss",
-      "summary": "Crowds gathered in Shenzhen, China, to welcome US President Donald Trump as he arrived for the APEC summit",
-      "date_label": "18.11.2026",
-      "timestamp": 1795020003.0
+      "timestamp": 1795019831.0
     },
     {
       "source": "BBC Entertainment",
@@ -770,16 +1270,6 @@
       "summary": "The 83-year-old singer is accused of abusing two former employees at Caribbean residences in 2021.",
       "date_label": "18.11.2026",
       "timestamp": 1795019596.0
-    },
-    {
-      "source": "Al Jazeera English",
-      "category": "verden",
-      "topic": "annet",
-      "title": "Jerusalem Daily: Chaos in the Knesset as new speaker elected",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/jerusalem-daily-chaos-in-the-knesset-as-new-speaker-elected?traffic_source=rss",
-      "summary": "Israel’s army beat a journalist covering a settler attack near Jericho.",
-      "date_label": "18.11.2026",
-      "timestamp": 1795019334.0
     },
     {
       "source": "BBC Sport",
@@ -802,26 +1292,6 @@
       "timestamp": 1795018875.0
     },
     {
-      "source": "The Guardian",
-      "category": "verden",
-      "topic": "annet",
-      "title": "Labour faces double blow over UK fossil fuel projects",
-      "url": "https://www.theguardian.com/business/2026/nov/18/sse-threatens-to-close-yorkshire-gas-storage-site-unless-ministers-intervene",
-      "summary": "Large North Sea operator EnQuest says it is quitting oil basin, while SSE threatens to close Yorkshire gas storage site Nils Pratley: with more gas storage at risk. What’s the government plan for secure supplies? The energy secretary has been dealt a double blow after two UK companies signalled plans to pull their investment from large fossil fuel ",
-      "date_label": "18.11.2026",
-      "timestamp": 1795018781.0
-    },
-    {
-      "source": "Al Jazeera English",
-      "category": "verden",
-      "topic": "annet",
-      "title": "Canada’s PM calls out ‘lying’ Putin for downplaying sanctions",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/canadas-pm-calls-out-lying-putin-for-downplaying-sanctions?traffic_source=rss",
-      "summary": "Carney accuses Putin of ‘lying’ after the Russian leader dismissed Western sanctions as a ‘thing of the past’.",
-      "date_label": "18.11.2026",
-      "timestamp": 1795018608.0
-    },
-    {
       "source": "BBC Sport",
       "category": "verden",
       "topic": "sport",
@@ -830,26 +1300,6 @@
       "summary": "As Cameron Bancroft's explosive allegations raise more questions about the sandpaper scandal, BBC Sport looks at who was there and what they have said since.",
       "date_label": "18.11.2026",
       "timestamp": 1795018384.0
-    },
-    {
-      "source": "BBC Sport",
-      "category": "verden",
-      "topic": "sport",
-      "title": "Price fighting to be Wales' first undisputed world champion",
-      "url": "https://www.bbc.co.uk/sport/boxing/articles/c6pw4xyr84yyo?at_medium=RSS&at_campaign=rss",
-      "summary": "Lauren Price gets chance to become Wales' first undisputed world champion in her fight with Michaela Kotaskova in Cardiff.",
-      "date_label": "18.11.2026",
-      "timestamp": 1795018246.0
-    },
-    {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "annet",
-      "title": "Trump shakes hands with Putin and Xi ahead of historic talks in China",
-      "url": "https://www.bbc.co.uk/news/articles/ck9d75x5wwwwo?at_medium=RSS&at_campaign=rss",
-      "summary": "The three leaders will meet together for the first time on Thursday during a closely-watched summit.",
-      "date_label": "18.11.2026",
-      "timestamp": 1795018244.0
     },
     {
       "source": "BBC Sport",
@@ -870,16 +1320,6 @@
       "summary": "Den amerikanske sjakkstjernen Wesley So kom onsdag med en brutal selvransakelse etter at han tidligere i uken slaktet Total Chess-formatet. So har gjennom hele turneringen i Budapest uttrykt sterk misnøye med oppsettet og den travle timeplanen. Mandag tok han det til et nytt nivå, da han i en melding på X gikk knallhardt ut mot arrangøren. I etterk",
       "date_label": "18.11.2026",
       "timestamp": 1795018119.0
-    },
-    {
-      "source": "Al Jazeera English",
-      "category": "verden",
-      "topic": "annet",
-      "title": "Five EU nations to deport migrants to Rwanda",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/five-eu-nations-to-deport-migrants-to-rwanda?traffic_source=rss",
-      "summary": "Five European countries are looking to Rwanda to host rejected asylum seekers.",
-      "date_label": "18.11.2026",
-      "timestamp": 1795017937.0
     },
     {
       "source": "NRK",
@@ -907,7 +1347,7 @@
       "topic": "sport",
       "title": "Alcaraz continues winning run despite injury concern",
       "url": "https://www.bbc.co.uk/sport/tennis/articles/cmdx1erlpqkxo?at_medium=RSS&at_campaign=rss",
-      "summary": "Carlos Alcaraz continues his sensational late-season form as he outclasses world number five Daniil Medvedev to all but confirm his progress at the ATP Finals.",
+      "summary": "Carlos Alcaraz continues his sensational late-season form as he outclasses world number five Daniil Medvedev to confirm his progress at the ATP Finals.",
       "date_label": "18.11.2026",
       "timestamp": 1795017707.0
     },
@@ -920,26 +1360,6 @@
       "summary": "Endringene vil trolig påvirke deg uansett hvordan du reiser.",
       "date_label": "18.11.2026",
       "timestamp": 1795017600.0
-    },
-    {
-      "source": "Al Jazeera English",
-      "category": "verden",
-      "topic": "annet",
-      "title": "Largest US egg producer to cull 1.8 million birds after bird flu outbreak",
-      "url": "https://www.aljazeera.com/economy/2026/11/18/largest-us-egg-producer-to-cull-1-8-million-birds-after-bird-flu-outbreak?traffic_source=rss",
-      "summary": "Cal-Maine reports avian influenza at Florida site, with 2.7 percent of its total flock affected.",
-      "date_label": "18.11.2026",
-      "timestamp": 1795017455.0
-    },
-    {
-      "source": "Al Jazeera English",
-      "category": "verden",
-      "topic": "annet",
-      "title": "Pax Silica is the new face of US imperialism in the Philippines",
-      "url": "https://www.aljazeera.com/opinions/2026/11/18/pax-silica-is-the-new-face-of-us-imperialism-in-the-philippines?traffic_source=rss",
-      "summary": "Behind promises of jobs and investment lie threats to ancestral lands, water security and national sovereignty.",
-      "date_label": "18.11.2026",
-      "timestamp": 1795017440.0
     },
     {
       "source": "NRK",
@@ -1182,16 +1602,6 @@
       "timestamp": 1795012020.0
     },
     {
-      "source": "Avisa Oslo",
-      "category": "lokalt",
-      "topic": "annet",
-      "title": "Bil har satt seg fast i en pullert i sentrum – sperrer veien",
-      "url": "https://www.ao.no/bil-har-satt-seg-fast-i-en-pullert-i-sentrum-sperrer-veien/s/30-128-26293",
-      "summary": "Ble påkjørt dagen før også.",
-      "date_label": "18.11.2026",
-      "timestamp": 1795011812.0
-    },
-    {
       "source": "NRK Sport",
       "category": "norge",
       "topic": "sport",
@@ -1200,26 +1610,6 @@
       "summary": "Det melder klubben i en pressemelding. Anna Aahjem sin kontrakt går ut ved nyttår. Den blir ikke forlenget, og spissen har dermed spilt sin siste kamp for Brann. – Jeg har hatt noen veldig fine år her, og har vært omringet av ekstremt mange fine folk både i og rundt klubben, sier Aahjem. Aahjem ble toppscorer i Toppserien for Lyn i 2023, og signert",
       "date_label": "18.11.2026",
       "timestamp": 1795010771.0
-    },
-    {
-      "source": "The Guardian",
-      "category": "verden",
-      "topic": "annet",
-      "title": "Business Council of Australia more aligned with fossil fuel industry than its members’ values, analysis finds",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/19/bca-policy-energy-companies-members-climate-concerns",
-      "summary": "Research by InfluenceMap raises questions about association’s policies and representation, particularly around advocacy for new gas supplies Get our breaking news email , free app or daily news podcast The Business Council of Australia is lobbying for gas expansion policies that clash with the climate concerns of the majority of its own members, ac",
-      "date_label": "18.11.2026",
-      "timestamp": 1795010402.0
-    },
-    {
-      "source": "BBC Technology",
-      "category": "verden",
-      "topic": "teknologi",
-      "title": "The seven Anthropic founders who are about to become multi-billionaires",
-      "url": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
-      "summary": "The AI company behind Claude is about to sell its shares on the US stock market - making its founders very rich.",
-      "date_label": "18.11.2026",
-      "timestamp": 1795010114.0
     },
     {
       "source": "NRK",
@@ -1392,16 +1782,6 @@
       "timestamp": 1795003899.0
     },
     {
-      "source": "CNN",
-      "category": "verden",
-      "topic": "annet",
-      "title": "Your guide to the people who matter at Anthropic - CNN",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1PTC1kVkpNd2hyUng1dTJxX3lPbHFoUFdpUXZQMXpxZEI5SE90eXl6RVdmem1FZlVhS2RTTWpCN2tuaGc1SjVYN1NlMWFHX2p0Z3dKMmtDN25iX1hDZUNkZDlJM2JGNlF5Smdsdg?oc=5",
-      "summary": "Your guide to the people who matter at Anthropic CNN",
-      "date_label": "18.11.2026",
-      "timestamp": 1795003522.0
-    },
-    {
       "source": "The Guardian Culture",
       "category": "verden",
       "topic": "kultur",
@@ -1515,29 +1895,9 @@
       "source": "CNN",
       "category": "verden",
       "topic": "annet",
-      "title": "200,000 walruses are forced ashore in Alaska as sea ice melts. Now there’s a plan to protect them - CNN",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWlZ6VDQtWm4zX09oTUhoYUY5MnRzYXZBWEJ3aVZBb2toMlo4eVRtWEs5ZmgwQmtrcWpyckZrZk1lOHdaSGZOdGZIOHNHOHRXYldsREtoVlpSZlVCdWtEYnFjV3VtOUVfX042VU1OallPaHNma05OVUo5cy0tQTZjZGFRTUJHcUw4dE82Z0I2OA?oc=5",
-      "summary": "200,000 walruses are forced ashore in Alaska as sea ice melts. Now there’s a plan to protect them CNN",
-      "date_label": "18.11.2026",
-      "timestamp": 1794999616.0
-    },
-    {
-      "source": "CNN",
-      "category": "verden",
-      "topic": "annet",
       "title": "‘Toxic Hall of Shame’ singles out major retailers before Black Friday - CNN",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1oM3cyOWU5SUVoM0hFNXhMMXl4UjFlNy1YQlFRemV2NnN1c2EyTVhMMFlwc1ZKa2ppU3NWb3BXQk9RMDhheG50bUs2UFVuZ2dMa3QyRFhTa2RsU2hERmRpYk1EMjJJU3RSUWlEc3FrSzllOElwRVN6eXZLaw?oc=5",
       "summary": "‘Toxic Hall of Shame’ singles out major retailers before Black Friday CNN",
-      "date_label": "18.11.2026",
-      "timestamp": 1794999615.0
-    },
-    {
-      "source": "CNN",
-      "category": "verden",
-      "topic": "annet",
-      "title": "Four takeaways from Nvidia’s first earnings report after Jensen Huang scandal - CNN",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQX05adF9NVmRmbVFrTEE1NmZfMXhnYkNPbzl6WEd2Q0tfMkY3eEdZNmZDcUJtdlhqYURpRDZXTkQ4eWJBcXpDaFdGRGl0cjhUN010akJOdm1IdDZla2ZmUjZmbkdEOF9BeXY5WXlCbk15VGFud0o5Q0J3WjlOVlRveUpKZlg0VEk0dVlDa0JpTmhXRS1y?oc=5",
-      "summary": "Four takeaways from Nvidia’s first earnings report after Jensen Huang scandal CNN",
       "date_label": "18.11.2026",
       "timestamp": 1794999615.0
     },
@@ -1562,16 +1922,6 @@
       "timestamp": 1794999360.0
     },
     {
-      "source": "BBC Sport",
-      "category": "verden",
-      "topic": "sport",
-      "title": "Record crowds, legends - Bordeaux bid to escape amateur game",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c63rgqrz9jgqo?at_medium=RSS&at_campaign=rss",
-      "summary": "Bordeaux fans thought things could not get any worse, then they were demoted to France's amateur sixth tier.",
-      "date_label": "18.11.2026",
-      "timestamp": 1794999097.0
-    },
-    {
       "source": "Deutsche Welle",
       "category": "verden",
       "topic": "annet",
@@ -1580,16 +1930,6 @@
       "summary": "El Salvador's mega-prison has become a model for governments across Latin America seeking to combat organized crime. But experts question whether the approach is effective, sustainable or compatible with human rights.",
       "date_label": "18.11.2026",
       "timestamp": 1794998700.0
-    },
-    {
-      "source": "CNN",
-      "category": "verden",
-      "topic": "annet",
-      "title": "Voyager 1, the farthest human-made object, is now one light-day from Earth - CNN",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5qbGJpaW95bDFOakhTX1ItcWd5aFlWZXRZMk1yU1ZyVXlJakdtOGh6LWVUTV9CVWliRFdBOGRvWkR6ZFFSczJaQXJkRTU3Znd6U3NjY1ZIdHZ4RE5uODhRVUJpVkNJRWVNUXc?oc=5",
-      "summary": "Voyager 1, the farthest human-made object, is now one light-day from Earth CNN",
-      "date_label": "18.11.2026",
-      "timestamp": 1794998115.0
     },
     {
       "source": "BBC Entertainment",
@@ -1632,16 +1972,6 @@
       "timestamp": 1794996825.0
     },
     {
-      "source": "BBC Sport",
-      "category": "verden",
-      "topic": "sport",
-      "title": "Former Spain midfielder Mata retires aged 38",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c8p3vwe1rrzqo?at_medium=RSS&at_campaign=rss",
-      "summary": "Former Spain midfielder Juan Mata, who had spells at Chelsea and Manchester United in the Premier League, announces his retirement from playing at the age of 38.",
-      "date_label": "18.11.2026",
-      "timestamp": 1794996766.0
-    },
-    {
       "source": "The Guardian Culture",
       "category": "verden",
       "topic": "kultur",
@@ -1682,26 +2012,6 @@
       "timestamp": 1794996047.0
     },
     {
-      "source": "CNN",
-      "category": "verden",
-      "topic": "annet",
-      "title": "Democrats send letters to dozens of Trump officials and allies putting them on notice - CNN",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE56YldsTXI4Q291eVFsZWVzTFBFTnpPWXBjYThOUXVVMVROdngzbW5TZFlKVWJ2Z3FuZjB2Qmp1MWd2QU1YcVJsRHJvZHl2dHdkU2dQVWRSdzE2a201b3F4Mkt2ZnFwU0wzcTk1WjRzMmVQUjJhQUd6VkhrWHJuQQ?oc=5",
-      "summary": "Democrats send letters to dozens of Trump officials and allies putting them on notice CNN",
-      "date_label": "18.11.2026",
-      "timestamp": 1794996015.0
-    },
-    {
-      "source": "CNN",
-      "category": "verden",
-      "topic": "annet",
-      "title": "The midterm blitz that saved Pete Buttigieg from quitting politics - CNN",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBfYzZLdkNHdVRkR0xRWi1XM0VmUVR4aEYwak1WbUNXU1ljT0NrWE1qTVhGRjBpOWdVeUtrbk1GeUs2NkREcm5ibUpJel92cENablZEMmFab1dYTTVTempMQzFHOGhJdW5JRE5OQ2k4dGNPY01qMlhJQTNndjY2azA?oc=5",
-      "summary": "The midterm blitz that saved Pete Buttigieg from quitting politics CNN",
-      "date_label": "18.11.2026",
-      "timestamp": 1794996015.0
-    },
-    {
       "source": "The Guardian",
       "category": "verden",
       "topic": "annet",
@@ -1712,16 +2022,6 @@
       "timestamp": 1794995908.0
     },
     {
-      "source": "CNN",
-      "category": "verden",
-      "topic": "annet",
-      "title": "Kim’s daughter skiis down new North Korean resort slopes - CNN",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRXJfRnNYM0tvNkIzcGg1cmkxSUJTaTdMVHNPekgzdnZOVWtORzJqdkRadE1fcVQzUTkwM0gyekpaRFV2cXo2U1NtMGZPSUxfcWhxRUx6N1ZJVDJHUnRsN05XalE4NWZOaVYzN1pBam11ZUl2dFRDdEs1UGpLdVVnWUUtdk5fTXBxcjZ5MXhTeWtUWVpsaGhNejR4UlY2WE0?oc=5",
-      "summary": "Kim’s daughter skiis down new North Korean resort slopes CNN",
-      "date_label": "18.11.2026",
-      "timestamp": 1794995520.0
-    },
-    {
       "source": "NRK",
       "category": "norge",
       "topic": "annet",
@@ -1730,16 +2030,6 @@
       "summary": "Den tidligere idrettslederen nektet straffskyld for voldtekt med trusler. Nå er han dømt igjen.",
       "date_label": "18.11.2026",
       "timestamp": 1794995351.0
-    },
-    {
-      "source": "The Guardian",
-      "category": "verden",
-      "topic": "annet",
-      "title": "‘Phantom forests’ in Australia’s arid outback used to create carbon credits meant to offset emissions, report claims",
-      "url": "https://www.theguardian.com/environment/2026/nov/18/phantom-forests-in-australian-arid-outback-used-to-create-carbon-credits-meant-to-offset-emissions-report-claims",
-      "summary": "Carbon credit companies reject research that found only small increase in forest and canopy cover in regeneration areas despite wet conditions Get our daily political email , free app or daily news podcast A fight over the legitimacy of Australia’s climate change policy has reignited after researchers claimed “phantom forests” in the semi-arid outb",
-      "date_label": "18.11.2026",
-      "timestamp": 1794994236.0
     },
     {
       "source": "BBC Technology",
@@ -1765,9 +2055,9 @@
       "source": "Deutsche Welle",
       "category": "verden",
       "topic": "annet",
-      "title": "APEC summit: Xi, Trump and Putin gather in Shenzhen, China",
-      "url": "https://www.dw.com/en/apec-summit-xi-trump-and-putin-gather-in-shenzhen-china/live-79964719?maca=en-rss-en-all-1573-xml-mrss",
-      "summary": "The presidents of China, Russia and the US have greeted each other amid the APEC summit in Shenzhen. This comes a day ahead of the trilateral talks between Xi Jinping, Vladimir Putin and Donald Trump. Follow DW live.",
+      "title": "APEC summit: Xi, Trump and Putin to hold first-ever trilateral in China",
+      "url": "https://www.dw.com/en/apec-summit-xi-trump-and-putin-to-hold-first-ever-trilateral-in-china/live-79964719?maca=en-rss-en-all-1573-xml-mrss",
+      "summary": "Presidents Donald Trump, Xi Jinping and Vladimir Putin are scheduled to sit down for a three-way summit today. Follow live.",
       "date_label": "18.11.2026",
       "timestamp": 1794993780.0
     },
@@ -1780,16 +2070,6 @@
       "summary": "Politiet ble varslet om kollisjonen klokken 09.30.",
       "date_label": "18.11.2026",
       "timestamp": 1794993270.0
-    },
-    {
-      "source": "CNN",
-      "category": "verden",
-      "topic": "annet",
-      "title": "‘World’s longest’ train stretches 4.7 miles - CNN",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1hUmM4TnBoeFdnVkpQUkN5QXNhc0NFLVFvTVYyTWJHVGxNYzRGc3VYSU5lRy0wZGtNVGFxSnRRMGQ1ZDExMDlTdHBzVGhVRUpyaXBXZF9IOXpqWWlrVXBfT1NGeDk1aTNfUWdqQnkyWmZtSGlPWXNvS2l3Vl85UQ?oc=5",
-      "summary": "‘World’s longest’ train stretches 4.7 miles CNN",
-      "date_label": "18.11.2026",
-      "timestamp": 1794993091.0
     },
     {
       "source": "Deutsche Welle",
@@ -1827,19 +2107,9 @@
       "topic": "sport",
       "title": "Manchester won't always be blue - Pochettino",
       "url": "https://www.bbc.co.uk/sport/football/articles/cm782wnwzvq3o?at_medium=RSS&at_campaign=rss",
-      "summary": "New Manchester United boss Mauricio Pochettino says he will restore Manchester United to being the most successful footballing side in the city.",
+      "summary": "New boss Mauricio Pochettino says he will restore Manchester United to being the most successful footballing side in the city.",
       "date_label": "18.11.2026",
       "timestamp": 1794991348.0
-    },
-    {
-      "source": "Deutsche Welle",
-      "category": "verden",
-      "topic": "annet",
-      "title": "Ukraine: Kyiv targets Krasnodar refineries after felling Kerch bridge",
-      "url": "https://www.dw.com/en/ukraine-kyiv-targets-krasnodar-refineries-after-felling-kerch-bridge/live-79976877?maca=en-rss-en-all-1573-xml-mrss",
-      "summary": "Reports that two industrial facilities were targeted overnight in Krasnodar, after the Kerch bridge was put out of action by Ukrainian strikes.",
-      "date_label": "18.11.2026",
-      "timestamp": 1794991320.0
     },
     {
       "source": "The Guardian Technology",
@@ -1850,16 +2120,6 @@
       "summary": "British musician backs Not AI’s To Take campaign, saying Albanese government has ‘a duty to protect Australian artists and their work’ Aria awards 2026 red carpet: Tame Impala, Baker Boy, G Flip and more – in pictures Elton John has made a surprise appearance at the 2026 Aria awards to draw attention to Not AI’s To Take , a major campaign backed by",
       "date_label": "18.11.2026",
       "timestamp": 1794990597.0
-    },
-    {
-      "source": "CNN",
-      "category": "verden",
-      "topic": "annet",
-      "title": "Police to reinvestigate case against man charged in Tasia Fortune’s killing - CNN",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNejFBbHNoVnd2UC1ocml6R19SMGZJOVlEWldUc1d5aVNnNDBwVUhPVVdiOFBXODI4OUhWdF9SWkE3Ym1LQkFmOEpXSXYyREw3eERCbnZRb2sxakpITmJZTEZDSHJLM2lMWTZGUVAxWWpVajFYOUxKci1mS3pfYVdKZkJiZUtOdVhZSFBR?oc=5",
-      "summary": "Police to reinvestigate case against man charged in Tasia Fortune’s killing CNN",
-      "date_label": "18.11.2026",
-      "timestamp": 1794990407.0
     },
     {
       "source": "The Guardian Culture",
@@ -1880,16 +2140,6 @@
       "summary": "The festival will also host Cher in the Sunday \"legends\" slot, the unofficial fourth headline set.",
       "date_label": "18.11.2026",
       "timestamp": 1794988794.0
-    },
-    {
-      "source": "The Guardian",
-      "category": "verden",
-      "topic": "annet",
-      "title": "‘I didn’t notice his body being purple’: Byron Bay doula left newborn to inflate a jumping castle, court hears",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/18/byron-bay-doula-left-newborn-to-inflate-jumping-castle-freebirth-inquest-ntwnfb",
-      "summary": "Inquest into deaths of four babies born in free births or at home in northern NSW between 2022 and 2024 hears ‘something was seriously wrong’ Get our breaking news email , free app or daily news podcast Baby DH was born in an inflatable pool, in a candle-lit room in his parents’ home near Byron Bay, with no one medically trained present. There are ",
-      "date_label": "18.11.2026",
-      "timestamp": 1794988712.0
     },
     {
       "source": "BBC Sport",
@@ -1932,26 +2182,6 @@
       "timestamp": 1794986298.0
     },
     {
-      "source": "Deutsche Welle",
-      "category": "verden",
-      "topic": "annet",
-      "title": "India news: Gandhi gives talk in New York, warns of 'looming crisis'",
-      "url": "https://www.dw.com/en/india-news-gandhi-gives-talk-in-new-york-warns-of-looming-crisis/live-79976447?maca=en-rss-en-all-1573-xml-mrss",
-      "summary": "Indian opposition leader Rahul Gandhi's US remarks on the economy drew a BJP counterattack. Meanwhile, the Quad leaders pushed back on moves to undermine regional peace,",
-      "date_label": "18.11.2026",
-      "timestamp": 1794985380.0
-    },
-    {
-      "source": "BBC Sport",
-      "category": "verden",
-      "topic": "sport",
-      "title": "From one of Ajax's future stars to quitting football for music",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmly053x643ro?at_medium=RSS&at_campaign=rss",
-      "summary": "Former Ajax academy player Elikia Mbinga tells BBC Sport how he swapped football for music after playing with some Premier League stars.",
-      "date_label": "18.11.2026",
-      "timestamp": 1794985362.0
-    },
-    {
       "source": "The Guardian Technology",
       "category": "verden",
       "topic": "teknologi",
@@ -1990,16 +2220,6 @@
       "summary": "Det er ikke de største kommunene som dominerer på lista. Gran topper den nye kåringen.",
       "date_label": "18.11.2026",
       "timestamp": 1794984602.0
-    },
-    {
-      "source": "The Guardian",
-      "category": "verden",
-      "topic": "annet",
-      "title": "Bikie ‘not surprised’ if he used fake $20,000 souvlaki invoice to pocket thousands on Big Build site, inquiry hears",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/18/bandidos-bikie-joel-leavitt-cfmeu-big-build-inquiry-ntwnfb",
-      "summary": "Royal commission sees text message where Bandidos member Joel Leavitt says ‘just make up a quote that hits 20K’ while working on site for CFMEU Get our breaking news email , free app or daily news podcast A Bandidos gang member says it is possible he used a fake $20,000 invoice for souvlaki to pocket thousands of dollars while employed on a Big Bui",
-      "date_label": "18.11.2026",
-      "timestamp": 1794984508.0
     },
     {
       "source": "BBC Sport",
@@ -2042,16 +2262,6 @@
       "timestamp": 1794981861.0
     },
     {
-      "source": "CNN",
-      "category": "verden",
-      "topic": "annet",
-      "title": "‘Grand Theft Auto VI’ earns more than $1.5 billion before release | CNN Business - CNN",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMlppVnJwUElWb1ltdlV4c2V3RUZIMUlUcVlQbWY4MlNrOFZuLW5Oa3pTZEhZRHRyNVU5Z2pNbkpYNndILUxDZ05YUjV5dTVwMlNOaWhfblVGRUdDNHoxNkQ0MmRyVVMwVDlmSE0tUkhINzhPSU15M3RtT2RIaUJQbkNn?oc=5",
-      "summary": "‘Grand Theft Auto VI’ earns more than $1.5 billion before release | CNN Business CNN",
-      "date_label": "18.11.2026",
-      "timestamp": 1794981615.0
-    },
-    {
       "source": "BBC Entertainment",
       "category": "verden",
       "topic": "underholdning",
@@ -2060,16 +2270,6 @@
       "summary": "The growth of AI means we need to say when something is made by humans, says the book's editor.",
       "date_label": "18.11.2026",
       "timestamp": 1794980379.0
-    },
-    {
-      "source": "CNN",
-      "category": "verden",
-      "topic": "annet",
-      "title": "Dem Rep.-Elect: Trump downplaying string of tech outages is ‘sheer incompetence’ - CNN",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSlpqd0toMlhxU1U5TnRJQXdXaUNQbzRmVjZvZVJqczdmbmVNN1F5Z2kwN2tjY3V2VTFFMHV2Um9jMXpTalY5WTlYNVFRLUUzS2NJY0hBUG5rUUQxY2Q3UGtPVXdPNlJaUThxY3ZldElqTDhOY3NTeGs3Slp5LU1vYldfaHA5c2lJUG9KMXI2SlZjcmhvYjFyTTE0WElCQVRycWlkVTIyb0VnUlktTmJ1akdhdG8yc1hZNlp5cHRxLU83SXZq?oc=5",
-      "summary": "Dem Rep.-Elect: Trump downplaying string of tech outages is ‘sheer incompetence’ CNN",
-      "date_label": "18.11.2026",
-      "timestamp": 1794979397.0
     },
     {
       "source": "NRK Sport",
@@ -2100,26 +2300,6 @@
       "summary": "Microsoft, major US banks, Apple and Air Traffic authorities have been hit over recent days by tech glitches.",
       "date_label": "18.11.2026",
       "timestamp": 1794978602.0
-    },
-    {
-      "source": "CNN",
-      "category": "verden",
-      "topic": "annet",
-      "title": "What should really scare Americans amid blitz of tech outages - CNN",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1xQlU4dG5tWlIySVRFeUdwOXFaQXFCU0xqNkt4YWFwQVZiaVYxbUpkeG5fTkFtbmlwWWJuQV9uVnBZU1hjeXJQNTNSbDRKU3FNbjdtRzFUM2k4ZndaY1hBZ2pQeGlUXzhIMVBHanBRUkFsMmx2bGc?oc=5",
-      "summary": "What should really scare Americans amid blitz of tech outages CNN",
-      "date_label": "18.11.2026",
-      "timestamp": 1794978075.0
-    },
-    {
-      "source": "The Guardian Technology",
-      "category": "verden",
-      "topic": "teknologi",
-      "title": "‘Human’ wins Cambridge dictionary’s word of the year",
-      "url": "https://www.theguardian.com/science/2026/nov/18/cambridge-word-of-the-year-human",
-      "summary": "Meaning and use of word has become more important in age of AI chatbot, says dictionary In a world where the line between people and machines is more blurred than ever, Cambridge dictionary has sided with natural intelligence for its word of the year: human. Breakthroughs in artificial intelligence – led by the arrival of ChatGPT three years ago – ",
-      "date_label": "18.11.2026",
-      "timestamp": 1794978034.0
     },
     {
       "source": "The Guardian Culture",
@@ -2162,16 +2342,6 @@
       "timestamp": 1794977826.0
     },
     {
-      "source": "CNN",
-      "category": "verden",
-      "topic": "annet",
-      "title": "Blue wave gets bigger: CNN projects Mary Peltola wins Alaska Senate race - CNN",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQME1iOU5jNVV5VlVXV0FFcjc1SUJlWlJ0OXlBUEh4ZUtPWmxvY0I2ODVBY3ZfOEs3ZGhNTHg5ZUxCWDJoOXpTckl6dVpOOTNqQ0h5RG9mWU1TdVY1cmxSRVYzY2JiZWNOaExXQnFRTzBoNzN5WS1jZHB6TExETy1reV85dUpXekczZmpqaVhMeWRUZF9oellJOVdITk93Nmt6Z0MzMWh0cUpYMFoxV1BSNjNfZmtrbUIxZURydHZB?oc=5",
-      "summary": "Blue wave gets bigger: CNN projects Mary Peltola wins Alaska Senate race CNN",
-      "date_label": "18.11.2026",
-      "timestamp": 1794975436.0
-    },
-    {
       "source": "NRK",
       "category": "norge",
       "topic": "annet",
@@ -2190,26 +2360,6 @@
       "summary": "The Amazon chairman says he was originally \"biased against\" Pattinson \"because he's already so famous\".",
       "date_label": "18.11.2026",
       "timestamp": 1794974454.0
-    },
-    {
-      "source": "CNN",
-      "category": "verden",
-      "topic": "annet",
-      "title": "Mary Peltola ousts incumbent Republican Dan Sullivan in Alaska Senate race, giving Democrats 56 seats - CNN",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBmbS11SDdYWlZsSkp5dHNnU1JrbktwRVNLS2pma0p6aWtyWXRjNzJZZ2dnMUszeE12UnZqRzhWbFJJT0p0SWhYWUtNN0tneTRJdnRUa3gzVVBuWnpXWkFUczdPLUZxUlllZUZ6UGR6dmhzeHVqZU1QRUN6RQ?oc=5",
-      "summary": "Mary Peltola ousts incumbent Republican Dan Sullivan in Alaska Senate race, giving Democrats 56 seats CNN",
-      "date_label": "18.11.2026",
-      "timestamp": 1794971640.0
-    },
-    {
-      "source": "CNN",
-      "category": "verden",
-      "topic": "annet",
-      "title": "Democrat Mary Peltola will oust GOP Sen. Dan Sullivan in Alaska Senate race, CNN projects - CNN",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQ0RWOW0xVGF5ckluOW0wSUdDTFQ2RG1URHBPX3k2eDUtcGFITEJIeVFBTHJ0TWRzTDZoNFp0MjBPS2VBOG44RWs3NEtZLTJZaU1fZmNIdWtfWU00ZElUNTdjN0EzcUR4NE9yc0ZIbjZlX1c3bkhwVWI1cFNlemdGdw?oc=5",
-      "summary": "Democrat Mary Peltola will oust GOP Sen. Dan Sullivan in Alaska Senate race, CNN projects CNN",
-      "date_label": "18.11.2026",
-      "timestamp": 1794971640.0
     },
     {
       "source": "BBC Technology",
@@ -2250,156 +2400,6 @@
       "summary": "South Korea has been gripped by revelations of AI-aided cheating, just days before more than half a million students are to sit high-stakes entrance exams The integrity of South Korea’s career-defining university entrance exam has been thrown into doubt after the top scorer in a recent professional exam admitted using a concealed camera and AI to c",
       "date_label": "18.11.2026",
       "timestamp": 1794967407.0
-    },
-    {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "annet",
-      "title": "Irishman charged with destroying US military aircraft with axe",
-      "url": "https://www.bbc.co.uk/news/articles/cwd01jjl5zzzo?at_medium=RSS&at_campaign=rss",
-      "summary": "The $60m (£45m) plane was destroyed in an hours-long raid by an anti-war protester, according to the FBI.",
-      "date_label": "18.11.2026",
-      "timestamp": 1794967237.0
-    },
-    {
-      "source": "BBC Technology",
-      "category": "verden",
-      "topic": "teknologi",
-      "title": "Nvidia says it won't reinstate Huang as it reports soaring sales",
-      "url": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
-      "summary": "The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang.",
-      "date_label": "18.11.2026",
-      "timestamp": 1794964698.0
-    },
-    {
-      "source": "BBC Politics",
-      "category": "verden",
-      "topic": "politikk",
-      "title": "Government risks missing climate targets if EV rules weakened, adviser warns",
-      "url": "https://www.bbc.co.uk/news/articles/c63rgqg5l9l2o?at_medium=RSS&at_campaign=rss",
-      "summary": "The UK could miss legally binding climate targets if EV targets are cut, an adviser warns",
-      "date_label": "18.11.2026",
-      "timestamp": 1794962688.0
-    },
-    {
-      "source": "BBC Technology",
-      "category": "verden",
-      "topic": "teknologi",
-      "title": "Europe plans to catch the next computer chip wave",
-      "url": "https://www.bbc.co.uk/news/articles/cqglwjd450k0o?at_medium=RSS&at_campaign=rss",
-      "summary": "Europe hopes to be a leader in a new generation of computer chips which use light to process data.",
-      "date_label": "18.11.2026",
-      "timestamp": 1794960024.0
-    },
-    {
-      "source": "NRK",
-      "category": "norge",
-      "topic": "annet",
-      "title": "Slo tilbake på Snapchat i natt: – Jeg trenger egentlig ikke si dette",
-      "url": "https://www.nrk.no/sport/haaland-slo-tilbake-pa-snapchat-i-natt_-_-jeg-trenger-egentlig-ikke-si-dette-1.18083957",
-      "summary": "Etter å ha kommet seg på privatflyet fyrte Erling Braut Haaland av stikk mot NRK-ekspert Kristoffer Løkberg.",
-      "date_label": "17.11.2026",
-      "timestamp": 1794958883.0
-    },
-    {
-      "source": "BBC Politics",
-      "category": "verden",
-      "topic": "politikk",
-      "title": "Burnham to set out options next month for long-term EU relationship",
-      "url": "https://www.bbc.co.uk/news/articles/cwm2j3nyd44ko?at_medium=RSS&at_campaign=rss",
-      "summary": "The prime minister says he will set out options for the future \"alongside\" his 10-year economic plan.",
-      "date_label": "17.11.2026",
-      "timestamp": 1794958858.0
-    },
-    {
-      "source": "Sagene Avis",
-      "category": "lokalt",
-      "topic": "annet",
-      "title": "Var sulten på øl og biff, men nektet å betale. Nå har han fått sviende bot",
-      "url": "https://www.sageneavis.no/var-sulten-pa-ol-og-biff-men-nektet-a-betale-na-har-torshov-mannen-fatt-sviende-bot/s/80-144-10859",
-      "summary": "En mann i 40-årene måtte i retten da «handleturene» ble oppdaget.",
-      "date_label": "17.11.2026",
-      "timestamp": 1794956460.0
-    },
-    {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "annet",
-      "title": "American soldier arrested by UK police on suspicion of spying taken into US military custody",
-      "url": "https://www.bbc.co.uk/news/articles/c6x284ez38vdo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Metropolitan Police say he has been taken into custody by the US Military over suspected national security and espionage allegations.",
-      "date_label": "17.11.2026",
-      "timestamp": 1794955590.0
-    },
-    {
-      "source": "NRK",
-      "category": "norge",
-      "topic": "annet",
-      "title": "Dansk stjerne om Norge-scenene: – Det gjør vondt",
-      "url": "https://www.nrk.no/sport/dansk-stjerne-om-norge-scenene_-_-det-gjor-vondt-1.18083837",
-      "summary": "Det var – som vanlig – deilig å være norsk i Danmark. Like deilig er det ikke å være dansk.",
-      "date_label": "17.11.2026",
-      "timestamp": 1794954966.0
-    },
-    {
-      "source": "The Guardian Technology",
-      "category": "verden",
-      "topic": "teknologi",
-      "title": "Apple outage: iPhone apps suffer disruption days after major Microsoft issues",
-      "url": "https://www.theguardian.com/technology/2026/nov/17/gmail-apple-outage-major-disruption",
-      "summary": "Google’s Gmail also affected after problems reported in technological infrastructure in the US and worldwide Thousands reported disruptions to Google’s Gmail and Apple’s iPhone apps, such as Apple Pay and iCloud, on Tuesday, according to Downdetector . Apple confirmed the outages in a statement but said it had resolved them, while Google said it ha",
-      "date_label": "17.11.2026",
-      "timestamp": 1794954236.0
-    },
-    {
-      "source": "BBC Sport",
-      "category": "verden",
-      "topic": "sport",
-      "title": "Highlights: Ten-man Portugal beat Wales to top group",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cmwy8p49xp25o?at_medium=RSS&at_campaign=rss",
-      "summary": "Watch the best of the action as Portugal beat Wales in the Nations League in Cardiff.",
-      "date_label": "17.11.2026",
-      "timestamp": 1794952564.0
-    },
-    {
-      "source": "The Guardian",
-      "category": "verden",
-      "topic": "annet",
-      "title": "Caribbean nations fear economic impact of shuttering citizenship program after EU threats",
-      "url": "https://www.theguardian.com/world/2026/nov/17/st-kitts-nevis-citizenship-investment",
-      "summary": "St Kitts and Nevis to wind down citizenship-by-investment program after EU warns of end to visa-free access The decision by St Kitts and Nevis to end a lucrative programme offering citizenship to wealthy foreigners in exchange for investment threatens its economy and ability to support people in need, the premier of the island of Nevis has warned. ",
-      "date_label": "17.11.2026",
-      "timestamp": 1794952169.0
-    },
-    {
-      "source": "NRK",
-      "category": "norge",
-      "topic": "annet",
-      "title": "Norges børs mot Danmark: – Et mentalitetsmonster",
-      "url": "https://www.nrk.no/sport/norges-bors-mot-danmark-1.18083747",
-      "summary": "Norge reddet kvartfinale i Nasjonsligaen etter et utrolig drama i Parken. Her er NRKs vurdering av de norske spillerne.",
-      "date_label": "17.11.2026",
-      "timestamp": 1794951987.0
-    },
-    {
-      "source": "The Guardian",
-      "category": "verden",
-      "topic": "annet",
-      "title": "Isolated Brazilian tribe emerges amid alarm over threats to group’s way of life",
-      "url": "https://www.theguardian.com/world/2026/nov/17/brazil-amazon-isolated-indigenous-people",
-      "summary": "Indigenous Awá people of Amazon make contact with villagers and accept food to take back to territory About 20 Indigenous people emerged from isolation in Brazil’s Amazon rainforest, several organizations reported on Tuesday, raising the alarm about increased invasions into the tribe’s territory. According to the NGO Survival International, members",
-      "date_label": "17.11.2026",
-      "timestamp": 1794951656.0
-    },
-    {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "annet",
-      "title": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
-      "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
-      "summary": "Ukraine says the missile and drone attack on the strategic bridge in the Russian-annexed Crimea took weeks to plan.",
-      "date_label": "17.11.2026",
-      "timestamp": 1794950675.0
     }
   ]
 }
